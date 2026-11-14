@@ -1,0 +1,6 @@
+held-back acquisition | closest constant | its worst key (allowances)
+A-41 | A-06 | 30.4
+A-42 | A-09 | 36.8
+A-43 | A-09 | 55.3
+A-44 | mean | 14.8
+A-45 | A-09 | 18.7

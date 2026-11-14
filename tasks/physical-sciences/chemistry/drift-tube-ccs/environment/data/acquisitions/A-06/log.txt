@@ -1,0 +1,3 @@
+A-06: N2 run, then He run; trap fill 20 ms, release 150 us
+drift gas flow and front-funnel N2 as in the method
+TBA/THA reference mix spiked into the sample

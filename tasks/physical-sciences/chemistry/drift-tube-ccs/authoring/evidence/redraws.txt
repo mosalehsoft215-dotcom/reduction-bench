@@ -1,0 +1,7 @@
+redraw | program | worst allowance over the seven acquisitions
+1 | reference | 0.38
+1 | second | 0.39
+2 | reference | 0.29
+2 | second | 0.37
+3 | reference | 0.42
+3 | second | 0.33

@@ -1,0 +1,57 @@
+{
+ "acquisition": "A-06",
+ "drift_length_cm": 78.24,
+ "trap_gate_us": 150.0,
+ "atd_bin_us": 20.0,
+ "front_funnel_gas": "N2",
+ "runs": [
+  {
+   "gas": "N2",
+   "drift_voltages_v": [
+    391.2,
+    453.8,
+    516.4,
+    579.0,
+    641.6,
+    704.2
+   ]
+  },
+  {
+   "gas": "He",
+   "drift_voltages_v": [
+    234.7,
+    273.8,
+    313.0,
+    352.1,
+    391.2,
+    430.3
+   ]
+  }
+ ],
+ "ions": [
+  {
+   "ion": "TBA",
+   "mz": 242.2842,
+   "z": 1,
+   "role": "reference"
+  },
+  {
+   "ion": "THA",
+   "mz": 410.472,
+   "z": 1,
+   "role": "reference"
+  },
+  {
+   "ion": "a",
+   "mz": 309.1712,
+   "z": 1,
+   "role": "analyte"
+  },
+  {
+   "ion": "b",
+   "mz": 648.3412,
+   "z": 2,
+   "role": "analyte"
+  }
+ ]
+}

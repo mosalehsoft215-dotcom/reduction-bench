@@ -1,0 +1,34 @@
+{
+ "assay": "GA-04",
+ "matrix": "sludge",
+ "density_g_per_cm3": 1.03,
+ "mass_g": 158.6,
+ "fill_height_mm": 40.0,
+ "can_inner_diameter_mm": 70.0,
+ "position": "far",
+ "sampled": "2026-02-22",
+ "count_start": "2026-03-03T09:00",
+ "live_time_s": 172800,
+ "real_time_s": 173295.6,
+ "energy_calibration": {
+  "offset_keV": 0.18,
+  "gain_keV_per_channel": 0.35,
+  "set": "at the last energy calibration"
+ },
+ "pulser": {
+  "rate_hz": 50.0,
+  "energy_keV": 2780.0
+ },
+ "background": {
+  "file": "background.csv",
+  "live_time_s": 250000.0
+ },
+ "check_source": {
+  "file": "check_spectrum.csv",
+  "nuclide": "Cs-137",
+  "activity_bq": 5120.0,
+  "certified": "2020-11-30",
+  "position": "point source on the far shelf",
+  "live_time_s": 14400.0
+ }
+}

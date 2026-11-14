@@ -1,0 +1,22 @@
+{
+ "GA-31": {
+  "cs137_bq_per_kg": 137.0,
+  "co60_bq_per_kg": 187.0
+ },
+ "GA-32": {
+  "cs137_bq_per_kg": 163.0,
+  "co60_bq_per_kg": 1130.0
+ },
+ "GA-33": {
+  "cs137_bq_per_kg": 1130.0,
+  "co60_bq_per_kg": 137.0
+ },
+ "GA-34": {
+  "cs137_bq_per_kg": 1870.0,
+  "co60_bq_per_kg": 1630.0
+ },
+ "GA-35": {
+  "cs137_bq_per_kg": 163.0,
+  "co60_bq_per_kg": 1870.0
+ }
+}

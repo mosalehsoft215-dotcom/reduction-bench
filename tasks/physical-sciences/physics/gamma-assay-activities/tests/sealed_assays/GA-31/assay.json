@@ -1,0 +1,34 @@
+{
+ "assay": "GA-31",
+ "matrix": "soil",
+ "density_g_per_cm3": 1.02,
+ "mass_g": 239.8,
+ "fill_height_mm": 40.0,
+ "can_inner_diameter_mm": 70.0,
+ "position": "close",
+ "sampled": "2026-03-12",
+ "count_start": "2026-04-02T09:00",
+ "live_time_s": 172800,
+ "real_time_s": 173594.4,
+ "energy_calibration": {
+  "offset_keV": 0.18,
+  "gain_keV_per_channel": 0.35,
+  "set": "at the last energy calibration"
+ },
+ "pulser": {
+  "rate_hz": 50.0,
+  "energy_keV": 2780.0
+ },
+ "background": {
+  "file": "background.csv",
+  "live_time_s": 250000.0
+ },
+ "check_source": {
+  "file": "check_spectrum.csv",
+  "nuclide": "Cs-137",
+  "activity_bq": 5120.0,
+  "certified": "2021-02-23",
+  "position": "point source on the far shelf",
+  "live_time_s": 14400.0
+ }
+}

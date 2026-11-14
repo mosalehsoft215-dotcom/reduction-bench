@@ -1,0 +1,16 @@
+install,expected,reward,seconds
+reference,1,1,22.7
+grid_profile,1,1,40.4
+wrap_extra,1,1,25.7
+stream_keeper,1,1,26.7
+empty,0,0,4.9
+linked_program,0,0,5.1
+wrap_twice,0,0,24.8
+quoted,0,0,24.5
+bloated,0,0,18.2
+delayed,0,0,6.7
+nan_values,0,0,6.0
+yes_no,0,0,6.8
+key_link,0,0,6.9
+key_copy,0,0,6.0
+worked_copy,0,0,5.9

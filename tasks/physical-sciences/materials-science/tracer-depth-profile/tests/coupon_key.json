@@ -1,0 +1,22 @@
+{
+ "CP-31": {
+  "lattice_d_m2_s": 1.527e-17,
+  "boundary_sdd_m3_s": 1.239e-21
+ },
+ "CP-32": {
+  "lattice_d_m2_s": 2.846e-17,
+  "boundary_sdd_m3_s": 2.913e-21
+ },
+ "CP-33": {
+  "lattice_d_m2_s": 9.63e-18,
+  "boundary_sdd_m3_s": 3.127e-21
+ },
+ "CP-34": {
+  "lattice_d_m2_s": 4.417e-17,
+  "boundary_sdd_m3_s": 4.762e-21
+ },
+ "CP-35": {
+  "lattice_d_m2_s": 1.847e-17,
+  "boundary_sdd_m3_s": 2.014e-21
+ }
+}

@@ -1,0 +1,10 @@
+{
+ "CP-14": {
+  "lattice_d_m2_s": 2.318e-17,
+  "boundary_sdd_m3_s": 1.884e-21
+ },
+ "CP-18": {
+  "lattice_d_m2_s": 7.021e-17,
+  "boundary_sdd_m3_s": 1.0347e-20
+ }
+}

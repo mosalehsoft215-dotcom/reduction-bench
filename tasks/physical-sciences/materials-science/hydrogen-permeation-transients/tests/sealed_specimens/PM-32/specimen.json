@@ -1,0 +1,9 @@
+{
+ "specimen": "PM-32",
+ "steel": "low-alloy steel",
+ "condition": "annealed",
+ "thickness_as_cut_mm": 0.612,
+ "exposed_area_cm2": 0.785,
+ "lattice_activation_energy_kj_per_mol": 9.6,
+ "cell_setpoint_c": 25.0
+}

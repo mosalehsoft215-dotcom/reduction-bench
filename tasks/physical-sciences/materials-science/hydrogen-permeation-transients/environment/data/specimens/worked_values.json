@@ -1,0 +1,10 @@
+{
+ "PM-03": {
+  "diffusivity_25c_um2_per_s": 612.0,
+  "subsurface_hydrogen_mol_per_m3": 1.284
+ },
+ "PM-08": {
+  "diffusivity_25c_um2_per_s": 437.0,
+  "subsurface_hydrogen_mol_per_m3": 2.057
+ }
+}

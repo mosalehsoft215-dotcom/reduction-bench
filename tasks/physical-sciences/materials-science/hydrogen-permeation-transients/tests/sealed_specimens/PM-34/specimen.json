@@ -1,0 +1,9 @@
+{
+ "specimen": "PM-34",
+ "steel": "low-alloy steel",
+ "condition": "cold rolled 20 %",
+ "thickness_as_cut_mm": 0.936,
+ "exposed_area_cm2": 1.0,
+ "lattice_activation_energy_kj_per_mol": 8.8,
+ "cell_setpoint_c": 25.0
+}

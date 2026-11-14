@@ -1,0 +1,9 @@
+{
+ "specimen": "PM-08",
+ "steel": "low-alloy steel",
+ "condition": "annealed",
+ "thickness_as_cut_mm": 0.65,
+ "exposed_area_cm2": 0.785,
+ "lattice_activation_energy_kj_per_mol": 8.4,
+ "cell_setpoint_c": 25.0
+}

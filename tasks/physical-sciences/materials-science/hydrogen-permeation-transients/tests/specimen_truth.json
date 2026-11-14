@@ -1,0 +1,22 @@
+{
+ "PM-31": {
+  "diffusivity_25c_um2_per_s": 528.0,
+  "subsurface_hydrogen_mol_per_m3": 1.636
+ },
+ "PM-32": {
+  "diffusivity_25c_um2_per_s": 366.0,
+  "subsurface_hydrogen_mol_per_m3": 2.418
+ },
+ "PM-33": {
+  "diffusivity_25c_um2_per_s": 703.0,
+  "subsurface_hydrogen_mol_per_m3": 0.917
+ },
+ "PM-34": {
+  "diffusivity_25c_um2_per_s": 481.0,
+  "subsurface_hydrogen_mol_per_m3": 1.879
+ },
+ "PM-35": {
+  "diffusivity_25c_um2_per_s": 574.0,
+  "subsurface_hydrogen_mol_per_m3": 1.352
+ }
+}

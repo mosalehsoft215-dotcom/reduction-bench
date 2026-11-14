@@ -1,0 +1,9 @@
+{
+ "specimen": "PM-03",
+ "steel": "ferritic pipeline steel",
+ "condition": "annealed",
+ "thickness_as_cut_mm": 0.802,
+ "exposed_area_cm2": 1.0,
+ "lattice_activation_energy_kj_per_mol": 7.6,
+ "cell_setpoint_c": 25.0
+}

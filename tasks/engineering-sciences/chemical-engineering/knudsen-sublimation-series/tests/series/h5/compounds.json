@@ -1,0 +1,19 @@
+{
+  "reference": {
+    "name": "benzoic acid (reference material)",
+    "molar_mass_g_mol": 122.12,
+    "Cp_crystal_J_K_mol": 146.8,
+    "vapour_pressure_table": "reference_vapour_pressure.csv"
+  },
+  "sample": {
+    "name": "drug substance DS-2217 (form I)",
+    "molar_mass_g_mol": 251.29,
+    "Cp_crystal_J_K_mol": 312.0,
+    "Cp_gas_J_K_mol": 268.5,
+    "transition": {
+      "temperature_C": 104.2,
+      "dH_kJ_mol": 2.35,
+      "Cp_crystal_J_K_mol": 318.0
+    }
+  }
+}

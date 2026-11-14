@@ -1,0 +1,15 @@
+{
+  "id": "KC-3",
+  "orifice_diameter_mm": 2.2,
+  "foil_thickness_mm": 0.03,
+  "thermometer": {
+    "type": "type K thermocouple in the cell block",
+    "column": "temperature_C"
+  },
+  "liner": {
+    "type": "closed graphite cup on three glass pins in the block's well; the orifice foil is its lid",
+    "conductance_W_per_K": 0.0016,
+    "heat_capacity_J_per_K": 1.15
+  },
+  "empty_mass_mg": 2336.214
+}

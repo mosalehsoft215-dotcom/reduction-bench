@@ -1,0 +1,16 @@
+{
+  "id": "KC-9",
+  "orifice_diameter_mm": 0.8,
+  "foil_thickness_mm": 0.025,
+  "thermometer": {
+    "type": "type K thermocouple clipped to the liner",
+    "column": "temperature_C",
+    "location": "liner"
+  },
+  "liner": {
+    "type": "closed graphite cup on three glass pins in the block's well; the orifice foil is its lid",
+    "conductance_W_per_K": 0.0025,
+    "heat_capacity_J_per_K": 0.92
+  },
+  "empty_mass_mg": 2361.807
+}

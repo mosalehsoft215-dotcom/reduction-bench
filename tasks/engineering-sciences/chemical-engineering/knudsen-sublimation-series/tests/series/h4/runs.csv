@@ -1,0 +1,14 @@
+run,compound,set_temperature_C,hold_min,file
+R01,reference,-12.0,60,run_R01.csv
+R02,reference,-8.0,60,run_R02.csv
+R03,reference,-4.0,60,run_R03.csv
+R04,reference,0.0,60,run_R04.csv
+R05,reference,4.0,60,run_R05.csv
+R06,reference,8.0,60,run_R06.csv
+R07,sample,70.0,150,run_R07.csv
+R08,sample,74.0,138,run_R08.csv
+R09,sample,78.0,126,run_R09.csv
+R10,sample,82.0,114,run_R10.csv
+R11,sample,86.0,102,run_R11.csv
+R12,sample,90.0,90,run_R12.csv
+R13,sample,94.0,78,run_R13.csv

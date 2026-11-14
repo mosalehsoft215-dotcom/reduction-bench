@@ -1,0 +1,21 @@
+{
+  "reference": {
+    "name": "benzoic acid (reference material)",
+    "molar_mass_g_mol": 122.12,
+    "Cp_crystal_J_K_mol": 146.8,
+    "vapour_pressure_table": "reference_vapour_pressure.csv",
+    "evaporation_coefficient": 0.25
+  },
+  "sample": {
+    "name": "drug substance DS-4471 (form I)",
+    "molar_mass_g_mol": 236.27,
+    "Cp_crystal_J_K_mol": 255.0,
+    "Cp_gas_J_K_mol": 219.4,
+    "transition": {
+      "temperature_C": 81.2,
+      "dH_kJ_mol": 3.1,
+      "Cp_crystal_J_K_mol": 262.0
+    },
+    "evaporation_coefficient": 0.08
+  }
+}

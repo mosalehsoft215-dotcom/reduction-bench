@@ -1,0 +1,14 @@
+{
+  "reference": {
+    "name": "naphthalene (reference material)",
+    "molar_mass_g_mol": 128.17,
+    "Cp_crystal_J_K_mol": 165.7,
+    "vapour_pressure_table": "reference_vapour_pressure.csv"
+  },
+  "sample": {
+    "name": "pyrene",
+    "molar_mass_g_mol": 202.25,
+    "Cp_crystal_J_K_mol": 229.8,
+    "Cp_gas_J_K_mol": 192.6
+  }
+}

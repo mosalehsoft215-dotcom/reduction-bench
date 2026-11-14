@@ -1,0 +1,30 @@
+{
+ "series_KC2_acenaphthene": {
+  "dH_sub_298_kJ_mol": 86.42,
+  "p_298_Pa": 0.403
+ },
+ "series_KC5_benzophenone": {
+  "dH_sub_298_kJ_mol": 93.71,
+  "p_298_Pa": 0.0712
+ },
+ "h1": {
+  "dH_sub_298_kJ_mol": 108.93,
+  "p_298_Pa": 0.000487
+ },
+ "h2": {
+  "dH_sub_298_kJ_mol": 101.64,
+  "p_298_Pa": 0.000843
+ },
+ "h3": {
+  "dH_sub_298_kJ_mol": 95.33,
+  "p_298_Pa": 0.00561
+ },
+ "h4": {
+  "dH_sub_298_kJ_mol": 99.84,
+  "p_298_Pa": 0.000637
+ },
+ "h5": {
+  "dH_sub_298_kJ_mol": 112.63,
+  "p_298_Pa": 6.27e-05
+ }
+}

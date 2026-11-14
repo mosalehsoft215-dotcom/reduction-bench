@@ -1,0 +1,17 @@
+case,pytest_exit,verdict_exit,refused_by_both
+true values,0,0,no
+dH 1.03 limits off,1,1,yes
+p 1.03 limits off,1,1,yes
+dH in J/mol,1,1,yes
+ln p instead of p,1,1,yes
+p in kPa,1,1,yes
+one series without result,1,1,yes
+NaN,1,1,yes
+Infinity,1,1,yes
+numbers as text,1,1,yes
+true/false,1,1,yes
+key twice,1,1,yes
+list,1,1,yes
+empty file,1,1,yes
+zeros,1,1,yes
+signs flipped,1,1,yes

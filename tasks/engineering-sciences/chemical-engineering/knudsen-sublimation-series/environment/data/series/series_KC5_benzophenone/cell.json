@@ -1,0 +1,9 @@
+{
+  "id": "KC-5",
+  "orifice_diameter_mm": 1.0,
+  "foil_thickness_mm": 0.03,
+  "thermometer": {
+    "type": "type K thermocouple in the cell block",
+    "column": "temperature_C"
+  }
+}

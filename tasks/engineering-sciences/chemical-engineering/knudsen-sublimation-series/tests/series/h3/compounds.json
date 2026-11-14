@@ -1,0 +1,14 @@
+{
+  "reference": {
+    "name": "benzoic acid (reference material)",
+    "molar_mass_g_mol": 122.12,
+    "Cp_crystal_J_K_mol": 146.8,
+    "vapour_pressure_table": "reference_vapour_pressure.csv"
+  },
+  "sample": {
+    "name": "phenazine",
+    "molar_mass_g_mol": 180.21,
+    "Cp_crystal_J_K_mol": 201.7,
+    "Cp_gas_J_K_mol": 168.9
+  }
+}

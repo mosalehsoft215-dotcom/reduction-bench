@@ -1,0 +1,14 @@
+{
+  "reference": {
+    "name": "benzoic acid (reference material)",
+    "molar_mass_g_mol": 122.12,
+    "Cp_crystal_J_K_mol": 146.8,
+    "vapour_pressure_table": "reference_vapour_pressure.csv"
+  },
+  "sample": {
+    "name": "benzophenone (form I)",
+    "molar_mass_g_mol": 182.22,
+    "Cp_crystal_J_K_mol": 224.4,
+    "Cp_gas_J_K_mol": 196.1
+  }
+}

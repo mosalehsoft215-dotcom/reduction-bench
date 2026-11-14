@@ -1,0 +1,8 @@
+step,G1 ebv,G1 hbeta,G2 ebv,G2 hbeta,G3 ebv,G3 hbeta,G4 ebv,G4 hbeta,G5 ebv,G5 hbeta,G6 ebv,G6 hbeta,worst
+reference,0.02,0.00,0.05,0.02,0.00,0.01,0.12,0.01,0.01,0.00,0.18,0.02,0.18
+no slit-loss correction at all,2.92,9.53,9.56,12.53,8.25,11.67,17.88,15.05,2.23,8.77,4.43,11.60,17.88
+seeing through the slit, refraction ignored,0.98,0.44,6.53,3.15,5.49,2.64,13.88,6.13,0.31,0.12,2.14,1.08,13.88
+one FWHM for both lines (grey seeing),1.93,0.43,1.78,0.36,1.93,0.43,1.84,0.29,2.01,0.49,1.93,0.47,2.01
+throughput from the hot white dwarf alone,8.26,0.00,8.43,0.03,8.60,0.02,9.03,0.02,8.25,0.02,8.88,0.02,9.03
+throughput = mean of the two stars, single order,4.60,0.00,4.70,0.02,4.75,0.01,5.04,0.01,4.62,0.00,5.06,0.02,5.06
+site extinction curve as tabulated,0.23,0.56,0.27,0.01,0.19,0.31,0.33,0.45,0.23,0.43,0.04,0.16,0.56

@@ -1,0 +1,20 @@
+{
+  "pressure_mmHg": 571.4,
+  "temperature_C": 7.6,
+  "water_vapour_mmHg": 2.9,
+  "guide_wavelength_A": 6400.0,
+  "object": "SDF-2",
+  "kind": "standard",
+  "exptime_s": 120.0,
+  "airmass": 1.104,
+  "parallactic_angle_deg": 21.0,
+  "slit_pa_deg": 21.0,
+  "slit_width_arcsec": 10.0,
+  "frame": "S2",
+  "sequence": 2,
+  "wavelength_start_A": 3600.0,
+  "wavelength_step_A": 1.8,
+  "spatial_scale_arcsec": 0.25,
+  "spatial_reference_pixel": 40,
+  "units": "electrons per pixel, bias, flat, sky subtracted, rectified"
+}

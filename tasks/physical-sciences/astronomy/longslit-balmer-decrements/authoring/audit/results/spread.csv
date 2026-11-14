@@ -1,0 +1,12 @@
+night,program,worst,failing
+shipped,reference,0.179,
+shipped,second reduction,0.243,
+shipped,quick look,12.704,G1 G2 G3 G4 G5 G6
+draw1,reference,0.184,
+draw1,second reduction,0.141,
+draw2,reference,0.146,
+draw2,second reduction,0.183,
+draw3,reference,0.168,
+draw3,second reduction,0.236,
+draw4,reference,0.112,
+draw4,second reduction,0.112,

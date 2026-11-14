@@ -1,0 +1,31 @@
+batch,answer,miss_allowances
+K-3,K-1 accepted,8.39
+K-3,K-2 accepted,22.41
+K-3,mean,15.38
+K-3,geometric mean,14.76
+K-3,smaller,16.11
+K-3,larger,22.41
+K-4,K-1 accepted,34.5
+K-4,K-2 accepted,13.02
+K-4,mean,23.76
+K-4,geometric mean,22.74
+K-4,smaller,13.02
+K-4,larger,34.5
+K-5,K-1 accepted,14.99
+K-5,K-2 accepted,31.85
+K-5,mean,23.42
+K-5,geometric mean,22.68
+K-5,smaller,17.93
+K-5,larger,31.85
+K-6,K-1 accepted,33.49
+K-6,K-2 accepted,19.1
+K-6,mean,23.47
+K-6,geometric mean,22.58
+K-6,smaller,19.1
+K-6,larger,33.49
+K-7,K-1 accepted,26.44
+K-7,K-2 accepted,20.1
+K-7,mean,17.27
+K-7,geometric mean,17.52
+K-7,smaller,20.1
+K-7,larger,26.44

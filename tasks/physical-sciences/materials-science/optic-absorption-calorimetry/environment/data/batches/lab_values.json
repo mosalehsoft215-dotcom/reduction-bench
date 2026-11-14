@@ -1,0 +1,12 @@
+{
+  "K-1": {
+    "alpha_bulk_ppm_per_cm": 11.62,
+    "coating_absorptance_ppm_per_surface": 6.83,
+    "mirror_absorptance_ppm": 4.37
+  },
+  "K-2": {
+    "alpha_bulk_ppm_per_cm": 7.94,
+    "coating_absorptance_ppm_per_surface": 9.71,
+    "mirror_absorptance_ppm": 3.06
+  }
+}

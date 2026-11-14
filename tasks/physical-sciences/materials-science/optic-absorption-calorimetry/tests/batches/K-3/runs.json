@@ -1,0 +1,162 @@
+{
+  "batch": "K-3",
+  "heater_leads_ohm": 1.18,
+  "specimens": [
+    {
+      "id": "D-0",
+      "kind": "dummy",
+      "diameter_mm": 38.1,
+      "thickness_mm": 6.35,
+      "mass_g": 15.9348
+    },
+    {
+      "id": "W-1",
+      "kind": "window",
+      "diameter_mm": 38.1,
+      "thickness_mm": 3.18,
+      "mass_g": 7.9771
+    },
+    {
+      "id": "W-2",
+      "kind": "window",
+      "diameter_mm": 38.1,
+      "thickness_mm": 6.35,
+      "mass_g": 15.9378
+    },
+    {
+      "id": "W-3",
+      "kind": "window",
+      "diameter_mm": 38.1,
+      "thickness_mm": 9.53,
+      "mass_g": 23.9136
+    },
+    {
+      "id": "W-4",
+      "kind": "window",
+      "diameter_mm": 38.1,
+      "thickness_mm": 12.7,
+      "mass_g": 31.867
+    },
+    {
+      "id": "M-1",
+      "kind": "mirror",
+      "diameter_mm": 38.1,
+      "thickness_mm": 9.53,
+      "mass_g": 23.9154
+    }
+  ],
+  "runs": [
+    {
+      "run": "E0",
+      "specimen": "D-0",
+      "heater_intervals_s": [
+        [
+          400.0,
+          640.0
+        ]
+      ],
+      "supply_voltage_V": 0.27477,
+      "supply_current_A": 0.0129
+    },
+    {
+      "run": "L1",
+      "specimen": "W-1",
+      "shutter_intervals_s": [
+        [
+          400.0,
+          640.0
+        ]
+      ],
+      "power_meter_W": [
+        [
+          340.0,
+          58.575
+        ],
+        [
+          670.0,
+          58.319
+        ]
+      ]
+    },
+    {
+      "run": "L2",
+      "specimen": "W-2",
+      "shutter_intervals_s": [
+        [
+          400.0,
+          640.0
+        ]
+      ],
+      "power_meter_W": [
+        [
+          340.0,
+          57.657
+        ],
+        [
+          670.0,
+          57.721
+        ]
+      ]
+    },
+    {
+      "run": "L3",
+      "specimen": "W-3",
+      "shutter_intervals_s": [
+        [
+          400.0,
+          640.0
+        ]
+      ],
+      "power_meter_W": [
+        [
+          340.0,
+          58.788
+        ],
+        [
+          670.0,
+          59.009
+        ]
+      ]
+    },
+    {
+      "run": "L4",
+      "specimen": "W-4",
+      "shutter_intervals_s": [
+        [
+          400.0,
+          640.0
+        ]
+      ],
+      "power_meter_W": [
+        [
+          340.0,
+          58.851
+        ],
+        [
+          670.0,
+          58.84
+        ]
+      ]
+    },
+    {
+      "run": "L5",
+      "specimen": "M-1",
+      "shutter_intervals_s": [
+        [
+          400.0,
+          640.0
+        ]
+      ],
+      "power_meter_W": [
+        [
+          340.0,
+          58.706
+        ],
+        [
+          670.0,
+          58.648
+        ]
+      ]
+    }
+  ]
+}

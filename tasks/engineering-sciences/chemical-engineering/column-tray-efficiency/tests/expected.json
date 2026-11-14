@@ -1,0 +1,28 @@
+{
+ "tolerance_percent": {
+  "emv_rectifying": 2.5,
+  "emv_stripping": 4.5
+ },
+ "runs": {
+  "h1": {
+   "emv_rectifying": 0.7738,
+   "emv_stripping": 0.5412
+  },
+  "h2": {
+   "emv_rectifying": 0.6236,
+   "emv_stripping": 0.813
+  },
+  "h3": {
+   "emv_rectifying": 0.5761,
+   "emv_stripping": 0.487
+  },
+  "h4": {
+   "emv_rectifying": 0.7244,
+   "emv_stripping": 0.6455
+  },
+  "h5": {
+   "emv_rectifying": 0.827,
+   "emv_stripping": 0.556
+  }
+ }
+}

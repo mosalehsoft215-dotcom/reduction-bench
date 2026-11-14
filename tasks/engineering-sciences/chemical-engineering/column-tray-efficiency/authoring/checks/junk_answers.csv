@@ -1,0 +1,17 @@
+set,pytest_exit,recount_exit,refused_by_both
+truth,0,0,no
+just outside rect,1,1,yes
+just outside strip,1,1,yes
+one run missing,1,1,yes
+keys swapped,1,1,yes
+per cent,1,1,yes
+fixed 0.70,1,1,yes
+public mean,1,1,yes
+NaN,1,1,yes
+Infinity,1,1,yes
+strings,1,1,yes
+booleans,1,1,yes
+repeated key,1,1,yes
+list,1,1,yes
+empty file,1,1,yes
+negative,1,1,yes

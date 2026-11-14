@@ -1,0 +1,30 @@
+{
+ "run_C201_0312": {
+  "emv_rectifying": 0.703,
+  "emv_stripping": 0.596
+ },
+ "run_C305_0605": {
+  "emv_rectifying": 0.662,
+  "emv_stripping": 0.714
+ },
+ "h1": {
+  "emv_rectifying": 0.7738,
+  "emv_stripping": 0.5412
+ },
+ "h2": {
+  "emv_rectifying": 0.6236,
+  "emv_stripping": 0.813
+ },
+ "h3": {
+  "emv_rectifying": 0.5761,
+  "emv_stripping": 0.487
+ },
+ "h4": {
+  "emv_rectifying": 0.7244,
+  "emv_stripping": 0.6455
+ },
+ "h5": {
+  "emv_rectifying": 0.827,
+  "emv_stripping": 0.556
+ }
+}

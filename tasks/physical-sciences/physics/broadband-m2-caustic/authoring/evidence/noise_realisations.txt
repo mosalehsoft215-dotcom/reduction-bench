@@ -1,0 +1,26 @@
+reference on further noise draws; errors in percent of the truth
+seed 101: m2 +0.052  waist_radius_um +0.056  waist_distance_mm -0.003  centroid_wavelength_nm +0.035  bandwidth_rms_percent +0.118
+seed 102: m2 -0.080  waist_radius_um +0.097  waist_distance_mm -0.003  centroid_wavelength_nm +0.024  bandwidth_rms_percent +0.264
+seed 103: m2 -0.052  waist_radius_um -0.048  waist_distance_mm -0.010  centroid_wavelength_nm -0.207  bandwidth_rms_percent +0.132
+seed 104: m2 -0.059  waist_radius_um -0.396  waist_distance_mm -0.009  centroid_wavelength_nm -0.143  bandwidth_rms_percent -0.131
+seed 105: m2 -0.344  waist_radius_um -0.417  waist_distance_mm -0.009  centroid_wavelength_nm -0.011  bandwidth_rms_percent +0.334
+seed 106: m2 -0.510  waist_radius_um -0.513  waist_distance_mm -0.000  centroid_wavelength_nm +0.082  bandwidth_rms_percent -0.239
+seed 107: m2 +0.261  waist_radius_um +0.200  waist_distance_mm -0.015  centroid_wavelength_nm -0.236  bandwidth_rms_percent +0.300
+seed 108: m2 +0.099  waist_radius_um -0.128  waist_distance_mm -0.018  centroid_wavelength_nm -0.202  bandwidth_rms_percent -0.399
+seed 109: m2 +0.857  waist_radius_um +0.554  waist_distance_mm -0.010  centroid_wavelength_nm -0.047  bandwidth_rms_percent -0.189
+seed 110: m2 -0.547  waist_radius_um -0.657  waist_distance_mm -0.001  centroid_wavelength_nm +0.076  bandwidth_rms_percent +0.093
+seed 111: m2 +0.175  waist_radius_um -0.041  waist_distance_mm +0.002  centroid_wavelength_nm +0.157  bandwidth_rms_percent -0.474
+seed 112: m2 +0.144  waist_radius_um +0.053  waist_distance_mm +0.004  centroid_wavelength_nm +0.044  bandwidth_rms_percent -0.383
+seed 113: m2 +0.033  waist_radius_um -0.195  waist_distance_mm -0.012  centroid_wavelength_nm -0.100  bandwidth_rms_percent -0.130
+seed 114: m2 -0.047  waist_radius_um -0.064  waist_distance_mm -0.002  centroid_wavelength_nm -0.051  bandwidth_rms_percent +0.120
+seed 115: m2 +0.545  waist_radius_um +0.290  waist_distance_mm -0.019  centroid_wavelength_nm -0.260  bandwidth_rms_percent -0.255
+seed 116: m2 -0.245  waist_radius_um -0.306  waist_distance_mm -0.002  centroid_wavelength_nm +0.003  bandwidth_rms_percent +0.215
+seed 117: m2 -0.305  waist_radius_um -0.154  waist_distance_mm +0.002  centroid_wavelength_nm +0.107  bandwidth_rms_percent +0.177
+seed 118: m2 +0.185  waist_radius_um -0.086  waist_distance_mm -0.002  centroid_wavelength_nm -0.038  bandwidth_rms_percent -0.069
+seed 119: m2 +0.065  waist_radius_um +0.152  waist_distance_mm -0.000  centroid_wavelength_nm +0.037  bandwidth_rms_percent -0.486
+seed 120: m2 -0.344  waist_radius_um -0.441  waist_distance_mm -0.014  centroid_wavelength_nm -0.196  bandwidth_rms_percent +0.345
+max |error| m2: 0.857 (rms 0.329)
+max |error| waist_radius_um: 0.657 (rms 0.306)
+max |error| waist_distance_mm: 0.019 (rms 0.009)
+max |error| centroid_wavelength_nm: 0.260 (rms 0.129)
+max |error| bandwidth_rms_percent: 0.486 (rms 0.273)

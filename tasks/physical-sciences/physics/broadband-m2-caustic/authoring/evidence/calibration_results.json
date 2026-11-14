@@ -1,0 +1,243 @@
+[
+ {
+  "label": "DEF",
+  "route": "reference",
+  "options": {},
+  "values": {
+   "m2": 1.37859,
+   "waist_radius_um": 9.64945,
+   "waist_distance_mm": 47.29743,
+   "centroid_wavelength_nm": 805.4129,
+   "bandwidth_rms_percent": 7.60771
+  },
+  "errors": {
+   "m2": 0.33406113537117754,
+   "waist_radius_um": 0.3885727364467684,
+   "waist_distance_mm": -0.005433403805499282,
+   "centroid_wavelength_nm": -0.11002108396377386,
+   "bandwidth_rms_percent": 0.16207178028806446
+  },
+  "inside": true
+ },
+ {
+  "label": "ALT",
+  "route": "the same emittance for every wavelength (eps of the centroid), against the notes",
+  "options": {
+   "eps_scales": false
+  },
+  "values": {
+   "m2": 1.34802,
+   "waist_radius_um": 9.54213,
+   "waist_distance_mm": 47.30111,
+   "centroid_wavelength_nm": 805.4075,
+   "bandwidth_rms_percent": 7.65402
+  },
+  "errors": {
+   "m2": -1.8908296943231484,
+   "waist_radius_um": -0.7279366631641304,
+   "waist_distance_mm": 0.0023467230443996456,
+   "centroid_wavelength_nm": -0.11069080987224922,
+   "bandwidth_rms_percent": 0.7717829212418037
+  },
+  "inside": true
+ },
+ {
+  "label": "ALT",
+  "route": "one lens power for every wavelength (lens-fluid dispersion ignored)",
+  "options": {
+   "chromatic": false
+  },
+  "values": {
+   "m2": 1.58025,
+   "waist_radius_um": 11.3156,
+   "waist_distance_mm": 47.38828,
+   "centroid_wavelength_nm": 805.4011,
+   "bandwidth_rms_percent": 7.69988
+  },
+  "errors": {
+   "m2": 15.010917030567672,
+   "waist_radius_um": 17.72245399028307,
+   "waist_distance_mm": 0.18663847780127085,
+   "centroid_wavelength_nm": -0.11148455909709698,
+   "bandwidth_rms_percent": 1.3755694235985105
+  },
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "monochromatic beam at the centroid wavelength (spectrum left out of the caustic)",
+  "options": {
+   "mono": true
+  },
+  "values": {
+   "m2": 1.53878,
+   "waist_radius_um": 11.1665,
+   "waist_distance_mm": 47.38817,
+   "centroid_wavelength_nm": 805.3926,
+   "bandwidth_rms_percent": 7.75139
+  },
+  "errors": {
+   "m2": 11.992721979621535,
+   "waist_radius_um": 16.171284110652184,
+   "waist_distance_mm": 0.18640591966174735,
+   "centroid_wavelength_nm": -0.11253875728636231,
+   "bandwidth_rms_percent": 2.0537430550069846
+  },
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "lens power taken from the 632.8 nm calibration as it is",
+  "options": {
+   "calibrated": false
+  },
+  "values": {
+   "m2": 1.55044,
+   "waist_radius_um": 11.09558,
+   "waist_distance_mm": 46.46699,
+   "centroid_wavelength_nm": 805.4012,
+   "bandwidth_rms_percent": 7.69897
+  },
+  "errors": {
+   "m2": 12.841339155749631,
+   "waist_radius_um": 15.433464071326775,
+   "waist_distance_mm": -1.7611205073995606,
+   "centroid_wavelength_nm": -0.11147215676546862,
+   "bandwidth_rms_percent": 1.3635884877689186
+  },
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "camera quantum efficiency ignored (the caustic weighted by the spectrometer's spectrum)",
+  "options": {
+   "qe": false
+  },
+  "values": {
+   "m2": 1.35445,
+   "waist_radius_um": 9.59276,
+   "waist_distance_mm": 47.36588,
+   "centroid_wavelength_nm": 805.4072,
+   "bandwidth_rms_percent": 7.65605
+  },
+  "errors": {
+   "m2": -1.4228529839883652,
+   "waist_radius_um": -0.20120473153628637,
+   "waist_distance_mm": 0.13928118393233824,
+   "centroid_wavelength_nm": -0.1107280168671676,
+   "bandwidth_rms_percent": 0.7985096242462575
+  },
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "spectrometer record taken at face value (the beam's own spot not removed)",
+  "options": {
+   "spectrometer": "moments"
+  },
+  "values": {
+   "m2": 1.34119,
+   "waist_radius_um": 9.28556,
+   "waist_distance_mm": 47.26538,
+   "centroid_wavelength_nm": 807.1192,
+   "bandwidth_rms_percent": 9.25796
+  },
+  "errors": {
+   "m2": -2.3879184861717584,
+   "waist_radius_um": -3.3971764754840206,
+   "waist_distance_mm": -0.07319238900633795,
+   "centroid_wavelength_nm": 0.10159990078135728,
+   "bandwidth_rms_percent": 21.889038102009128
+  },
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "spot not removed and quantum efficiency ignored",
+  "options": {
+   "spectrometer": "moments",
+   "qe": false
+  },
+  "values": {
+   "m2": 1.30884,
+   "waist_radius_um": 9.22291,
+   "waist_distance_mm": 47.36555,
+   "centroid_wavelength_nm": 807.1192,
+   "bandwidth_rms_percent": 9.25796
+  },
+  "errors": {
+   "m2": -4.742358078602626,
+   "waist_radius_um": -4.048959124436902,
+   "waist_distance_mm": 0.13858350951374554,
+   "centroid_wavelength_nm": 0.10159990078135728,
+   "bandwidth_rms_percent": 21.889038102009128
+  },
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "spot of the fitted beam removed in quadrature from the record's rms (local dispersion at the centroid)",
+  "options": {
+   "route": "quadrature"
+  },
+  "values": {
+   "m2": 1.38662,
+   "waist_radius_um": 9.75405,
+   "waist_distance_mm": 47.31129,
+   "centroid_wavelength_nm": 807.1192,
+   "bandwidth_rms_percent": 7.23824
+  },
+  "errors": {
+   "m2": 0.918486171761268,
+   "waist_radius_um": 1.476784469574799,
+   "waist_distance_mm": 0.023868921775904717,
+   "centroid_wavelength_nm": 0.10159990078135728,
+   "bandwidth_rms_percent": -4.70231982515733
+  },
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "ISO 11146 second moments and a monochromatic hyperbola in lens power (632.8 nm calibration)",
+  "options": {
+   "route": "iso633"
+  },
+  "values": {
+   "m2": 1.7953759668925053,
+   "waist_radius_um": 12.739398848992986,
+   "waist_distance_mm": 46.45461574882605,
+   "centroid_wavelength_nm": 807.1191886944796,
+   "bandwidth_rms_percent": 9.25795652640561
+  },
+  "errors": {
+   "m2": 30.667828740357006,
+   "waist_radius_um": 32.535021993039884,
+   "waist_distance_mm": -1.787281714955491,
+   "centroid_wavelength_nm": 0.10159849863322634,
+   "bandwidth_rms_percent": 21.88899236913937
+  },
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "ISO 11146 second moments and a monochromatic hyperbola, lens power converted to the centroid",
+  "options": {
+   "route": "iso"
+  },
+  "values": {
+   "m2": 1.830123897230421,
+   "waist_radius_um": 12.993747594812085,
+   "waist_distance_mm": 47.382098023720594,
+   "centroid_wavelength_nm": 807.1191886944796,
+   "bandwidth_rms_percent": 9.25795652640561
+  },
+  "errors": {
+   "m2": 33.196790191442574,
+   "waist_radius_um": 35.181152867865336,
+   "waist_distance_mm": 0.17356876050866887,
+   "centroid_wavelength_nm": 0.10159849863322634,
+   "bandwidth_rms_percent": 21.88899236913937
+  },
+  "inside": false
+ }
+]

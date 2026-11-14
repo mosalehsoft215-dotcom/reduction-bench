@@ -1,0 +1,202 @@
+[
+ {
+  "seed": 101,
+  "errors": {
+   "m2": 0.052401746724872744,
+   "waist_radius_um": 0.05586708419598185,
+   "waist_distance_mm": -0.0026427061310729805,
+   "centroid_wavelength_nm": 0.03482574724047449,
+   "bandwidth_rms_percent": 0.11757116149249125
+  }
+ },
+ {
+  "seed": 102,
+  "errors": {
+   "m2": -0.08005822416303765,
+   "waist_radius_um": 0.09654497976510079,
+   "waist_distance_mm": -0.0031078224101421803,
+   "centroid_wavelength_nm": 0.02360163710779517,
+   "bandwidth_rms_percent": 0.2639755641572483
+  }
+ },
+ {
+  "seed": 103,
+  "errors": {
+   "m2": -0.05240174672489495,
+   "waist_radius_um": -0.04816845434401085,
+   "waist_distance_mm": -0.009915433403795415,
+   "centroid_wavelength_nm": -0.20670966141634883,
+   "bandwidth_rms_percent": 0.13244858730283582
+  }
+ },
+ {
+  "seed": 104,
+  "errors": {
+   "m2": -0.05895196506551237,
+   "waist_radius_um": -0.39595925968310963,
+   "waist_distance_mm": -0.009450317124726215,
+   "centroid_wavelength_nm": -0.14297407912686744,
+   "bandwidth_rms_percent": -0.1306053664059892
+  }
+ },
+ {
+  "seed": 105,
+  "errors": {
+   "m2": -0.3435225618631743,
+   "waist_radius_um": -0.4170784740067157,
+   "waist_distance_mm": -0.009217758985202718,
+   "centroid_wavelength_nm": -0.010827235520272094,
+   "bandwidth_rms_percent": 0.3344129341443569
+  }
+ },
+ {
+  "seed": 106,
+  "errors": {
+   "m2": -0.5101892285298559,
+   "waist_radius_um": -0.5129992405405681,
+   "waist_distance_mm": -0.00019027484143840923,
+   "centroid_wavelength_nm": 0.08236388441027476,
+   "bandwidth_rms_percent": -0.23856544750769926
+  }
+ },
+ {
+  "seed": 107,
+  "errors": {
+   "m2": 0.261280931586616,
+   "waist_radius_um": 0.2001643761508909,
+   "waist_distance_mm": -0.015264270613102315,
+   "centroid_wavelength_nm": -0.2360659804043097,
+   "bandwidth_rms_percent": 0.3000500302814846
+  }
+ },
+ {
+  "seed": 108,
+  "errors": {
+   "m2": 0.09898107714700899,
+   "waist_radius_um": -0.12785967686561595,
+   "waist_distance_mm": -0.018097251585613705,
+   "centroid_wavelength_nm": -0.20173632642935813,
+   "bandwidth_rms_percent": -0.399320641440859
+  }
+ },
+ {
+  "seed": 109,
+  "errors": {
+   "m2": 0.8573508005822239,
+   "waist_radius_um": 0.5543013493409354,
+   "waist_distance_mm": -0.009873150105699224,
+   "centroid_wavelength_nm": -0.04748852784323132,
+   "bandwidth_rms_percent": -0.18893014192800095
+  }
+ },
+ {
+  "seed": 110,
+  "errors": {
+   "m2": -0.5473071324599843,
+   "waist_radius_um": -0.6567763548027905,
+   "waist_distance_mm": -0.0014587737843574367,
+   "centroid_wavelength_nm": 0.07603869527470497,
+   "bandwidth_rms_percent": 0.0930826552913766
+  }
+ },
+ {
+  "seed": 111,
+  "errors": {
+   "m2": 0.17540029112079747,
+   "waist_radius_um": -0.04088596664620914,
+   "waist_distance_mm": 0.0022832980972609107,
+   "centroid_wavelength_nm": 0.1567530695770758,
+   "bandwidth_rms_percent": -0.47383942912815336
+  }
+ },
+ {
+  "seed": 112,
+  "errors": {
+   "m2": 0.14410480349345,
+   "waist_radius_um": 0.052746018039750986,
+   "waist_distance_mm": 0.00427061310781518,
+   "centroid_wavelength_nm": 0.04356939104552815,
+   "bandwidth_rms_percent": -0.3825999947336456
+  }
+ },
+ {
+  "seed": 113,
+  "errors": {
+   "m2": 0.033478893740901405,
+   "waist_radius_um": -0.1946504926082837,
+   "waist_distance_mm": -0.012114164904863944,
+   "centroid_wavelength_nm": -0.10021083963784871,
+   "bandwidth_rms_percent": -0.13034204913500158
+  }
+ },
+ {
+  "seed": 114,
+  "errors": {
+   "m2": -0.047307132459972756,
+   "waist_radius_um": -0.063669749586448,
+   "waist_distance_mm": -0.0018393234672231529,
+   "centroid_wavelength_nm": -0.05055190375791163,
+   "bandwidth_rms_percent": 0.11980935829580819
+  }
+ },
+ {
+  "seed": 115,
+  "errors": {
+   "m2": 0.5451237263464304,
+   "waist_radius_um": 0.290363188065057,
+   "waist_distance_mm": -0.01896405919661337,
+   "centroid_wavelength_nm": -0.25966761751208267,
+   "bandwidth_rms_percent": -0.25515443557942996
+  }
+ },
+ {
+  "seed": 116,
+  "errors": {
+   "m2": -0.24526928675401294,
+   "waist_radius_um": -0.30607255438457326,
+   "waist_distance_mm": -0.0023467230443885434,
+   "centroid_wavelength_nm": 0.003460250527109743,
+   "bandwidth_rms_percent": 0.21486689311951412
+  }
+ },
+ {
+  "seed": 117,
+  "errors": {
+   "m2": -0.3049490538573618,
+   "waist_radius_um": -0.15355645488497327,
+   "waist_distance_mm": 0.0024101479915383806,
+   "centroid_wavelength_nm": 0.10704452437058087,
+   "bandwidth_rms_percent": 0.17668588882744363
+  }
+ },
+ {
+  "seed": 118,
+  "errors": {
+   "m2": 0.18486171761280534,
+   "waist_radius_um": -0.08645353252670906,
+   "waist_distance_mm": -0.0015010570824536273,
+   "centroid_wavelength_nm": -0.03821158377774747,
+   "bandwidth_rms_percent": -0.06925244226768656
+  }
+ },
+ {
+  "seed": 119,
+  "errors": {
+   "m2": 0.06477438136824887,
+   "waist_radius_um": 0.15157977965274405,
+   "waist_distance_mm": -0.0004439746300155534,
+   "centroid_wavelength_nm": 0.036810120302632754,
+   "bandwidth_rms_percent": -0.48582036495772307
+  }
+ },
+ {
+  "seed": 120,
+  "errors": {
+   "m2": -0.3435225618631743,
+   "waist_radius_um": -0.44142279002507,
+   "waist_distance_mm": -0.013763213530648688,
+   "centroid_wavelength_nm": -0.19565918392657755,
+   "bandwidth_rms_percent": 0.345077283619033
+  }
+ }
+]

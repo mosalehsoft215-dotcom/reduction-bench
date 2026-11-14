@@ -1,0 +1,56 @@
+{
+  "unit": "G-43",
+  "rated_speed_rpm": 3000,
+  "rotation": "counter-clockwise",
+  "keyphasor": "single notch in the shaft; zero of the 1X phase",
+  "probes": {
+    "de_x": {
+      "bearing": "DE",
+      "angle_deg": 90.0
+    },
+    "de_y": {
+      "bearing": "DE",
+      "angle_deg": 0.0
+    },
+    "nde_x": {
+      "bearing": "NDE",
+      "angle_deg": 90.0
+    },
+    "nde_y": {
+      "bearing": "NDE",
+      "angle_deg": 0.0
+    }
+  },
+  "supports": "sleeve bearings in pedestals bolted to a steel frame, stiffer vertically than horizontally",
+  "gap_healthy_v": [
+    -12.0,
+    -8.0
+  ],
+  "tracking_filter": {
+    "instrument": "online monitoring system",
+    "type": "single-pole low-pass on the demodulated 1X vector",
+    "bandwidth_hz": 1.0
+  },
+  "slow_roll": {
+    "speed_rpm": 300,
+    "taken": "steady barring-gear run before the last start-up",
+    "vectors": {
+      "de_x": {
+        "um": 14.29,
+        "lag_deg": 359.3
+      },
+      "de_y": {
+        "um": 19.71,
+        "lag_deg": 76.4
+      },
+      "nde_x": {
+        "um": 17.7,
+        "lag_deg": 234.5
+      },
+      "nde_y": {
+        "um": 16.67,
+        "lag_deg": 285.1
+      }
+    }
+  }
+}

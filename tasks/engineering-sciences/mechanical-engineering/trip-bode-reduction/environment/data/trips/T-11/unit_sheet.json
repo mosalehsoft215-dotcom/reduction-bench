@@ -1,0 +1,56 @@
+{
+  "unit": "T-11",
+  "rated_speed_rpm": 3000,
+  "rotation": "clockwise",
+  "keyphasor": "single notch in the shaft; zero of the 1X phase",
+  "probes": {
+    "de_x": {
+      "bearing": "DE",
+      "angle_deg": 135.0
+    },
+    "de_y": {
+      "bearing": "DE",
+      "angle_deg": 45.0
+    },
+    "nde_x": {
+      "bearing": "NDE",
+      "angle_deg": 135.0
+    },
+    "nde_y": {
+      "bearing": "NDE",
+      "angle_deg": 45.0
+    }
+  },
+  "supports": "tilting-pad journal bearings in pedestals cast into the concrete block",
+  "gap_healthy_v": [
+    -12.0,
+    -8.0
+  ],
+  "tracking_filter": {
+    "instrument": "online monitoring system",
+    "type": "single-pole low-pass on the demodulated 1X vector",
+    "bandwidth_hz": 1.2
+  },
+  "slow_roll": {
+    "speed_rpm": 300,
+    "taken": "steady barring-gear run before the last start-up",
+    "vectors": {
+      "de_x": {
+        "um": 6.29,
+        "lag_deg": 256.2
+      },
+      "de_y": {
+        "um": 6.43,
+        "lag_deg": 210.8
+      },
+      "nde_x": {
+        "um": 7.66,
+        "lag_deg": 247.5
+      },
+      "nde_y": {
+        "um": 6.25,
+        "lag_deg": 183.0
+      }
+    }
+  }
+}

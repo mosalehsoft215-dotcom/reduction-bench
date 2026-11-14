@@ -1,0 +1,26 @@
+{
+ "relay": "R-27",
+ "elements": "inverse-time phase overcurrent (IEC 60255-151 family) and high-set phase overcurrent",
+ "rated_secondary_A": 5.0,
+ "ct": {
+  "ratios_available": [
+   "1200/5",
+   "1000/5",
+   "800/5"
+  ]
+ },
+ "coordination_study": {
+  "curve": "IEC EI",
+  "pickup_secondary_A": 4.6,
+  "high_set": "36.8 A secondary, 25 ms"
+ },
+ "test_plan": {
+  "ct_ratio_entered": "1000/5",
+  "injection": "single phase, A-N",
+  "inverse_points": "multiples of the study pickup, three shots per point, high-set element blocked",
+  "high_set_points": "two shots at 1.5 x the study high-set pickup",
+  "between_shots": "recorded load current played back; current off while the breaker is open after a trip"
+ },
+ "timer_stop_input": "binary input 1 on the relay trip output contact",
+ "test_set": "fault current stops at the first touch of the binary input"
+}

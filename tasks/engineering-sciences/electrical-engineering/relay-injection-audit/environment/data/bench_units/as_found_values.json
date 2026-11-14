@@ -1,0 +1,18 @@
+{
+ "R-12": {
+  "pickup_primary_A": 505.02,
+  "tms_found": 0.2133
+ },
+ "R-27": {
+  "pickup_primary_A": 917.4,
+  "tms_found": 0.3271
+ },
+ "R-33": {
+  "pickup_primary_A": 824.6,
+  "tms_found": 0.2588
+ },
+ "R-39": {
+  "pickup_primary_A": 383.32,
+  "tms_found": 0.2716
+ }
+}

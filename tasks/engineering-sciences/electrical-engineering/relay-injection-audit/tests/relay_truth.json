@@ -1,0 +1,22 @@
+{
+ "R-51": {
+  "pickup_primary_A": 209.44,
+  "tms_found": 0.1714
+ },
+ "R-52": {
+  "pickup_primary_A": 129.54,
+  "tms_found": 0.2242
+ },
+ "R-54": {
+  "pickup_primary_A": 399.144,
+  "tms_found": 0.1847
+ },
+ "R-57": {
+  "pickup_primary_A": 571.584,
+  "tms_found": 0.1835
+ },
+ "R-58": {
+  "pickup_primary_A": 83.225,
+  "tms_found": 0.1592
+ }
+}

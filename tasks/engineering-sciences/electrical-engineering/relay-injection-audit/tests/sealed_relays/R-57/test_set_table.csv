@@ -1,0 +1,15 @@
+shot,element,start_clock_s,i_set_secondary_A,i_primary_A,time_ms
+1,inverse-time,34.38,21.6,6912.0,184.0
+2,inverse-time,42.78,21.6,6912.0,68.0
+3,inverse-time,53.6,21.6,6912.0,75.0
+4,inverse-time,98.34,27.0,8640.0,96.0
+5,inverse-time,110.06,27.0,8640.0,58.0
+6,inverse-time,122.82,27.0,8640.0,72.0
+7,inverse-time,167.66,37.8,12096.0,59.0
+8,inverse-time,182.78,37.8,12096.0,43.0
+9,inverse-time,195.46,37.8,12096.0,36.0
+10,inverse-time,242.76,16.2,5184.0,333.0
+11,inverse-time,256.48,16.2,5184.0,169.0
+12,inverse-time,269.94,16.2,5184.0,222.0
+13,high-set,305.78,68.85,22032.0,28.0
+14,high-set,320.94,68.85,22032.0,27.0

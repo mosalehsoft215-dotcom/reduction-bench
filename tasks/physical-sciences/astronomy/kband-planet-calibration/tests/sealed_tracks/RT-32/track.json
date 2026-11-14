@@ -1,0 +1,10 @@
+{
+ "track": "RT-32",
+ "date": "2026-04-07",
+ "frequency_ghz": 22.2,
+ "planet": "Mars",
+ "planet_distance_au": 0.62,
+ "source": "T-3218",
+ "ambient_k": 283.6,
+ "tau_zenith_site_model": 0.079
+}

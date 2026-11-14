@@ -1,0 +1,120 @@
+{
+ "shipped": {
+  "RT-31": {
+   "reference": 0.113,
+   "second": 0.098
+  },
+  "RT-32": {
+   "reference": 0.106,
+   "second": 0.303
+  },
+  "RT-33": {
+   "reference": 0.086,
+   "second": 0.072
+  },
+  "RT-34": {
+   "reference": 0.118,
+   "second": 0.159
+  },
+  "RT-35": {
+   "reference": 0.134,
+   "second": 0.098
+  },
+  "RT-04": {
+   "reference": 0.027,
+   "second": 0.022
+  },
+  "RT-09": {
+   "reference": 0.023,
+   "second": 0.036
+  }
+ },
+ "routes": {
+  "site-model opacity from the track header": {
+   "RT-31": 7.59,
+   "RT-32": 3.79,
+   "RT-33": 7.32,
+   "RT-34": 3.02,
+   "RT-35": 11.06,
+   "RT-04": 0.03,
+   "RT-09": 0.06
+  },
+  "tipping opacity for every scan": {
+   "RT-31": 0.09,
+   "RT-32": 3.79,
+   "RT-33": 0.09,
+   "RT-34": 3.03,
+   "RT-35": 4.54,
+   "RT-04": 0.02,
+   "RT-09": 0.02
+  },
+  "laboratory diode temperature": {
+   "RT-31": 0.11,
+   "RT-32": 5.36,
+   "RT-33": 0.09,
+   "RT-34": 4.84,
+   "RT-35": 6.09,
+   "RT-04": 0.02,
+   "RT-09": 0.02
+  },
+  "source size ignored (peak taken as the flux)": {
+   "RT-31": 7.23,
+   "RT-32": 0.12,
+   "RT-33": 6.05,
+   "RT-34": 6.51,
+   "RT-35": 0.13,
+   "RT-04": 0.03,
+   "RT-09": 0.02
+  },
+  "tipping opacity, loads diode, source size ignored": {
+   "RT-31": 7.21,
+   "RT-32": 3.79,
+   "RT-33": 6.05,
+   "RT-34": 7.94,
+   "RT-35": 4.54,
+   "RT-04": 0.02,
+   "RT-09": 0.02
+  },
+  "header opacity, laboratory diode, source size ignored": {
+   "RT-31": 7.6,
+   "RT-32": 7.34,
+   "RT-33": 7.3,
+   "RT-34": 7.94,
+   "RT-35": 13.93,
+   "RT-04": 0.02,
+   "RT-09": 0.06
+  },
+  "no pointing correction": {
+   "RT-31": 2.81,
+   "RT-32": 2.38,
+   "RT-33": 2.93,
+   "RT-34": 2.49,
+   "RT-35": 2.61,
+   "RT-04": 1.67,
+   "RT-09": 1.34
+  },
+  "equatorial diameter for the planet disc": {
+   "RT-31": 3.19,
+   "RT-32": 0.4,
+   "RT-33": 0.09,
+   "RT-34": 3.36,
+   "RT-35": 0.13,
+   "RT-04": 3.28,
+   "RT-09": 0.02
+  },
+  "no gain curve": {
+   "RT-31": 0.94,
+   "RT-32": 0.65,
+   "RT-33": 1.39,
+   "RT-34": 0.13,
+   "RT-35": 1.11,
+   "RT-04": 0.37,
+   "RT-09": 1.26
+  }
+ },
+ "redraws": {
+  "reference": 0.237,
+  "second": 0.304
+ },
+ "worked_copy_passes": 0
+}

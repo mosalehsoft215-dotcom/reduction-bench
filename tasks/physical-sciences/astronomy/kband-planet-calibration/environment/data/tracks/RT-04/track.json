@@ -1,0 +1,10 @@
+{
+ "track": "RT-04",
+ "date": "2026-02-11",
+ "frequency_ghz": 22.2,
+ "planet": "Jupiter",
+ "planet_distance_au": 4.62,
+ "source": "T-0417",
+ "ambient_k": 276.4,
+ "tau_zenith_site_model": 0.071
+}

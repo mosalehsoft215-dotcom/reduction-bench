@@ -1,0 +1,10 @@
+{
+ "track": "RT-09",
+ "date": "2026-03-02",
+ "frequency_ghz": 22.2,
+ "planet": "Venus",
+ "planet_distance_au": 0.71,
+ "source": "T-0952",
+ "ambient_k": 279.8,
+ "tau_zenith_site_model": 0.065
+}

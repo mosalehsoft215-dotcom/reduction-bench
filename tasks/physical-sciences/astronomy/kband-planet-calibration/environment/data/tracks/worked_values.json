@@ -1,0 +1,10 @@
+{
+ "RT-04": {
+  "aperture_efficiency": 0.574,
+  "source_flux_jy": 3.12
+ },
+ "RT-09": {
+  "aperture_efficiency": 0.561,
+  "source_flux_jy": 2.47
+ }
+}

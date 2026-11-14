@@ -1,0 +1,10 @@
+{
+ "pattern": "ED-02",
+ "phase": "cubic spinel (Fd-3m)",
+ "cation_composition": {
+  "Fe": 1.0
+ },
+ "crystallite_diameter_nm": 20.0,
+ "camera_constant_A_px_session": 1873.0,
+ "accelerating_voltage_kV": 200
+}

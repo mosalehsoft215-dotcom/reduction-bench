@@ -1,0 +1,136 @@
+{
+ "shipped": {
+  "ED-02": {
+   "reference": {
+    "lattice_parameter_A": 0.004999575531683398
+   },
+   "independent": {
+    "lattice_parameter_A": 0.20564439415959868
+   }
+  },
+  "ED-05": {
+   "reference": {
+    "lattice_parameter_A": 0.06769132564654612
+   },
+   "independent": {
+    "lattice_parameter_A": 0.4002651535610635
+   }
+  },
+  "ED-31": {
+   "reference": {
+    "lattice_parameter_A": 0.0039357502035208825
+   },
+   "independent": {
+    "lattice_parameter_A": 0.028563809625570258
+   }
+  },
+  "ED-32": {
+   "reference": {
+    "lattice_parameter_A": 0.12210366421783192
+   },
+   "independent": {
+    "lattice_parameter_A": 0.0574170782046135
+   }
+  },
+  "ED-33": {
+   "reference": {
+    "lattice_parameter_A": 0.0009573998541734241
+   },
+   "independent": {
+    "lattice_parameter_A": 0.0037269476782508804
+   }
+  },
+  "ED-34": {
+   "reference": {
+    "lattice_parameter_A": 0.03992233769967157
+   },
+   "independent": {
+    "lattice_parameter_A": 0.0009358832560035779
+   }
+  },
+  "ED-35": {
+   "reference": {
+    "lattice_parameter_A": 0.019866295916548538
+   },
+   "independent": {
+    "lattice_parameter_A": 0.03562664531520099
+   }
+  }
+ },
+ "routes": {
+  "Bragg rings at K sqrt(s)/a with gold calibration (whole-crystallite scattering left out)": {
+   "ED-02": {
+    "lattice_parameter_A": 0.004999575531683398
+   },
+   "ED-05": {
+    "lattice_parameter_A": 0.06769132564654612
+   },
+   "ED-31": {
+    "lattice_parameter_A": 26.905120633283317
+   },
+   "ED-32": {
+    "lattice_parameter_A": 770.7176799474184
+   },
+   "ED-33": {
+    "lattice_parameter_A": 23.863735376642435
+   },
+   "ED-34": {
+    "lattice_parameter_A": 20.185702154374095
+   },
+   "ED-35": {
+    "lattice_parameter_A": 22.13456252016743
+   }
+  },
+  "Bragg rings at the session camera constant (gold rings unused)": {
+   "ED-02": {
+    "lattice_parameter_A": 0.010188228163565682
+   },
+   "ED-05": {
+    "lattice_parameter_A": 0.06156797403278347
+   },
+   "ED-31": {
+    "lattice_parameter_A": 13.119617048126253
+   },
+   "ED-32": {
+    "lattice_parameter_A": 759.4191734225368
+   },
+   "ED-33": {
+    "lattice_parameter_A": 17.99246555380729
+   },
+   "ED-34": {
+    "lattice_parameter_A": 28.7786959629559
+   },
+   "ED-35": {
+    "lattice_parameter_A": 13.123284162411819
+   }
+  }
+ },
+ "redraws": {
+  "reference": {
+   "ED-02": 0.04565469522521681,
+   "ED-05": 0.09258019081703761,
+   "ED-31": 0.10293365983971015,
+   "ED-32": 0.15807002384438107,
+   "ED-33": 0.10834386874325475,
+   "ED-34": 0.11503204541174483,
+   "ED-35": 0.1183755037252876
+  },
+  "independent": {
+   "ED-02": 0.43845489999294607,
+   "ED-05": 0.7177198786825212,
+   "ED-31": 0.164045591566353,
+   "ED-32": 0.12797807593423194,
+   "ED-33": 0.1121104080674673,
+   "ED-34": 0.12899612501282576,
+   "ED-35": 0.11200422643664609
+  }
+ },
+ "constant": {
+  "closest_pair_in_double_windows": 4.559525585558721,
+  "max_patterns_one_constant_can_fit": 1
+ },
+ "worked_copy_fits": {
+  "ED-02": 0,
+  "ED-05": 0
+ }
+}

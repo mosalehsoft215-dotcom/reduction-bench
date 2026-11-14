@@ -1,0 +1,11 @@
+{
+ "pattern": "ED-33",
+ "phase": "fluorite (Fm-3m)",
+ "cation_composition": {
+  "Ce": 0.75,
+  "Zr": 0.25
+ },
+ "crystallite_diameter_nm": 1.9,
+ "camera_constant_A_px_session": 1870.0,
+ "accelerating_voltage_kV": 200
+}

@@ -1,0 +1,10 @@
+{
+ "pattern": "ED-32",
+ "phase": "rock salt (Fm-3m)",
+ "cation_composition": {
+  "Mn": 1.0
+ },
+ "crystallite_diameter_nm": 2.4,
+ "camera_constant_A_px_session": 1861.0,
+ "accelerating_voltage_kV": 200
+}

@@ -1,0 +1,10 @@
+{
+ "PL-04": {
+  "styrene_mg_per_kg": 412.6,
+  "partition_coefficient": 17.8
+ },
+ "PL-09": {
+  "styrene_mg_per_kg": 268.9,
+  "partition_coefficient": 9.6
+ }
+}

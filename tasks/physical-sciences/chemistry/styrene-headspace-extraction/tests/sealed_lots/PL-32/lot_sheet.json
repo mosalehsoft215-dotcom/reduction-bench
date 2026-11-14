@@ -1,0 +1,16 @@
+{
+ "lot": "PL-32",
+ "date": "2026-05-05",
+ "material": "polystyrene pellets",
+ "sample_mass_g": 1.882,
+ "polymer_density_g_per_ml_at_oven": 0.977,
+ "vial_volume_ml": 22.3,
+ "oven_temperature_c": 150.0,
+ "first_equilibration_min": 45.0,
+ "interval_min": 25.0,
+ "extractions": 6,
+ "hold_min": 0.5,
+ "head_pressure_setting_kpa_gauge": 100.0,
+ "barometric_pressure_kpa": 98.84,
+ "standard_styrene_ug": 640.0
+}

@@ -1,0 +1,75 @@
+{
+ "shipped": {
+  "PL-04": {
+   "reference": 0.204,
+   "second": 0.187
+  },
+  "PL-09": {
+   "reference": 0.061,
+   "second": 0.087
+  },
+  "PL-31": {
+   "reference": 0.119,
+   "second": 0.17
+  },
+  "PL-32": {
+   "reference": 0.177,
+   "second": 0.144
+  },
+  "PL-33": {
+   "reference": 0.108,
+   "second": 0.108
+  },
+  "PL-34": {
+   "reference": 0.289,
+   "second": 0.27
+  },
+  "PL-35": {
+   "reference": 0.12,
+   "second": 0.189
+  }
+ },
+ "routes": {
+  "areas as integrated, the logged hold pressures unused": {
+   "PL-04": 0.19,
+   "PL-09": 0.08,
+   "PL-31": 6.59,
+   "PL-32": 0.17,
+   "PL-33": 3.9,
+   "PL-34": 0.31,
+   "PL-35": 5.12
+  },
+  "one peak fitted over the styrene window (no co-eluting product)": {
+   "PL-04": 0.2,
+   "PL-09": 0.06,
+   "PL-31": 0.12,
+   "PL-32": 3.67,
+   "PL-33": 5.87,
+   "PL-34": 3.88,
+   "PL-35": 0.12
+  },
+  "area sums compared with the standard's directly (no gas-volume share)": {
+   "PL-04": 5.74,
+   "PL-09": 7.61,
+   "PL-31": 6.62,
+   "PL-32": 4.92,
+   "PL-33": 7.98,
+   "PL-34": 5.69,
+   "PL-35": 6.92
+  },
+  "all three together: the plain MHE reading": {
+   "PL-04": 5.74,
+   "PL-09": 7.62,
+   "PL-31": 6.38,
+   "PL-32": 8.74,
+   "PL-33": 10.52,
+   "PL-34": 10.33,
+   "PL-35": 5.12
+  }
+ },
+ "redraws": {
+  "reference": 0.361,
+  "second": 0.387
+ },
+ "worked_copy_passes": 0
+}

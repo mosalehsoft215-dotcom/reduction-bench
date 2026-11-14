@@ -1,0 +1,22 @@
+{
+ "K-21": {
+  "apparent_free_length_m": 14.152,
+  "creep_mm_per_decade": 0.794
+ },
+ "K-22": {
+  "apparent_free_length_m": 13.648,
+  "creep_mm_per_decade": 1.212
+ },
+ "K-23": {
+  "apparent_free_length_m": 17.391,
+  "creep_mm_per_decade": 0.963
+ },
+ "K-24": {
+  "apparent_free_length_m": 12.861,
+  "creep_mm_per_decade": 1.083
+ },
+ "K-25": {
+  "apparent_free_length_m": 16.377,
+  "creep_mm_per_decade": 0.687
+ }
+}

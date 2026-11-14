@@ -1,0 +1,9 @@
+A-07 accepted                passes: none
+A-12 accepted                passes: none
+mean of the examples         passes: none
+14 m / 1.0 mm                passes: none
+free + 0.00 bond, example creep  passes: none
+free + 0.15 bond, example creep  passes: none
+free + 0.20 bond, example creep  passes: none
+free + 0.25 bond, example creep  passes: none
+free + 0.50 bond, example creep  passes: none

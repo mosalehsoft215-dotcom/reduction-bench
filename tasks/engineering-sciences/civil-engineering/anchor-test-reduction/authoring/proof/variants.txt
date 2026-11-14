@@ -1,0 +1,12 @@
+reading                                                                              A-07             A-12             K-21             K-22             K-23             K-24             K-25
+the method                                                                      -0.0/+0.1        +0.0/+0.0        -0.0/-0.2        +0.0/-0.2        -0.0/-0.3        +0.0/-0.3        +0.0/+0.2
+load cell as read (it agrees with the jack table)                               -0.0/+0.1        -0.0/+0.0       +5.6*/-0.2        +0.0/-0.2        -0.0/-0.3        +0.0/-0.3        +0.0/+0.2
+force from the jack table                                                       -0.3/+0.1        -0.3/+0.0       +5.2*/-0.2        -0.3/-0.2        -0.3/-0.3        -0.2/-0.3        -0.3/+0.2
+force = pressure x ram area, friction left in                                  -1.6*/+0.1       -1.6*/+0.0       -1.6*/-0.2       -1.6*/-0.2       -1.6*/-0.3       -1.5*/-0.3       -1.6*/+0.2
+LVDT as read                                                                    -0.1/+0.1        -0.0/-0.0        -0.1/-0.2       -5.3*/-5.5        -0.0/-0.3        +0.0/-0.3        +0.0/+0.2
+extension bar temperature ignored                                               -0.0/+0.6        +0.0/+0.5        -0.0/+0.4        -0.0/+0.2        -0.0/+0.2        +0.0/+0.1      +0.0/+22.6*
+levelling of the beam ignored                                                   +0.0/+0.1        +0.0/+0.0        +0.0/-0.2        +0.0/-0.2       +2.1*/-0.3        -0.0/-0.3        +0.0/+0.2
+dial sheet's hold clock taken as time since the load was reached                -0.0/-0.8        +0.0/+0.3        -0.0/-0.4        +0.0/-0.3        -0.0/-0.6      +0.0/+55.8*        +0.0/+0.5
+careful: load cell, LVDT, sheet clock, no further corrections                   +0.0/-0.5        +0.0/+0.6       +5.6*/+0.1       -5.3*/+0.0       +2.1*/-0.2      -0.1/+56.5*      +0.0/+16.8*
+plain: jack table, LVDT, sheet clock                                            -0.3/-0.5        -0.3/+0.6       +5.3*/+0.1       -5.6*/+0.0       +1.8*/-0.2      -0.3/+56.5*      -0.3/+16.8*
+(* outside the allowance: 1.2 % free length, 5.5 % creep)

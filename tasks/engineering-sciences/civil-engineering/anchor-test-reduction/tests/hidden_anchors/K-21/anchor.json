@@ -1,0 +1,18 @@
+{
+ "anchor": "K-21",
+ "inclination_deg": 20.0,
+ "tendon": {
+  "strands": 7,
+  "strand_area_mm2": 150.0,
+  "strand_modulus_gpa": 195.6,
+  "free_length_m": 11.0,
+  "bond_length_m": 7.5
+ },
+ "proof_load_kn": 1436.0,
+ "datum_load_kn": 145.0,
+ "cycle_levels": [
+  0.5,
+  0.75,
+  1.0
+ ]
+}

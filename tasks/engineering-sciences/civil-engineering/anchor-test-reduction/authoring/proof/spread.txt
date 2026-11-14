@@ -1,0 +1,17 @@
+30 draws; worst deviation in per cent, free length / creep
+reference A-07  -0.110 / -0.344
+reference A-12  +0.134 / -0.123
+reference K-21  -0.104 / -0.340
+reference K-22  +0.199 / -0.281
+reference K-23  +0.185 / -0.467
+reference K-24  -0.119 / -0.397
+reference K-25  +0.129 / -0.131
+second    A-07  -0.496 / +1.838
+second    A-12  -0.501 / +0.941
+second    K-21  -0.493 / +1.841
+second    K-22  -0.474 / +2.043
+second    K-23  -0.453 / -2.716
+second    K-24  -0.571 / +2.360
+second    K-25  -0.496 / -1.134
+reference overall worst: free length 0.199 %, creep 0.467 %
+second overall worst: free length 0.571 %, creep 2.716 %

@@ -1,0 +1,18 @@
+{
+ "anchor": "K-23",
+ "inclination_deg": 45.0,
+ "tendon": {
+  "strands": 8,
+  "strand_area_mm2": 150.0,
+  "strand_modulus_gpa": 195.6,
+  "free_length_m": 15.0,
+  "bond_length_m": 8.0
+ },
+ "proof_load_kn": 1652.0,
+ "datum_load_kn": 165.0,
+ "cycle_levels": [
+  0.5,
+  0.75,
+  1.0
+ ]
+}

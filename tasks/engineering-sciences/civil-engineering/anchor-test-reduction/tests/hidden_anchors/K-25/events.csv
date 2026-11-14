@@ -1,0 +1,11 @@
+time,event,value
+2026-04-17 11:10:00,test_start,
+2026-04-17 11:10:00,increment_start,165
+2026-04-17 11:12:17,increment_start,830
+2026-04-17 11:14:25,unload_start,165
+2026-04-17 11:15:59,increment_start,1246
+2026-04-17 11:18:49,unload_start,165
+2026-04-17 11:20:44,increment_start,1661
+2026-04-17 11:38:16,hold_extended,60
+2026-04-17 12:23:16,unload_start,165
+2026-04-17 12:29:32,test_end,

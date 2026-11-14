@@ -1,0 +1,47 @@
+{
+ "jack": {
+  "tag": "J-1",
+  "ram_area_cm2": 459.4,
+  "pressure_transducer": "PT-1",
+  "pressure_unit": "bar"
+ },
+ "jack_table": {
+  "tag": "J-1/PT-1",
+  "force_kn_per_bar": 4.29396,
+  "calibrated_against": "proving ring PR-3",
+  "branch": "loading"
+ },
+ "load_cell": {
+  "tag": "LC-1",
+  "position": "between jack and anchor head",
+  "calibrated_against": "proving ring PR-3"
+ },
+ "displacement": [
+  {
+   "tag": "LVDT-1",
+   "kind": "LVDT",
+   "mounting": "extension bar",
+   "reading": "logged"
+  },
+  {
+   "tag": "DG-1",
+   "kind": "dial gauge",
+   "mounting": "extension bar",
+   "resolution_mm": 0.01,
+   "reading": "dial sheet",
+   "hold_clock": "from the moment the stage load was reached"
+  }
+ ],
+ "extension_bar": {
+  "material": "steel",
+  "length_mm": 1450.0,
+  "thermometer": "TB-1"
+ },
+ "reference_beam": {
+  "support_distance_from_head_m": 3.2,
+  "levelled_points": [
+   "support A",
+   "support B"
+  ]
+ }
+}

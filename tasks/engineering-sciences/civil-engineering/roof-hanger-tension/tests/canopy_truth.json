@@ -1,0 +1,22 @@
+{
+ "VT-61": {
+  "axial_before_kn": 800.0,
+  "axial_after_kn": 690.0
+ },
+ "VT-63": {
+  "axial_before_kn": 1090.0,
+  "axial_after_kn": 940.0
+ },
+ "VT-64": {
+  "axial_before_kn": 3370.0,
+  "axial_after_kn": 2900.0
+ },
+ "VT-65": {
+  "axial_before_kn": 470.0,
+  "axial_after_kn": 545.0
+ },
+ "VT-66": {
+  "axial_before_kn": 960.0,
+  "axial_after_kn": 1100.0
+ }
+}

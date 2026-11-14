@@ -1,0 +1,22 @@
+{
+ "D-31": {
+  "internal_quality_factor": 661800.0,
+  "resonance_frequency_ghz": 4.88271
+ },
+ "D-32": {
+  "internal_quality_factor": 250700.0,
+  "resonance_frequency_ghz": 5.73893
+ },
+ "D-33": {
+  "internal_quality_factor": 447100.0,
+  "resonance_frequency_ghz": 6.41152
+ },
+ "D-34": {
+  "internal_quality_factor": 1092700.0,
+  "resonance_frequency_ghz": 4.55736
+ },
+ "D-35": {
+  "internal_quality_factor": 198700.0,
+  "resonance_frequency_ghz": 6.88409
+ }
+}

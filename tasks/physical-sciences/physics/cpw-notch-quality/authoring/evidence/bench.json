@@ -1,0 +1,138 @@
+{
+ "shipped": {
+  "D-04": {
+   "reference": 0.014,
+   "second": 0.038
+  },
+  "D-09": {
+   "reference": 0.001,
+   "second": 0.04
+  },
+  "D-31": {
+   "reference": 0.139,
+   "second": 0.077
+  },
+  "D-32": {
+   "reference": 0.074,
+   "second": 0.138
+  },
+  "D-33": {
+   "reference": 0.397,
+   "second": 0.431
+  },
+  "D-34": {
+   "reference": 0.044,
+   "second": 0.03
+  },
+  "D-35": {
+   "reference": 0.088,
+   "second": 0.082
+  }
+ },
+ "routes": {
+  "logged values as they stand (header CW gain, stream drive and sweep direction, stream mapped onto the fitted curve, the wandering taken Gaussian)": {
+   "D-04": 0.26,
+   "D-09": 0.08,
+   "D-31": 15.4,
+   "D-32": 11.59,
+   "D-33": 14.91,
+   "D-34": 17.02,
+   "D-35": 5.65
+  },
+  "the stream taken at its logged drive (-96 dBm)": {
+   "D-04": 0.01,
+   "D-09": 0.0,
+   "D-31": 5.62,
+   "D-32": 0.07,
+   "D-33": 5.82,
+   "D-34": 0.04,
+   "D-35": 0.09
+  },
+  "the wandering taken Gaussian (its rms from the stream)": {
+   "D-04": 0.01,
+   "D-09": 0.06,
+   "D-31": 4.26,
+   "D-32": 8.39,
+   "D-33": 2.75,
+   "D-34": 6.2,
+   "D-35": 0.09
+  },
+  "CW receiver gain as logged (stream mapped onto the fitted curve)": {
+   "D-04": 0.26,
+   "D-09": 0.0,
+   "D-31": 15.4,
+   "D-32": 11.59,
+   "D-33": 14.91,
+   "D-34": 17.03,
+   "D-35": 0.22
+  },
+  "sweep direction as the header records it": {
+   "D-04": 0.01,
+   "D-09": 0.0,
+   "D-31": 0.14,
+   "D-32": 10.65,
+   "D-33": 0.4,
+   "D-34": 0.04,
+   "D-35": 8.11
+  },
+  "one Q_i for both drive powers": {
+   "D-04": 1.02,
+   "D-09": 2.82,
+   "D-31": 1.37,
+   "D-32": 0.87,
+   "D-33": 1.71,
+   "D-34": 4.8,
+   "D-35": 2.12
+  },
+  "A(-96 dBm) = 10^-0.6 A(-90 dBm) without the Q_l^3 factor": {
+   "D-04": 0.01,
+   "D-09": 0.01,
+   "D-31": 0.11,
+   "D-32": 1.9,
+   "D-33": 0.39,
+   "D-34": 0.04,
+   "D-35": 2.37
+  },
+  "frequency noise ignored (instant notch response)": {
+   "D-04": 3.88,
+   "D-09": 2.17,
+   "D-31": 15.4,
+   "D-32": 11.66,
+   "D-33": 14.91,
+   "D-34": 16.98,
+   "D-35": 10.03
+  },
+  "Kerr detuning by bisection on the stored energy (one root assumed)": {
+   "D-04": 0.01,
+   "D-09": 0.0,
+   "D-31": 0.14,
+   "D-32": 10.7,
+   "D-33": 0.4,
+   "D-34": 0.04,
+   "D-35": 24.86
+  },
+  "Kerr shift ignored": {
+   "D-04": 0.51,
+   "D-09": 0.59,
+   "D-31": 4.33,
+   "D-32": 33.37,
+   "D-33": 3.9,
+   "D-34": 0.59,
+   "D-35": 57.06
+  },
+  "Gaussian rms fitted from the trace shapes (time stream unused)": {
+   "D-04": 0.01,
+   "D-09": 0.03,
+   "D-31": 6.81,
+   "D-32": 10.7,
+   "D-33": 9.49,
+   "D-34": 16.98,
+   "D-35": 4.43
+  }
+ },
+ "worked_copy_passes": 0,
+ "redraws": {
+  "reference": 0.752,
+  "second": 0.837
+ }
+}

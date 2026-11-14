@@ -1,0 +1,26 @@
+{
+ "device": "D-09",
+ "geometry": "quarter-wave CPW resonator capacitively coupled to a feedline (notch)",
+ "sweeps": {
+  "sweep_minus96dbm.csv": {
+   "drive": "-96 dBm at the device",
+   "direction": "up",
+   "if_bandwidth_hz": 10
+  },
+  "sweep_minus90dbm.csv": {
+   "drive": "-90 dBm at the device",
+   "direction": "up",
+   "if_bandwidth_hz": 10
+  }
+ },
+ "time_stream": {
+  "file": "timestream_minus96dbm.csv",
+  "drive": "-96 dBm at the device",
+  "probe_frequency_hz": 6073138040,
+  "sample_rate_hz": 2000,
+  "samples": 4000,
+  "receiver_gain_db": 0.0
+ },
+ "vna_electrical_delay_setting_ns": 0.0,
+ "temperature_mk": 12
+}

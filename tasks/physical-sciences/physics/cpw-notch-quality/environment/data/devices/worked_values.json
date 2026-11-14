@@ -1,0 +1,10 @@
+{
+ "D-04": {
+  "internal_quality_factor": 587300.0,
+  "resonance_frequency_ghz": 5.41827
+ },
+ "D-09": {
+  "internal_quality_factor": 319200.0,
+  "resonance_frequency_ghz": 6.07314
+ }
+}

@@ -1,0 +1,132 @@
+{
+ "night_2025-07-06": {
+  "diameter_mas": 1.043,
+  "flux_ratio_percent": 4.225,
+  "separation_mas": 142.83,
+  "position_angle_deg": 219.64,
+  "mean_mjd": 60862.33611818086,
+  "zenith_deg": [
+   7.43241449963074,
+   38.09890576992396
+  ],
+  "k": [
+   1.00318
+  ],
+  "east_j2000": -91.1200773365755,
+  "north_j2000": -109.98881945987284,
+  "highest_sun_altitude_deg": -15.465318207002499,
+  "aberration_scale": 9.760418457413287e-06
+ },
+ "night_2025-08-01": {
+  "diameter_mas": 0.881,
+  "flux_ratio_percent": 2.614,
+  "separation_mas": 96.21,
+  "position_angle_deg": 63.08,
+  "mean_mjd": 60888.33627811669,
+  "zenith_deg": [
+   6.623573718736389,
+   38.729803393698056
+  ],
+  "k": [
+   0.99784,
+   1.00212
+  ],
+  "east_j2000": 85.78464069857532,
+  "north_j2000": 43.55869052458228,
+  "highest_sun_altitude_deg": -21.0852577251224,
+  "aberration_scale": 1.7952446644053526e-05
+ },
+ "h1": {
+  "diameter_mas": 1.152,
+  "flux_ratio_percent": 6.104,
+  "separation_mas": 207.35,
+  "position_angle_deg": 74.81,
+  "mean_mjd": 60796.353292301836,
+  "zenith_deg": [
+   0.42147445698807484,
+   14.913124336390505
+  ],
+  "k": [
+   1.00142
+  ],
+  "east_j2000": 200.10565555074308,
+  "north_j2000": 54.330001993441634,
+  "highest_sun_altitude_deg": -32.707155571663,
+  "aberration_scale": -8.688046512033925e-06
+ },
+ "h2": {
+  "diameter_mas": 0.959,
+  "flux_ratio_percent": 3.116,
+  "separation_mas": 117.86,
+  "position_angle_deg": 302.43,
+  "mean_mjd": 60965.44183187637,
+  "zenith_deg": [
+   12.067205454389352,
+   53.38033664352494
+  ],
+  "k": [
+   1.00108,
+   1.00467
+  ],
+  "east_j2000": -99.47940906443077,
+  "north_j2000": 63.20464201458346,
+  "highest_sun_altitude_deg": -12.129755899342445,
+  "aberration_scale": 9.242217007106084e-05
+ },
+ "h3": {
+  "diameter_mas": 1.118,
+  "flux_ratio_percent": 1.835,
+  "separation_mas": 44.12,
+  "position_angle_deg": 17.36,
+  "mean_mjd": 61117.21598832179,
+  "zenith_deg": [
+   17.49472273185095,
+   54.661807446695946
+  ],
+  "k": [
+   0.99872
+  ],
+  "east_j2000": 13.16428444062092,
+  "north_j2000": 42.11028395969832,
+  "highest_sun_altitude_deg": -15.454896032304278,
+  "aberration_scale": -9.329202658851489e-05
+ },
+ "h4": {
+  "diameter_mas": 0.793,
+  "flux_ratio_percent": 3.712,
+  "separation_mas": 161.05,
+  "position_angle_deg": 247.9,
+  "mean_mjd": 61206.344461636,
+  "zenith_deg": [
+   44.800551977046354,
+   47.984773959631
+  ],
+  "k": [
+   1.00261,
+   0.99943,
+   1.00305
+  ],
+  "east_j2000": -149.2174360019094,
+  "north_j2000": -60.590917578594855,
+  "highest_sun_altitude_deg": -15.195809698164428,
+  "aberration_scale": -2.343801668603604e-06
+ },
+ "h5": {
+  "diameter_mas": 1.306,
+  "flux_ratio_percent": 5.18,
+  "separation_mas": 150.37,
+  "position_angle_deg": 95.12,
+  "mean_mjd": 60961.33081669291,
+  "zenith_deg": [
+   42.61492839292236,
+   60.152737575895955
+  ],
+  "k": [
+   0.99917
+  ],
+  "east_j2000": 149.77001990552992,
+  "north_j2000": -13.419315835659193,
+  "highest_sun_altitude_deg": -35.60234603592893,
+  "aberration_scale": -4.878737047025004e-06
+ }
+}

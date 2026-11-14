@@ -1,0 +1,4 @@
+2025-10-13 04:25:36 UTC  night started, all six telescopes on sky
+2025-10-13 04:39:34 UTC  wavecal scan 1
+2025-10-13 11:09:05 UTC  wavecal scan 2
+2025-10-13 11:25:42 UTC  night ended

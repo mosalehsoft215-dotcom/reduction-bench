@@ -1,0 +1,8 @@
+night,err_diameter_pct,err_flux_ratio_pct,err_separation_pct,err_position_angle_deg,chi2_per_measurement,chi2_minus_reference,worst_in_limits,worst_quantity
+night_2025-07-06,+0.0035,+0.1005,+0.0001,+0.0003,0.9868,+0.0,0.13,position_angle_deg
+night_2025-08-01,-0.0044,-0.0219,+0.0000,-0.0001,0.9979,+0.0,0.03,position_angle_deg
+h1,-0.0010,-0.3494,-0.0013,-0.0004,0.9837,+0.0,0.31,separation_mas
+h2,+0.0003,-0.0847,+0.0004,-0.0000,1.0069,+0.0,0.10,separation_mas
+h3,+0.0010,-0.0254,-0.0002,-0.0001,0.9781,+0.0,0.05,position_angle_deg
+h4,+0.0307,-0.0873,+0.0006,+0.0006,0.9832,+0.0,0.28,position_angle_deg
+h5,+0.0051,+0.0316,-0.0004,-0.0002,0.9792,+0.0,0.10,separation_mas

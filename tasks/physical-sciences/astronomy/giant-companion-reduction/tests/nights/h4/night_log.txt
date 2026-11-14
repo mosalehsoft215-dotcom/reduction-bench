@@ -1,0 +1,7 @@
+2026-06-15 04:57:13 UTC  night started, all six telescopes on sky
+2026-06-15 05:10:42 UTC  wavecal scan 1
+2026-06-15 07:02:40 UTC  spectrograph camera refocused
+2026-06-15 07:21:58 UTC  wavecal scan 2
+2026-06-15 09:29:22 UTC  spectrograph camera refocused
+2026-06-15 09:48:41 UTC  wavecal scan 3
+2026-06-15 11:33:23 UTC  night ended

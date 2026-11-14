@@ -1,0 +1,4 @@
+h1: nodes (time, wavenumber, image motion, coupling terms) (24, 48, 10, 4) vs (48, 96, 14, 6): largest relative change of vis2 1.7e-12, of closure phase 7.2e-11 deg
+h1: nodes (time, wavenumber, image motion, coupling terms) (16, 32, 8, 3) vs (48, 96, 14, 6): largest relative change of vis2 4.1e-11, of closure phase 4.7e-09 deg
+night_2025-07-06: nodes (time, wavenumber, image motion, coupling terms) (24, 48, 10, 4) vs (48, 96, 14, 6): largest relative change of vis2 6.6e-11, of closure phase 6.7e-10 deg
+night_2025-07-06: nodes (time, wavenumber, image motion, coupling terms) (16, 32, 8, 3) vs (48, 96, 14, 6): largest relative change of vis2 1.6e-11, of closure phase 4.4e-10 deg

@@ -1,0 +1,7 @@
+# target and calibrators of this night
+target_ra_j2000: 01h 31m 24.0s
+target_dec_j2000: -08 24' 00"
+companion_k_flux_ratio_percent: 7.43
+companion_earlier_astrometry: epoch 2012.80, separation 0.146 arcsec, position angle 104.0 deg (adaptive optics, K band)
+calibrator_A: ra 01h 40m 24.0s, dec -06 54' 00", type K2 III, limb_darkened_diameter_mas 0.611, linear_limb_darkening_h 0.37
+calibrator_B: ra 01h 22m 24.0s, dec -09 57' 00", type G8 III, limb_darkened_diameter_mas 0.503, linear_limb_darkening_h 0.33

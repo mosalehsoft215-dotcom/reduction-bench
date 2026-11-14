@@ -1,0 +1,55 @@
+
+== cis: reference 842 lines, rms 2.84 kHz
+   reference: V3_C3 -0.0574%, V3_C4 -0.0111%, V12 -0.0297, A -0.0002, B +0.0001, C +0.0001, angle_C3 +0.0000, angle_C4 -0.0022
+   (variant model with no change against the reference model: 8.4e-09 MHz)
+   defensible, lines up to J = 8                       711 lines, rms  2.49 kHz: V3_C3 -0.0914%, V3_C4 -0.0186%, V12 -0.0474, A -0.0000, B +0.0001, C +0.0000, angle_C3 +0.0000, angle_C4 +0.0021
+   defensible, lines up to J = 10                      817 lines, rms  2.64 kHz: V3_C3 -0.0732%, V3_C4 -0.0149%, V12 -0.0379, A -0.0000, B +0.0001, C +0.0001, angle_C3 -0.0000, angle_C4 +0.0017
+   defensible, 2-8 GHz segment only                    306 lines, rms  2.43 kHz: V3_C3 -0.1924%, V3_C4 -0.0403%, V12 -0.0998, A -0.0002, B +0.0001, C +0.0001, angle_C3 +0.0000, angle_C4 +0.0074
+   defensible, 6-18 GHz segment only                   665 lines, rms  2.76 kHz: V3_C3 -0.0805%, V3_C4 -0.0162%, V12 -0.0417, A -0.0001, B +0.0001, C +0.0001, angle_C3 -0.0000, angle_C4 +0.0003
+   defensible, (11) and (12) lines up to J = 6 only    700 lines, rms  2.64 kHz: V3_C3 -0.0965%, V3_C4 -0.0192%, V12 -0.0500, A -0.0002, B +0.0001, C +0.0001, angle_C3 +0.0000, angle_C4 -0.0013
+   defensible, without the (00) species                674 lines, rms  2.74 kHz: V3_C3 -0.0648%, V3_C4 -0.0132%, V12 -0.0336, A -0.0001, B +0.0000, C +0.0001, angle_C3 -0.0000, angle_C4 +0.0018
+   defensible, every second line                       421 lines, rms  2.59 kHz: V3_C3 -0.0233%, V3_C4 -0.0051%, V12 -0.0120, A -0.0000, B +0.0000, C +0.0001, angle_C3 -0.0000, angle_C4 +0.0010
+   defensible, torsional basis kmax 6, nkeep 24        842 lines, rms  2.70 kHz: V3_C3 -0.0680%, V3_C4 -0.0138%, V12 -0.0352, A -0.0002, B +0.0001, C +0.0001, angle_C3 -0.0000, angle_C4 +0.0018
+   shortcut, two tops, V12 = 0, species (00) (01) (10)          rms   7.09 kHz: V3_C3 +45.0057%, V3_C4 +9.2264%, V12 +23.1800, A -0.0011, B -0.0006, C -0.0001, angle_C3 -0.0008, angle_C4 +1.4551
+   shortcut, two tops, V12 = 0, all five species                rms 103.09 kHz: V3_C3 +45.0323%, V3_C4 +9.7062%, V12 +23.1800, A -0.0020, B +0.0005, C +0.0003, angle_C3 -0.0006, angle_C4 +0.1161
+   shortcut, two tops, V12 free from 0, species (00) (01) (10) only rms   2.65 kHz: V3_C3 +0.2628%, V3_C4 +0.0536%, V12 +0.1366, A -0.0002, B +0.0001, C +0.0001, angle_C3 -0.0000, angle_C4 -0.0245
+   shortcut, quartic dJ and dK left out                         rms  19.50 kHz: V3_C3 -0.1930%, V3_C4 -0.0381%, V12 -0.1015, A +0.0010, B -0.0028, C +0.0010, angle_C3 -0.0002, angle_C4 -0.0283
+   shortcut, kinetic coupling F12 left out                      rms   7.13 kHz: V3_C3 -0.6491%, V3_C4 -0.1327%, V12 -0.3382, A -0.0003, B +0.0000, C +0.0002, angle_C3 -0.0000, angle_C4 -0.0195
+   shortcut, F0 = h/(8 pi^2 I_alpha) for both tops, no F12      rms  10.35 kHz: V3_C3 -1.2430%, V3_C4 -1.8474%, V12 +0.1420, A -0.0004, B +0.0001, C +0.0002, angle_C3 +0.0003, angle_C4 -0.0224
+   shortcut, I_alpha = 3.20 u A^2                               rms 184.46 kHz: V3_C3 -0.9809%, V3_C4 -1.5245%, V12 +0.7228, A +0.0033, B -0.0030, C +0.0001, angle_C3 -0.0086, angle_C4 +0.0960
+   shortcut, torsional basis kmax 3                             rms 7415.56 kHz: V3_C3 +91.5871%, V3_C4 +29.5726%, V12 +45.1484, A -0.2382, B +0.0333, C -0.0017, angle_C3 -1.6292, angle_C4 +55.1842
+   shortcut, torsional basis kmax 4                             rms 119.35 kHz: V3_C3 +38.9705%, V3_C4 +8.1308%, V12 +20.0718, A -0.0041, B -0.0011, C +0.0014, angle_C3 +0.0280, angle_C4 +0.1974
+   shortcut, axis angles held at the model structure            rms 6501.82 kHz: V3_C3 +30.0611%, V3_C4 +3.9733%, V12 +13.5523, A +1.1168, B -0.1174, C -0.1428, angle_C3 -1.6394, angle_C4 +0.3106
+   shortcut, one top at a time (constants of the C3-methyl fit) rms      -    : V3_C3 +45.0057%, V3_C4 +9.2670%, V12 +23.1800, A +0.2196, B -0.0015, C +0.0040, angle_C3 -0.0032, angle_C4 +1.0267
+   shortcut, one top at a time (constants of the C4-methyl fit) rms      -    : V3_C3 +45.0057%, V3_C4 +9.2670%, V12 +23.1800, A +0.1629, B +1.5415, C +0.0054, angle_C3 -0.0032, angle_C4 +1.0267
+   shortcut, (00) rigid-rotor constants as A, B, C              rms      -    : V3_C3 -0.0574%, V3_C4 -0.0111%, V12 -0.0297, A +0.3752, B +1.5373, C +0.0075, angle_C3 +0.0000, angle_C4 -0.0022
+   shortcut, the two methyl groups swapped                      rms      -    : V3_C3 +274.3171%, V3_C4 -73.3030%, V12 -0.0297, A -0.0002, B +0.0001, C +0.0001, angle_C3 -69.5522, angle_C4 +69.5500
+
+== trans: reference 1119 lines, rms 1.64 kHz
+   reference: V3_C3 +0.0067%, V3_C4 +0.0069%, V12 +0.0094, A -0.0001, B -0.0000, C +0.0000, angle_C3 -0.0002, angle_C4 -0.0065
+   (variant model with no change against the reference model: 2.0e-08 MHz)
+   defensible, lines up to J = 8                       895 lines, rms  1.51 kHz: V3_C3 -0.0665%, V3_C4 -0.0489%, V12 -0.0978, A -0.0001, B +0.0000, C +0.0000, angle_C3 -0.0001, angle_C4 -0.0065
+   defensible, lines up to J = 10                     1050 lines, rms  1.57 kHz: V3_C3 -0.0144%, V3_C4 -0.0091%, V12 -0.0217, A -0.0001, B +0.0000, C +0.0000, angle_C3 -0.0002, angle_C4 -0.0074
+   defensible, 2-8 GHz segment only                    408 lines, rms  1.25 kHz: V3_C3 -0.0652%, V3_C4 -0.0493%, V12 -0.0974, A -0.0000, B +0.0000, C +0.0000, angle_C3 -0.0005, angle_C4 -0.0045
+   defensible, 6-18 GHz segment only                   890 lines, rms  1.71 kHz: V3_C3 +0.0067%, V3_C4 +0.0067%, V12 +0.0095, A -0.0001, B -0.0000, C +0.0001, angle_C3 -0.0002, angle_C4 -0.0058
+   defensible, (11) and (12) lines up to J = 6 only    927 lines, rms  1.54 kHz: V3_C3 -0.0278%, V3_C4 -0.0194%, V12 -0.0419, A -0.0001, B +0.0000, C +0.0000, angle_C3 -0.0004, angle_C4 -0.0078
+   defensible, without the (00) species                875 lines, rms  1.65 kHz: V3_C3 +0.0064%, V3_C4 +0.0070%, V12 +0.0093, A -0.0001, B +0.0000, C +0.0001, angle_C3 -0.0001, angle_C4 -0.0069
+   defensible, every second line                       560 lines, rms  1.58 kHz: V3_C3 -0.0261%, V3_C4 -0.0191%, V12 -0.0405, A -0.0002, B +0.0000, C +0.0000, angle_C3 -0.0005, angle_C4 -0.0064
+   defensible, torsional basis kmax 6, nkeep 24       1119 lines, rms  1.64 kHz: V3_C3 +0.0056%, V3_C4 +0.0079%, V12 +0.0090, A -0.0001, B -0.0000, C +0.0000, angle_C3 +0.0001, angle_C4 -0.0103
+   shortcut, two tops, V12 = 0, species (00) (01) (10)          rms   1.67 kHz: V3_C3 +11.9277%, V3_C4 +9.1736%, V12 +17.4600, A -0.0001, B -0.0001, C +0.0000, angle_C3 -0.0003, angle_C4 +0.0223
+   shortcut, two tops, V12 = 0, all five species                rms   8.84 kHz: V3_C3 +11.9344%, V3_C4 +9.2008%, V12 +17.4600, A +0.0000, B +0.0000, C +0.0001, angle_C3 +0.0008, angle_C4 -0.0009
+   shortcut, two tops, V12 free from 0, species (00) (01) (10) only rms   1.67 kHz: V3_C3 +11.9277%, V3_C4 +9.1735%, V12 +17.4600, A -0.0001, B -0.0001, C +0.0000, angle_C3 -0.0003, angle_C4 +0.0223
+   shortcut, quartic dJ and dK left out                         rms  28.64 kHz: V3_C3 -0.5206%, V3_C4 -0.4221%, V12 -0.8133, A +0.0006, B -0.0017, C +0.0019, angle_C3 -0.0143, angle_C4 -0.0068
+   shortcut, kinetic coupling F12 left out                      rms   1.71 kHz: V3_C3 +0.2745%, V3_C4 +0.2138%, V12 +0.4040, A -0.0001, B +0.0000, C +0.0001, angle_C3 -0.0001, angle_C4 -0.0080
+   shortcut, F0 = h/(8 pi^2 I_alpha) for both tops, no F12      rms   1.71 kHz: V3_C3 -0.6535%, V3_C4 -1.1196%, V12 +0.7224, A -0.0001, B +0.0000, C +0.0000, angle_C3 +0.0003, angle_C4 -0.0087
+   shortcut, I_alpha = 3.20 u A^2                               rms  13.90 kHz: V3_C3 -1.2791%, V3_C4 -1.7215%, V12 +0.3857, A +0.0003, B -0.0001, C -0.0003, angle_C3 -0.1351, angle_C4 +0.3260
+   shortcut, torsional basis kmax 3                             rms 1078.33 kHz: V3_C3 +20.9612%, V3_C4 +28.8889%, V12 +18.4353, A -0.0621, B -0.0433, C +0.0119, angle_C3 -1.5331, angle_C4 +19.1646
+   shortcut, torsional basis kmax 4                             rms 130.84 kHz: V3_C3 +28.4888%, V3_C4 +21.5601%, V12 +41.3149, A -0.0024, B -0.0002, C +0.0003, angle_C3 -0.2093, angle_C4 +1.0840
+   shortcut, axis angles held at the model structure            rms 204.02 kHz: V3_C3 -0.7932%, V3_C4 -3.8178%, V12 -6.5913, A +0.0062, B +0.0040, C +0.0004, angle_C3 -1.6173, angle_C4 +1.0673
+   shortcut, one top at a time (constants of the C3-methyl fit) rms      -    : V3_C3 +11.9265%, V3_C4 +9.1731%, V12 +17.4600, A +0.1443, B +0.0243, C +0.0038, angle_C3 +0.0049, angle_C4 +0.0274
+   shortcut, one top at a time (constants of the C4-methyl fit) rms      -    : V3_C3 +11.9265%, V3_C4 +9.1731%, V12 +17.4600, A +0.0159, B +0.1825, C +0.0042, angle_C3 +0.0049, angle_C4 +0.0274
+   shortcut, (00) rigid-rotor constants as A, B, C              rms      -    : V3_C3 +0.0067%, V3_C4 +0.0069%, V12 +0.0094, A +0.1499, B +0.2037, C +0.0058, angle_C3 -0.0002, angle_C4 -0.0065
+   shortcut, the two methyl groups swapped                      rms      -    : V3_C3 +26.0281%, V3_C4 -20.6418%, V12 +0.0094, A -0.0001, B -0.0000, C +0.0000, angle_C3 -43.8275, angle_C4 +43.8208
+
+The classification against the verifier bounds (tests/test_outputs.py) is in
+calibration_classification.txt (python authoring/evidence/classify.py).

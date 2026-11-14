@@ -1,0 +1,31 @@
+Forward-model checks, two-top PAM (2026-09-29)
+
+1. Px^2 + Py^2 + Pz^2 = J(J+1), J <= 13: max deviation 2.8e-14
+2. two-step solver (kmax 6, nkeep 50) against the whole product basis (kmax 6),
+   lowest two torsional manifolds, J = 0..5:
+   cis   all five species: max |difference| 6.5e-07 MHz
+   trans all five species: max |difference| 1.1e-06 MHz
+3. convergence of the ground-state transition frequencies (J <= 10, five species):
+   cis   (nkeep 60) against kmax 10: kmax 5: 5.9e-02, kmax 6: 1.6e-04, kmax 7: 2.5e-07, kmax 8: 1.2e-07 MHz
+   cis   (kmax 8) against nkeep 70: nkeep 20: 1.5e-03, nkeep 24: 3.6e-04, nkeep 30: 4.7e-05, nkeep 40: 2.4e-06, nkeep 50: 7.5e-08 MHz
+   trans (nkeep 60) against kmax 10: kmax 5: 2.8e-02, kmax 6: 6.8e-05, kmax 7: 1.5e-07, kmax 8: 1.7e-07 MHz
+   trans (kmax 8) against nkeep 70: nkeep 20: 5.9e-03, nkeep 24: 2.1e-03, nkeep 30: 1.5e-04, nkeep 40: 4.8e-06, nkeep 50: 2.2e-07 MHz
+   the generator uses kmax 8, nkeep 50; the reference fits use kmax 6, nkeep 24 and a
+   final pass with kmax 7, nkeep 30
+4. J = 0 torsional levels against a finite-difference solver (8th order, periodic grid):
+   cis   N =  96: lowest 24 levels (all nine species, 0 to 115.4 cm-1) agree to 2.4e-05 cm-1 max
+   cis   N = 132: lowest 24 levels (all nine species, 0 to 115.4 cm-1) agree to 2.0e-06 cm-1 max
+   trans N =  96: lowest 24 levels (all nine species, 0 to 111.2 cm-1) agree to 2.2e-05 cm-1 max
+   trans N = 132: lowest 24 levels (all nine species, 0 to 111.2 cm-1) agree to 1.8e-06 cm-1 max
+5. time reversal, cis, J <= 8: (0,1)=(0,2), (1,1)=(2,2), (1,2)=(2,1), (1,0)=(2,0) to 4.5e-07 MHz
+6. tops exchanged (rho, F, V3 swapped), cis, J <= 8: species map onto each other to 4.5e-08 MHz
+7. line strengths, two-step against whole product basis (J <= 3, species 00, 11, 12):
+   max |difference| 3.9e-09 D^2 (largest strength 21.06 D^2)
+8. the reference Hamiltonian (solution/mwfit.py) against the generator, J <= 10,
+   same A, B, C, distortion, V3, V12 and axis directions (kmax 8, nkeep 50):
+   cis   F and rho from the reference (I_alpha 3.146) against the generator's geometry (I_alpha 3.146002): 8.57e-02 MHz, 7.6e-09
+   cis   all five species: max |E_reference - E_generator| 1.9e-08 MHz
+   trans F and rho from the reference (I_alpha 3.146) against the generator's geometry (I_alpha 3.146002): 8.57e-02 MHz, 5.6e-09
+   trans all five species: max |E_reference - E_generator| 2.5e-08 MHz
+
+time 470 s

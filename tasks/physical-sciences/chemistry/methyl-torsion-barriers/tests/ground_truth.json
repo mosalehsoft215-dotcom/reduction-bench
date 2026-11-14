@@ -1,0 +1,21 @@
+{
+  "source": "authoring/provenance/generate_spectra.py (generator inputs)",
+  "units": "V3 and V12 cm-1; A, B, C MHz; angles degrees",
+  "V3_C3_cis": 82.64,
+  "V3_C4_cis": 309.37,
+  "V12_cis": -23.18,
+  "A_cis": 2343.3821,
+  "B_cis": 1164.8828,
+  "C_cis": 785.707,
+  "angle_C3_cis": 80.6959,
+  "angle_C4_cis": 11.1459,
+  "V3_C3_trans": 233.71,
+  "V3_C4_trans": 294.52,
+  "V12_trans": -17.46,
+  "A_trans": 2046.1258,
+  "B_trans": 1276.0764,
+  "C_trans": 793.6945,
+  "angle_C3_trans": 78.3855,
+  "angle_C4_trans": 34.5645,
+  "I_alpha_uA2": 3.146002
+}

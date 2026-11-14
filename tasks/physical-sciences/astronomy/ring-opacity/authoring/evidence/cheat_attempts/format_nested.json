@@ -1,0 +1,11 @@
+{
+ "ring": {
+  "semi_major_axis_km": 396.40049,
+  "opening_angle_deg": 33.59955,
+  "position_angle_deg": 17.29584,
+  "width_periapse_km": 11.33313,
+  "width_apoapse_km": 20.6608,
+  "tau_periapse": 0.80332,
+  "tau_apoapse": 0.73003
+ }
+}

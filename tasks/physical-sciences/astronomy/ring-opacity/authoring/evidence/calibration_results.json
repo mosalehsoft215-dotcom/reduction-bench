@@ -1,0 +1,623 @@
+[
+ {
+  "label": "DEF",
+  "route": "reference: distance at the epoch, uncovered light from the photometry, diffracted light of all orders",
+  "values": {
+   "semi_major_axis_km": 396.4004870387883,
+   "opening_angle_deg": 33.59955434114609,
+   "position_angle_deg": 17.295840854858543,
+   "width_periapse_km": 11.333130730886639,
+   "width_apoapse_km": 20.660800384739506,
+   "tau_periapse": 0.8033237302277376,
+   "tau_apoapse": 0.7300286323202814
+  },
+  "errors": {
+   "semi_major_axis_km": 0.00012286548645157325,
+   "opening_angle_deg": -0.00044565885391278925,
+   "position_angle_deg": -0.004159145141457543,
+   "width_periapse_km": -0.23652525627958498,
+   "width_apoapse_km": 0.10077705784643509,
+   "tau_periapse": -0.3814818665999975,
+   "tau_apoapse": 0.058748947406983554
+  },
+  "const": 0.5364133961126442,
+  "peak": 0.06855001783020855,
+  "scale": 1.0,
+  "chi2": 0.13412657516402976,
+  "inside": true
+ },
+ {
+  "label": "DEF",
+  "route": "reference with the passband as one wavelength (weighted mean)",
+  "values": {
+   "semi_major_axis_km": 396.4024024437937,
+   "opening_angle_deg": 33.59928595285115,
+   "position_angle_deg": 17.295918041217384,
+   "width_periapse_km": 11.330743062285071,
+   "width_apoapse_km": 20.66322188603802,
+   "tau_periapse": 0.8034850091717806,
+   "tau_apoapse": 0.729500809248042
+  },
+  "errors": {
+   "semi_major_axis_km": 0.000606065538266698,
+   "opening_angle_deg": -0.0007140471488540356,
+   "position_angle_deg": -0.004081958782620632,
+   "width_periapse_km": -0.257543465800425,
+   "width_apoapse_km": 0.11250913778109162,
+   "tau_periapse": -0.3614819975470529,
+   "tau_apoapse": -0.013595223678464219
+  },
+  "const": 0.5364133961126442,
+  "peak": 0.06849048564996148,
+  "scale": 1.0,
+  "chi2": 0.13433475343880927,
+  "inside": true
+ },
+ {
+  "label": "APPROX",
+  "route": "reference with the time stamp read as the middle of the exposure",
+  "values": {
+   "semi_major_axis_km": 396.4398955510993,
+   "opening_angle_deg": 33.59140767506286,
+   "position_angle_deg": 17.321026001128573,
+   "width_periapse_km": 11.291529532996835,
+   "width_apoapse_km": 20.572416079677346,
+   "tau_periapse": 0.8099175172631397,
+   "tau_apoapse": 0.727983584379021
+  },
+  "errors": {
+   "semi_major_axis_km": 0.010064467986703463,
+   "opening_angle_deg": -0.00859232493714046,
+   "position_angle_deg": 0.021026001128575444,
+   "width_periapse_km": -0.6027329841827855,
+   "width_apoapse_km": -0.3274414744314669,
+   "tau_periapse": 0.4362000574329894,
+   "tau_apoapse": -0.22154819366488887
+  },
+  "const": 0.5363984439327056,
+  "peak": 0.06857532093224944,
+  "scale": 1.0,
+  "chi2": 0.3109871368045909,
+  "inside": true
+ },
+ {
+  "label": "CHEAP",
+  "route": "uncovered light: none",
+  "values": {
+   "semi_major_axis_km": 396.4120229267943,
+   "opening_angle_deg": 33.597319676355255,
+   "position_angle_deg": 17.29667694550188,
+   "width_periapse_km": 11.490868253963205,
+   "width_apoapse_km": 20.80694999835445,
+   "tau_periapse": 0.2804364051075738,
+   "tau_apoapse": 0.2828189925373807
+  },
+  "errors": {
+   "semi_major_axis_km": 0.0030330289592095383,
+   "opening_angle_deg": -0.002680323644746352,
+   "position_angle_deg": -0.0033230544981250887,
+   "width_periapse_km": 1.1520092778451119,
+   "width_apoapse_km": 0.8088662710971528,
+   "tau_periapse": -65.22366008090603,
+   "tau_apoapse": -61.2364319438897
+  },
+  "const": 0.0,
+  "peak": 0.10096453910594898,
+  "scale": 1.0,
+  "chi2": 0.22292243121944405,
+  "inside": false
+ },
+ {
+  "label": "CHEAP",
+  "route": "uncovered light: centaur and ring only (companion left out)",
+  "values": {
+   "semi_major_axis_km": 396.40458670705044,
+   "opening_angle_deg": 33.598767587642854,
+   "position_angle_deg": 17.2960881155896,
+   "width_periapse_km": 11.37409139148557,
+   "width_apoapse_km": 20.69872212001672,
+   "tau_periapse": 0.6166174881240871,
+   "tau_apoapse": 0.588199060647036
+  },
+  "errors": {
+   "semi_major_axis_km": 0.0011570905778190976,
+   "opening_angle_deg": -0.0012324123571474388,
+   "position_angle_deg": -0.00391188441039958,
+   "width_periapse_km": 0.12404393913354461,
+   "width_apoapse_km": 0.2845063954298288,
+   "tau_periapse": -23.534537683024915,
+   "tau_apoapse": -19.380611205175992
+  },
+  "const": 0.43641513358231704,
+  "peak": 0.08412024922816824,
+  "scale": 1.0,
+  "chi2": 0.14040262460918373,
+  "inside": false
+ },
+ {
+  "label": "CHEAP",
+  "route": "uncovered light: companion only (centaur and ring left out)",
+  "values": {
+   "semi_major_axis_km": 396.4108897104909,
+   "opening_angle_deg": 33.597612069091625,
+   "position_angle_deg": 17.296572495781586,
+   "width_periapse_km": 11.468430196067184,
+   "width_apoapse_km": 20.788015673768374,
+   "tau_periapse": 0.3309939949019908,
+   "tau_apoapse": 0.33177893902270456
+  },
+  "errors": {
+   "semi_major_axis_km": 0.0027471519906452357,
+   "opening_angle_deg": -0.0023879309083767453,
+   "position_angle_deg": -0.003427504218421973,
+   "width_periapse_km": 0.9544911625632313,
+   "width_apoapse_km": 0.7171302023661452,
+   "tau_periapse": -58.95411769568567,
+   "tau_apoapse": -54.52591296289686
+  },
+  "const": 0.1,
+  "peak": 0.10218419968439056,
+  "scale": 1.0,
+  "chi2": 0.20511882935561468,
+  "inside": false
+ },
+ {
+  "label": "CHEAP",
+  "route": "uncovered light: ring in reflected light left out",
+  "values": {
+   "semi_major_axis_km": 396.40453186893626,
+   "opening_angle_deg": 33.598777692270815,
+   "position_angle_deg": 17.29608433636754,
+   "width_periapse_km": 11.37356032849131,
+   "width_apoapse_km": 20.698208827415193,
+   "tau_periapse": 0.6187228644591617,
+   "tau_apoapse": 0.5899296918143847
+  },
+  "errors": {
+   "semi_major_axis_km": 0.0011432565429680963,
+   "opening_angle_deg": -0.0012223077291864115,
+   "position_angle_deg": -0.00391566363245488,
+   "width_periapse_km": 0.11936908883196651,
+   "width_apoapse_km": 0.28201951267050607,
+   "tau_periapse": -23.273454308139673,
+   "tau_apoapse": -19.14340846842315
+  },
+  "const": 0.4379097244342254,
+  "peak": 0.08393460588235833,
+  "scale": 1.0,
+  "chi2": 0.14023564520727738,
+  "inside": false
+ },
+ {
+  "label": "CHEAP",
+  "route": "uncovered light: ring at its brightness of 2025 (opening angle not updated)",
+  "values": {
+   "semi_major_axis_km": 396.4019426350388,
+   "opening_angle_deg": 33.59925479288632,
+   "position_angle_deg": 17.295897505148066,
+   "width_periapse_km": 11.34831785233951,
+   "width_apoapse_km": 20.673960181467685,
+   "tau_periapse": 0.7281893151985995,
+   "tau_apoapse": 0.6757896031014029
+  },
+  "errors": {
+   "semi_major_axis_km": 0.000490069384162517,
+   "opening_angle_deg": -0.00074520711368109,
+   "position_angle_deg": -0.004102494851935035,
+   "width_periapse_km": -0.10283580687049376,
+   "width_apoapse_km": 0.1645357629248334,
+   "tau_periapse": -9.698745635094308,
+   "tau_apoapse": -7.375328522285784
+  },
+  "const": 0.5031488487398833,
+  "peak": 0.0745049344039489,
+  "scale": 1.0,
+  "chi2": 0.13440241119173166,
+  "inside": false
+ },
+ {
+  "label": "CHEAP",
+  "route": "uncovered light: centaur at its mean brightness (no rotation term)",
+  "values": {
+   "semi_major_axis_km": 396.39820896493757,
+   "opening_angle_deg": 33.59997861197146,
+   "position_angle_deg": 17.295740390864733,
+   "width_periapse_km": 11.31677849717394,
+   "width_apoapse_km": 20.647333756749056,
+   "tau_periapse": 0.8980199713608046,
+   "tau_apoapse": 0.7919589099044946
+  },
+  "errors": {
+   "semi_major_axis_km": -0.0004518251923379957,
+   "opening_angle_deg": -2.138802854290134e-05,
+   "position_angle_deg": -0.004259609135260689,
+   "width_periapse_km": -0.3804709755815039,
+   "width_apoapse_km": 0.03553176719504059,
+   "tau_periapse": 11.361603591369619,
+   "tau_apoapse": 8.546999712787073
+  },
+  "const": 0.5684256736554231,
+  "peak": 0.06188035395520185,
+  "scale": 1.0,
+  "chi2": 0.13635749301938654,
+  "inside": false
+ },
+ {
+  "label": "CHEAP",
+  "route": "uncovered light: rotation term taken at the observed time (no light time)",
+  "values": {
+   "semi_major_axis_km": 396.3989427208654,
+   "opening_angle_deg": 33.599831199791275,
+   "position_angle_deg": 17.29575256048841,
+   "width_periapse_km": 11.319114427864097,
+   "width_apoapse_km": 20.648383561249247,
+   "tau_periapse": 0.884919497110926,
+   "tau_apoapse": 0.7834961475185621
+  },
+  "errors": {
+   "semi_major_axis_km": -0.0002667202660289192,
+   "opening_angle_deg": -0.0001688002087263385,
+   "position_angle_deg": -0.004247439511587459,
+   "width_periapse_km": -0.35990820542167734,
+   "width_apoapse_km": 0.04061802930837022,
+   "tau_periapse": 9.737040812366814,
+   "tau_apoapse": 7.387081622609926
+  },
+  "const": 0.5645525472157392,
+  "peak": 0.06277242479374796,
+  "scale": 1.0,
+  "chi2": 0.1338883384847933,
+  "inside": false
+ },
+ {
+  "label": "CHEAP",
+  "route": "uncovered light: one maximum per rotation",
+  "values": {
+   "semi_major_axis_km": 396.3992180723946,
+   "opening_angle_deg": 33.599781688042064,
+   "position_angle_deg": 17.295714735382113,
+   "width_periapse_km": 11.314963961975458,
+   "width_apoapse_km": 20.644348107344733,
+   "tau_periapse": 0.9092152446812332,
+   "tau_apoapse": 0.7977280081329677
+  },
+  "errors": {
+   "semi_major_axis_km": -0.00019725721629448856,
+   "opening_angle_deg": -0.00021831195793708957,
+   "position_angle_deg": -0.004285264617891471,
+   "width_periapse_km": -0.39644399669490626,
+   "width_apoapse_km": 0.02106641155392719,
+   "tau_periapse": 12.749906334478322,
+   "tau_apoapse": 9.337720412961591
+  },
+  "const": 0.5716093724745033,
+  "peak": 0.06125793207107608,
+  "scale": 1.0,
+  "chi2": 0.13249348981360562,
+  "inside": false
+ },
+ {
+  "label": "CHEAP",
+  "route": "uncovered light: catalogue magnitude taken as the primary's",
+  "values": {
+   "semi_major_axis_km": 396.401657038585,
+   "opening_angle_deg": 33.59931025381614,
+   "position_angle_deg": 17.295945063481096,
+   "width_periapse_km": 11.351380051323005,
+   "width_apoapse_km": 20.676857318670315,
+   "tau_periapse": 0.7155661004230729,
+   "tau_apoapse": 0.666527824828431
+  },
+  "errors": {
+   "semi_major_axis_km": 0.00041802184282957455,
+   "opening_angle_deg": -0.0006897461838590857,
+   "position_angle_deg": -0.0040549365189122,
+   "width_periapse_km": -0.07587982990311382,
+   "width_apoapse_km": 0.17857228037942985,
+   "tau_periapse": -11.264124451503854,
+   "tau_apoapse": -8.644760851366373
+  },
+  "const": 0.4967410305293788,
+  "peak": 0.07553530320808882,
+  "scale": 1.0,
+  "chi2": 0.1366983652709057,
+  "inside": false
+ },
+ {
+  "label": "CHEAP",
+  "route": "uncovered light: no phase-angle term",
+  "values": {
+   "semi_major_axis_km": 396.3983029082035,
+   "opening_angle_deg": 33.599971827183005,
+   "position_angle_deg": 17.29572010416991,
+   "width_periapse_km": 11.306497753142972,
+   "width_apoapse_km": 20.637729714937205,
+   "tau_periapse": 0.964345371148965,
+   "tau_apoapse": 0.8300655432211232
+  },
+  "errors": {
+   "semi_major_axis_km": -0.00042812608387343687,
+   "opening_angle_deg": -2.817281699662999e-05,
+   "position_angle_deg": -0.004279895830094915,
+   "width_periapse_km": -0.4709704828963712,
+   "width_apoapse_km": -0.010999443133696829,
+   "tau_periapse": 19.58647955716333,
+   "tau_apoapse": 13.769948358158345
+  },
+  "const": 0.5859063808848287,
+  "peak": 0.05792113947689203,
+  "scale": 1.0,
+  "chi2": 0.13409638395630968,
+  "inside": false
+ },
+ {
+  "label": "APPROX",
+  "route": "uncovered light fitted as a free constant",
+  "values": {
+   "semi_major_axis_km": 396.396999866495,
+   "opening_angle_deg": 33.6001628675183,
+   "position_angle_deg": 17.295793958288694,
+   "width_periapse_km": 11.308782183161918,
+   "width_apoapse_km": 20.643417427092203,
+   "tau_periapse": 1.024270932593007,
+   "tau_apoapse": 0.8734206344406144
+  },
+  "errors": {
+   "semi_major_axis_km": -0.0007568449810757549,
+   "opening_angle_deg": 0.0001628675182985262,
+   "position_angle_deg": -0.004206041711313446,
+   "width_periapse_km": -0.45086106371550194,
+   "width_apoapse_km": 0.016557301803299396,
+   "tau_periapse": 27.017724775918527,
+   "tau_apoapse": 19.71225800995262
+  },
+  "const": 0.5862032083940002,
+  "peak": 0.06855001783020855,
+  "scale": 1.0,
+  "chi2": 0.13392786360609665,
+  "inside": false
+ },
+ {
+  "label": "CHEAP",
+  "route": "distance: tabulated value of 13 September, 0 h",
+  "values": {
+   "semi_major_axis_km": 395.9937779735879,
+   "opening_angle_deg": 33.599488550088296,
+   "position_angle_deg": 17.295802331365884,
+   "width_periapse_km": 11.321908841343893,
+   "width_apoapse_km": 20.639103062980915,
+   "tau_periapse": 0.803584380862929,
+   "tau_apoapse": 0.7297147113596586
+  },
+  "errors": {
+   "semi_major_axis_km": -0.10247780686479802,
+   "opening_angle_deg": -0.0005114499117055971,
+   "position_angle_deg": -0.0041976686341200775,
+   "width_periapse_km": -0.33530949521221043,
+   "width_apoapse_km": -0.004345625092472272,
+   "tau_periapse": -0.3491591191804311,
+   "tau_apoapse": 0.015722499953207958
+  },
+  "const": 0.5364149915825963,
+  "peak": 0.06857980132236655,
+  "scale": 1.0,
+  "chi2": 0.13322787387533427,
+  "inside": false
+ },
+ {
+  "label": "CHEAP",
+  "route": "distance: tabulated value of 14 September, 0 h",
+  "values": {
+   "semi_major_axis_km": 396.73423818640464,
+   "opening_angle_deg": 33.59973817337364,
+   "position_angle_deg": 17.29584405212947,
+   "width_periapse_km": 11.343030549599655,
+   "width_apoapse_km": 20.678564602308462,
+   "tau_periapse": 0.8034812405208295,
+   "tau_apoapse": 0.7303298872930456
+  },
+  "errors": {
+   "semi_major_axis_km": 0.0843184123119789,
+   "opening_angle_deg": -0.0002618266263638702,
+   "position_angle_deg": -0.0041559478705295305,
+   "width_periapse_km": -0.1493789647917576,
+   "width_apoapse_km": 0.18684400343247365,
+   "tau_periapse": -0.3619493401749163,
+   "tau_apoapse": 0.10003937678804142
+  },
+  "const": 0.5364031066567351,
+  "peak": 0.06851831077222757,
+  "scale": 1.0,
+  "chi2": 0.13686831657784151,
+  "inside": false
+ },
+ {
+  "label": "APPROX",
+  "route": "distance: mean of the two tabulated values",
+  "values": {
+   "semi_major_axis_km": 396.3641368863505,
+   "opening_angle_deg": 33.59959190705095,
+   "position_angle_deg": 17.295828603640892,
+   "width_periapse_km": 11.332589944368518,
+   "width_apoapse_km": 20.658769016575693,
+   "tau_periapse": 0.8034434926557498,
+   "tau_apoapse": 0.7300035264983559
+  },
+  "errors": {
+   "semi_major_axis_km": -0.009047203241552282,
+   "opening_angle_deg": -0.00040809294905130855,
+   "position_angle_deg": -0.004171396359112123,
+   "width_periapse_km": -0.24128570098135294,
+   "width_apoapse_km": 0.09093515782796491,
+   "tau_periapse": -0.3666303750310296,
+   "tau_apoapse": 0.05530790821763887
+  },
+  "const": 0.5364146807706694,
+  "peak": 0.06855178308630468,
+  "scale": 1.0,
+  "chi2": 0.1345072931837309,
+  "inside": true
+ },
+ {
+  "label": "CHEAP",
+  "route": "diffracted light: none (taken as lost)",
+  "values": {
+   "semi_major_axis_km": 396.40450294472885,
+   "opening_angle_deg": 33.598896715986264,
+   "position_angle_deg": 17.295304280961194,
+   "width_periapse_km": 11.31650402999629,
+   "width_apoapse_km": 20.620919310808514,
+   "tau_periapse": 0.7106177349140935,
+   "tau_apoapse": 0.597411030602786
+  },
+  "errors": {
+   "semi_major_axis_km": 0.0011359598206084343,
+   "opening_angle_deg": -0.0011032840137374933,
+   "position_angle_deg": -0.004695719038807056,
+   "width_periapse_km": -0.38288705989181215,
+   "width_apoapse_km": -0.09244519957115616,
+   "tau_periapse": -11.877761047359437,
+   "tau_apoapse": -18.11800567396026
+  },
+  "const": 0.5364133961126442,
+  "peak": 0.0,
+  "scale": 1.0,
+  "chi2": 0.1589902584637488,
+  "inside": false
+ },
+ {
+  "label": "CHEAP",
+  "route": "diffracted light: one diffraction only",
+  "values": {
+   "semi_major_axis_km": 396.4015970420222,
+   "opening_angle_deg": 33.59939514090683,
+   "position_angle_deg": 17.29577458727147,
+   "width_periapse_km": 11.332794730168148,
+   "width_apoapse_km": 20.657209632563116,
+   "tau_periapse": 0.7718527252562776,
+   "tau_apoapse": 0.6882511149210374
+  },
+  "errors": {
+   "semi_major_axis_km": 0.0004028864839078494,
+   "opening_angle_deg": -0.0006048590931726494,
+   "position_angle_deg": -0.004225412728530387,
+   "width_periapse_km": -0.23948300908319675,
+   "width_apoapse_km": 0.08338000272827273,
+   "tau_periapse": -4.284136252941773,
+   "tau_apoapse": -5.667336222445529
+  },
+  "const": 0.5364133961126442,
+  "peak": 0.047564643117982496,
+  "scale": 1.0,
+  "chi2": 0.13375597349330737,
+  "inside": false
+ },
+ {
+  "label": "CHEAP",
+  "route": "diffracted light: everything diffracted and not stopped, in the single-diffraction pattern",
+  "values": {
+   "semi_major_axis_km": 396.3985976725944,
+   "opening_angle_deg": 33.5998082657015,
+   "position_angle_deg": 17.296141099294974,
+   "width_periapse_km": 11.346852063902931,
+   "width_apoapse_km": 20.681571095766138,
+   "tau_periapse": 0.8488328134299596,
+   "tau_apoapse": 0.787665847167663
+  },
+  "errors": {
+   "semi_major_axis_km": -0.0003537657430774388,
+   "opening_angle_deg": -0.00019173429850383172,
+   "position_angle_deg": -0.003858900705026258,
+   "width_periapse_km": -0.11573887409390693,
+   "width_apoapse_km": 0.20141034770415622,
+   "tau_periapse": 5.262005633675559,
+   "tau_apoapse": 7.95858650872574
+  },
+  "const": 0.5364133961126442,
+  "peak": 0.08462197470714751,
+  "scale": 1.0,
+  "chi2": 0.14290153536157213,
+  "inside": false
+ },
+ {
+  "label": "APPROX",
+  "route": "diffracted light of the reference times a fitted factor",
+  "values": {
+   "semi_major_axis_km": 396.40102629260923,
+   "opening_angle_deg": 33.599472311421216,
+   "position_angle_deg": 17.295781324642178,
+   "width_periapse_km": 11.33142504330176,
+   "width_apoapse_km": 20.65704564457971,
+   "tau_periapse": 0.7915982064649107,
+   "tau_apoapse": 0.7119415620192611
+  },
+  "errors": {
+   "semi_major_axis_km": 0.0002589032818578474,
+   "opening_angle_deg": -0.000527688578785046,
+   "position_angle_deg": -0.004218675357819279,
+   "width_periapse_km": -0.2515401117802796,
+   "width_apoapse_km": 0.0825854873047982,
+   "tau_periapse": -1.835539872902936,
+   "tau_apoapse": -2.4202902934126858
+  },
+  "const": 0.5364133961126442,
+  "peak": 0.06102247919394291,
+  "scale": 0.8901891075373519,
+  "chi2": 0.13394460427967342,
+  "inside": true
+ },
+ {
+  "label": "CHEAP",
+  "route": "reference, optical depth of the direct beam reported (no factor 2)",
+  "values": {
+   "semi_major_axis_km": 396.4004870387883,
+   "opening_angle_deg": 33.59955434114609,
+   "position_angle_deg": 17.295840854858543,
+   "width_periapse_km": 11.333130730886639,
+   "width_apoapse_km": 20.660800384739506,
+   "tau_periapse": 1.6066474604554752,
+   "tau_apoapse": 1.4600572646405627
+  },
+  "errors": {
+   "semi_major_axis_km": 0.00012286548645157325,
+   "opening_angle_deg": -0.00044565885391278925,
+   "position_angle_deg": -0.004159145141457543,
+   "width_periapse_km": -0.23652525627958498,
+   "width_apoapse_km": 0.10077705784643509,
+   "tau_periapse": 99.2370362668,
+   "tau_apoapse": 100.11749789481397
+  },
+  "const": 0.5364133961126442,
+  "peak": 0.06855001783020855,
+  "scale": 1.0,
+  "chi2": 0.13412657516402976,
+  "inside": false
+ },
+ {
+  "label": "CHEAP",
+  "route": "reference, no slant-path factor (line-of-sight optical depth)",
+  "values": {
+   "semi_major_axis_km": 396.4004870387883,
+   "opening_angle_deg": 33.59955434114609,
+   "position_angle_deg": 17.295840854858543,
+   "width_periapse_km": 11.333130730886639,
+   "width_apoapse_km": 20.660800384739506,
+   "tau_periapse": 1.4516541427041105,
+   "tau_apoapse": 1.3192055064773447
+  },
+  "errors": {
+   "semi_major_axis_km": 0.00012286548645157325,
+   "opening_angle_deg": -0.00044565885391278925,
+   "position_angle_deg": -0.004159145141457543,
+   "width_periapse_km": -0.23652525627958498,
+   "width_apoapse_km": 0.10077705784643509,
+   "tau_periapse": 80.01663475993435,
+   "tau_apoapse": 80.81215823428518
+  },
+  "const": 0.5364133961126442,
+  "peak": 0.06855001783020855,
+  "scale": 1.0,
+  "chi2": 0.13412657516402976,
+  "inside": false
+ }
+]

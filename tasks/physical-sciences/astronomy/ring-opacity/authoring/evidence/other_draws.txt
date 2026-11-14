@@ -1,0 +1,41 @@
+error of the optical depth at periapse and at apoapse, percent of the truth; uncovered: the constant used or fitted
+no diffracted light
+  seed 231: periapse -13.48  apoapse -17.52  uncovered 0.5364
+  seed 232: periapse -12.61  apoapse -19.31  uncovered 0.5364
+  seed 233: periapse -13.12  apoapse -18.16  uncovered 0.5364
+  seed 234: periapse -13.57  apoapse -16.99  uncovered 0.5364
+  seed 235: periapse -12.28  apoapse -17.21  uncovered 0.5364
+  seed 236: periapse -11.87  apoapse -18.39  uncovered 0.5364
+  range: periapse -13.57 to -11.87, apoapse -19.31 to -16.99
+one diffraction only
+  seed 231: periapse  -5.68  apoapse  -4.92  uncovered 0.5364
+  seed 232: periapse  -4.40  apoapse  -7.15  uncovered 0.5364
+  seed 233: periapse  -4.82  apoapse  -5.45  uncovered 0.5364
+  seed 234: periapse  -5.71  apoapse  -4.73  uncovered 0.5364
+  seed 235: periapse  -4.72  apoapse  -4.93  uncovered 0.5364
+  seed 236: periapse  -3.86  apoapse  -6.33  uncovered 0.5364
+  range: periapse -5.71 to -3.86, apoapse -7.15 to -4.73
+centaur at its mean brightness
+  seed 231: periapse  +9.41  apoapse  +9.55  uncovered 0.5684
+  seed 232: periapse +11.28  apoapse  +6.22  uncovered 0.5684
+  seed 233: periapse +10.79  apoapse  +8.86  uncovered 0.5684
+  seed 234: periapse  +9.33  apoapse  +9.60  uncovered 0.5684
+  seed 235: periapse +10.48  apoapse  +9.43  uncovered 0.5684
+  seed 236: periapse +11.96  apoapse  +7.49  uncovered 0.5684
+  range: periapse +9.33 to +11.96, apoapse +6.22 to +9.60
+catalogue magnitude taken as the primary's
+  seed 231: periapse -12.42  apoapse  -7.72  uncovered 0.4967
+  seed 232: periapse -11.12  apoapse  -9.89  uncovered 0.4967
+  seed 233: periapse -11.45  apoapse  -8.12  uncovered 0.4967
+  seed 234: periapse -12.30  apoapse  -7.86  uncovered 0.4967
+  seed 235: periapse -11.58  apoapse  -7.98  uncovered 0.4967
+  seed 236: periapse -10.71  apoapse  -9.38  uncovered 0.4967
+  range: periapse -12.42 to -10.71, apoapse -9.89 to -7.72
+uncovered light fitted as a free constant
+  seed 231: periapse  -4.07  apoapse  -0.90  uncovered 0.5301
+  seed 232: periapse +12.95  apoapse  +7.81  uncovered 0.5653
+  seed 233: periapse  -2.32  apoapse  -0.80  uncovered 0.5320
+  seed 234: periapse +33.82  apoapse +27.81  uncovered 0.5978
+  seed 235: periapse -13.82  apoapse -10.55  uncovered 0.4940
+  seed 236: periapse +11.25  apoapse  +7.37  uncovered 0.5610
+  range: periapse -13.82 to +33.82, apoapse -10.55 to +27.81

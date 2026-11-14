@@ -1,0 +1,9 @@
+{
+ "semi_major_axis_km": 396.40166,
+ "opening_angle_deg": 33.59931,
+ "position_angle_deg": 17.29595,
+ "width_periapse_km": 11.35138,
+ "width_apoapse_km": 20.67686,
+ "tau_periapse": 0.71557,
+ "tau_apoapse": 0.66653
+}

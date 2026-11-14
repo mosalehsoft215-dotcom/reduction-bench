@@ -1,0 +1,28 @@
+errors: opening_angle_deg and position_angle_deg in degrees, the other keys in percent of the truth
+seed 201: semi_major_axis_km -0.003  opening_angle_deg +0.001  position_angle_deg +0.001  width_periapse_km -0.152  width_apoapse_km +0.159  tau_periapse -0.525  tau_apoapse -1.066  reduced chi2 0.191
+seed 202: semi_major_axis_km -0.002  opening_angle_deg +0.002  position_angle_deg -0.000  width_periapse_km -0.234  width_apoapse_km -0.078  tau_periapse -0.002  tau_apoapse +0.654  reduced chi2 0.148
+seed 203: semi_major_axis_km -0.000  opening_angle_deg +0.000  position_angle_deg +0.002  width_periapse_km -0.011  width_apoapse_km -0.091  tau_periapse -1.124  tau_apoapse +0.186  reduced chi2 0.143
+seed 204: semi_major_axis_km +0.004  opening_angle_deg -0.002  position_angle_deg -0.000  width_periapse_km -0.136  width_apoapse_km -0.084  tau_periapse -1.988  tau_apoapse -0.969  reduced chi2 0.191
+seed 205: semi_major_axis_km -0.000  opening_angle_deg -0.001  position_angle_deg -0.000  width_periapse_km -0.239  width_apoapse_km +0.075  tau_periapse -0.609  tau_apoapse -0.547  reduced chi2 0.159
+seed 206: semi_major_axis_km +0.004  opening_angle_deg -0.003  position_angle_deg +0.001  width_periapse_km -0.125  width_apoapse_km -0.008  tau_periapse +1.589  tau_apoapse -1.749  reduced chi2 0.235
+seed 207: semi_major_axis_km -0.010  opening_angle_deg +0.007  position_angle_deg +0.002  width_periapse_km -0.349  width_apoapse_km -0.009  tau_periapse -0.371  tau_apoapse -0.047  reduced chi2 0.161
+seed 208: semi_major_axis_km +0.006  opening_angle_deg -0.004  position_angle_deg -0.000  width_periapse_km -0.129  width_apoapse_km -0.114  tau_periapse -2.603  tau_apoapse -1.358  reduced chi2 0.255
+seed 209: semi_major_axis_km -0.000  opening_angle_deg -0.001  position_angle_deg -0.000  width_periapse_km +0.293  width_apoapse_km -0.125  tau_periapse -1.753  tau_apoapse +0.034  reduced chi2 0.179
+seed 210: semi_major_axis_km +0.004  opening_angle_deg -0.002  position_angle_deg +0.003  width_periapse_km -0.029  width_apoapse_km +0.089  tau_periapse -0.212  tau_apoapse -0.332  reduced chi2 0.209
+seed 211: semi_major_axis_km +0.005  opening_angle_deg -0.003  position_angle_deg -0.001  width_periapse_km +0.249  width_apoapse_km -0.059  tau_periapse -0.095  tau_apoapse -0.703  reduced chi2 0.215
+seed 212: semi_major_axis_km +0.001  opening_angle_deg -0.001  position_angle_deg +0.001  width_periapse_km -0.246  width_apoapse_km -0.040  tau_periapse -2.502  tau_apoapse -0.144  reduced chi2 0.183
+seed 213: semi_major_axis_km +0.002  opening_angle_deg -0.002  position_angle_deg +0.001  width_periapse_km +0.055  width_apoapse_km -0.003  tau_periapse +1.404  tau_apoapse -2.584  reduced chi2 0.183
+seed 214: semi_major_axis_km -0.004  opening_angle_deg +0.002  position_angle_deg +0.001  width_periapse_km +0.177  width_apoapse_km -0.193  tau_periapse -1.680  tau_apoapse +0.847  reduced chi2 0.149
+seed 215: semi_major_axis_km +0.000  opening_angle_deg -0.000  position_angle_deg +0.001  width_periapse_km +0.336  width_apoapse_km +0.005  tau_periapse -1.391  tau_apoapse +1.069  reduced chi2 0.196
+seed 216: semi_major_axis_km +0.003  opening_angle_deg -0.004  position_angle_deg -0.001  width_periapse_km -0.003  width_apoapse_km +0.022  tau_periapse +0.310  tau_apoapse -0.644  reduced chi2 0.179
+seed 217: semi_major_axis_km -0.005  opening_angle_deg +0.003  position_angle_deg +0.001  width_periapse_km -0.540  width_apoapse_km +0.016  tau_periapse +0.119  tau_apoapse -1.475  reduced chi2 0.365
+seed 218: semi_major_axis_km -0.005  opening_angle_deg +0.002  position_angle_deg +0.002  width_periapse_km -0.219  width_apoapse_km +0.024  tau_periapse +0.699  tau_apoapse +0.302  reduced chi2 0.167
+seed 219: semi_major_axis_km +0.003  opening_angle_deg -0.002  position_angle_deg +0.000  width_periapse_km -0.019  width_apoapse_km -0.002  tau_periapse -0.408  tau_apoapse +0.302  reduced chi2 0.225
+seed 220: semi_major_axis_km +0.002  opening_angle_deg -0.002  position_angle_deg +0.001  width_periapse_km +0.389  width_apoapse_km +0.019  tau_periapse -0.538  tau_apoapse -0.085  reduced chi2 0.182
+max |error| semi_major_axis_km: 0.010
+max |error| opening_angle_deg: 0.007
+max |error| position_angle_deg: 0.003
+max |error| width_periapse_km: 0.540
+max |error| width_apoapse_km: 0.193
+max |error| tau_periapse: 2.603
+max |error| tau_apoapse: 2.584

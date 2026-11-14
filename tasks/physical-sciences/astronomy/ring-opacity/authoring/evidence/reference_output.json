@@ -1,0 +1,20 @@
+{
+  "semi_major_axis_km": 396.40049,
+  "opening_angle_deg": 33.59955,
+  "position_angle_deg": 17.29584,
+  "width_periapse_km": 11.33313,
+  "width_apoapse_km": 20.6608,
+  "tau_periapse": 0.80332,
+  "tau_apoapse": 0.73003,
+  "mean_tau": 0.76668,
+  "ring_centre_east_north_km": [
+    23.399,
+    -31.808
+  ],
+  "periapse_longitude_deg": 128.689,
+  "distance_au": 6.604995,
+  "uncovered_light_over_primary": 0.53641,
+  "largest_diffracted_light_over_primary": 0.0686,
+  "reduced_chi2": 0.1341,
+  "reduced_chi2_direct_beam_only": 0.159
+}

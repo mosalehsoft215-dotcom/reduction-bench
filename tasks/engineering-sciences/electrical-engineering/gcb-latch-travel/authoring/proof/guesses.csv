@@ -1,0 +1,22 @@
+guess,units_pickup_inside,units_release_inside,all_inside
+examples' mean,0,4,0
+example GCB-11,0,3,0
+example GCB-12,1,3,0
+round 5.5 A / 37 ms,1,1,0
+round 5.5 A / 38 ms,1,3,0
+round 5.5 A / 39 ms,1,3,0
+round 5.5 A / 40 ms,1,0,0
+round 6.0 A / 37 ms,0,1,0
+round 6.0 A / 38 ms,0,3,0
+round 6.0 A / 39 ms,0,3,0
+round 6.0 A / 40 ms,0,0,0
+round 6.5 A / 37 ms,1,1,0
+round 6.5 A / 38 ms,1,3,0
+round 6.5 A / 39 ms,1,3,0
+round 6.5 A / 40 ms,1,0,0
+round 7.0 A / 37 ms,2,1,0
+round 7.0 A / 38 ms,2,3,0
+round 7.0 A / 39 ms,2,3,0
+round 7.0 A / 40 ms,2,0,0
+certificate alone,2,1,0
+certificate scaled by the examples,1,2,0

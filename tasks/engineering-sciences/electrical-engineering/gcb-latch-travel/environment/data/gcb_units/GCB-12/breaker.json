@@ -1,0 +1,51 @@
+{
+ "unit": "GCB-12",
+ "breaker": "generator circuit breaker, spring-operated mechanism, one closing coil",
+ "rated_control_voltage_v": 110.0,
+ "closing_coil": {
+  "resistance_ohm_at_20c": 12.1,
+  "winding": "copper",
+  "inductance_h": 0.24
+ },
+ "control_cable_loop_resistance_ohm": 1.05,
+ "closing_circuit": "synchroniser output contact -> closing coil",
+ "auxiliary_switch": "52a closes after the main contacts; a b-contact cuts the coil after closing",
+ "factory_timing_certificate": {
+  "conditions": "20 C, coil voltage measured at the coil terminals",
+  "closing_ms": [
+   {
+    "coil_voltage_fraction": 0.85,
+    "pole_A_ms": 73.8,
+    "pole_B_ms": 75.97,
+    "pole_C_ms": 75.31
+   },
+   {
+    "coil_voltage_fraction": 1.0,
+    "pole_A_ms": 60.98,
+    "pole_B_ms": 63.15,
+    "pole_C_ms": 62.49
+   },
+   {
+    "coil_voltage_fraction": 1.1,
+    "pole_A_ms": 56.63,
+    "pole_B_ms": 58.8,
+    "pole_C_ms": 58.14
+   }
+  ]
+ },
+ "recorder": {
+  "sample_rate_hz": 4000.0,
+  "pre_trigger_ms": 100.0,
+  "trigger": "close command binary input",
+  "generator_side_vt": "two-element V-connected, phase-to-phase AB and BC",
+  "bus_side_vt": "three single-phase units on the transformer LV side, phase-to-earth",
+  "dc_channel": "VDC, battery bus",
+  "coil_current_channel": "ICOIL, dc current clamp on the closing-coil lead"
+ },
+ "network": {
+  "generator_neutral": "earthed through a high-resistance transformer",
+  "unit_transformer_lv": "delta",
+  "generator_subtransient_inductance_h": 0.00063,
+  "transformer_leakage_inductance_h_lv": 0.00038
+ }
+}

@@ -1,0 +1,10 @@
+{
+ "GCB-11": {
+  "pickup_current_a": 5.583,
+  "release_to_touch_ms": 38.904
+ },
+ "GCB-12": {
+  "pickup_current_a": 6.742,
+  "release_to_touch_ms": 38.0393
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "GCB-21": {
+  "pickup_current_a": 7.064,
+  "release_to_touch_ms": 39.387
+ },
+ "GCB-22": {
+  "pickup_current_a": 5.471,
+  "release_to_touch_ms": 37.5133
+ },
+ "GCB-23": {
+  "pickup_current_a": 6.618,
+  "release_to_touch_ms": 38.946
+ },
+ "GCB-24": {
+  "pickup_current_a": 5.812,
+  "release_to_touch_ms": 37.893
+ },
+ "GCB-25": {
+  "pickup_current_a": 6.893,
+  "release_to_touch_ms": 39.0417
+ },
+ "GCB-26": {
+  "pickup_current_a": 6.309,
+  "release_to_touch_ms": 38.2433
+ }
+}

@@ -1,0 +1,123 @@
+{
+  "algorithm": "independent beam search + local polish",
+  "score": 0.09507070940026816,
+  "scenario_scores": [
+    0.09589870514567948,
+    0.09507070940026816,
+    0.09640927847932058,
+    0.0987164631419909,
+    0.09648593728805384,
+    0.09590402734065577,
+    0.09579337603656274
+  ],
+  "threshold_margin": 0.0144000168865272,
+  "assignments": [
+    0,
+    0,
+    1,
+    1,
+    1,
+    2,
+    2
+  ],
+  "policy": {
+    "pilot_plan": [
+      {
+        "candidate_id": 281,
+        "exposure_units": 2
+      },
+      {
+        "candidate_id": 284,
+        "exposure_units": 2
+      },
+      {
+        "candidate_id": 287,
+        "exposure_units": 2
+      }
+    ],
+    "branch_thresholds": [
+      -0.10114229011542342,
+      -0.020540094617265216
+    ],
+    "followup_plans": {
+      "low": [
+        {
+          "candidate_id": 312,
+          "exposure_units": 1
+        },
+        {
+          "candidate_id": 24,
+          "exposure_units": 1
+        },
+        {
+          "candidate_id": 15,
+          "exposure_units": 6
+        },
+        {
+          "candidate_id": 6,
+          "exposure_units": 4
+        },
+        {
+          "candidate_id": 321,
+          "exposure_units": 3
+        },
+        {
+          "candidate_id": 276,
+          "exposure_units": 3
+        }
+      ],
+      "mid": [
+        {
+          "candidate_id": 279,
+          "exposure_units": 2
+        },
+        {
+          "candidate_id": 276,
+          "exposure_units": 3
+        },
+        {
+          "candidate_id": 312,
+          "exposure_units": 1
+        },
+        {
+          "candidate_id": 321,
+          "exposure_units": 4
+        },
+        {
+          "candidate_id": 6,
+          "exposure_units": 3
+        },
+        {
+          "candidate_id": 15,
+          "exposure_units": 5
+        }
+      ],
+      "high": [
+        {
+          "candidate_id": 321,
+          "exposure_units": 1
+        },
+        {
+          "candidate_id": 24,
+          "exposure_units": 1
+        },
+        {
+          "candidate_id": 15,
+          "exposure_units": 6
+        },
+        {
+          "candidate_id": 6,
+          "exposure_units": 6
+        },
+        {
+          "candidate_id": 267,
+          "exposure_units": 1
+        },
+        {
+          "candidate_id": 276,
+          "exposure_units": 3
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "threshold": 0.102,
+  "best_policy": {
+    "pilot_plan": [
+      {
+        "candidate_id": 308,
+        "exposure_units": 2
+      },
+      {
+        "candidate_id": 290,
+        "exposure_units": 2
+      },
+      {
+        "candidate_id": 281,
+        "exposure_units": 2
+      }
+    ],
+    "branch_thresholds": [
+      -0.05169057951487416,
+      0.010611362837702702
+    ],
+    "followup_plans": {
+      "low": [
+        {
+          "candidate_id": 312,
+          "exposure_units": 1
+        },
+        {
+          "candidate_id": 303,
+          "exposure_units": 6
+        },
+        {
+          "candidate_id": 297,
+          "exposure_units": 1
+        },
+        {
+          "candidate_id": 288,
+          "exposure_units": 3
+        },
+        {
+          "candidate_id": 0,
+          "exposure_units": 1
+        },
+        {
+          "candidate_id": 9,
+          "exposure_units": 6
+        }
+      ],
+      "mid": [
+        {
+          "candidate_id": 294,
+          "exposure_units": 1
+        },
+        {
+          "candidate_id": 285,
+          "exposure_units": 4
+        },
+        {
+          "candidate_id": 317,
+          "exposure_units": 1
+        },
+        {
+          "candidate_id": 11,
+          "exposure_units": 5
+        },
+        {
+          "candidate_id": 2,
+          "exposure_units": 6
+        },
+        {
+          "candidate_id": 216,
+          "exposure_units": 1
+        }
+      ],
+      "high": [
+        {
+          "candidate_id": 258,
+          "exposure_units": 1
+        },
+        {
+          "candidate_id": 267,
+          "exposure_units": 4
+        },
+        {
+          "candidate_id": 276,
+          "exposure_units": 1
+        },
+        {
+          "candidate_id": 285,
+          "exposure_units": 5
+        },
+        {
+          "candidate_id": 272,
+          "exposure_units": 1
+        },
+        {
+          "candidate_id": 263,
+          "exposure_units": 6
+        }
+      ]
+    }
+  },
+  "best_metrics": {
+    "score": 0.10287479170055573,
+    "scenario_scores": [
+      0.10335199935635536,
+      0.1032014050367845,
+      0.10288818048888669,
+      0.10562350609837029,
+      0.10574950644058731,
+      0.10287479170055573,
+      0.10287907418743397
+    ],
+    "diagnostics": [
+      -0.061881535154069356,
+      -0.04149962387567896,
+      -0.018203474652454168,
+      0.001322316816906426,
+      0.019900408858498978,
+      0.04222332680616739,
+      0.061096174692803686
+    ],
+    "assignments": [
+      0,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2
+    ],
+    "threshold_margin": 0.009289046020796275
+  },
+  "search_runs": 16,
+  "runs_reaching_gate": 8,
+  "best_score": 0.10287479170055573,
+  "worst_score": 0.10114968391591693,
+  "greedy_baseline": 0.08479582665624187,
+  "former_deterministic_optimizer": 0.095877161562414,
+  "independent_beam_search": 0.09507070940026816
+}

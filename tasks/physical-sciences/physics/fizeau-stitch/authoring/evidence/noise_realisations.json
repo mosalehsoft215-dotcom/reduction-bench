@@ -1,0 +1,10 @@
+{
+  "count": 30,
+  "rmse_max_um": 0.020524986346597423,
+  "p95_max_um": 0.03134556403376454,
+  "rmse_median_um": 0.009060307669226324,
+  "p95_median_um": 0.01619495217677827,
+  "gauge_rms_max_um": 0.005859008085740439,
+  "gauge_rms_median_um": 0.0034230299977914807,
+  "all_signs_correct": true
+}

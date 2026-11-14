@@ -1,0 +1,22 @@
+{
+  "gates": {
+    "rmse_um": 0.05,
+    "p95_um": 0.06
+  },
+  "reference": {
+    "rmse_um": 0.015405838477702334,
+    "p95_um": 0.03410514745160187
+  },
+  "trust_nominal_reference_transform": {
+    "rmse_um": 0.09902944248949684,
+    "p95_um": 0.1384988100224569
+  },
+  "use_all_mosaics_but_assume_reference_figure_zero": {
+    "rmse_um": 0.28399193288022895,
+    "p95_um": 0.6322545232362544
+  },
+  "wrong_633_handedness": {
+    "rmse_um": 1.5309886249314442,
+    "p95_um": 2.9967202554154886
+  }
+}

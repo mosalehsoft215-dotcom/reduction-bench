@@ -1,0 +1,4 @@
+independent DE/gradient RMSE_um=0.01680988
+independent DE/gradient P95_um=0.03507400
+independent DE/gradient gauge_RMS_um=0.00021475
+transform 5.351851 2.887332 -2.995789 0.073649 -0.067925

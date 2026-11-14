@@ -1,0 +1,1830 @@
+{
+ "algorithm": "solution/design_search.py run_seed(seed): joint anneal 300k steps, exhaustive polish, 100k-step re-anneal, polish",
+ "gate": 0.102,
+ "runs": [
+  {
+   "seed": 1,
+   "verifier_score": 0.10156607580171512,
+   "threshold_margin": 0.01007375090708163,
+   "assignments": [
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+   ],
+   "policy": {
+    "pilot_plan": [
+     {
+      "candidate_id": 303,
+      "exposure_units": 2
+     },
+     {
+      "candidate_id": 294,
+      "exposure_units": 2
+     },
+     {
+      "candidate_id": 285,
+      "exposure_units": 2
+     }
+    ],
+    "branch_thresholds": [
+     -0.027875161231815805,
+     -0.007249074600819505
+    ],
+    "followup_plans": {
+     "low": [
+      {
+       "candidate_id": 308,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 290,
+       "exposure_units": 6
+      },
+      {
+       "candidate_id": 236,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 245,
+       "exposure_units": 4
+      },
+      {
+       "candidate_id": 98,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 89,
+       "exposure_units": 5
+      }
+     ],
+     "mid": [
+      {
+       "candidate_id": 29,
+       "exposure_units": 2
+      },
+      {
+       "candidate_id": 38,
+       "exposure_units": 6
+      },
+      {
+       "candidate_id": 287,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 269,
+       "exposure_units": 3
+      },
+      {
+       "candidate_id": 144,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 189,
+       "exposure_units": 5
+      }
+     ],
+     "high": [
+      {
+       "candidate_id": 270,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 261,
+       "exposure_units": 6
+      },
+      {
+       "candidate_id": 252,
+       "exposure_units": 3
+      },
+      {
+       "candidate_id": 173,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 164,
+       "exposure_units": 6
+      },
+      {
+       "candidate_id": 143,
+       "exposure_units": 1
+      }
+     ]
+    }
+   }
+  },
+  {
+   "seed": 2,
+   "verifier_score": 0.10150520315594064,
+   "threshold_margin": 0.010282113421348694,
+   "assignments": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    1,
+    2
+   ],
+   "policy": {
+    "pilot_plan": [
+     {
+      "candidate_id": 303,
+      "exposure_units": 2
+     },
+     {
+      "candidate_id": 294,
+      "exposure_units": 2
+     },
+     {
+      "candidate_id": 285,
+      "exposure_units": 2
+     }
+    ],
+    "branch_thresholds": [
+     -0.027875161231815805,
+     0.037683627244723794
+    ],
+    "followup_plans": {
+     "low": [
+      {
+       "candidate_id": 80,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 89,
+       "exposure_units": 4
+      },
+      {
+       "candidate_id": 29,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 20,
+       "exposure_units": 5
+      },
+      {
+       "candidate_id": 99,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 108,
+       "exposure_units": 6
+      }
+     ],
+     "mid": [
+      {
+       "candidate_id": 299,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 308,
+       "exposure_units": 5
+      },
+      {
+       "candidate_id": 227,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 236,
+       "exposure_units": 4
+      },
+      {
+       "candidate_id": 71,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 62,
+       "exposure_units": 6
+      }
+     ],
+     "high": [
+      {
+       "candidate_id": 305,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 263,
+       "exposure_units": 2
+      },
+      {
+       "candidate_id": 308,
+       "exposure_units": 2
+      },
+      {
+       "candidate_id": 299,
+       "exposure_units": 5
+      },
+      {
+       "candidate_id": 2,
+       "exposure_units": 3
+      },
+      {
+       "candidate_id": 11,
+       "exposure_units": 5
+      }
+     ]
+    }
+   }
+  },
+  {
+   "seed": 3,
+   "verifier_score": 0.10221762996794485,
+   "threshold_margin": 0.009289046020796275,
+   "assignments": [
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+   ],
+   "policy": {
+    "pilot_plan": [
+     {
+      "candidate_id": 308,
+      "exposure_units": 2
+     },
+     {
+      "candidate_id": 290,
+      "exposure_units": 2
+     },
+     {
+      "candidate_id": 281,
+      "exposure_units": 2
+     }
+    ],
+    "branch_thresholds": [
+     -0.008440578917773871,
+     0.010611362837702702
+    ],
+    "followup_plans": {
+     "low": [
+      {
+       "candidate_id": 96,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 105,
+       "exposure_units": 6
+      },
+      {
+       "candidate_id": 260,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 269,
+       "exposure_units": 6
+      },
+      {
+       "candidate_id": 233,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 224,
+       "exposure_units": 3
+      }
+     ],
+     "mid": [
+      {
+       "candidate_id": 89,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 80,
+       "exposure_units": 6
+      },
+      {
+       "candidate_id": 72,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 90,
+       "exposure_units": 4
+      },
+      {
+       "candidate_id": 294,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 285,
+       "exposure_units": 5
+      }
+     ],
+     "high": [
+      {
+       "candidate_id": 188,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 197,
+       "exposure_units": 4
+      },
+      {
+       "candidate_id": 206,
+       "exposure_units": 4
+      },
+      {
+       "candidate_id": 189,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 198,
+       "exposure_units": 2
+      },
+      {
+       "candidate_id": 207,
+       "exposure_units": 6
+      }
+     ]
+    }
+   }
+  },
+  {
+   "seed": 4,
+   "verifier_score": 0.1015413474566237,
+   "threshold_margin": 0.01195065655411856,
+   "assignments": [
+    0,
+    1,
+    1,
+    1,
+    2,
+    2,
+    2
+   ],
+   "policy": {
+    "pilot_plan": [
+     {
+      "candidate_id": 296,
+      "exposure_units": 2
+     },
+     {
+      "candidate_id": 287,
+      "exposure_units": 2
+     },
+     {
+      "candidate_id": 278,
+      "exposure_units": 2
+     }
+    ],
+    "branch_thresholds": [
+     -0.12153817580920742,
+     -0.0458508692269375
+    ],
+    "followup_plans": {
+     "low": [
+      {
+       "candidate_id": 11,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 2,
+       "exposure_units": 6
+      },
+      {
+       "candidate_id": 279,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 270,
+       "exposure_units": 4
+      },
+      {
+       "candidate_id": 297,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 306,
+       "exposure_units": 5
+      }
+     ],
+     "mid": [
+      {
+       "candidate_id": 297,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 288,
+       "exposure_units": 6
+      },
+      {
+       "candidate_id": 315,
+       "exposure_units": 2
+      },
+      {
+       "candidate_id": 314,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 323,
+       "exposure_units": 4
+      },
+      {
+       "candidate_id": 8,
+       "exposure_units": 4
+      }
+     ],
+     "high": [
+      {
+       "candidate_id": 135,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 126,
+       "exposure_units": 3
+      },
+      {
+       "candidate_id": 117,
+       "exposure_units": 4
+      },
+      {
+       "candidate_id": 98,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 89,
+       "exposure_units": 5
+      },
+      {
+       "candidate_id": 80,
+       "exposure_units": 4
+      }
+     ]
+    }
+   }
+  },
+  {
+   "seed": 5,
+   "verifier_score": 0.10203691650418148,
+   "threshold_margin": 0.009972829052103595,
+   "assignments": [
+    0,
+    1,
+    1,
+    1,
+    2,
+    2,
+    2
+   ],
+   "policy": {
+    "pilot_plan": [
+     {
+      "candidate_id": 51,
+      "exposure_units": 2
+     },
+     {
+      "candidate_id": 60,
+      "exposure_units": 2
+     },
+     {
+      "candidate_id": 69,
+      "exposure_units": 2
+     }
+    ],
+    "branch_thresholds": [
+     -0.08557963273266782,
+     -0.022596551493644056
+    ],
+    "followup_plans": {
+     "low": [
+      {
+       "candidate_id": 135,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 126,
+       "exposure_units": 4
+      },
+      {
+       "candidate_id": 117,
+       "exposure_units": 3
+      },
+      {
+       "candidate_id": 143,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 152,
+       "exposure_units": 6
+      },
+      {
+       "candidate_id": 161,
+       "exposure_units": 3
+      }
+     ],
+     "mid": [
+      {
+       "candidate_id": 288,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 47,
+       "exposure_units": 2
+      },
+      {
+       "candidate_id": 56,
+       "exposure_units": 5
+      },
+      {
+       "candidate_id": 308,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 2,
+       "exposure_units": 3
+      },
+      {
+       "candidate_id": 11,
+       "exposure_units": 6
+      }
+     ],
+     "high": [
+      {
+       "candidate_id": 38,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 47,
+       "exposure_units": 6
+      },
+      {
+       "candidate_id": 33,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 24,
+       "exposure_units": 3
+      },
+      {
+       "candidate_id": 2,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 11,
+       "exposure_units": 6
+      }
+     ]
+    }
+   }
+  },
+  {
+   "seed": 6,
+   "verifier_score": 0.10209169976021107,
+   "threshold_margin": 0.00955572837407255,
+   "assignments": [
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+   ],
+   "policy": {
+    "pilot_plan": [
+     {
+      "candidate_id": 53,
+      "exposure_units": 2
+     },
+     {
+      "candidate_id": 62,
+      "exposure_units": 2
+     },
+     {
+      "candidate_id": 71,
+      "exposure_units": 2
+     }
+    ],
+    "branch_thresholds": [
+     -0.04791471322912642,
+     -0.028087850229885566
+    ],
+    "followup_plans": {
+     "low": [
+      {
+       "candidate_id": 267,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 276,
+       "exposure_units": 4
+      },
+      {
+       "candidate_id": 285,
+       "exposure_units": 4
+      },
+      {
+       "candidate_id": 81,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 90,
+       "exposure_units": 2
+      },
+      {
+       "candidate_id": 99,
+       "exposure_units": 6
+      }
+     ],
+     "mid": [
+      {
+       "candidate_id": 36,
+       "exposure_units": 2
+      },
+      {
+       "candidate_id": 54,
+       "exposure_units": 4
+      },
+      {
+       "candidate_id": 63,
+       "exposure_units": 3
+      },
+      {
+       "candidate_id": 294,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 312,
+       "exposure_units": 3
+      },
+      {
+       "candidate_id": 6,
+       "exposure_units": 5
+      }
+     ],
+     "high": [
+      {
+       "candidate_id": 99,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 108,
+       "exposure_units": 5
+      },
+      {
+       "candidate_id": 63,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 54,
+       "exposure_units": 5
+      },
+      {
+       "candidate_id": 107,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 116,
+       "exposure_units": 5
+      }
+     ]
+    }
+   }
+  },
+  {
+   "seed": 7,
+   "verifier_score": 0.10187693084224106,
+   "threshold_margin": 0.008472781503165216,
+   "assignments": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    1,
+    2
+   ],
+   "policy": {
+    "pilot_plan": [
+     {
+      "candidate_id": 36,
+      "exposure_units": 2
+     },
+     {
+      "candidate_id": 54,
+      "exposure_units": 2
+     },
+     {
+      "candidate_id": 63,
+      "exposure_units": 2
+     }
+    ],
+    "branch_thresholds": [
+     -0.0721762436409936,
+     -0.007678436601105878
+    ],
+    "followup_plans": {
+     "low": [
+      {
+       "candidate_id": 296,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 305,
+       "exposure_units": 6
+      },
+      {
+       "candidate_id": 314,
+       "exposure_units": 5
+      },
+      {
+       "candidate_id": 204,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 195,
+       "exposure_units": 4
+      },
+      {
+       "candidate_id": 186,
+       "exposure_units": 1
+      }
+     ],
+     "mid": [
+      {
+       "candidate_id": 323,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 314,
+       "exposure_units": 5
+      },
+      {
+       "candidate_id": 296,
+       "exposure_units": 5
+      },
+      {
+       "candidate_id": 294,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 177,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 186,
+       "exposure_units": 5
+      }
+     ],
+     "high": [
+      {
+       "candidate_id": 125,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 134,
+       "exposure_units": 3
+      },
+      {
+       "candidate_id": 143,
+       "exposure_units": 6
+      },
+      {
+       "candidate_id": 135,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 144,
+       "exposure_units": 6
+      },
+      {
+       "candidate_id": 180,
+       "exposure_units": 1
+      }
+     ]
+    }
+   }
+  },
+  {
+   "seed": 8,
+   "verifier_score": 0.10259555005725643,
+   "threshold_margin": 0.012277177527063393,
+   "assignments": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    1,
+    2
+   ],
+   "policy": {
+    "pilot_plan": [
+     {
+      "candidate_id": 290,
+      "exposure_units": 2
+     },
+     {
+      "candidate_id": 281,
+      "exposure_units": 2
+     },
+     {
+      "candidate_id": 272,
+      "exposure_units": 2
+     }
+    ],
+    "branch_thresholds": [
+     -0.08023511860690884,
+     -0.002048032997717238
+    ],
+    "followup_plans": {
+     "low": [
+      {
+       "candidate_id": 6,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 15,
+       "exposure_units": 6
+      },
+      {
+       "candidate_id": 294,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 285,
+       "exposure_units": 6
+      },
+      {
+       "candidate_id": 305,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 314,
+       "exposure_units": 3
+      }
+     ],
+     "mid": [
+      {
+       "candidate_id": 312,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 321,
+       "exposure_units": 6
+      },
+      {
+       "candidate_id": 276,
+       "exposure_units": 4
+      },
+      {
+       "candidate_id": 258,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 6,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 24,
+       "exposure_units": 5
+      }
+     ],
+     "high": [
+      {
+       "candidate_id": 89,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 107,
+       "exposure_units": 6
+      },
+      {
+       "candidate_id": 98,
+       "exposure_units": 2
+      },
+      {
+       "candidate_id": 54,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 63,
+       "exposure_units": 6
+      },
+      {
+       "candidate_id": 90,
+       "exposure_units": 2
+      }
+     ]
+    }
+   }
+  },
+  {
+   "seed": 9,
+   "verifier_score": 0.10287479170055573,
+   "threshold_margin": 0.009289046020796275,
+   "assignments": [
+    0,
+    1,
+    1,
+    1,
+    2,
+    2,
+    2
+   ],
+   "policy": {
+    "pilot_plan": [
+     {
+      "candidate_id": 308,
+      "exposure_units": 2
+     },
+     {
+      "candidate_id": 290,
+      "exposure_units": 2
+     },
+     {
+      "candidate_id": 281,
+      "exposure_units": 2
+     }
+    ],
+    "branch_thresholds": [
+     -0.05169057951487416,
+     0.010611362837702702
+    ],
+    "followup_plans": {
+     "low": [
+      {
+       "candidate_id": 312,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 303,
+       "exposure_units": 6
+      },
+      {
+       "candidate_id": 297,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 288,
+       "exposure_units": 3
+      },
+      {
+       "candidate_id": 0,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 9,
+       "exposure_units": 6
+      }
+     ],
+     "mid": [
+      {
+       "candidate_id": 294,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 285,
+       "exposure_units": 4
+      },
+      {
+       "candidate_id": 317,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 11,
+       "exposure_units": 5
+      },
+      {
+       "candidate_id": 2,
+       "exposure_units": 6
+      },
+      {
+       "candidate_id": 216,
+       "exposure_units": 1
+      }
+     ],
+     "high": [
+      {
+       "candidate_id": 258,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 267,
+       "exposure_units": 4
+      },
+      {
+       "candidate_id": 276,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 285,
+       "exposure_units": 5
+      },
+      {
+       "candidate_id": 272,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 263,
+       "exposure_units": 6
+      }
+     ]
+    }
+   }
+  },
+  {
+   "seed": 10,
+   "verifier_score": 0.10235236901493786,
+   "threshold_margin": 0.009062746997750748,
+   "assignments": [
+    0,
+    0,
+    1,
+    1,
+    2,
+    2,
+    2
+   ],
+   "policy": {
+    "pilot_plan": [
+     {
+      "candidate_id": 312,
+      "exposure_units": 2
+     },
+     {
+      "candidate_id": 294,
+      "exposure_units": 2
+     },
+     {
+      "candidate_id": 285,
+      "exposure_units": 2
+     }
+    ],
+    "branch_thresholds": [
+     -0.042348885518290434,
+     -0.002932853641740386
+    ],
+    "followup_plans": {
+     "low": [
+      {
+       "candidate_id": 308,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 299,
+       "exposure_units": 5
+      },
+      {
+       "candidate_id": 263,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 254,
+       "exposure_units": 5
+      },
+      {
+       "candidate_id": 80,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 89,
+       "exposure_units": 5
+      }
+     ],
+     "mid": [
+      {
+       "candidate_id": 191,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 200,
+       "exposure_units": 5
+      },
+      {
+       "candidate_id": 209,
+       "exposure_units": 3
+      },
+      {
+       "candidate_id": 213,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 168,
+       "exposure_units": 2
+      },
+      {
+       "candidate_id": 186,
+       "exposure_units": 6
+      }
+     ],
+     "high": [
+      {
+       "candidate_id": 24,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 33,
+       "exposure_units": 5
+      },
+      {
+       "candidate_id": 290,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 281,
+       "exposure_units": 4
+      },
+      {
+       "candidate_id": 20,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 29,
+       "exposure_units": 6
+      }
+     ]
+    }
+   }
+  },
+  {
+   "seed": 11,
+   "verifier_score": 0.1013028839031862,
+   "threshold_margin": 0.010322904684241232,
+   "assignments": [
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+   ],
+   "policy": {
+    "pilot_plan": [
+     {
+      "candidate_id": 297,
+      "exposure_units": 2
+     },
+     {
+      "candidate_id": 288,
+      "exposure_units": 2
+     },
+     {
+      "candidate_id": 279,
+      "exposure_units": 2
+     }
+    ],
+    "branch_thresholds": [
+     -0.036682648260869616,
+     -0.015583478617708047
+    ],
+    "followup_plans": {
+     "low": [
+      {
+       "candidate_id": 71,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 80,
+       "exposure_units": 5
+      },
+      {
+       "candidate_id": 72,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 63,
+       "exposure_units": 5
+      },
+      {
+       "candidate_id": 305,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 296,
+       "exposure_units": 5
+      }
+     ],
+     "mid": [
+      {
+       "candidate_id": 0,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 278,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 305,
+       "exposure_units": 6
+      },
+      {
+       "candidate_id": 287,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 312,
+       "exposure_units": 3
+      },
+      {
+       "candidate_id": 15,
+       "exposure_units": 6
+      }
+     ],
+     "high": [
+      {
+       "candidate_id": 231,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 222,
+       "exposure_units": 6
+      },
+      {
+       "candidate_id": 195,
+       "exposure_units": 2
+      },
+      {
+       "candidate_id": 209,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 191,
+       "exposure_units": 3
+      },
+      {
+       "candidate_id": 182,
+       "exposure_units": 5
+      }
+     ]
+    }
+   }
+  },
+  {
+   "seed": 12,
+   "verifier_score": 0.10221353194376814,
+   "threshold_margin": 0.010282113421348694,
+   "assignments": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    1,
+    2
+   ],
+   "policy": {
+    "pilot_plan": [
+     {
+      "candidate_id": 303,
+      "exposure_units": 2
+     },
+     {
+      "candidate_id": 294,
+      "exposure_units": 2
+     },
+     {
+      "candidate_id": 285,
+      "exposure_units": 2
+     }
+    ],
+    "branch_thresholds": [
+     -0.027875161231815805,
+     0.037683627244723794
+    ],
+    "followup_plans": {
+     "low": [
+      {
+       "candidate_id": 101,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 110,
+       "exposure_units": 6
+      },
+      {
+       "candidate_id": 216,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 225,
+       "exposure_units": 4
+      },
+      {
+       "candidate_id": 252,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 261,
+       "exposure_units": 5
+      }
+     ],
+     "mid": [
+      {
+       "candidate_id": 24,
+       "exposure_units": 2
+      },
+      {
+       "candidate_id": 15,
+       "exposure_units": 5
+      },
+      {
+       "candidate_id": 2,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 20,
+       "exposure_units": 4
+      },
+      {
+       "candidate_id": 272,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 281,
+       "exposure_units": 5
+      }
+     ],
+     "high": [
+      {
+       "candidate_id": 287,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 290,
+       "exposure_units": 2
+      },
+      {
+       "candidate_id": 299,
+       "exposure_units": 5
+      },
+      {
+       "candidate_id": 11,
+       "exposure_units": 4
+      },
+      {
+       "candidate_id": 2,
+       "exposure_units": 5
+      },
+      {
+       "candidate_id": 135,
+       "exposure_units": 1
+      }
+     ]
+    }
+   }
+  },
+  {
+   "seed": 13,
+   "verifier_score": 0.10236131386850716,
+   "threshold_margin": 0.011245271433304893,
+   "assignments": [
+    0,
+    1,
+    1,
+    1,
+    2,
+    2,
+    2
+   ],
+   "policy": {
+    "pilot_plan": [
+     {
+      "candidate_id": 294,
+      "exposure_units": 2
+     },
+     {
+      "candidate_id": 285,
+      "exposure_units": 2
+     },
+     {
+      "candidate_id": 276,
+      "exposure_units": 2
+     }
+    ],
+    "branch_thresholds": [
+     -0.13842398260889321,
+     -0.06547245997032326
+    ],
+    "followup_plans": {
+     "low": [
+      {
+       "candidate_id": 24,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 6,
+       "exposure_units": 3
+      },
+      {
+       "candidate_id": 312,
+       "exposure_units": 4
+      },
+      {
+       "candidate_id": 281,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 290,
+       "exposure_units": 6
+      },
+      {
+       "candidate_id": 308,
+       "exposure_units": 3
+      }
+     ],
+     "mid": [
+      {
+       "candidate_id": 2,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 290,
+       "exposure_units": 2
+      },
+      {
+       "candidate_id": 272,
+       "exposure_units": 4
+      },
+      {
+       "candidate_id": 299,
+       "exposure_units": 4
+      },
+      {
+       "candidate_id": 20,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 11,
+       "exposure_units": 6
+      }
+     ],
+     "high": [
+      {
+       "candidate_id": 290,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 281,
+       "exposure_units": 5
+      },
+      {
+       "candidate_id": 47,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 56,
+       "exposure_units": 5
+      },
+      {
+       "candidate_id": 51,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 60,
+       "exposure_units": 5
+      }
+     ]
+    }
+   }
+  },
+  {
+   "seed": 14,
+   "verifier_score": 0.101746606587273,
+   "threshold_margin": 0.010322904684241232,
+   "assignments": [
+    0,
+    1,
+    1,
+    1,
+    2,
+    2,
+    2
+   ],
+   "policy": {
+    "pilot_plan": [
+     {
+      "candidate_id": 297,
+      "exposure_units": 2
+     },
+     {
+      "candidate_id": 288,
+      "exposure_units": 2
+     },
+     {
+      "candidate_id": 279,
+      "exposure_units": 2
+     }
+    ],
+    "branch_thresholds": [
+     -0.08391860610068683,
+     -0.015583478617708047
+    ],
+    "followup_plans": {
+     "low": [
+      {
+       "candidate_id": 182,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 173,
+       "exposure_units": 4
+      },
+      {
+       "candidate_id": 71,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 62,
+       "exposure_units": 6
+      },
+      {
+       "candidate_id": 33,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 24,
+       "exposure_units": 5
+      }
+     ],
+     "mid": [
+      {
+       "candidate_id": 17,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 26,
+       "exposure_units": 6
+      },
+      {
+       "candidate_id": 44,
+       "exposure_units": 5
+      },
+      {
+       "candidate_id": 110,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 137,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 146,
+       "exposure_units": 4
+      }
+     ],
+     "high": [
+      {
+       "candidate_id": 17,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 26,
+       "exposure_units": 5
+      },
+      {
+       "candidate_id": 53,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 62,
+       "exposure_units": 5
+      },
+      {
+       "candidate_id": 164,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 173,
+       "exposure_units": 5
+      }
+     ]
+    }
+   }
+  },
+  {
+   "seed": 15,
+   "verifier_score": 0.10114968391591693,
+   "threshold_margin": 0.010048292908097278,
+   "assignments": [
+    0,
+    1,
+    1,
+    1,
+    2,
+    2,
+    2
+   ],
+   "policy": {
+    "pilot_plan": [
+     {
+      "candidate_id": 279,
+      "exposure_units": 2
+     },
+     {
+      "candidate_id": 270,
+      "exposure_units": 2
+     },
+     {
+      "candidate_id": 261,
+      "exposure_units": 2
+     }
+    ],
+    "branch_thresholds": [
+     -0.20669856186337265,
+     -0.13927129827335302
+    ],
+    "followup_plans": {
+     "low": [
+      {
+       "candidate_id": 51,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 60,
+       "exposure_units": 5
+      },
+      {
+       "candidate_id": 56,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 47,
+       "exposure_units": 5
+      },
+      {
+       "candidate_id": 287,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 278,
+       "exposure_units": 5
+      }
+     ],
+     "mid": [
+      {
+       "candidate_id": 26,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 278,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 287,
+       "exposure_units": 5
+      },
+      {
+       "candidate_id": 269,
+       "exposure_units": 2
+      },
+      {
+       "candidate_id": 317,
+       "exposure_units": 3
+      },
+      {
+       "candidate_id": 2,
+       "exposure_units": 6
+      }
+     ],
+     "high": [
+      {
+       "candidate_id": 69,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 78,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 87,
+       "exposure_units": 4
+      },
+      {
+       "candidate_id": 278,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 269,
+       "exposure_units": 5
+      },
+      {
+       "candidate_id": 260,
+       "exposure_units": 6
+      }
+     ]
+    }
+   }
+  },
+  {
+   "seed": 16,
+   "verifier_score": 0.10182879855203886,
+   "threshold_margin": 0.009388768197604681,
+   "assignments": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    1,
+    2
+   ],
+   "policy": {
+    "pilot_plan": [
+     {
+      "candidate_id": 45,
+      "exposure_units": 2
+     },
+     {
+      "candidate_id": 54,
+      "exposure_units": 2
+     },
+     {
+      "candidate_id": 63,
+      "exposure_units": 2
+     }
+    ],
+    "branch_thresholds": [
+     -0.06377035836406669,
+     0.006505466215476607
+    ],
+    "followup_plans": {
+     "low": [
+      {
+       "candidate_id": 312,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 321,
+       "exposure_units": 6
+      },
+      {
+       "candidate_id": 29,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 38,
+       "exposure_units": 6
+      },
+      {
+       "candidate_id": 123,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 132,
+       "exposure_units": 3
+      }
+     ],
+     "mid": [
+      {
+       "candidate_id": 272,
+       "exposure_units": 2
+      },
+      {
+       "candidate_id": 263,
+       "exposure_units": 3
+      },
+      {
+       "candidate_id": 254,
+       "exposure_units": 2
+      },
+      {
+       "candidate_id": 258,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 249,
+       "exposure_units": 5
+      },
+      {
+       "candidate_id": 240,
+       "exposure_units": 5
+      }
+     ],
+     "high": [
+      {
+       "candidate_id": 44,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 53,
+       "exposure_units": 4
+      },
+      {
+       "candidate_id": 71,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 89,
+       "exposure_units": 6
+      },
+      {
+       "candidate_id": 227,
+       "exposure_units": 1
+      },
+      {
+       "candidate_id": 236,
+       "exposure_units": 5
+      }
+     ]
+    }
+   }
+  }
+ ]
+}

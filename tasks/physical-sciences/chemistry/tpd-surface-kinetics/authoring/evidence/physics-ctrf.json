@@ -1,0 +1,110 @@
+{
+    "results": {
+        "tool": {
+            "name": "pytest",
+            "version": "8.4.1"
+        },
+        "summary": {
+            "tests": 10,
+            "passed": 10,
+            "failed": 0,
+            "skipped": 0,
+            "pending": 0,
+            "other": 0,
+            "start": 1792593262.275727,
+            "stop": 1792593321.711811
+        },
+        "tests": [
+            {
+                "name": "test_numerics.py::test_reachable_state_set_is_closed_and_reduces_dimension",
+                "status": "passed",
+                "duration": 20.537360218004324,
+                "start": 1792593266.168029,
+                "stop": 1792593286.7000625,
+                "retries": 0,
+                "file_path": "test_numerics.py"
+            },
+            {
+                "name": "test_numerics.py::test_generator_atom_balances_and_probability_conservation",
+                "status": "passed",
+                "duration": 2.8827730159973726,
+                "start": 1792593286.710398,
+                "stop": 1792593289.5938532,
+                "retries": 0,
+                "file_path": "test_numerics.py"
+            },
+            {
+                "name": "test_numerics.py::test_hopping_detailed_balance_with_orbit_multiplicity",
+                "status": "passed",
+                "duration": 0.01675904099829495,
+                "start": 1792593289.5994165,
+                "stop": 1792593289.6168451,
+                "retries": 0,
+                "file_path": "test_numerics.py"
+            },
+            {
+                "name": "test_numerics.py::test_mixture_reduces_to_its_components_and_zero_offset_identity",
+                "status": "passed",
+                "duration": 7.4312469419965055,
+                "start": 1792593289.6245434,
+                "stop": 1792593297.0563471,
+                "retries": 0,
+                "file_path": "test_numerics.py"
+            },
+            {
+                "name": "test_numerics.py::test_independent_sparse_generator_matches_event_flux_action",
+                "status": "passed",
+                "duration": 6.97281681401364,
+                "start": 1792593297.0680418,
+                "stop": 1792593304.0417407,
+                "retries": 0,
+                "file_path": "test_numerics.py"
+            },
+            {
+                "name": "test_numerics.py::test_gibbs_preparation_against_labelled_enumeration",
+                "status": "passed",
+                "duration": 0.6886705770157278,
+                "start": 1792593304.0737932,
+                "stop": 1792593304.763059,
+                "retries": 0,
+                "file_path": "test_numerics.py"
+            },
+            {
+                "name": "test_numerics.py::test_nonsensitivity_forecast_api_and_mass_balances",
+                "status": "passed",
+                "duration": 16.78234727898962,
+                "start": 1792593304.8325996,
+                "stop": 1792593321.6111746,
+                "retries": 0,
+                "file_path": "test_numerics.py"
+            },
+            {
+                "name": "test_numerics.py::test_regret_identity_against_enumerated_joint_scenarios",
+                "status": "passed",
+                "duration": 0.0030654920119559392,
+                "start": 1792593321.6193984,
+                "stop": 1792593321.6230874,
+                "retries": 0,
+                "file_path": "test_numerics.py"
+            },
+            {
+                "name": "test_numerics.py::test_population_energy_offsets_apply_at_every_temperature",
+                "status": "passed",
+                "duration": 0.005583851001574658,
+                "start": 1792593321.6510782,
+                "stop": 1792593321.6576924,
+                "retries": 0,
+                "file_path": "test_numerics.py"
+            },
+            {
+                "name": "test_numerics.py::test_correlated_whitening_matches_dense_gaussian_quadratic_form",
+                "status": "passed",
+                "duration": 0.010454157993081026,
+                "start": 1792593321.696071,
+                "stop": 1792593321.7108812,
+                "retries": 0,
+                "file_path": "test_numerics.py"
+            }
+        ]
+    }
+}

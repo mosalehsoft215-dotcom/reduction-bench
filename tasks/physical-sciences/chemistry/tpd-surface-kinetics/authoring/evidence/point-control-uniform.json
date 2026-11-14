@@ -1,0 +1,102 @@
+{
+  "provenance": "Fit explicit scientific approximations using the oracle forward engine.\n\nThese are method-discrimination controls, not independent calibration. Both\nstart at the full-model fit. Uniform preparation omits Gibbs weighting; the\nweak-heterogeneity control fixes four coefficients to the declared values.\nEach fitted point is then evaluated with the original full model and data.\n",
+  "mode": "uniform_preparation",
+  "fixed_coefficients": {},
+  "start": {
+    "E_des": 85.2761299041611,
+    "log10_k_des_450": -1.7462228494851004,
+    "epsilon_CC": 2.135593507220181,
+    "epsilon_CO": 1.734748178463073,
+    "E_ox": 59.059154744057906,
+    "log10_k_ox_450": -1.4943139960478358,
+    "E_hop": 32.99179502006226,
+    "log10_k_hop_450": -2.296451648592623,
+    "epsilon_OO": 2.9149765717994582,
+    "E_hop_O": 99.999999999997,
+    "tau_CO": 1.4032544375311122,
+    "tau_CO2": 3.5990282345358056,
+    "tau_T": 3.205441836280095,
+    "temperature_offset": 1.3966707210891867,
+    "cracking_ratio": 0.13081070519752958,
+    "fraction_B": 0.40120048885474446,
+    "delta_E_des_B": 3.317506093187154,
+    "delta_E_ox_B": -1.8887675468493654,
+    "delta_E_hop_B": 6.519182666286106
+  },
+  "input_sha256": "4f6c53d96558b640a731f956a77cca75de179f4d2ba8fe404e2418de9684ab97",
+  "optimizer": {
+    "success": true,
+    "message": "`ftol` termination condition is satisfied.",
+    "evaluations": 38
+  },
+  "approximation_deviance": 1607.5099726939095,
+  "full_model_deviance_retained_nuisance": 12884.784267801886,
+  "full_model_deviance_refitted_runs": 6258.098785943896,
+  "parameters": {
+    "E_des": 85.91613192373612,
+    "log10_k_des_450": -1.675005841196553,
+    "epsilon_CC": 2.0558905085016974,
+    "epsilon_CO": 1.7333426709342983,
+    "E_ox": 60.43674246156261,
+    "log10_k_ox_450": -1.604490814619353,
+    "E_hop": 25.000000000000004,
+    "log10_k_hop_450": -1.7797408839502138,
+    "epsilon_OO": 4.999999999999999,
+    "E_hop_O": 40.00000000000001,
+    "tau_CO": 1.402778277332225,
+    "tau_CO2": 3.6093649075216563,
+    "tau_T": 3.338603080250388,
+    "temperature_offset": 1.4398952979853696,
+    "cracking_ratio": 0.13099577979004848,
+    "fraction_B": 0.6236283310603783,
+    "delta_E_des_B": 3.2866544836420037,
+    "delta_E_ox_B": -2.663408961074739,
+    "delta_E_hop_B": 8.35174677242404
+  },
+  "run_nuisance": {
+    "dilute_fast": [
+      0.8195533085953206,
+      -0.04133640477536617,
+      -0.14581774264388087,
+      0.04206720236640583,
+      -0.03378873238452214
+    ],
+    "CO_rich_slow": [
+      0.9298924267904589,
+      -0.06718352224243351,
+      -0.03831329084289323,
+      -0.0018391699339138645,
+      -0.04328457876277941
+    ],
+    "mixed_fast": [
+      1.0397540655583997,
+      0.03802144709377613,
+      -0.005214024697168064,
+      0.0004366678737191725,
+      0.022502729310386438
+    ],
+    "mixed_hold": [
+      1.1500937149272217,
+      -0.02901176045316059,
+      -0.009980178846455755,
+      0.015425743993543052,
+      0.006685938700532355
+    ],
+    "CO_rich_cycle": [
+      1.2600773847087328,
+      0.0337279934387284,
+      0.005417260234309761,
+      0.01330074149834231,
+      0.051058475002724965
+    ],
+    "O_rich_slow": [
+      1.370386043267184,
+      -0.046073153699668946,
+      0.00029198029240922775,
+      -0.01572022446093427,
+      -0.0592561522079645
+    ]
+  },
+  "deviance": 12884.784267801886,
+  "elapsed_s": 2236.7127861999907
+}

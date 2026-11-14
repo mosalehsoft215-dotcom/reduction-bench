@@ -1,0 +1,95 @@
+{
+  "fit_input_note": "Hashes of the numerical model/bounds used by the current reachable-state fits; forecast output routines do not enter the fit. The cold solve driver stopping tolerance was subsequently changed; that driver does not enter these fit calculations.",
+  "measurements_sha256": "8caa46af9639d0f1a3dc44182523cea6cafecf8bdf976688b9ad0fa684d3deb9",
+  "bounds": {
+    "E_des": [
+      70.0,
+      104.0
+    ],
+    "log10_k_des_450": [
+      -2.1,
+      -1.4
+    ],
+    "epsilon_CC": [
+      0.5,
+      4.0
+    ],
+    "epsilon_CO": [
+      0.3,
+      3.5
+    ],
+    "E_ox": [
+      43.0,
+      79.0
+    ],
+    "log10_k_ox_450": [
+      -2.0,
+      -1.0
+    ],
+    "E_hop": [
+      25.0,
+      65.0
+    ],
+    "log10_k_hop_450": [
+      -3.1,
+      -1.5
+    ],
+    "epsilon_OO": [
+      0.4,
+      5.0
+    ],
+    "E_hop_O": [
+      40.0,
+      100.0
+    ],
+    "tau_CO": [
+      0.6,
+      2.5
+    ],
+    "tau_CO2": [
+      1.8,
+      6.0
+    ],
+    "tau_T": [
+      1.2,
+      5.8
+    ],
+    "temperature_offset": [
+      -2.0,
+      4.5
+    ],
+    "cracking_ratio": [
+      0.04,
+      0.24
+    ],
+    "fraction_B": [
+      0.15,
+      0.85
+    ],
+    "delta_E_des_B": [
+      0.3,
+      7.0
+    ],
+    "delta_E_ox_B": [
+      -5.0,
+      5.0
+    ],
+    "delta_E_hop_B": [
+      -10.0,
+      12.0
+    ]
+  },
+  "model_source_hashes": {
+    "dynamics.py": "34821bf1ed6963848544d5894e300e6f0786c5aaeabd701f52677dba826621f7",
+    "experiment.py": "ccbd8910065da55ace0e064e8e1b7ca2928feb082d0fae9bbe1c2fe13c489bc3",
+    "fit.py": "d7648f0f4f570e878597fc3520874aa3e37f8d87ab471368c6ccba9d9ca218ae",
+    "forecast.py": "0df2b1261d22793e3b36faf400edf3360e7a5f70a7a23ce9cb5c9d6cffd8e2a4",
+    "heterogeneity.py": "bf805cbbd932f3999aa737de5715761763f49bd0b0771e3f73bf2a2dc3dbb8da",
+    "solve.py": "dcb81ae0606956f7cf1d4ecb6ed66d9e2c1dff9d998972b9fa72bf7de48c25f1",
+    "space.py": "196ca513e099e88a4737b336728de7da56cd2d50975e267e32f17eac89988300",
+    "uncertainty.py": "e869a703cde964861bca0b95b649dab9117229269edda94d86175fdc9ca87021"
+  },
+  "post_fit_driver_hashes": {
+    "solve.py": "13050a1d8b493bad8f11085e0850a6d4969aed07555d4c581f58e0f2eed6d1de"
+  }
+}

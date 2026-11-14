@@ -1,0 +1,17 @@
+{
+  "provenance": "Executed ordinary generator reproduction with the final reachable-state reference model; --create was not used.",
+  "maximum_QMS_difference_pA": 3.976649054493464e-08,
+  "acceptance_pA": 1e-06,
+  "passed": true,
+  "sha256": {
+    "tpd-mixture-regret\\environment\\data\\measurements.json": "8caa46af9639d0f1a3dc44182523cea6cafecf8bdf976688b9ad0fa684d3deb9",
+    "tpd-mixture-regret\\authoring\\provenance\\generate.py": "0c3afb401e2f53b5ffc9e75c2591afc3e42a31dc58236e5009774a5a9eebb7de",
+    "tpd-mixture-regret\\authoring\\provenance\\generating_parameters.json": "9c018b43253b3bdaa4730ba07bf37545c70379a4a240de740d0bec3276522546",
+    "audit\\tpd-mixture\\measurements.reproduced.json": "98ad3f3f5b6f6a301a54d47b1b0e415482f9128901e3d363762f6ef97a3a2e7b"
+  },
+  "calibration_maximum_absolute_differences": {
+    "thermal_K": 0.0,
+    "CO_pulse_pA": 0.0,
+    "CO2_pulse_pA": 0.0
+  }
+}

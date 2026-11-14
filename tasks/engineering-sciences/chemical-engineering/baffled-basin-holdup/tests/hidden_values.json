@@ -1,0 +1,22 @@
+{
+  "NB-207": {
+    "holdup_volume_m3": 32.14,
+    "spread_ratio": 1.8031
+  },
+  "NB-219": {
+    "holdup_volume_m3": 81.68,
+    "spread_ratio": 1.5807
+  },
+  "NB-226": {
+    "holdup_volume_m3": 18.69,
+    "spread_ratio": 2.1924
+  },
+  "NB-238": {
+    "holdup_volume_m3": 57.71,
+    "spread_ratio": 1.7521
+  },
+  "NB-245": {
+    "holdup_volume_m3": 42.6,
+    "spread_ratio": 2.2739
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "NB-104": {
+    "holdup_volume_m3": 17.87,
+    "spread_ratio": 0.2557
+  },
+  "NB-131": {
+    "holdup_volume_m3": 55.11,
+    "spread_ratio": 0.4874
+  }
+}

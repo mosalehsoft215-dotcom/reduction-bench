@@ -1,0 +1,6 @@
+NB-207: margin 7.94 bounds (closest: worked mean)
+NB-219: margin 16.26 bounds (closest: worked NB-131)
+NB-226: margin 8.83 bounds (closest: worked NB-104)
+NB-238: margin 7.22 bounds (closest: worked NB-131)
+NB-245: margin 2.07 bounds (closest: sealed median)
+OK: no baseline passes a case

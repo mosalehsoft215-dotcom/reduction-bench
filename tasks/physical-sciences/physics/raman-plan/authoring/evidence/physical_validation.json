@@ -1,0 +1,144 @@
+{
+  "raw_physical_derivation_seconds": 11.92752687400207,
+  "scaled_photon_rate_difference": 3.6400668975448434e-14,
+  "generator_absolute_difference": 1.6653345369377348e-16,
+  "kernel_checks": [
+    {
+      "setting_id": 0,
+      "initial_state": 0,
+      "channel": 0,
+      "dwell_units": 4,
+      "threshold": 25,
+      "maximum_absolute_difference": 7.707999820014133e-20
+    },
+    {
+      "setting_id": 14,
+      "initial_state": 87,
+      "channel": 2,
+      "dwell_units": 8,
+      "threshold": 60,
+      "maximum_absolute_difference": 2.6358626924320175e-13
+    },
+    {
+      "setting_id": 27,
+      "initial_state": 17,
+      "channel": 3,
+      "dwell_units": 4,
+      "threshold": 35,
+      "maximum_absolute_difference": 1.4464830725159236e-13
+    },
+    {
+      "setting_id": 40,
+      "initial_state": 11,
+      "channel": 1,
+      "dwell_units": 12,
+      "threshold": 100,
+      "maximum_absolute_difference": 4.495293026707259e-13
+    },
+    {
+      "setting_id": 53,
+      "initial_state": 142,
+      "channel": 0,
+      "dwell_units": 20,
+      "threshold": 150,
+      "maximum_absolute_difference": 2.667865928174251e-13
+    }
+  ],
+  "generic_250_threshold_batch_seconds": 0.4153417600027751,
+  "public_python_files": [
+    "count_engine.py"
+  ],
+  "public_derived_response_tables": 0,
+  "real_tensor_only_scientific_control": [
+    {
+      "query_id": 0,
+      "entries_outside_photon_reporting_tolerance": 0,
+      "maximum_absolute_difference": 0.0
+    },
+    {
+      "query_id": 1,
+      "entries_outside_photon_reporting_tolerance": 0,
+      "maximum_absolute_difference": 0.0
+    },
+    {
+      "query_id": 2,
+      "entries_outside_photon_reporting_tolerance": 0,
+      "maximum_absolute_difference": 0.0
+    },
+    {
+      "query_id": 3,
+      "entries_outside_photon_reporting_tolerance": 0,
+      "maximum_absolute_difference": 0.0
+    },
+    {
+      "query_id": 4,
+      "entries_outside_photon_reporting_tolerance": 12,
+      "maximum_absolute_difference": 10.519124266735698
+    },
+    {
+      "query_id": 5,
+      "entries_outside_photon_reporting_tolerance": 12,
+      "maximum_absolute_difference": 2.729839690253674
+    },
+    {
+      "query_id": 6,
+      "entries_outside_photon_reporting_tolerance": 12,
+      "maximum_absolute_difference": 1.251376603568608
+    },
+    {
+      "query_id": 7,
+      "entries_outside_photon_reporting_tolerance": 12,
+      "maximum_absolute_difference": 23.71197161965011
+    },
+    {
+      "query_id": 8,
+      "entries_outside_photon_reporting_tolerance": 12,
+      "maximum_absolute_difference": 1.8419607705929195
+    },
+    {
+      "query_id": 9,
+      "entries_outside_photon_reporting_tolerance": 12,
+      "maximum_absolute_difference": 2.992710604447687
+    },
+    {
+      "query_id": 10,
+      "entries_outside_photon_reporting_tolerance": 12,
+      "maximum_absolute_difference": 2.0576696319116827
+    },
+    {
+      "query_id": 11,
+      "entries_outside_photon_reporting_tolerance": 12,
+      "maximum_absolute_difference": 4.711793215656478
+    },
+    {
+      "query_id": 12,
+      "entries_outside_photon_reporting_tolerance": 12,
+      "maximum_absolute_difference": 8.06353473657405
+    },
+    {
+      "query_id": 13,
+      "entries_outside_photon_reporting_tolerance": 12,
+      "maximum_absolute_difference": 6.977988806620384
+    },
+    {
+      "query_id": 14,
+      "entries_outside_photon_reporting_tolerance": 12,
+      "maximum_absolute_difference": 2.607781669989155
+    },
+    {
+      "query_id": 15,
+      "entries_outside_photon_reporting_tolerance": 12,
+      "maximum_absolute_difference": 2.607781669989155
+    },
+    {
+      "query_id": 16,
+      "entries_outside_photon_reporting_tolerance": 12,
+      "maximum_absolute_difference": 6.798702995559076
+    },
+    {
+      "query_id": 17,
+      "entries_outside_photon_reporting_tolerance": 12,
+      "maximum_absolute_difference": 6.798702995559076
+    }
+  ]
+}

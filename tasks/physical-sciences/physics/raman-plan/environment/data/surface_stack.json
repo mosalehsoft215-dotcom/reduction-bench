@@ -1,0 +1,43 @@
+{
+  "time_convention": "exp(-i omega t)",
+  "layer_order": "air to active substrate",
+  "sample_layers": [
+    {
+      "thickness_nm": 97.6,
+      "cauchy_A": 1.432,
+      "cauchy_B_um2": 0.0046
+    },
+    {
+      "thickness_nm": 62.3,
+      "cauchy_A": 2.221,
+      "cauchy_B_um2": 0.0217
+    },
+    {
+      "thickness_nm": 318.4,
+      "cauchy_A": 1.432,
+      "cauchy_B_um2": 0.0046
+    },
+    {
+      "thickness_nm": 187.9,
+      "cauchy_A": 2.221,
+      "cauchy_B_um2": 0.0217
+    },
+    {
+      "thickness_nm": 142.7,
+      "cauchy_A": 1.432,
+      "cauchy_B_um2": 0.0046
+    }
+  ],
+  "reference_layers": [
+    {
+      "thickness_nm": 97.6,
+      "cauchy_A": 1.432,
+      "cauchy_B_um2": 0.0046
+    },
+    {
+      "thickness_nm": 62.3,
+      "cauchy_A": 2.221,
+      "cauchy_B_um2": 0.0217
+    }
+  ]
+}

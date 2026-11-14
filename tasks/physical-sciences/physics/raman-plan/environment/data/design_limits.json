@@ -1,0 +1,10 @@
+{
+  "worst_error_max": 0.09,
+  "mean_error_max": 0.025,
+  "worst_memory_loss_max": 0.02,
+  "mean_memory_loss_max": 0.008,
+  "time_budget_s": 205.0,
+  "max_policy_depth": 10,
+  "max_dwell_units": 32,
+  "threshold_max": 1000000
+}

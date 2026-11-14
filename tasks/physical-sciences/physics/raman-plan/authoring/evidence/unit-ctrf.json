@@ -1,0 +1,299 @@
+{
+    "results": {
+        "tool": {
+            "name": "pytest",
+            "version": "8.4.1"
+        },
+        "summary": {
+            "tests": 31,
+            "passed": 31,
+            "failed": 0,
+            "skipped": 0,
+            "pending": 0,
+            "other": 0,
+            "start": 1792486750.5705385,
+            "stop": 1792486765.286373
+        },
+        "tests": [
+            {
+                "name": "bundle/authoring/validation/test_clock_contract.py::test_impossible_count_outcome_does_not_exempt_clock",
+                "status": "passed",
+                "duration": 0.0011839999933727086,
+                "start": 1792486752.6691852,
+                "stop": 1792486752.6707845,
+                "retries": 0,
+                "file_path": "bundle/authoring/validation/test_clock_contract.py"
+            },
+            {
+                "name": "bundle/authoring/validation/test_clock_contract.py::test_last_readout_is_included_and_boolean_dwell_rejected",
+                "status": "passed",
+                "duration": 0.0010459890181664377,
+                "start": 1792486752.6732543,
+                "stop": 1792486752.6746454,
+                "retries": 0,
+                "file_path": "bundle/authoring/validation/test_clock_contract.py"
+            },
+            {
+                "name": "bundle/authoring/validation/test_coupled_physics.py::test_switching_frames_are_allowed_variants_and_preserve_original_memory",
+                "status": "passed",
+                "duration": 0.016749822985730134,
+                "start": 1792486752.677349,
+                "stop": 1792486752.6946144,
+                "retries": 0,
+                "file_path": "bundle/authoring/validation/test_coupled_physics.py"
+            },
+            {
+                "name": "bundle/authoring/validation/test_coupled_physics.py::test_full_specimen_responses_do_not_admit_the_previous_state_collapse",
+                "status": "passed",
+                "duration": 4.926858391001588,
+                "start": 1792486752.6980362,
+                "stop": 1792486757.6253471,
+                "retries": 0,
+                "file_path": "bundle/authoring/validation/test_coupled_physics.py"
+            },
+            {
+                "name": "bundle/authoring/validation/test_coupled_physics.py::test_public_strength_and_generator_conventions_are_current",
+                "status": "passed",
+                "duration": 0.26225148601224646,
+                "start": 1792486757.6290326,
+                "stop": 1792486757.892175,
+                "retries": 0,
+                "file_path": "bundle/authoring/validation/test_coupled_physics.py"
+            },
+            {
+                "name": "bundle/authoring/validation/test_coupled_physics.py::test_all_public_optical_examples_are_current",
+                "status": "passed",
+                "duration": 0.8834492770110955,
+                "start": 1792486757.8959002,
+                "stop": 1792486758.7798357,
+                "retries": 0,
+                "file_path": "bundle/authoring/validation/test_coupled_physics.py"
+            },
+            {
+                "name": "bundle/authoring/validation/test_independent_contour_kernel.py::IndependentContourTests::test_broadcasting_and_contour_refinement",
+                "status": "passed",
+                "duration": 0.1554294070083415,
+                "start": 1792486758.7829995,
+                "stop": 1792486758.9391127,
+                "retries": 0,
+                "file_path": "bundle/authoring/validation/test_independent_contour_kernel.py"
+            },
+            {
+                "name": "bundle/authoring/validation/test_independent_contour_kernel.py::IndependentContourTests::test_defective_equal_rate_generator_uses_expm_fallback",
+                "status": "passed",
+                "duration": 0.013778170003206469,
+                "start": 1792486758.9420812,
+                "stop": 1792486758.9564734,
+                "retries": 0,
+                "file_path": "bundle/authoring/validation/test_independent_contour_kernel.py"
+            },
+            {
+                "name": "bundle/authoring/validation/test_independent_contour_kernel.py::IndependentContourTests::test_equal_rates_analytic_at_mean_count_1000",
+                "status": "passed",
+                "duration": 0.013640158998896368,
+                "start": 1792486758.9593673,
+                "stop": 1792486758.9734707,
+                "retries": 0,
+                "file_path": "bundle/authoring/validation/test_independent_contour_kernel.py"
+            },
+            {
+                "name": "bundle/authoring/validation/test_independent_contour_kernel.py::IndependentContourTests::test_invalid_inputs_and_underresolved_quadrature",
+                "status": "passed",
+                "duration": 0.0018588579987408593,
+                "start": 1792486758.9763668,
+                "stop": 1792486758.9785457,
+                "retries": 0,
+                "file_path": "bundle/authoring/validation/test_independent_contour_kernel.py"
+            },
+            {
+                "name": "bundle/authoring/validation/test_independent_contour_kernel.py::IndependentContourTests::test_noncommuting_sequence_matches_sparse",
+                "status": "passed",
+                "duration": 0.012585669988766313,
+                "start": 1792486758.981295,
+                "stop": 1792486758.994354,
+                "retries": 0,
+                "file_path": "bundle/authoring/validation/test_independent_contour_kernel.py"
+            },
+            {
+                "name": "bundle/authoring/validation/test_independent_contour_kernel.py::IndependentContourTests::test_sparse_third_check_at_small_and_high_counts",
+                "status": "passed",
+                "duration": 0.7536203909985488,
+                "start": 1792486758.9974194,
+                "stop": 1792486759.751721,
+                "retries": 0,
+                "file_path": "bundle/authoring/validation/test_independent_contour_kernel.py"
+            },
+            {
+                "name": "bundle/authoring/validation/test_independent_contour_kernel.py::IndependentContourTests::test_zero_q_poisson_diagonal_at_high_flux",
+                "status": "passed",
+                "duration": 0.00715404398215469,
+                "start": 1792486759.7545502,
+                "stop": 1792486759.762122,
+                "retries": 0,
+                "file_path": "bundle/authoring/validation/test_independent_contour_kernel.py"
+            },
+            {
+                "name": "bundle/authoring/validation/test_independent_count_kernel.py::IndependentCountKernelTests::test_direct_small_tail_is_not_a_complement",
+                "status": "passed",
+                "duration": 0.0038718479918316007,
+                "start": 1792486759.7646422,
+                "stop": 1792486759.7688537,
+                "retries": 0,
+                "file_path": "bundle/authoring/validation/test_independent_count_kernel.py"
+            },
+            {
+                "name": "bundle/authoring/validation/test_independent_count_kernel.py::IndependentCountKernelTests::test_equal_rates_factorize_and_batches_broadcast",
+                "status": "passed",
+                "duration": 0.03876219398807734,
+                "start": 1792486759.7711635,
+                "stop": 1792486759.8103905,
+                "retries": 0,
+                "file_path": "bundle/authoring/validation/test_independent_count_kernel.py"
+            },
+            {
+                "name": "bundle/authoring/validation/test_independent_count_kernel.py::IndependentCountKernelTests::test_general_conservation_and_absorbing_row",
+                "status": "passed",
+                "duration": 0.014091570003074594,
+                "start": 1792486759.8135068,
+                "stop": 1792486759.828056,
+                "retries": 0,
+                "file_path": "bundle/authoring/validation/test_independent_count_kernel.py"
+            },
+            {
+                "name": "bundle/authoring/validation/test_independent_count_kernel.py::IndependentCountKernelTests::test_input_validation",
+                "status": "passed",
+                "duration": 0.002103488994180225,
+                "start": 1792486759.8310318,
+                "stop": 1792486759.8336844,
+                "retries": 0,
+                "file_path": "bundle/authoring/validation/test_independent_count_kernel.py"
+            },
+            {
+                "name": "bundle/authoring/validation/test_independent_count_kernel.py::IndependentCountKernelTests::test_multistep_order_matters_and_memory_persists",
+                "status": "passed",
+                "duration": 0.020555051989504136,
+                "start": 1792486759.8367224,
+                "stop": 1792486759.8580172,
+                "retries": 0,
+                "file_path": "bundle/authoring/validation/test_independent_count_kernel.py"
+            },
+            {
+                "name": "bundle/authoring/validation/test_independent_count_kernel.py::IndependentCountKernelTests::test_zero_generator_poisson_diagonal",
+                "status": "passed",
+                "duration": 0.045968342004925944,
+                "start": 1792486759.8611624,
+                "stop": 1792486759.9075313,
+                "retries": 0,
+                "file_path": "bundle/authoring/validation/test_independent_count_kernel.py"
+            },
+            {
+                "name": "bundle/authoring/validation/test_physical_model.py::test_raw_model_matches_independent_optics_and_generators",
+                "status": "passed",
+                "duration": 0.00760438600264024,
+                "start": 1792486759.9101725,
+                "stop": 1792486759.918261,
+                "retries": 0,
+                "file_path": "bundle/authoring/validation/test_physical_model.py"
+            },
+            {
+                "name": "bundle/authoring/validation/test_physical_model.py::test_numerical_counting_aid_matches_independent_count_law",
+                "status": "passed",
+                "duration": 5.264076541992836,
+                "start": 1792486759.9209466,
+                "stop": 1792486765.1858726,
+                "retries": 0,
+                "file_path": "bundle/authoring/validation/test_physical_model.py"
+            },
+            {
+                "name": "bundle/authoring/validation/test_physical_model.py::test_model_prediction_rows_cover_both_crystals_and_wavelengths",
+                "status": "passed",
+                "duration": 0.0071159400104079396,
+                "start": 1792486765.189479,
+                "stop": 1792486765.1973624,
+                "retries": 0,
+                "file_path": "bundle/authoring/validation/test_physical_model.py"
+            },
+            {
+                "name": "bundle/authoring/validation/test_policy_exchange.py::PolicyExchangeTests::test_action_exchange_respects_child_subtree_motion",
+                "status": "passed",
+                "duration": 0.00686451701039914,
+                "start": 1792486765.2004762,
+                "stop": 1792486765.2078078,
+                "retries": 0,
+                "file_path": "bundle/authoring/validation/test_policy_exchange.py"
+            },
+            {
+                "name": "bundle/authoring/validation/test_policy_exchange.py::PolicyExchangeTests::test_all_action_deltas_match_whole_tree_recomputation",
+                "status": "passed",
+                "duration": 0.02811983399442397,
+                "start": 1792486765.2111857,
+                "stop": 1792486765.2398922,
+                "retries": 0,
+                "file_path": "bundle/authoring/validation/test_policy_exchange.py"
+            },
+            {
+                "name": "bundle/authoring/validation/test_policy_exchange.py::PolicyExchangeTests::test_improvement_decreases_exact_objective_and_relabels",
+                "status": "passed",
+                "duration": 0.009956397989299148,
+                "start": 1792486765.243192,
+                "stop": 1792486765.2535577,
+                "retries": 0,
+                "file_path": "bundle/authoring/validation/test_policy_exchange.py"
+            },
+            {
+                "name": "bundle/authoring/validation/test_policy_exchange.py::PolicyExchangeTests::test_local_exchange_rejects_better_nonlocal_comparison",
+                "status": "passed",
+                "duration": 0.0029891699959989637,
+                "start": 1792486765.2561738,
+                "stop": 1792486765.259522,
+                "retries": 0,
+                "file_path": "bundle/authoring/validation/test_policy_exchange.py"
+            },
+            {
+                "name": "bundle/authoring/validation/test_policy_exchange.py::PolicyExchangeTests::test_local_filter_keeps_setting_channel_and_integer_neighborhood",
+                "status": "passed",
+                "duration": 0.0009880889992928132,
+                "start": 1792486765.2620995,
+                "stop": 1792486765.263354,
+                "retries": 0,
+                "file_path": "bundle/authoring/validation/test_policy_exchange.py"
+            },
+            {
+                "name": "bundle/authoring/validation/test_policy_exchange.py::PolicyExchangeTests::test_material_state_one_is_not_final_loss",
+                "status": "passed",
+                "duration": 0.003321498996228911,
+                "start": 1792486765.2656462,
+                "stop": 1792486765.2692566,
+                "retries": 0,
+                "file_path": "bundle/authoring/validation/test_policy_exchange.py"
+            },
+            {
+                "name": "bundle/authoring/validation/test_policy_exchange.py::PolicyExchangeTests::test_rejects_zero_probability_branch_that_exceeds_clock",
+                "status": "passed",
+                "duration": 0.0017300549952778965,
+                "start": 1792486765.2718139,
+                "stop": 1792486765.2737691,
+                "retries": 0,
+                "file_path": "bundle/authoring/validation/test_policy_exchange.py"
+            },
+            {
+                "name": "bundle/authoring/validation/test_report_precision.py::test_compact_report_preserves_probability_and_clock_accuracy",
+                "status": "passed",
+                "duration": 0.002493324995157309,
+                "start": 1792486765.2763724,
+                "stop": 1792486765.2792835,
+                "retries": 0,
+                "file_path": "bundle/authoring/validation/test_report_precision.py"
+            },
+            {
+                "name": "bundle/authoring/validation/test_tail_rebuild.py::test_two_comparison_rebuild_recovers_jointly_informative_bits",
+                "status": "passed",
+                "duration": 0.0034219090011902153,
+                "start": 1792486765.281941,
+                "stop": 1792486765.2856753,
+                "retries": 0,
+                "file_path": "bundle/authoring/validation/test_tail_rebuild.py"
+            }
+        ]
+    }
+}

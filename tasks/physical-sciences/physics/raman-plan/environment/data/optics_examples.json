@@ -1,0 +1,113 @@
+{
+  "scope": "Intact-material count-rate convention checks only; no response probabilities or acquisition policy are prescribed.",
+  "absolute_count_tolerance": 2e-07,
+  "absolute_probability_tolerance": 2e-10,
+  "examples": [
+    {
+      "setting_id": 0,
+      "domain": 0,
+      "branch_id": 0,
+      "raw_channel_means": [
+        13.724074715863358,
+        19.27683493908339,
+        55.73252612166051
+      ]
+    },
+    {
+      "setting_id": 3,
+      "domain": 0,
+      "branch_id": 2,
+      "raw_channel_means": [
+        5.57613650379753,
+        9.906171879949431,
+        24.827306242424648
+      ]
+    },
+    {
+      "setting_id": 8,
+      "domain": 0,
+      "branch_id": 3,
+      "raw_channel_means": [
+        14.039841657257494,
+        33.78723109929891,
+        7.4833781688238385
+      ]
+    },
+    {
+      "setting_id": 10,
+      "domain": 0,
+      "branch_id": 4,
+      "raw_channel_means": [
+        17.89577436578425,
+        32.52856864575764,
+        13.289172151489403
+      ]
+    },
+    {
+      "setting_id": 12,
+      "domain": 7,
+      "branch_id": 0,
+      "raw_channel_means": [
+        4.117669845798553,
+        10.148986587276019,
+        52.82614533370968,
+        68.48606942081727
+      ]
+    },
+    {
+      "setting_id": 16,
+      "domain": 3,
+      "branch_id": 1,
+      "raw_channel_means": [
+        19.776692358767413,
+        45.69890537386068,
+        22.871432133673043,
+        22.7132481202805
+      ]
+    },
+    {
+      "setting_id": 21,
+      "domain": 9,
+      "branch_id": 2,
+      "raw_channel_means": [
+        12.452302468068247,
+        26.341239744512816,
+        30.177464348198676,
+        37.75188218312614
+      ]
+    },
+    {
+      "setting_id": 29,
+      "domain": 4,
+      "branch_id": 3,
+      "raw_channel_means": [
+        11.919354524810617,
+        38.931505840588,
+        6.289597153157692,
+        7.3468873584811085
+      ]
+    },
+    {
+      "setting_id": 37,
+      "domain": 11,
+      "branch_id": 4,
+      "raw_channel_means": [
+        12.499803547722703,
+        29.283874131856365,
+        14.003219535705561,
+        6.743874561551559
+      ]
+    },
+    {
+      "setting_id": 43,
+      "domain": 2,
+      "branch_id": 5,
+      "raw_channel_means": [
+        15.044530052479722,
+        48.178540778128635,
+        9.451475307067307,
+        13.731321881652242
+      ]
+    }
+  ]
+}

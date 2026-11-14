@@ -1,0 +1,49 @@
+{
+  "long_dwell_stress_cases": [
+    {
+      "setting": 48,
+      "channel": 1,
+      "dwell_units": 32,
+      "threshold": 1863,
+      "maximum_expected_count": 1863.6179692646474,
+      "elapsed_s": 2.6202305830083787,
+      "quadrature_size": 4096
+    },
+    {
+      "setting": 50,
+      "channel": 1,
+      "dwell_units": 32,
+      "threshold": 1845,
+      "maximum_expected_count": 1845.0099888075683,
+      "elapsed_s": 2.533566031997907,
+      "quadrature_size": 4096
+    },
+    {
+      "setting": 5,
+      "channel": 2,
+      "dwell_units": 32,
+      "threshold": 1837,
+      "maximum_expected_count": 1837.834442295698,
+      "elapsed_s": 0.030089293999481015,
+      "quadrature_size": 4096
+    },
+    {
+      "setting": 0,
+      "channel": 2,
+      "dwell_units": 32,
+      "threshold": 1826,
+      "maximum_expected_count": 1826.6188985188433,
+      "elapsed_s": 0.029787252002279274,
+      "quadrature_size": 4096
+    }
+  ],
+  "maximum_threshold_case": {
+    "threshold": 1000000,
+    "elapsed_s": 0.0035836000024573877,
+    "method": "bounded-threshold-tail",
+    "omitted_branch_mass_bound": 0.0,
+    "quadrature_size": 0
+  },
+  "verifier_timeout_s": 7200,
+  "interpretation": "Measured expensive count cases and the maximum legal threshold. These timings are host-dependent stress samples, not a proof of worst-case wall-clock runtime."
+}

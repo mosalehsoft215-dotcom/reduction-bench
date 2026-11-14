@@ -1,0 +1,275 @@
+{
+  "witness_sha256": "775b3fcf29cac17defcacd6a16aa6cd7cb247f438813f6d329b0f9569f3f0848",
+  "valid_policy_checks": {
+    "test_all_leaf_clocks_are_reported": "pass",
+    "test_complete_leaf_probability_audit": "pass",
+    "test_conditional_risk_and_time_audit": "pass",
+    "test_every_branch_obeys_hardware_and_clock": "pass",
+    "test_identification_error_for_every_state": "pass",
+    "test_optical_response_predictions": "pass",
+    "test_posterior_audit": "pass",
+    "test_regular_json_artifact": "pass"
+  },
+  "absolute_differences": {
+    "errors": 6.780027927977272e-12,
+    "memory_loss": 3.7020386756125845e-13,
+    "mean_error": 1.8119603040211985e-12,
+    "worst_error": 2.588235181733012e-12,
+    "mean_memory_loss": 1.565761409416666e-14,
+    "worst_memory_loss": 9.639858356003117e-15,
+    "conditional_probabilities": 1.3570145007690826e-11,
+    "lost_probabilities": 6.089616658155883e-14,
+    "marginal_probability": 6.407444019806974e-13,
+    "posterior": 5.009822564392708e-09
+  },
+  "fraction_of_reporting_allowance": {
+    "errors": 1.3495407344184644e-05,
+    "memory_loss": 3.4201744700759253e-07,
+    "mean_error": 7.61692234161068e-07,
+    "worst_error": 4.816382627331601e-07,
+    "mean_memory_loss": 3.0210778136055237e-08,
+    "worst_memory_loss": 7.441973233095346e-09,
+    "conditional_probabilities": 0.009194547447995314,
+    "lost_probabilities": 4.536160352719571e-05,
+    "marginal_probability": 4.427799630742263e-05,
+    "posterior": 0.01001959455300772
+  },
+  "rejection_controls": [
+    {
+      "name": "missing",
+      "checks": {
+        "test_all_leaf_clocks_are_reported": "rejected: ",
+        "test_complete_leaf_probability_audit": "rejected: ",
+        "test_conditional_risk_and_time_audit": "rejected: ",
+        "test_every_branch_obeys_hardware_and_clock": "rejected: ",
+        "test_identification_error_for_every_state": "rejected: ",
+        "test_optical_response_predictions": "rejected: ",
+        "test_posterior_audit": "rejected: ",
+        "test_regular_json_artifact": "rejected: "
+      }
+    },
+    {
+      "name": "duplicate",
+      "checks": {
+        "test_all_leaf_clocks_are_reported": "rejected: duplicate key policy",
+        "test_complete_leaf_probability_audit": "rejected: duplicate key policy",
+        "test_conditional_risk_and_time_audit": "rejected: duplicate key policy",
+        "test_every_branch_obeys_hardware_and_clock": "rejected: duplicate key policy",
+        "test_identification_error_for_every_state": "rejected: duplicate key policy",
+        "test_optical_response_predictions": "rejected: duplicate key policy",
+        "test_posterior_audit": "rejected: duplicate key policy",
+        "test_regular_json_artifact": "rejected: duplicate key policy"
+      }
+    },
+    {
+      "name": "overflow",
+      "checks": {
+        "test_all_leaf_clocks_are_reported": "rejected: nonfinite numeric value",
+        "test_complete_leaf_probability_audit": "rejected: nonfinite numeric value",
+        "test_conditional_risk_and_time_audit": "rejected: nonfinite numeric value",
+        "test_every_branch_obeys_hardware_and_clock": "rejected: nonfinite numeric value",
+        "test_identification_error_for_every_state": "rejected: nonfinite numeric value",
+        "test_optical_response_predictions": "rejected: nonfinite numeric value",
+        "test_posterior_audit": "rejected: nonfinite numeric value",
+        "test_regular_json_artifact": "rejected: nonfinite numeric value"
+      }
+    },
+    {
+      "name": "boolean dwell",
+      "checks": {
+        "test_all_leaf_clocks_are_reported": "rejected: ",
+        "test_complete_leaf_probability_audit": "rejected: ",
+        "test_conditional_risk_and_time_audit": "rejected: ",
+        "test_every_branch_obeys_hardware_and_clock": "rejected: ",
+        "test_identification_error_for_every_state": "rejected: ",
+        "test_optical_response_predictions": "pass",
+        "test_posterior_audit": "rejected: ",
+        "test_regular_json_artifact": "pass"
+      }
+    },
+    {
+      "name": "missing audit",
+      "checks": {
+        "test_all_leaf_clocks_are_reported": "rejected: ",
+        "test_complete_leaf_probability_audit": "rejected: ",
+        "test_conditional_risk_and_time_audit": "rejected: ",
+        "test_every_branch_obeys_hardware_and_clock": "rejected: ",
+        "test_identification_error_for_every_state": "rejected: ",
+        "test_optical_response_predictions": "rejected: ",
+        "test_posterior_audit": "rejected: ",
+        "test_regular_json_artifact": "rejected: "
+      }
+    },
+    {
+      "name": "forged errors",
+      "checks": {
+        "test_all_leaf_clocks_are_reported": "pass",
+        "test_complete_leaf_probability_audit": "pass",
+        "test_conditional_risk_and_time_audit": "rejected: ",
+        "test_every_branch_obeys_hardware_and_clock": "pass",
+        "test_identification_error_for_every_state": "pass",
+        "test_optical_response_predictions": "pass",
+        "test_posterior_audit": "pass",
+        "test_regular_json_artifact": "pass"
+      }
+    },
+    {
+      "name": "forged loss",
+      "checks": {
+        "test_all_leaf_clocks_are_reported": "pass",
+        "test_complete_leaf_probability_audit": "pass",
+        "test_conditional_risk_and_time_audit": "rejected: ",
+        "test_every_branch_obeys_hardware_and_clock": "pass",
+        "test_identification_error_for_every_state": "pass",
+        "test_optical_response_predictions": "pass",
+        "test_posterior_audit": "pass",
+        "test_regular_json_artifact": "pass"
+      }
+    },
+    {
+      "name": "missing leaf",
+      "checks": {
+        "test_all_leaf_clocks_are_reported": "rejected: ",
+        "test_complete_leaf_probability_audit": "rejected: ",
+        "test_conditional_risk_and_time_audit": "pass",
+        "test_every_branch_obeys_hardware_and_clock": "pass",
+        "test_identification_error_for_every_state": "pass",
+        "test_optical_response_predictions": "pass",
+        "test_posterior_audit": "rejected: ",
+        "test_regular_json_artifact": "pass"
+      }
+    },
+    {
+      "name": "false posterior",
+      "checks": {
+        "test_all_leaf_clocks_are_reported": "pass",
+        "test_complete_leaf_probability_audit": "pass",
+        "test_conditional_risk_and_time_audit": "pass",
+        "test_every_branch_obeys_hardware_and_clock": "pass",
+        "test_identification_error_for_every_state": "pass",
+        "test_optical_response_predictions": "pass",
+        "test_posterior_audit": "rejected: ",
+        "test_regular_json_artifact": "pass"
+      }
+    },
+    {
+      "name": "constant label",
+      "checks": {
+        "test_all_leaf_clocks_are_reported": "rejected: ",
+        "test_complete_leaf_probability_audit": "rejected: ",
+        "test_conditional_risk_and_time_audit": "rejected: ",
+        "test_every_branch_obeys_hardware_and_clock": "pass",
+        "test_identification_error_for_every_state": "rejected: ('worst_error', 1.0)",
+        "test_optical_response_predictions": "pass",
+        "test_posterior_audit": "rejected: ",
+        "test_regular_json_artifact": "pass"
+      }
+    },
+    {
+      "name": "false optical response",
+      "checks": {
+        "test_all_leaf_clocks_are_reported": "pass",
+        "test_complete_leaf_probability_audit": "pass",
+        "test_conditional_risk_and_time_audit": "pass",
+        "test_every_branch_obeys_hardware_and_clock": "pass",
+        "test_identification_error_for_every_state": "pass",
+        "test_optical_response_predictions": "rejected: ",
+        "test_posterior_audit": "pass",
+        "test_regular_json_artifact": "pass"
+      }
+    },
+    {
+      "name": "fractional dwell",
+      "checks": {
+        "test_all_leaf_clocks_are_reported": "rejected: ",
+        "test_complete_leaf_probability_audit": "rejected: ",
+        "test_conditional_risk_and_time_audit": "rejected: ",
+        "test_every_branch_obeys_hardware_and_clock": "rejected: ",
+        "test_identification_error_for_every_state": "rejected: ",
+        "test_optical_response_predictions": "pass",
+        "test_posterior_audit": "rejected: ",
+        "test_regular_json_artifact": "pass"
+      }
+    },
+    {
+      "name": "invalid channel",
+      "checks": {
+        "test_all_leaf_clocks_are_reported": "rejected: ",
+        "test_complete_leaf_probability_audit": "rejected: ",
+        "test_conditional_risk_and_time_audit": "rejected: ",
+        "test_every_branch_obeys_hardware_and_clock": "rejected: ",
+        "test_identification_error_for_every_state": "rejected: ",
+        "test_optical_response_predictions": "pass",
+        "test_posterior_audit": "rejected: ",
+        "test_regular_json_artifact": "pass"
+      }
+    },
+    {
+      "name": "forged maximum clock",
+      "checks": {
+        "test_all_leaf_clocks_are_reported": "pass",
+        "test_complete_leaf_probability_audit": "pass",
+        "test_conditional_risk_and_time_audit": "rejected: ",
+        "test_every_branch_obeys_hardware_and_clock": "pass",
+        "test_identification_error_for_every_state": "pass",
+        "test_optical_response_predictions": "pass",
+        "test_posterior_audit": "pass",
+        "test_regular_json_artifact": "pass"
+      }
+    },
+    {
+      "name": "wrong leaf order",
+      "checks": {
+        "test_all_leaf_clocks_are_reported": "rejected: ",
+        "test_complete_leaf_probability_audit": "rejected: ",
+        "test_conditional_risk_and_time_audit": "pass",
+        "test_every_branch_obeys_hardware_and_clock": "pass",
+        "test_identification_error_for_every_state": "pass",
+        "test_optical_response_predictions": "pass",
+        "test_posterior_audit": "rejected: ",
+        "test_regular_json_artifact": "pass"
+      }
+    },
+    {
+      "name": "false generator",
+      "checks": {
+        "test_all_leaf_clocks_are_reported": "pass",
+        "test_complete_leaf_probability_audit": "pass",
+        "test_conditional_risk_and_time_audit": "pass",
+        "test_every_branch_obeys_hardware_and_clock": "pass",
+        "test_identification_error_for_every_state": "pass",
+        "test_optical_response_predictions": "rejected: ",
+        "test_posterior_audit": "pass",
+        "test_regular_json_artifact": "pass"
+      }
+    },
+    {
+      "name": "extra audit key",
+      "checks": {
+        "test_all_leaf_clocks_are_reported": "rejected: ",
+        "test_complete_leaf_probability_audit": "rejected: ",
+        "test_conditional_risk_and_time_audit": "rejected: ",
+        "test_every_branch_obeys_hardware_and_clock": "pass",
+        "test_identification_error_for_every_state": "pass",
+        "test_optical_response_predictions": "rejected: ",
+        "test_posterior_audit": "rejected: ",
+        "test_regular_json_artifact": "pass"
+      }
+    },
+    {
+      "name": "impossible-branch clock",
+      "checks": {
+        "test_all_leaf_clocks_are_reported": "rejected: ",
+        "test_complete_leaf_probability_audit": "rejected: ",
+        "test_conditional_risk_and_time_audit": "rejected: ",
+        "test_every_branch_obeys_hardware_and_clock": "rejected: ",
+        "test_identification_error_for_every_state": "rejected: ",
+        "test_optical_response_predictions": "pass",
+        "test_posterior_audit": "rejected: ",
+        "test_regular_json_artifact": "pass"
+      }
+    }
+  ],
+  "physical_control": null,
+  "elapsed_s": 703.5119631179987
+}

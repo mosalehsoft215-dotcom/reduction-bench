@@ -1,0 +1,326 @@
+{
+    "results": {
+        "tool": {
+            "name": "pytest",
+            "version": "8.4.1"
+        },
+        "summary": {
+            "tests": 34,
+            "passed": 34,
+            "failed": 0,
+            "skipped": 0,
+            "pending": 0,
+            "other": 0,
+            "start": 1792501924.7414055,
+            "stop": 1792501939.8931084
+        },
+        "tests": [
+            {
+                "name": "test_clock_contract.py::test_impossible_count_outcome_does_not_exempt_clock",
+                "status": "passed",
+                "duration": 0.0010986609995597973,
+                "start": 1792501928.307241,
+                "stop": 1792501928.3088093,
+                "retries": 0,
+                "file_path": "test_clock_contract.py"
+            },
+            {
+                "name": "test_clock_contract.py::test_last_readout_is_included_and_boolean_dwell_rejected",
+                "status": "passed",
+                "duration": 0.0022196220088517293,
+                "start": 1792501928.311895,
+                "stop": 1792501928.3144982,
+                "retries": 0,
+                "file_path": "test_clock_contract.py"
+            },
+            {
+                "name": "test_coupled_physics.py::test_switching_frames_are_allowed_variants_and_preserve_original_memory",
+                "status": "passed",
+                "duration": 0.05561590698198415,
+                "start": 1792501928.3203857,
+                "stop": 1792501928.3763664,
+                "retries": 0,
+                "file_path": "test_coupled_physics.py"
+            },
+            {
+                "name": "test_coupled_physics.py::test_full_specimen_responses_do_not_admit_the_previous_state_collapse",
+                "status": "passed",
+                "duration": 7.528567663001013,
+                "start": 1792501928.378961,
+                "stop": 1792501935.9043503,
+                "retries": 0,
+                "file_path": "test_coupled_physics.py"
+            },
+            {
+                "name": "test_coupled_physics.py::test_public_strength_and_generator_conventions_are_current",
+                "status": "passed",
+                "duration": 0.44554083100229036,
+                "start": 1792501935.9063146,
+                "stop": 1792501936.3522103,
+                "retries": 0,
+                "file_path": "test_coupled_physics.py"
+            },
+            {
+                "name": "test_coupled_physics.py::test_all_public_optical_examples_are_current",
+                "status": "passed",
+                "duration": 1.4252313659962965,
+                "start": 1792501936.3547208,
+                "stop": 1792501937.7802336,
+                "retries": 0,
+                "file_path": "test_coupled_physics.py"
+            },
+            {
+                "name": "test_independent_contour_kernel.py::IndependentContourTests::test_broadcasting_and_contour_refinement",
+                "status": "passed",
+                "duration": 0.5240584269777173,
+                "start": 1792501937.7836204,
+                "stop": 1792501938.3081574,
+                "retries": 0,
+                "file_path": "test_independent_contour_kernel.py"
+            },
+            {
+                "name": "test_independent_contour_kernel.py::IndependentContourTests::test_defective_equal_rate_generator_uses_expm_fallback",
+                "status": "passed",
+                "duration": 0.23711571499006823,
+                "start": 1792501938.3246546,
+                "stop": 1792501938.5622733,
+                "retries": 0,
+                "file_path": "test_independent_contour_kernel.py"
+            },
+            {
+                "name": "test_independent_contour_kernel.py::IndependentContourTests::test_equal_rates_analytic_at_mean_count_1000",
+                "status": "passed",
+                "duration": 0.041453569996519946,
+                "start": 1792501938.5721328,
+                "stop": 1792501938.6142697,
+                "retries": 0,
+                "file_path": "test_independent_contour_kernel.py"
+            },
+            {
+                "name": "test_independent_contour_kernel.py::IndependentContourTests::test_invalid_inputs_and_underresolved_quadrature",
+                "status": "passed",
+                "duration": 0.008620961991255172,
+                "start": 1792501938.621865,
+                "stop": 1792501938.6310823,
+                "retries": 0,
+                "file_path": "test_independent_contour_kernel.py"
+            },
+            {
+                "name": "test_independent_contour_kernel.py::IndependentContourTests::test_maximum_legal_threshold_uses_bounded_memory",
+                "status": "passed",
+                "duration": 0.003991285004303791,
+                "start": 1792501938.6378853,
+                "stop": 1792501938.6425672,
+                "retries": 0,
+                "file_path": "test_independent_contour_kernel.py"
+            },
+            {
+                "name": "test_independent_contour_kernel.py::IndependentContourTests::test_noncommuting_sequence_matches_sparse",
+                "status": "passed",
+                "duration": 0.05618622497422621,
+                "start": 1792501938.6500373,
+                "stop": 1792501938.7067294,
+                "retries": 0,
+                "file_path": "test_independent_contour_kernel.py"
+            },
+            {
+                "name": "test_independent_contour_kernel.py::IndependentContourTests::test_sparse_third_check_at_small_and_high_counts",
+                "status": "passed",
+                "duration": 0.8740943750017323,
+                "start": 1792501938.7088697,
+                "stop": 1792501939.583236,
+                "retries": 0,
+                "file_path": "test_independent_contour_kernel.py"
+            },
+            {
+                "name": "test_independent_contour_kernel.py::IndependentContourTests::test_tail_bound_agrees_with_analytic_equal_rate_law",
+                "status": "passed",
+                "duration": 0.0014299100148491561,
+                "start": 1792501939.5852952,
+                "stop": 1792501939.586955,
+                "retries": 0,
+                "file_path": "test_independent_contour_kernel.py"
+            },
+            {
+                "name": "test_independent_contour_kernel.py::IndependentContourTests::test_tail_fast_path_broadcasts_all_initial_states",
+                "status": "passed",
+                "duration": 0.0015881330036791041,
+                "start": 1792501939.5891755,
+                "stop": 1792501939.5910172,
+                "retries": 0,
+                "file_path": "test_independent_contour_kernel.py"
+            },
+            {
+                "name": "test_independent_contour_kernel.py::IndependentContourTests::test_zero_q_poisson_diagonal_at_high_flux",
+                "status": "passed",
+                "duration": 0.0077301309938775375,
+                "start": 1792501939.5933259,
+                "stop": 1792501939.601353,
+                "retries": 0,
+                "file_path": "test_independent_contour_kernel.py"
+            },
+            {
+                "name": "test_independent_count_kernel.py::IndependentCountKernelTests::test_direct_small_tail_is_not_a_complement",
+                "status": "passed",
+                "duration": 0.003695841005537659,
+                "start": 1792501939.6035244,
+                "stop": 1792501939.6075184,
+                "retries": 0,
+                "file_path": "test_independent_count_kernel.py"
+            },
+            {
+                "name": "test_independent_count_kernel.py::IndependentCountKernelTests::test_equal_rates_factorize_and_batches_broadcast",
+                "status": "passed",
+                "duration": 0.03645903799042571,
+                "start": 1792501939.6096072,
+                "stop": 1792501939.6464252,
+                "retries": 0,
+                "file_path": "test_independent_count_kernel.py"
+            },
+            {
+                "name": "test_independent_count_kernel.py::IndependentCountKernelTests::test_general_conservation_and_absorbing_row",
+                "status": "passed",
+                "duration": 0.014286090998211876,
+                "start": 1792501939.6486034,
+                "stop": 1792501939.6631436,
+                "retries": 0,
+                "file_path": "test_independent_count_kernel.py"
+            },
+            {
+                "name": "test_independent_count_kernel.py::IndependentCountKernelTests::test_input_validation",
+                "status": "passed",
+                "duration": 0.0011310660047456622,
+                "start": 1792501939.6654475,
+                "stop": 1792501939.6668694,
+                "retries": 0,
+                "file_path": "test_independent_count_kernel.py"
+            },
+            {
+                "name": "test_independent_count_kernel.py::IndependentCountKernelTests::test_multistep_order_matters_and_memory_persists",
+                "status": "passed",
+                "duration": 0.01023839799745474,
+                "start": 1792501939.6691241,
+                "stop": 1792501939.6796598,
+                "retries": 0,
+                "file_path": "test_independent_count_kernel.py"
+            },
+            {
+                "name": "test_independent_count_kernel.py::IndependentCountKernelTests::test_zero_generator_poisson_diagonal",
+                "status": "passed",
+                "duration": 0.055486524011939764,
+                "start": 1792501939.6820095,
+                "stop": 1792501939.7378561,
+                "retries": 0,
+                "file_path": "test_independent_count_kernel.py"
+            },
+            {
+                "name": "test_physical_model.py::test_raw_model_matches_independent_optics_and_generators",
+                "status": "passed",
+                "duration": 0.008919105006498285,
+                "start": 1792501939.7463477,
+                "stop": 1792501939.7555463,
+                "retries": 0,
+                "file_path": "test_physical_model.py"
+            },
+            {
+                "name": "test_physical_model.py::test_numerical_counting_aid_matches_independent_count_law",
+                "status": "passed",
+                "duration": 0.06091561900393572,
+                "start": 1792501939.7575529,
+                "stop": 1792501939.8187315,
+                "retries": 0,
+                "file_path": "test_physical_model.py"
+            },
+            {
+                "name": "test_physical_model.py::test_model_prediction_rows_cover_both_crystals_and_wavelengths",
+                "status": "passed",
+                "duration": 0.005671731007169001,
+                "start": 1792501939.8207622,
+                "stop": 1792501939.8267727,
+                "retries": 0,
+                "file_path": "test_physical_model.py"
+            },
+            {
+                "name": "test_policy_exchange.py::PolicyExchangeTests::test_action_exchange_respects_child_subtree_motion",
+                "status": "passed",
+                "duration": 0.004210116996546276,
+                "start": 1792501939.829419,
+                "stop": 1792501939.8338494,
+                "retries": 0,
+                "file_path": "test_policy_exchange.py"
+            },
+            {
+                "name": "test_policy_exchange.py::PolicyExchangeTests::test_all_action_deltas_match_whole_tree_recomputation",
+                "status": "passed",
+                "duration": 0.01646531099686399,
+                "start": 1792501939.835801,
+                "stop": 1792501939.8525157,
+                "retries": 0,
+                "file_path": "test_policy_exchange.py"
+            },
+            {
+                "name": "test_policy_exchange.py::PolicyExchangeTests::test_improvement_decreases_exact_objective_and_relabels",
+                "status": "passed",
+                "duration": 0.0085428499878617,
+                "start": 1792501939.8547688,
+                "stop": 1792501939.8635774,
+                "retries": 0,
+                "file_path": "test_policy_exchange.py"
+            },
+            {
+                "name": "test_policy_exchange.py::PolicyExchangeTests::test_local_exchange_rejects_better_nonlocal_comparison",
+                "status": "passed",
+                "duration": 0.0026552889903541654,
+                "start": 1792501939.8655376,
+                "stop": 1792501939.8684263,
+                "retries": 0,
+                "file_path": "test_policy_exchange.py"
+            },
+            {
+                "name": "test_policy_exchange.py::PolicyExchangeTests::test_local_filter_keeps_setting_channel_and_integer_neighborhood",
+                "status": "passed",
+                "duration": 0.0009109329985221848,
+                "start": 1792501939.8703196,
+                "stop": 1792501939.8714623,
+                "retries": 0,
+                "file_path": "test_policy_exchange.py"
+            },
+            {
+                "name": "test_policy_exchange.py::PolicyExchangeTests::test_material_state_one_is_not_final_loss",
+                "status": "passed",
+                "duration": 0.003487711015623063,
+                "start": 1792501939.873641,
+                "stop": 1792501939.8774288,
+                "retries": 0,
+                "file_path": "test_policy_exchange.py"
+            },
+            {
+                "name": "test_policy_exchange.py::PolicyExchangeTests::test_rejects_zero_probability_branch_that_exceeds_clock",
+                "status": "passed",
+                "duration": 0.0018479710124665871,
+                "start": 1792501939.8802342,
+                "stop": 1792501939.8824136,
+                "retries": 0,
+                "file_path": "test_policy_exchange.py"
+            },
+            {
+                "name": "test_report_precision.py::test_compact_report_preserves_probability_and_clock_accuracy",
+                "status": "passed",
+                "duration": 0.0017902620020322502,
+                "start": 1792501939.884673,
+                "stop": 1792501939.8867247,
+                "retries": 0,
+                "file_path": "test_report_precision.py"
+            },
+            {
+                "name": "test_tail_rebuild.py::test_two_comparison_rebuild_recovers_jointly_informative_bits",
+                "status": "passed",
+                "duration": 0.0034749070036923513,
+                "start": 1792501939.8889627,
+                "stop": 1792501939.8926878,
+                "retries": 0,
+                "file_path": "test_tail_rebuild.py"
+            }
+        ]
+    }
+}

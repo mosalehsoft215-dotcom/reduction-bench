@@ -1,0 +1,5 @@
+item,value
+crystal_point_group,2/m (C2h) with unique axis b
+parent_point_group,m-3m (cubic); its 24 proper rotations generate the variants
+reference_variant,crystal Cartesian axes x y z along the parent cube axes x y z
+number_of_variants,12

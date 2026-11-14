@@ -1,0 +1,7 @@
+bh-33 temperature logging notes
+spud 2026-02-24 07:00; casing set at 380 m
+mud pit check 2026-03-17 05:30: probe from the dog house (11.0 C) into the active pit, reference thermometer 21.61 C
+run 1 2026-03-17 07:00: logged down from surface, winch at about 9 m/min
+run 2 2026-04-09 07:00: logged down from surface, winch at about 10 m/min; cable head re-terminated before the run
+run 3 2026-06-08 07:00: logged down from surface, winch at about 11 m/min
+well shut in between runs, fluid level at surface

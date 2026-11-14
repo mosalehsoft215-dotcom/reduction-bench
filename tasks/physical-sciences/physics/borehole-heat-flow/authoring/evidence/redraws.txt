@@ -1,0 +1,15 @@
+largest error in 20 noise redraws per well (mW/m2, C, K/km, W/m/K)
+reference P1: basal_heat 0.836  temperature_at 0.016  report_gradient 0.013  report_conductivity 0.030
+reference P2: basal_heat 0.783  temperature_at 0.012  report_gradient 0.005  report_conductivity 0.102
+reference H1: basal_heat 1.295  temperature_at 0.017  report_gradient 0.007  report_conductivity 0.090
+reference H2: basal_heat 0.989  temperature_at 0.018  report_gradient 0.016  report_conductivity 0.060
+reference H3: basal_heat 0.903  temperature_at 0.009  report_gradient 0.007  report_conductivity 0.085
+reference H4: basal_heat 0.931  temperature_at 0.013  report_gradient 0.008  report_conductivity 0.035
+reference H5: basal_heat 0.793  temperature_at 0.013  report_gradient 0.632  report_conductivity 0.052
+second P1: basal_heat 0.780  temperature_at 0.015  report_gradient 0.010  report_conductivity 0.029
+second P2: basal_heat 0.870  temperature_at 0.007  report_gradient 0.009  report_conductivity 0.103
+second H1: basal_heat 1.356  temperature_at 0.021  report_gradient 0.016  report_conductivity 0.090
+second H2: basal_heat 1.091  temperature_at 0.009  report_gradient 0.009  report_conductivity 0.059
+second H3: basal_heat 0.971  temperature_at 0.012  report_gradient 0.004  report_conductivity 0.104
+second H4: basal_heat 1.035  temperature_at 0.011  report_gradient 0.013  report_conductivity 0.035
+second H5: basal_heat 0.728  temperature_at 0.007  report_gradient 0.621  report_conductivity 0.051

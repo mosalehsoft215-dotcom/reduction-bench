@@ -1,0 +1,7 @@
+one value per figure: the most sealed wells it can serve
+basal_heat_flow_mw_m2: 3 of 5 (bh-31, bh-34, bh-35)
+temperature_at_td_c: 2 of 5 (bh-31, bh-35)
+report_gradient_k_km: 2 of 5 (bh-31, bh-33)
+report_conductivity_w_mk: 2 of 5 (bh-34, bh-35)
+copying bh-11: meets no sealed well
+copying bh-12: meets no sealed well

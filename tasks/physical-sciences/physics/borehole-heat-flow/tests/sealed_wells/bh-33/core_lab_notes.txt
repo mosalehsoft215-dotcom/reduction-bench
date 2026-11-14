@@ -1,0 +1,7 @@
+bh-33 core laboratory notes
+needle probe NP-2, checked on fused silica before each batch; all values at 20.0 C
+batch 1 (glacial till, samples C01-C06): measured as received, cores kept sealed in their sleeves
+batch 2 (shale, samples C07-C12): measured as received, cores kept sealed in their sleeves
+batch 3 (limestone, samples C13-C18): measured as received, cores kept sealed in their sleeves
+batch 4 (mudstone, samples C19-C24): measured as received, cores kept sealed in their sleeves
+batch 5 (sandstone, samples C25-C30): oven-dried 24 h at 105 C before the needle-probe runs (porosity measured first)

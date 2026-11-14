@@ -1,0 +1,7 @@
+bh-12 temperature logging notes
+spud 2025-08-19 06:00; casing set at 380 m
+mud pit check 2025-09-06 20:45: probe from the dog house (11.0 C) into the active pit, reference thermometer 21.61 C
+run 1 2025-09-06 22:15: logged down from surface, winch at about 8 m/min; depth counter zeroed at the rotary table
+run 2 2025-09-24 22:15: logged down from surface, winch at about 10 m/min
+run 3 2025-11-07 22:15: logged down from surface, winch at about 12 m/min; generator swapped before the run
+well shut in between runs, fluid level at surface

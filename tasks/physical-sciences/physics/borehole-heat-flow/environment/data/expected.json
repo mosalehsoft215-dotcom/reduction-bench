@@ -1,0 +1,14 @@
+{
+  "bh-11": {
+    "basal_heat_flow_mw_m2": 62.0,
+    "temperature_at_td_c": 51.0582,
+    "report_gradient_k_km": 34.5607,
+    "report_conductivity_w_mk": 1.8271
+  },
+  "bh-12": {
+    "basal_heat_flow_mw_m2": 71.0,
+    "temperature_at_td_c": 52.7466,
+    "report_gradient_k_km": 17.2966,
+    "report_conductivity_w_mk": 4.118
+  }
+}

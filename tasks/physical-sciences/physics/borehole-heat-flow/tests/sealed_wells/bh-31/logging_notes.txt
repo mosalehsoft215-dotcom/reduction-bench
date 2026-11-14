@@ -1,0 +1,7 @@
+bh-31 temperature logging notes
+spud 2025-09-02 13:00; casing set at 380 m
+mud pit check 2025-09-18 16:00: probe from the dog house (11.0 C) into the active pit, reference thermometer 21.61 C
+run 1 2025-09-18 17:30: logged down from surface, winch at about 9 m/min; rig still on location, logged through the open BOP
+run 2 2025-09-20 11:30: logged down from surface, winch at about 10 m/min
+run 3 2025-09-24 23:30: logged down from surface, winch at about 11 m/min; rig moved off the hole; depth counter zeroed at the casing flange
+well shut in between runs, fluid level at surface

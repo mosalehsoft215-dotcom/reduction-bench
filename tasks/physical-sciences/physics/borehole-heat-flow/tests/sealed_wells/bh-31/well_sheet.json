@@ -1,0 +1,77 @@
+{
+  "well": "bh-31",
+  "spud": "2025-09-02 13:00",
+  "total_depth_m": 1580.0,
+  "casing_shoe_m": 380.0,
+  "depth_reference": "rotary table",
+  "elevations_m": {
+    "ground": 211.8,
+    "casing_flange": 212.4,
+    "rotary_table": 218.5
+  },
+  "formations": [
+    {
+      "name": "glacial till",
+      "top_m": 0.0,
+      "base_m": 60.0
+    },
+    {
+      "name": "shale",
+      "top_m": 60.0,
+      "base_m": 520.0
+    },
+    {
+      "name": "sandstone",
+      "top_m": 520.0,
+      "base_m": 840.0
+    },
+    {
+      "name": "limestone",
+      "top_m": 840.0,
+      "base_m": 1230.0
+    },
+    {
+      "name": "dolomite",
+      "top_m": 1230.0,
+      "base_m": 1580.0
+    }
+  ],
+  "report_formation": "dolomite",
+  "thermistor": {
+    "steinhart_hart": {
+      "a": 0.001129241,
+      "b": 0.0002341077,
+      "c": 8.775468e-08
+    },
+    "probe": "thin-wall stainless probe",
+    "sampling_s": 2.0
+  },
+  "runs": [
+    {
+      "run": 1,
+      "file": "runs/run_1.csv",
+      "start": "2025-09-18 17:30"
+    },
+    {
+      "run": 2,
+      "file": "runs/run_2.csv",
+      "start": "2025-09-20 11:30"
+    },
+    {
+      "run": 3,
+      "file": "runs/run_3.csv",
+      "start": "2025-09-24 23:30"
+    }
+  ],
+  "mud_pit_check": {
+    "file": "mud_pit_check.csv",
+    "start": "2025-09-18 16:00",
+    "sampling_s": 1.0
+  },
+  "laboratory": {
+    "needle_probe_temperature_c": 20.0,
+    "pore_water_conductivity_w_mk": 0.6
+  },
+  "rock_thermal_diffusivity_m2_s": 1e-06,
+  "conductivity_temperature_coefficient_per_k": 0.0015
+}

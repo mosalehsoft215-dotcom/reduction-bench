@@ -1,0 +1,17 @@
+{
+  "spin_frequency_hz": 287.4579123531448,
+  "offset_east_arcsec": 41.3387167924053,
+  "offset_north_arcsec": -58.62857800671606,
+  "orbital_period_days": 1.6183273749428129,
+  "projected_semimajor_axis_ls": 3.812433498682572,
+  "eccentricity": 0.11370269100729032,
+  "periastron_longitude_deg": 72.40217282628966,
+  "periastron_epoch_mjd": 60500.43101050211,
+  "spin_frequency_derivative_hz_per_s": 2.3814315537251024e-15,
+  "chi_square": 254.00282713357427,
+  "arrival_times": 128,
+  "chi_square_of_the_runner_up": 333.67937697314403,
+  "turn_counts_within_150_of_the_best": [
+    18
+  ]
+}

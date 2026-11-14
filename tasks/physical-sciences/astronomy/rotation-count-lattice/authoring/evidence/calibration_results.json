@@ -1,0 +1,210 @@
+[
+ {
+  "label": "DEF",
+  "route": "reference",
+  "values": {
+   "spin_frequency_hz": 287.4579123531448,
+   "offset_east_arcsec": 41.3387167924053,
+   "offset_north_arcsec": -58.62857800671606,
+   "orbital_period_days": 1.6183273749428129,
+   "projected_semimajor_axis_ls": 3.812433498682572,
+   "eccentricity": 0.11370269100729032,
+   "periastron_longitude_deg": 72.40217282628966,
+   "periastron_epoch_mjd": 60500.43101050211
+  },
+  "errors": {
+   "spin_frequency_hz": 1.344801603408996e-09,
+   "offset_east_arcsec": 0.038716792405303124,
+   "offset_north_arcsec": -0.028578006716060145,
+   "orbital_period_days": -2.5057187214017063e-08,
+   "projected_semimajor_axis_ls": 3.49868257210062e-06,
+   "eccentricity": 2.6910072903202353e-06,
+   "periastron_longitude_deg": 0.0021728262896658634,
+   "periastron_epoch_mjd": 1.0502109944354743e-05
+  },
+  "chi2": 254.00282713357427,
+  "inside": true
+ },
+ {
+  "label": "ALT",
+  "route": "second-best turn counts between sessions (runner-up of the reference's search)",
+  "values": {
+   "spin_frequency_hz": 287.45791363818313,
+   "offset_east_arcsec": -98.94115174264213,
+   "offset_north_arcsec": -98.93583298499384,
+   "orbital_period_days": 1.6183273494258013,
+   "projected_semimajor_axis_ls": 3.8122280917317575,
+   "eccentricity": 0.11401408936348285,
+   "periastron_longitude_deg": 72.47026697014844,
+   "periastron_epoch_mjd": 60500.43133964634
+  },
+  "errors": {
+   "spin_frequency_hz": 1.2863831102549739e-06,
+   "offset_east_arcsec": -140.24115174264213,
+   "offset_north_arcsec": -40.335832984993836,
+   "orbital_period_days": -5.05741988288122e-08,
+   "projected_semimajor_axis_ls": -0.00020190826824251218,
+   "eccentricity": 0.00031408936348285843,
+   "periastron_longitude_deg": 0.0702669701484524,
+   "periastron_epoch_mjd": 0.00033964634349104017
+  },
+  "chi2": 333.67937697314403,
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "turn counts rounded one after another on the reduced lattice, no search",
+  "values": {
+   "spin_frequency_hz": 287.4579123531448,
+   "offset_east_arcsec": 41.3387167924053,
+   "offset_north_arcsec": -58.62857800671606,
+   "orbital_period_days": 1.6183273749428129,
+   "projected_semimajor_axis_ls": 3.812433498682572,
+   "eccentricity": 0.11370269100729032,
+   "periastron_longitude_deg": 72.40217282628966,
+   "periastron_epoch_mjd": 60500.43101050211
+  },
+  "errors": {
+   "spin_frequency_hz": 1.344801603408996e-09,
+   "offset_east_arcsec": 0.038716792405303124,
+   "offset_north_arcsec": -0.028578006716060145,
+   "orbital_period_days": -2.5057187214017063e-08,
+   "projected_semimajor_axis_ls": 3.49868257210062e-06,
+   "eccentricity": 2.6910072903202353e-06,
+   "periastron_longitude_deg": 0.0021728262896658634,
+   "periastron_epoch_mjd": 1.0502109944354743e-05
+  },
+  "chi2": 254.00282713357427,
+  "inside": true
+ },
+ {
+  "label": "ALT",
+  "route": "turn counts rounded session after session in the original order, no lattice reduction, no search",
+  "values": {
+   "spin_frequency_hz": 287.4579072270603,
+   "offset_east_arcsec": 18.06556210333203,
+   "offset_north_arcsec": -60.81351330258115,
+   "orbital_period_days": 1.618325634094492,
+   "projected_semimajor_axis_ls": 3.811932154075386,
+   "eccentricity": 0.11359861496924857,
+   "periastron_longitude_deg": 72.33125001626613,
+   "periastron_epoch_mjd": 60500.43080184676
+  },
+  "errors": {
+   "spin_frequency_hz": -5.124739743678219e-06,
+   "offset_east_arcsec": -23.234437896667966,
+   "offset_north_arcsec": -2.2135133025811484,
+   "orbital_period_days": -1.7659055080443409e-06,
+   "projected_semimajor_axis_ls": -0.0004978459246141043,
+   "eccentricity": -0.00010138503075142469,
+   "periastron_longitude_deg": -0.06874998373388053,
+   "periastron_epoch_mjd": -0.00019815324048977345
+  },
+  "chi2": 2320.9879130290424,
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "only the best-fitting way of counting inside every session",
+  "values": {
+   "spin_frequency_hz": 287.46832096127974,
+   "offset_east_arcsec": 126404.15437511021,
+   "offset_north_arcsec": 64599.836709343486,
+   "orbital_period_days": 0.6178381178770308,
+   "projected_semimajor_axis_ls": 1.249154441200268,
+   "eccentricity": 0.25507103111643536,
+   "periastron_longitude_deg": 342.30669907986726,
+   "periastron_epoch_mjd": 60500.218904558074
+  },
+  "errors": {
+   "spin_frequency_hz": 0.010408609479725328,
+   "offset_east_arcsec": 126362.85437511021,
+   "offset_north_arcsec": 64658.436709343485,
+   "orbital_period_days": -1.0004892821229694,
+   "projected_semimajor_axis_ls": -2.563275558799732,
+   "eccentricity": 0.14137103111643537,
+   "periastron_longitude_deg": -90.09330092013272,
+   "periastron_epoch_mjd": -0.21209544192242902
+  },
+  "chi2": 35593216.527265444,
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "pulsar taken at the catalogue position",
+  "values": {
+   "spin_frequency_hz": 287.4579105129234,
+   "offset_east_arcsec": 3.9859472670102426e-10,
+   "offset_north_arcsec": 1.3691959220178083e-09,
+   "orbital_period_days": 1.618326735961675,
+   "projected_semimajor_axis_ls": 3.8120922970875877,
+   "eccentricity": 0.11321676429880297,
+   "periastron_longitude_deg": 72.09545168663722,
+   "periastron_epoch_mjd": 60500.42968275596
+  },
+  "errors": {
+   "spin_frequency_hz": -1.8388766420684988e-06,
+   "offset_east_arcsec": -41.299999999601404,
+   "offset_north_arcsec": 58.600000001369196,
+   "orbital_period_days": -6.64038324993399e-07,
+   "projected_semimajor_axis_ls": -0.00033770291241230765,
+   "eccentricity": -0.0004832357011970295,
+   "periastron_longitude_deg": -0.30454831336277266,
+   "periastron_epoch_mjd": -0.0013172440376365557
+  },
+  "chi2": 957.1161615275589,
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "frequency derivative left out (F1 = 0)",
+  "values": {
+   "spin_frequency_hz": 287.45791235526076,
+   "offset_east_arcsec": 41.468052157912695,
+   "offset_north_arcsec": -58.694449372165224,
+   "orbital_period_days": 1.6183273177364168,
+   "projected_semimajor_axis_ls": 3.8124395026534024,
+   "eccentricity": 0.11370877941573143,
+   "periastron_longitude_deg": 72.39951885199416,
+   "periastron_epoch_mjd": 60500.431000721954
+  },
+  "errors": {
+   "spin_frequency_hz": 3.4607410270837136e-09,
+   "offset_east_arcsec": 0.16805215791269745,
+   "offset_north_arcsec": -0.0944493721652222,
+   "orbital_period_days": -8.226358327867445e-08,
+   "projected_semimajor_axis_ls": 9.502653402382322e-06,
+   "eccentricity": 8.779415731435813e-06,
+   "periastron_longitude_deg": -0.0004811480058606321,
+   "periastron_epoch_mjd": 7.219568942673504e-07
+  },
+  "chi2": 261.46169048472336,
+  "inside": true
+ },
+ {
+  "label": "ALT",
+  "route": "orbit and spin from the Doppler curve of the sessions, no turn counting between sessions",
+  "values": {
+   "spin_frequency_hz": 287.4579091503629,
+   "offset_east_arcsec": 9.898605422762488,
+   "offset_north_arcsec": -63.7498617547394,
+   "orbital_period_days": 1.618327165641254,
+   "projected_semimajor_axis_ls": 3.811164560784641,
+   "eccentricity": 0.11366447457397576,
+   "periastron_longitude_deg": 72.43426284383077,
+   "periastron_epoch_mjd": 60500.43117137409
+  },
+  "errors": {
+   "spin_frequency_hz": -3.201437095867732e-06,
+   "offset_east_arcsec": -31.40139457723751,
+   "offset_north_arcsec": -5.149861754739398,
+   "orbital_period_days": -2.343587461872687e-07,
+   "projected_semimajor_axis_ls": -0.0012654392153588212,
+   "eccentricity": -3.552542602423825e-05,
+   "periastron_longitude_deg": 0.03426284383075995,
+   "periastron_epoch_mjd": 0.00017137409304268658
+  },
+  "chi2": NaN,
+  "inside": false
+ }
+]

@@ -1,0 +1,14 @@
+{
+ "specimen": "PM-33",
+ "steel": "interstitial-free steel",
+ "condition": "cold rolled 50 %",
+ "thickness_as_cut_mm": 1.455,
+ "exposed_area_cm2": 2.54,
+ "thermostat_setpoints_c": [
+  50.0,
+  65.0
+ ],
+ "exit_face": "electroplated palladium, anodically polarised",
+ "reversible_trap_density_mol_per_m3": 5.3,
+ "trap_binding_energy_kj_per_mol": 29.0
+}

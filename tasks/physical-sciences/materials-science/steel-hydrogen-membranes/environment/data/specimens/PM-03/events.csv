@@ -1,0 +1,8 @@
+time_s,event
+0.00,exit side polarised, background recorded
+599.93,charging on
+2176.37,charging off
+3752.81,charging on
+5329.25,thermostat set to 40.0 C, charging stays on
+8329.21,charging off
+9690.39,charging on

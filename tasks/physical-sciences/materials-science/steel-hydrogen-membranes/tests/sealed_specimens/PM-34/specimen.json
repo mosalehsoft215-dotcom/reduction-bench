@@ -1,0 +1,14 @@
+{
+ "specimen": "PM-34",
+ "steel": "low-alloy steel",
+ "condition": "cold rolled 20 %",
+ "thickness_as_cut_mm": 0.936,
+ "exposed_area_cm2": 1.0,
+ "thermostat_setpoints_c": [
+  42.0,
+  57.0
+ ],
+ "exit_face": "electroplated palladium, anodically polarised",
+ "reversible_trap_density_mol_per_m3": 3.9,
+ "trap_binding_energy_kj_per_mol": 27.5
+}

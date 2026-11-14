@@ -1,0 +1,84 @@
+{
+ "shipped": {
+  "PM-03": {
+   "reference": 0.022,
+   "second": 0.018
+  },
+  "PM-08": {
+   "reference": 0.012,
+   "second": 0.015
+  },
+  "PM-31": {
+   "reference": 0.188,
+   "second": 0.115
+  },
+  "PM-32": {
+   "reference": 0.01,
+   "second": 0.02
+  },
+  "PM-33": {
+   "reference": 0.082,
+   "second": 0.112
+  },
+  "PM-34": {
+   "reference": 0.063,
+   "second": 0.066
+  },
+  "PM-35": {
+   "reference": 0.289,
+   "second": 0.117
+  }
+ },
+ "routes": {
+  "every stated step right, disturbed stretches kept in the fit": {
+   "PM-03": 0.02,
+   "PM-08": 0.18,
+   "PM-31": 25.07,
+   "PM-32": 16.7,
+   "PM-33": 4.26,
+   "PM-34": 11.66,
+   "PM-35": 7.6
+  },
+  "bubble stretches screened out like the bursts, their after-effect not modelled": {
+   "PM-03": 0.02,
+   "PM-08": 0.01,
+   "PM-31": 3.27,
+   "PM-32": 0.01,
+   "PM-33": 0.05,
+   "PM-34": 0.06,
+   "PM-35": 6.04
+  },
+  "trap density from the sheet (the grade's annealed sample)": {
+   "PM-03": 0.02,
+   "PM-08": 0.01,
+   "PM-31": 23.29,
+   "PM-32": 0.01,
+   "PM-33": 10.7,
+   "PM-34": 19.95,
+   "PM-35": 0.29
+  },
+  "perfect exit assumed (C = 0 at the exit face)": {
+   "PM-03": 0.02,
+   "PM-08": 0.01,
+   "PM-31": 9.92,
+   "PM-32": 0.01,
+   "PM-33": 0.08,
+   "PM-34": 9.93,
+   "PM-35": 6.21
+  },
+  "sheet values, perfect exit, no lag, no traps, nothing screened": {
+   "PM-03": 0.02,
+   "PM-08": 0.17,
+   "PM-31": 12.65,
+   "PM-32": 11.35,
+   "PM-33": 38.45,
+   "PM-34": 13.96,
+   "PM-35": 4.24
+  }
+ },
+ "worked_copy_passes": 0,
+ "redraws": {
+  "reference": 0.306,
+  "second": 0.568
+ }
+}

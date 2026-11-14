@@ -1,0 +1,14 @@
+{
+ "specimen": "PM-35",
+ "steel": "ferritic pipeline steel",
+ "condition": "annealed",
+ "thickness_as_cut_mm": 0.797,
+ "exposed_area_cm2": 0.785,
+ "thermostat_setpoints_c": [
+  40.0,
+  55.0
+ ],
+ "exit_face": "electroplated palladium, anodically polarised",
+ "reversible_trap_density_mol_per_m3": 0.0,
+ "trap_binding_energy_kj_per_mol": 0.0
+}

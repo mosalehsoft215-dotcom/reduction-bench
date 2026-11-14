@@ -1,0 +1,14 @@
+{
+ "specimen": "PM-31",
+ "steel": "ferritic pipeline steel",
+ "condition": "cold rolled 30 %",
+ "thickness_as_cut_mm": 1.185,
+ "exposed_area_cm2": 2.01,
+ "thermostat_setpoints_c": [
+  45.0,
+  60.0
+ ],
+ "exit_face": "electroplated palladium, anodically polarised",
+ "reversible_trap_density_mol_per_m3": 4.6,
+ "trap_binding_energy_kj_per_mol": 28.0
+}

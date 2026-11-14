@@ -1,0 +1,10 @@
+{
+ "CK-04": {
+  "rate_at_dkeff15_nm_per_cycle": 30.0879,
+  "paris_exponent": 3.1
+ },
+ "CK-09": {
+  "rate_at_dkeff15_nm_per_cycle": 613.6318,
+  "paris_exponent": 3.55
+ }
+}

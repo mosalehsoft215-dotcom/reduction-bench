@@ -1,0 +1,22 @@
+{
+ "CK-31": {
+  "rate_at_dkeff15_nm_per_cycle": 128.4526,
+  "paris_exponent": 3.32
+ },
+ "CK-32": {
+  "rate_at_dkeff15_nm_per_cycle": 66.9417,
+  "paris_exponent": 3.71
+ },
+ "CK-33": {
+  "rate_at_dkeff15_nm_per_cycle": 585.267,
+  "paris_exponent": 3.88
+ },
+ "CK-34": {
+  "rate_at_dkeff15_nm_per_cycle": 24.0709,
+  "paris_exponent": 2.84
+ },
+ "CK-35": {
+  "rate_at_dkeff15_nm_per_cycle": 36.4604,
+  "paris_exponent": 3.27
+ }
+}

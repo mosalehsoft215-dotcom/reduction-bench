@@ -1,0 +1,19 @@
+{
+ "crack": "CK-33",
+ "alloy": "2024-T351 aluminium",
+ "tested": "2026-05-19",
+ "geometry": "compact tension, W = 50.0 mm",
+ "width_mm": 50.0,
+ "thickness_mm": 10.0,
+ "net_thickness_mm": 10.0,
+ "modulus_gpa": 73.1,
+ "opening_measured_by": "actuator displacement transducer (no clip gauge fitted)",
+ "load_ratio": 0.1,
+ "max_load_kn": 5.96,
+ "reading_interval_cycles": 200,
+ "precrack_max_load_kn": 8.46,
+ "stop_cycles": 52600,
+ "yield_strength_mpa": 325.0,
+ "optical_crack_start_mm": 13.586,
+ "optical_crack_end_mm": 29.02
+}

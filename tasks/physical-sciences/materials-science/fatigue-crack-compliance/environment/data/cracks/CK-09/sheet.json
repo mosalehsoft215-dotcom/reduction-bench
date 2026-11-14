@@ -1,0 +1,19 @@
+{
+ "crack": "CK-09",
+ "alloy": "7075-T651 aluminium",
+ "tested": "2026-02-24",
+ "geometry": "compact tension, W = 50.0 mm",
+ "width_mm": 50.0,
+ "thickness_mm": 10.0,
+ "net_thickness_mm": 10.0,
+ "modulus_gpa": 71.7,
+ "opening_measured_by": "clip gauge on the load-line knife edges",
+ "load_ratio": 0.1,
+ "max_load_kn": 6.95,
+ "reading_interval_cycles": 100,
+ "precrack_max_load_kn": 6.39,
+ "stop_cycles": 35700,
+ "yield_strength_mpa": 505.0,
+ "optical_crack_start_mm": 12.774,
+ "optical_crack_end_mm": 30.372
+}

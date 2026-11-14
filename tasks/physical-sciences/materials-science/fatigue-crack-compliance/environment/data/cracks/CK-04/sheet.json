@@ -1,0 +1,19 @@
+{
+ "crack": "CK-04",
+ "alloy": "AISI 4340 steel",
+ "tested": "2026-01-27",
+ "geometry": "compact tension, W = 50.0 mm",
+ "width_mm": 50.0,
+ "thickness_mm": 12.5,
+ "net_thickness_mm": 12.5,
+ "modulus_gpa": 205.0,
+ "opening_measured_by": "clip gauge on the load-line knife edges",
+ "load_ratio": 0.1,
+ "max_load_kn": 8.55,
+ "reading_interval_cycles": 2200,
+ "precrack_max_load_kn": 8.04,
+ "stop_cycles": 536800,
+ "yield_strength_mpa": 1470.0,
+ "optical_crack_start_mm": 13.086,
+ "optical_crack_end_mm": 30.68
+}

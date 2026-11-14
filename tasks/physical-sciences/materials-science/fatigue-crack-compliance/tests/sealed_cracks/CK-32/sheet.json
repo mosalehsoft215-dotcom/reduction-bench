@@ -1,0 +1,19 @@
+{
+ "crack": "CK-32",
+ "alloy": "316L stainless steel",
+ "tested": "2026-04-21",
+ "geometry": "compact tension, W = 50.0 mm",
+ "width_mm": 50.0,
+ "thickness_mm": 12.5,
+ "net_thickness_mm": 10.0,
+ "modulus_gpa": 193.0,
+ "opening_measured_by": "clip gauge on integral knife edges at the front face",
+ "load_ratio": 0.1,
+ "max_load_kn": 7.73,
+ "reading_interval_cycles": 3200,
+ "precrack_max_load_kn": 7.34,
+ "stop_cycles": 755200,
+ "yield_strength_mpa": 225.0,
+ "optical_crack_start_mm": 14.727,
+ "optical_crack_end_mm": 29.869
+}

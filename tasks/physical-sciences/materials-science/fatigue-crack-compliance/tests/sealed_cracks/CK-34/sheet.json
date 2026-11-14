@@ -1,0 +1,19 @@
+{
+ "crack": "CK-34",
+ "alloy": "A36 structural steel",
+ "tested": "2026-06-16",
+ "geometry": "compact tension, W = 50.0 mm",
+ "width_mm": 50.0,
+ "thickness_mm": 15.0,
+ "net_thickness_mm": 12.0,
+ "modulus_gpa": 203.0,
+ "opening_measured_by": "clip gauge on integral knife edges at the front face",
+ "load_ratio": 0.1,
+ "max_load_kn": 9.42,
+ "reading_interval_cycles": 5500,
+ "precrack_max_load_kn": 13.0,
+ "stop_cycles": 1316191,
+ "yield_strength_mpa": 250.0,
+ "optical_crack_start_mm": 12.596,
+ "optical_crack_end_mm": 28.059
+}

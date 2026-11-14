@@ -1,0 +1,12 @@
+{
+ "vault": "V-09",
+ "date": "2026-03-19",
+ "vault_temperature_c": 6.0,
+ "local_gravity_m_per_s2": 9.79874,
+ "sample_rate_hz": 50.0,
+ "digitizer_counts_per_volt": 838860.8,
+ "digitizer_fir_delay_s": 0.152,
+ "digitizer_input_impedance_ohm": 1000000.0,
+ "calibrator_current_ma": 5.5,
+ "weight_lift_mass_g": 0.15
+}

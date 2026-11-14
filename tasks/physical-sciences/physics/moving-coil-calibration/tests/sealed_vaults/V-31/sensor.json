@@ -1,0 +1,10 @@
+{
+ "sensor": "SPV-1231",
+ "type": "short-period vertical moving-coil seismometer",
+ "moving_mass_kg": 0.87,
+ "signal_coil_resistance_ohm_at_20c": 5698.0,
+ "shunt_resistance_ohm": 808.0,
+ "calibration_coil_motor_constant_n_per_a": 0.395,
+ "signal_coil_wire_in_gap_m": 397.683,
+ "calibration_coil_wire_in_gap_m": 0.65833
+}

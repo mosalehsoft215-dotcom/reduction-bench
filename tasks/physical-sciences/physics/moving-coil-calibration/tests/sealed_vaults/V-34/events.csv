@@ -1,0 +1,19 @@
+record,time_s,event
+calibration,8.000,current on
+calibration,24.000,current off
+calibration,40.000,current on
+calibration,56.000,current off
+calibration,72.000,current on
+calibration,88.000,current off
+calibration,104.000,current on
+calibration,120.000,current off
+calibration,136.000,current on
+calibration,152.000,current off
+calibration,168.000,current on
+calibration,184.000,current off
+open_circuit,8.000,weight lifted
+open_circuit,24.000,weight replaced
+open_circuit,40.000,weight lifted
+open_circuit,56.000,weight replaced
+open_circuit,72.000,weight lifted
+open_circuit,88.000,weight replaced

@@ -1,0 +1,10 @@
+{
+ "V-04": {
+  "generator_constant_v_s_per_m": 263.7389,
+  "sensitivity_5hz_counts_per_m_per_s": 42028333.9
+ },
+ "V-09": {
+  "generator_constant_v_s_per_m": 181.9188,
+  "sensitivity_5hz_counts_per_m_per_s": 69254659.8
+ }
+}

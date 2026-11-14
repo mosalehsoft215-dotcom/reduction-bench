@@ -1,0 +1,22 @@
+{
+ "V-31": {
+  "generator_constant_v_s_per_m": 238.611,
+  "sensitivity_5hz_counts_per_m_per_s": 24007398.3
+ },
+ "V-32": {
+  "generator_constant_v_s_per_m": 304.2711,
+  "sensitivity_5hz_counts_per_m_per_s": 53788102.1
+ },
+ "V-33": {
+  "generator_constant_v_s_per_m": 211.7284,
+  "sensitivity_5hz_counts_per_m_per_s": 21136305.4
+ },
+ "V-34": {
+  "generator_constant_v_s_per_m": 271.8487,
+  "sensitivity_5hz_counts_per_m_per_s": 37720203.7
+ },
+ "V-35": {
+  "generator_constant_v_s_per_m": 166.34,
+  "sensitivity_5hz_counts_per_m_per_s": 28283339.0
+ }
+}

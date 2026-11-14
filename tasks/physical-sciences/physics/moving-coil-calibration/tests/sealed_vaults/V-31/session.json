@@ -1,0 +1,12 @@
+{
+ "vault": "V-31",
+ "date": "2026-04-07",
+ "vault_temperature_c": 3.5,
+ "local_gravity_m_per_s2": 9.8112,
+ "sample_rate_hz": 50.0,
+ "digitizer_counts_per_volt": 671088.6,
+ "digitizer_fir_delay_s": 0.152,
+ "digitizer_input_impedance_ohm": 180000.0,
+ "calibrator_current_ma": 4.5,
+ "weight_lift_mass_g": 0.2
+}

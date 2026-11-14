@@ -1,0 +1,3 @@
+event,trial,t_s,items,value
+barometric_pressure,,,,0.998
+clamp_on_fitted,,,F_fw_clamp_kg_s,

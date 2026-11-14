@@ -1,0 +1,4 @@
+event,trial,t_s,items,value
+barometric_pressure,,,,1.015
+clamp_on_fitted,,,F_fw_clamp_kg_s,
+blowdown_isolated,2,0,CBD,

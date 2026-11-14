@@ -1,0 +1,4 @@
+event,trial,t_s,items,value
+barometric_pressure,,,,1.010
+clamp_on_fitted,,,F_fw_clamp_kg_s,
+impulse_lines_moved,,,FT-C,spare tapping pair of the flow nozzle

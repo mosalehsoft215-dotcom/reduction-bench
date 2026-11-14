@@ -1,0 +1,10 @@
+{
+ "GCB-11": {
+  "close_time_ms": 59.6278,
+  "pole_spread_ms": 1.067
+ },
+ "GCB-12": {
+  "close_time_ms": 61.1101,
+  "pole_spread_ms": 2.213
+ }
+}

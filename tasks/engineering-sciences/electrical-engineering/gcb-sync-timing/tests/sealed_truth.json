@@ -1,0 +1,26 @@
+{
+ "GCB-21": {
+  "close_time_ms": 61.4625,
+  "pole_spread_ms": 2.459
+ },
+ "GCB-22": {
+  "close_time_ms": 58.6707,
+  "pole_spread_ms": 0.792
+ },
+ "GCB-23": {
+  "close_time_ms": 61.5087,
+  "pole_spread_ms": 1.928
+ },
+ "GCB-24": {
+  "close_time_ms": 59.5005,
+  "pole_spread_ms": 2.878
+ },
+ "GCB-25": {
+  "close_time_ms": 62.6431,
+  "pole_spread_ms": 1.211
+ },
+ "GCB-26": {
+  "close_time_ms": 60.6474,
+  "pole_spread_ms": 1.643
+ }
+}

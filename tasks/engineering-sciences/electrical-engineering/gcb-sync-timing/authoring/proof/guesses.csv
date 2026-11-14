@@ -1,0 +1,27 @@
+guess,units_close_inside,units_spread_inside,all_inside
+examples' mean,1,2,0
+example GCB-11,1,2,0
+example GCB-12,0,2,0
+round 58 / 1.0,0,2,0
+round 58 / 1.5,0,2,0
+round 58 / 2.0,0,1,0
+round 58 / 2.5,0,1,0
+round 59 / 1.0,0,2,0
+round 59 / 1.5,0,2,0
+round 59 / 2.0,0,1,0
+round 59 / 2.5,0,1,0
+round 60 / 1.0,0,2,0
+round 60 / 1.5,0,2,0
+round 60 / 2.0,0,1,0
+round 60 / 2.5,0,1,0
+round 61 / 1.0,0,2,0
+round 61 / 1.5,0,2,0
+round 61 / 2.0,0,1,0
+round 61 / 2.5,0,1,0
+round 62 / 1.0,0,2,0
+round 62 / 1.5,0,2,0
+round 62 / 2.0,0,1,0
+round 62 / 2.5,0,1,0
+"synchroniser advance, examples' spread",2,2,0
+certificate at rated voltage,0,2,0
+certificate plus the examples' shift,2,2,0

@@ -1,0 +1,26 @@
+{
+ "release": "RL-52",
+ "line": "km 145.451",
+ "profile": "54E1",
+ "section_as_booked": {
+  "area_cm2": 69.77,
+  "second_moment_cm4": 2337.9,
+  "mass_kg_per_m": 54.77
+ },
+ "track_geometry": {
+  "gauge_mm": 1436.9,
+  "cant_mm": 73,
+  "vertical_head_wear_mm": 0.2,
+  "side_wear_mm": 0.5
+ },
+ "unclipped_length_m": 40.0,
+ "load_cell": {
+  "serial": "LC-2652",
+  "factor_N_per_mV": 401.2
+ },
+ "rail_temperature_C": [
+  34.83,
+  34.82,
+  34.89
+ ]
+}

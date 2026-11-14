@@ -1,0 +1,26 @@
+{
+ "release": "RL-53",
+ "line": "km 180.585",
+ "profile": "49E1",
+ "section_as_booked": {
+  "area_cm2": 62.92,
+  "second_moment_cm4": 1816.0,
+  "mass_kg_per_m": 49.39
+ },
+ "track_geometry": {
+  "gauge_mm": 1438.0,
+  "cant_mm": 13,
+  "vertical_head_wear_mm": 7.6,
+  "side_wear_mm": 1.0
+ },
+ "unclipped_length_m": 40.0,
+ "load_cell": {
+  "serial": "LC-4821",
+  "factor_N_per_mV": 417.4
+ },
+ "rail_temperature_C": [
+  8.87,
+  8.88,
+  9.03
+ ]
+}

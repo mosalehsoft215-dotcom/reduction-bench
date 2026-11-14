@@ -1,0 +1,10 @@
+{
+ "RL-03": {
+  "stress_free_temp_c": 22.4,
+  "axial_force_kn": 151.89
+ },
+ "RL-16": {
+  "stress_free_temp_c": 21.1,
+  "axial_force_kn": -99.41
+ }
+}

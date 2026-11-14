@@ -1,0 +1,6 @@
+RL-51: margin 2.20 bounds (closest: worked RL-03)
+RL-52: margin 5.55 bounds (closest: sealed median)
+RL-53: margin 2.53 bounds (closest: worked RL-16)
+RL-54: margin 4.67 bounds (closest: worked RL-03)
+RL-55: margin 5.60 bounds (closest: worked RL-16)
+OK: no baseline passes a case

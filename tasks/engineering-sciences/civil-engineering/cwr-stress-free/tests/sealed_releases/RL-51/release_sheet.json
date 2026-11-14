@@ -1,0 +1,26 @@
+{
+ "release": "RL-51",
+ "line": "km 79.204",
+ "profile": "60E1",
+ "section_as_booked": {
+  "area_cm2": 76.7,
+  "second_moment_cm4": 3038.3,
+  "mass_kg_per_m": 60.21
+ },
+ "track_geometry": {
+  "gauge_mm": 1434.7,
+  "cant_mm": 34,
+  "vertical_head_wear_mm": 9.4,
+  "side_wear_mm": 0.6
+ },
+ "unclipped_length_m": 40.0,
+ "load_cell": {
+  "serial": "LC-8735",
+  "factor_N_per_mV": 405.9
+ },
+ "rail_temperature_C": [
+  37.59,
+  37.63,
+  37.61
+ ]
+}

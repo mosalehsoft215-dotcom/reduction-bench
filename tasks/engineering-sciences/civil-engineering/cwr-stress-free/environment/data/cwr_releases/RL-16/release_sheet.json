@@ -1,0 +1,26 @@
+{
+ "release": "RL-16",
+ "line": "km 209.384",
+ "profile": "54E1",
+ "section_as_booked": {
+  "area_cm2": 69.77,
+  "second_moment_cm4": 2337.9,
+  "mass_kg_per_m": 54.77
+ },
+ "track_geometry": {
+  "gauge_mm": 1436.9,
+  "cant_mm": 114,
+  "vertical_head_wear_mm": 0.0,
+  "side_wear_mm": 0.9
+ },
+ "unclipped_length_m": 40.0,
+ "load_cell": {
+  "serial": "LC-1567",
+  "factor_N_per_mV": 398.3
+ },
+ "rail_temperature_C": [
+  15.24,
+  15.29,
+  15.21
+ ]
+}

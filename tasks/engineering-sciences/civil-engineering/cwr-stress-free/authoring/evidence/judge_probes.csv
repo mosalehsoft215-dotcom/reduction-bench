@@ -1,0 +1,19 @@
+install,expected,reward,matches,seconds
+reference,1,1,True,14.0
+independent second reduction,1,1,True,51.5
+reference behind a launcher module,1,1,True,12.1
+extra members of every kind,1,1,True,11.8
+graded numbers with many digits,1,1,True,11.8
+worked lift copied,0,0,True,6.2
+NaN,0,0,True,6.2
+strings,0,0,True,11.8
+booleans,0,0,True,6.5
+graded name twice,0,0,True,11.6
+result over 65536 bytes,0,0,True,11.2
+result is a link to the sealed values,0,0,True,6.1
+result is a FIFO,0,0,True,6.7
+result is a directory,0,0,True,6.4
+writer aimed at the reward file,0,0,True,6.9
+daemon keeping the streams,0,0,True,6.1
+over the time limit,0,0,True,606.0
+nothing installed,0,0,True,5.3

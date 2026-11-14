@@ -1,0 +1,22 @@
+{
+ "RL-51": {
+  "stress_free_temp_c": 25.7,
+  "axial_force_kn": 200.97
+ },
+ "RL-52": {
+  "stress_free_temp_c": 14.6,
+  "axial_force_kn": 339.68
+ },
+ "RL-53": {
+  "stress_free_temp_c": 17.3,
+  "axial_force_kn": -118.71
+ },
+ "RL-54": {
+  "stress_free_temp_c": 29.4,
+  "axial_force_kn": 209.02
+ },
+ "RL-55": {
+  "stress_free_temp_c": 12.7,
+  "axial_force_kn": -112.46
+ }
+}

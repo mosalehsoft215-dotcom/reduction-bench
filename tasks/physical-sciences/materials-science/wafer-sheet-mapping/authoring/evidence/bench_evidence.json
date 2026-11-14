@@ -1,0 +1,314 @@
+{
+ "shipped": {
+  "SW-03": {
+   "reference": {
+    "sheet_resistance_ohm_sq": 0.059854669149187835,
+    "nonuniformity_percent": 0.009293156386416998
+   },
+   "independent": {
+    "sheet_resistance_ohm_sq": 0.0015966111714208846,
+    "nonuniformity_percent": 0.023550620916092207
+   }
+  },
+  "SW-06": {
+   "reference": {
+    "sheet_resistance_ohm_sq": 0.004565097645200152,
+    "nonuniformity_percent": 0.03109410501023646
+   },
+   "independent": {
+    "sheet_resistance_ohm_sq": 0.004208246897915065,
+    "nonuniformity_percent": 0.027923601656854778
+   }
+  },
+  "SW-31": {
+   "reference": {
+    "sheet_resistance_ohm_sq": 0.11274985573291503,
+    "nonuniformity_percent": 0.04552590542682866
+   },
+   "independent": {
+    "sheet_resistance_ohm_sq": 0.0757953475907976,
+    "nonuniformity_percent": 0.026620318698188743
+   }
+  },
+  "SW-32": {
+   "reference": {
+    "sheet_resistance_ohm_sq": 0.012291394065518565,
+    "nonuniformity_percent": 0.009010770721088098
+   },
+   "independent": {
+    "sheet_resistance_ohm_sq": 0.08810517314761235,
+    "nonuniformity_percent": 0.021603384552946935
+   }
+  },
+  "SW-33": {
+   "reference": {
+    "sheet_resistance_ohm_sq": 0.14281194359185476,
+    "nonuniformity_percent": 0.011853435855575153
+   },
+   "independent": {
+    "sheet_resistance_ohm_sq": 0.25929663979318285,
+    "nonuniformity_percent": 0.08512325191105045
+   }
+  },
+  "SW-34": {
+   "reference": {
+    "sheet_resistance_ohm_sq": 0.27825460177884526,
+    "nonuniformity_percent": 0.09879227663368055
+   },
+   "independent": {
+    "sheet_resistance_ohm_sq": 0.0840579587148375,
+    "nonuniformity_percent": 0.03972479641910572
+   }
+  },
+  "SW-35": {
+   "reference": {
+    "sheet_resistance_ohm_sq": 0.028953039733492503,
+    "nonuniformity_percent": 0.10358124001708917
+   },
+   "independent": {
+    "sheet_resistance_ohm_sq": 0.019654444336492105,
+    "nonuniformity_percent": 0.10638494319043328
+   }
+  }
+ },
+ "routes": {
+  "readings fitted as a straight line in the current (contact warming left out)": {
+   "SW-03": {
+    "sheet_resistance_ohm_sq": 0.059854669149187835,
+    "nonuniformity_percent": 0.009293156386416998
+   },
+   "SW-06": {
+    "sheet_resistance_ohm_sq": 0.004565097645200152,
+    "nonuniformity_percent": 0.03109410501023646
+   },
+   "SW-31": {
+    "sheet_resistance_ohm_sq": 106.10582202236932,
+    "nonuniformity_percent": 0.9162603687832424
+   },
+   "SW-32": {
+    "sheet_resistance_ohm_sq": 112.12068215482861,
+    "nonuniformity_percent": 9.054368370152515
+   },
+   "SW-33": {
+    "sheet_resistance_ohm_sq": 116.84051964878176,
+    "nonuniformity_percent": 1.054802331580815
+   },
+   "SW-34": {
+    "sheet_resistance_ohm_sq": 92.73244275427791,
+    "nonuniformity_percent": 4.185017066609671
+   },
+   "SW-35": {
+    "sheet_resistance_ohm_sq": 112.1673430164675,
+    "nonuniformity_percent": 8.639722550075048
+   }
+  },
+  "smallest current only": {
+   "SW-03": {
+    "sheet_resistance_ohm_sq": 0.059854669149187835,
+    "nonuniformity_percent": 0.009293156386416998
+   },
+   "SW-06": {
+    "sheet_resistance_ohm_sq": 0.004565097645200152,
+    "nonuniformity_percent": 0.03109410501023646
+   },
+   "SW-31": {
+    "sheet_resistance_ohm_sq": 2.37029297328147,
+    "nonuniformity_percent": 0.022705071910316864
+   },
+   "SW-32": {
+    "sheet_resistance_ohm_sq": 3.403420959982991,
+    "nonuniformity_percent": 0.7660501634843516
+   },
+   "SW-33": {
+    "sheet_resistance_ohm_sq": 2.4046084847824853,
+    "nonuniformity_percent": 0.31057847068875416
+   },
+   "SW-34": {
+    "sheet_resistance_ohm_sq": 4.164681049908525,
+    "nonuniformity_percent": 0.12989073202214801
+   },
+   "SW-35": {
+    "sheet_resistance_ohm_sq": 2.9022294880124053,
+    "nonuniformity_percent": 0.6858025901588016
+   }
+  },
+  "round-wafer images with the primary flat left out": {
+   "SW-03": {
+    "sheet_resistance_ohm_sq": 0.06109519327327876,
+    "nonuniformity_percent": 0.010912025842751602
+   },
+   "SW-06": {
+    "sheet_resistance_ohm_sq": 0.003335241588501662,
+    "nonuniformity_percent": 0.03268226259800944
+   },
+   "SW-31": {
+    "sheet_resistance_ohm_sq": 2.0767963171524073,
+    "nonuniformity_percent": 5.4745511809554
+   },
+   "SW-32": {
+    "sheet_resistance_ohm_sq": 2.1861255617141584,
+    "nonuniformity_percent": 1.3835538518385126
+   },
+   "SW-33": {
+    "sheet_resistance_ohm_sq": 2.33807940960995,
+    "nonuniformity_percent": 6.356438216215556
+   },
+   "SW-34": {
+    "sheet_resistance_ohm_sq": 2.5387370263780054,
+    "nonuniformity_percent": 5.570003141432915
+   },
+   "SW-35": {
+    "sheet_resistance_ohm_sq": 2.1789361395968174,
+    "nonuniformity_percent": 4.557466340816644
+   }
+  },
+  "dual-configuration relation of an infinite sheet (edge left out)": {
+   "SW-03": {
+    "sheet_resistance_ohm_sq": 0.0657032116914517,
+    "nonuniformity_percent": 0.017941740559879925
+   },
+   "SW-06": {
+    "sheet_resistance_ohm_sq": 0.0012364484858196079,
+    "nonuniformity_percent": 0.036286553326958515
+   },
+   "SW-31": {
+    "sheet_resistance_ohm_sq": 2.9537649765102683,
+    "nonuniformity_percent": 6.079880427813658
+   },
+   "SW-32": {
+    "sheet_resistance_ohm_sq": 3.369667398595529,
+    "nonuniformity_percent": 0.6440980762495012
+   },
+   "SW-33": {
+    "sheet_resistance_ohm_sq": 3.7144937438609764,
+    "nonuniformity_percent": 7.14723300084827
+   },
+   "SW-34": {
+    "sheet_resistance_ohm_sq": 3.5940974331453526,
+    "nonuniformity_percent": 6.400705351660334
+   },
+   "SW-35": {
+    "sheet_resistance_ohm_sq": 2.935832799830044,
+    "nonuniformity_percent": 4.018014307979611
+   }
+  },
+  "settling left out (every reading taken at the logged chuck temperature)": {
+   "SW-03": {
+    "sheet_resistance_ohm_sq": 0.001657624733919505,
+    "nonuniformity_percent": 0.02409582253416328
+   },
+   "SW-06": {
+    "sheet_resistance_ohm_sq": 0.004267123666338672,
+    "nonuniformity_percent": 0.028043529179444526
+   },
+   "SW-31": {
+    "sheet_resistance_ohm_sq": 4.168388271359976,
+    "nonuniformity_percent": 1.0080302010568687
+   },
+   "SW-32": {
+    "sheet_resistance_ohm_sq": 6.389732607654667,
+    "nonuniformity_percent": 7.539137634547734
+   },
+   "SW-33": {
+    "sheet_resistance_ohm_sq": 3.1716393169235837,
+    "nonuniformity_percent": 1.4741805219890174
+   },
+   "SW-34": {
+    "sheet_resistance_ohm_sq": 6.316315515055552,
+    "nonuniformity_percent": 4.822115269020478
+   },
+   "SW-35": {
+    "sheet_resistance_ohm_sq": 6.2520298864109,
+    "nonuniformity_percent": 8.297304913849503
+   }
+  },
+  "straight-line drift through site 1's two touchdowns, referred to the first touchdown": {
+   "SW-03": {
+    "sheet_resistance_ohm_sq": 0.012585314452584484,
+    "nonuniformity_percent": 0.018559127326034375
+   },
+   "SW-06": {
+    "sheet_resistance_ohm_sq": 0.007173223198468174,
+    "nonuniformity_percent": 0.02918315625418814
+   },
+   "SW-31": {
+    "sheet_resistance_ohm_sq": 7.25727037403249,
+    "nonuniformity_percent": 0.5942835033584193
+   },
+   "SW-32": {
+    "sheet_resistance_ohm_sq": 10.088774383667287,
+    "nonuniformity_percent": 7.248973895460364
+   },
+   "SW-33": {
+    "sheet_resistance_ohm_sq": 5.798359485275739,
+    "nonuniformity_percent": 1.1225359839091502
+   },
+   "SW-34": {
+    "sheet_resistance_ohm_sq": 9.721415328980484,
+    "nonuniformity_percent": 5.162416303148694
+   },
+   "SW-35": {
+    "sheet_resistance_ohm_sq": 10.37587253468164,
+    "nonuniformity_percent": 7.338381572229652
+   }
+  },
+  "straight-line drift through site 1's two touchdowns, referred to the closing touchdown": {
+   "SW-03": {
+    "sheet_resistance_ohm_sq": 0.06190006606998644,
+    "nonuniformity_percent": 0.01855789691850962
+   },
+   "SW-06": {
+    "sheet_resistance_ohm_sq": 0.007972805315355677,
+    "nonuniformity_percent": 0.02918310454983327
+   },
+   "SW-31": {
+    "sheet_resistance_ohm_sq": 8.15300521852295,
+    "nonuniformity_percent": 0.6934661931277897
+   },
+   "SW-32": {
+    "sheet_resistance_ohm_sq": 8.37628215983066,
+    "nonuniformity_percent": 7.2162409247769155
+   },
+   "SW-33": {
+    "sheet_resistance_ohm_sq": 7.481380317450492,
+    "nonuniformity_percent": 1.0770790707588356
+   },
+   "SW-34": {
+    "sheet_resistance_ohm_sq": 7.114954849334257,
+    "nonuniformity_percent": 5.222659868915599
+   },
+   "SW-35": {
+    "sheet_resistance_ohm_sq": 9.906183436417878,
+    "nonuniformity_percent": 7.314432557787393
+   }
+  }
+ },
+ "redraws": {
+  "reference": {
+   "SW-03": 0.07003004581214907,
+   "SW-06": 0.04719166294430366,
+   "SW-31": 0.3007086200640015,
+   "SW-32": 0.2818991549849992,
+   "SW-33": 0.1354005491580812,
+   "SW-34": 0.7722685064378935,
+   "SW-35": 0.3224749990794103
+  },
+  "independent": {
+   "SW-03": 0.02141546028410583,
+   "SW-06": 0.026700465911364178,
+   "SW-31": 0.5945586626545282,
+   "SW-32": 0.31946802043055406,
+   "SW-33": 0.2796931667192008,
+   "SW-34": 0.7907213567388179,
+   "SW-35": 0.3941036686602543
+  }
+ },
+ "constant": {
+  "closest_pair_in_double_windows": 104.89617619475881,
+  "max_wafers_one_constant_can_fit": 1
+ },
+ "worked_copy_fits": {
+  "SW-03": 0,
+  "SW-06": 0
+ }
+}

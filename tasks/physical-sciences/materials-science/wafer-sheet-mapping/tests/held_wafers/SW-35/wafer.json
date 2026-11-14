@@ -1,0 +1,7 @@
+{
+ "wafer": "SW-35",
+ "diameter_mm": 150,
+ "primary_flat_mm": 57.5,
+ "flat_side": "-y",
+ "nominal_spacing_mm": 1.0
+}

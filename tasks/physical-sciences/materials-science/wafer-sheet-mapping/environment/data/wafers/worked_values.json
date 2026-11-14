@@ -1,0 +1,10 @@
+{
+ "SW-03": {
+  "sheet_resistance_ohm_sq": 48.60567206311437,
+  "nonuniformity_percent": 0.7772090415625988
+ },
+ "SW-06": {
+  "sheet_resistance_ohm_sq": 211.13469500487375,
+  "nonuniformity_percent": 0.6190640863158052
+ }
+}

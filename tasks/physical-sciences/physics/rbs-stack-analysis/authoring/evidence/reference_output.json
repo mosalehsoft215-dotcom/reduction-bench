@@ -1,0 +1,13 @@
+{
+  "Ag_1e15_at_cm2": 15.266,
+  "Al_oxide_1e15_at_cm2": 95.0782,
+  "O_to_Al": 1.8236,
+  "Sn_1e15_at_cm2": 19.6559,
+  "Si_oxide_1e15_at_cm2": 48.9407,
+  "O_to_Si": 2.0,
+  "O_to_Sn_tin_film": 1.4936,
+  "H_to_Al_ALD": 0.6472,
+  "charge_factor_normal": 0.9653,
+  "charge_factor_tilted": 1.0213,
+  "reduced_chi2": 0.7041
+}

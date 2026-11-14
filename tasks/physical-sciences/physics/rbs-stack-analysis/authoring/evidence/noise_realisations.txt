@@ -1,0 +1,12 @@
+seed 201: Ag +0.11%  Al_oxide +0.79%  O_to_Al -0.98%  Sn -0.06%  Si_oxide -0.41%  O_to_Si +0.00%
+seed 202: Ag -0.35%  Al_oxide -0.18%  O_to_Al +0.08%  Sn -0.69%  Si_oxide -0.96%  O_to_Si +0.00%
+seed 203: Ag +0.32%  Al_oxide +0.51%  O_to_Al -0.84%  Sn -0.22%  Si_oxide -1.05%  O_to_Si +0.00%
+seed 204: Ag -0.17%  Al_oxide -0.72%  O_to_Al +0.58%  Sn +0.05%  Si_oxide -1.26%  O_to_Si +0.00%
+seed 205: Ag -0.55%  Al_oxide +1.01%  O_to_Al -1.32%  Sn -0.10%  Si_oxide -1.56%  O_to_Si +0.00%
+seed 206: Ag -0.06%  Al_oxide +0.31%  O_to_Al -0.44%  Sn +0.18%  Si_oxide +0.85%  O_to_Si +0.00%
+max |error| Ag_1e15_at_cm2: 0.55 %
+max |error| Al_oxide_1e15_at_cm2: 1.01 %
+max |error| O_to_Al: 1.32 %
+max |error| Sn_1e15_at_cm2: 0.69 %
+max |error| Si_oxide_1e15_at_cm2: 1.56 %
+max |error| O_to_Si: 0.00 %

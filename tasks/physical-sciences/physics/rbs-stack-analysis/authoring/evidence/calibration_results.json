@@ -1,0 +1,441 @@
+[
+ {
+  "label": "DEF",
+  "route": "joint fit, 119Sn tin, OH hydrogen, O/Sn free, fine slabs",
+  "values": {
+   "Ag_1e15_at_cm2": 15.265977227111016,
+   "Al_oxide_1e15_at_cm2": 95.07931097725984,
+   "O_to_Al": 1.8236792472365781,
+   "Sn_1e15_at_cm2": 19.656165531636905,
+   "Si_oxide_1e15_at_cm2": 48.9445228377512,
+   "O_to_Si": 2.0
+  },
+  "errors_pct": {
+   "Ag_1e15_at_cm2": 0.43406070467773006,
+   "Al_oxide_1e15_at_cm2": 1.14820316729769,
+   "O_to_Al": -1.4227433926173982,
+   "Sn_1e15_at_cm2": 0.2865588348821557,
+   "Si_oxide_1e15_at_cm2": -0.7210490106466461
+  },
+  "chi2": 0.7041171285705167,
+  "inside": true,
+  "o_to_sn": 1.4922195476062698,
+  "o_to_si": 2.0
+ },
+ {
+  "label": "DEF",
+  "route": "joint fit, 119Sn tin, OH hydrogen, O/Sn free, coarser slabs",
+  "values": {
+   "Ag_1e15_at_cm2": 15.266091092449114,
+   "Al_oxide_1e15_at_cm2": 95.08108952387585,
+   "O_to_Al": 1.8235882021439194,
+   "Sn_1e15_at_cm2": 19.656010923074767,
+   "Si_oxide_1e15_at_cm2": 48.94254238771159,
+   "O_to_Si": 2.0
+  },
+  "errors_pct": {
+   "Ag_1e15_at_cm2": 0.4348098187441751,
+   "Al_oxide_1e15_at_cm2": 1.1500952381658047,
+   "O_to_Al": -1.4276647489773309,
+   "Sn_1e15_at_cm2": 0.28577001568756977,
+   "Si_oxide_1e15_at_cm2": -0.7250661506864264
+  },
+  "chi2": 0.7041030328378801,
+  "inside": true,
+  "o_to_sn": 1.4933913049435656,
+  "o_to_si": 2.0
+ },
+ {
+  "label": "DEF",
+  "route": "tilted spectrum only, 119Sn tin, OH hydrogen, O/Sn free",
+  "values": {
+   "Ag_1e15_at_cm2": 15.251564444334628,
+   "Al_oxide_1e15_at_cm2": 95.0485334125434,
+   "O_to_Al": 1.824593341453752,
+   "Sn_1e15_at_cm2": 19.634080356722578,
+   "Si_oxide_1e15_at_cm2": 48.998426430869785,
+   "O_to_Si": 2.0
+  },
+  "errors_pct": {
+   "Ag_1e15_at_cm2": 0.33923976535938927,
+   "Al_oxide_1e15_at_cm2": 1.1154610771738405,
+   "O_to_Al": -1.3733328943917877,
+   "Sn_1e15_at_cm2": 0.17387937103354734,
+   "Si_oxide_1e15_at_cm2": -0.6117110935704106
+  },
+  "chi2": 0.6879513662613795,
+  "inside": true,
+  "o_to_sn": 1.4981820594797524,
+  "o_to_si": 2.0
+ },
+ {
+  "label": "DEF",
+  "route": "joint fit, 119Sn tin, OH hydrogen, resolution and calibration refitted",
+  "values": {
+   "Ag_1e15_at_cm2": 15.250646412748846,
+   "Al_oxide_1e15_at_cm2": 95.41643106591228,
+   "O_to_Al": 1.8196071822229853,
+   "Sn_1e15_at_cm2": 19.645791855670996,
+   "Si_oxide_1e15_at_cm2": 49.00750247501135,
+   "O_to_Si": 2.0
+  },
+  "errors_pct": {
+   "Ag_1e15_at_cm2": 0.3332000838739857,
+   "Al_oxide_1e15_at_cm2": 1.5068415594811535,
+   "O_to_Al": -1.6428550149737653,
+   "Sn_1e15_at_cm2": 0.23363191668874794,
+   "Si_oxide_1e15_at_cm2": -0.5933012677254546
+  },
+  "chi2": 0.7041842366837144,
+  "inside": true,
+  "o_to_sn": 1.43937243352632,
+  "o_to_si": 2.0,
+  "refitted_resolution_offset_gain": {
+   "normal": [
+    16.1751,
+    0.7387,
+    0.9996
+   ],
+   "tilted": [
+    16.0904,
+    0.2873,
+    0.9998
+   ]
+  }
+ },
+ {
+  "label": "DEF",
+  "route": "joint fit, pure 119Sn assumed, OH hydrogen",
+  "values": {
+   "Ag_1e15_at_cm2": 15.268399999999998,
+   "Al_oxide_1e15_at_cm2": 95.1938,
+   "O_to_Al": 1.81855,
+   "Sn_1e15_at_cm2": 19.65684,
+   "Si_oxide_1e15_at_cm2": 48.74784,
+   "O_to_Si": 2.0
+  },
+  "errors_pct": {
+   "Ag_1e15_at_cm2": 0.45,
+   "Al_oxide_1e15_at_cm2": 1.27,
+   "O_to_Al": -1.7,
+   "Sn_1e15_at_cm2": 0.29,
+   "Si_oxide_1e15_at_cm2": -1.12
+  },
+  "chi2": 0.706,
+  "inside": true,
+  "o_to_sn": 1.54,
+  "o_to_si": 2.0
+ },
+ {
+  "label": "DEF",
+  "route": "joint fit, 119Sn tin, hydrogen fitted freely (H/Al 0.65 +- 0.15)",
+  "values": {
+   "Ag_1e15_at_cm2": 15.266879999999999,
+   "Al_oxide_1e15_at_cm2": 95.0622,
+   "O_to_Al": 1.824285,
+   "Sn_1e15_at_cm2": 19.65684,
+   "Si_oxide_1e15_at_cm2": 48.94504,
+   "O_to_Si": 2.0
+  },
+  "errors_pct": {
+   "Ag_1e15_at_cm2": 0.44,
+   "Al_oxide_1e15_at_cm2": 1.13,
+   "O_to_Al": -1.39,
+   "Sn_1e15_at_cm2": 0.29,
+   "Si_oxide_1e15_at_cm2": -0.72
+  },
+  "chi2": 0.705,
+  "inside": true,
+  "o_to_sn": 1.49,
+  "o_to_si": 2.0
+ },
+ {
+  "label": "CHEAP",
+  "route": "natural tin isotopes (enrichment ignored)",
+  "values": {
+   "Ag_1e15_at_cm2": 15.111391912102299,
+   "Al_oxide_1e15_at_cm2": 91.99967910219736,
+   "O_to_Al": 1.9913267164736066,
+   "Sn_1e15_at_cm2": 19.647151143357714,
+   "Si_oxide_1e15_at_cm2": 55.25202739923297,
+   "O_to_Si": 2.0
+  },
+  "errors_pct": {
+   "Ag_1e15_at_cm2": -0.5829479466954002,
+   "Al_oxide_1e15_at_cm2": -2.1280009551091883,
+   "O_to_Al": 7.639281971546308,
+   "Sn_1e15_at_cm2": 0.240567057947505,
+   "Si_oxide_1e15_at_cm2": 12.0730778889107
+  },
+  "chi2": 0.933802278427322,
+  "inside": false,
+  "o_to_sn": 9.799953285315779e-09,
+  "o_to_si": 2.0
+ },
+ {
+  "label": "CHEAP",
+  "route": "natural tin isotopes, resolution and calibration refitted",
+  "values": {
+   "Ag_1e15_at_cm2": 15.211223860758203,
+   "Al_oxide_1e15_at_cm2": 91.6432483485277,
+   "O_to_Al": 2.001914101538875,
+   "Sn_1e15_at_cm2": 19.700719484573202,
+   "Si_oxide_1e15_at_cm2": 55.419971443193795,
+   "O_to_Si": 2.0
+  },
+  "errors_pct": {
+   "Ag_1e15_at_cm2": 0.07384118919870897,
+   "Al_oxide_1e15_at_cm2": -2.5071826079492543,
+   "O_to_Al": 8.211573056155386,
+   "Sn_1e15_at_cm2": 0.5138749212918459,
+   "Si_oxide_1e15_at_cm2": 12.413735178892082
+  },
+  "chi2": 0.8610480357061486,
+  "inside": false,
+  "o_to_sn": 0.003855874264212235,
+  "o_to_si": 2.0,
+  "refitted_resolution_offset_gain": {
+   "normal": [
+    14.4958,
+    0.6055,
+    0.9995
+   ],
+   "tilted": [
+    15.646,
+    -0.6426,
+    1.0003
+   ]
+  }
+ },
+ {
+  "label": "CHEAP",
+  "route": "hydrogen of the ALD layer left out of the stopping",
+  "values": {
+   "Ag_1e15_at_cm2": 15.290796020138577,
+   "Al_oxide_1e15_at_cm2": 95.73685715153995,
+   "O_to_Al": 1.9472846096216652,
+   "Sn_1e15_at_cm2": 19.689584847520532,
+   "Si_oxide_1e15_at_cm2": 49.00737322461046,
+   "O_to_Si": 2.0
+  },
+  "errors_pct": {
+   "Ag_1e15_at_cm2": 0.5973422377538062,
+   "Al_oxide_1e15_at_cm2": 1.8477203739786674,
+   "O_to_Al": 5.258627547117034,
+   "Sn_1e15_at_cm2": 0.4570655485741426,
+   "Si_oxide_1e15_at_cm2": -0.5935634389240052
+  },
+  "chi2": 0.7118726668038857,
+  "inside": false,
+  "o_to_sn": 1.4661037591424682,
+  "o_to_si": 2.0
+ },
+ {
+  "label": "CHEAP",
+  "route": "hydrogen left out, resolution and calibration refitted",
+  "values": {
+   "Ag_1e15_at_cm2": 15.265566765696832,
+   "Al_oxide_1e15_at_cm2": 96.35337271804777,
+   "O_to_Al": 1.9320916270153081,
+   "Sn_1e15_at_cm2": 19.67367414986685,
+   "Si_oxide_1e15_at_cm2": 48.90056517070112,
+   "O_to_Si": 2.0
+  },
+  "errors_pct": {
+   "Ag_1e15_at_cm2": 0.43136030063706254,
+   "Al_oxide_1e15_at_cm2": 2.5035879979231623,
+   "O_to_Al": 4.437385244070713,
+   "Sn_1e15_at_cm2": 0.37588851972882864,
+   "Si_oxide_1e15_at_cm2": -0.8102126354946781
+  },
+  "chi2": 0.7107868384024514,
+  "inside": false,
+  "o_to_sn": 1.4153767222535156,
+  "o_to_si": 2.0,
+  "refitted_resolution_offset_gain": {
+   "normal": [
+    16.1727,
+    0.952,
+    0.9994
+   ],
+   "tilted": [
+    16.0846,
+    0.5761,
+    0.9997
+   ]
+  }
+ },
+ {
+  "label": "CHEAP",
+  "route": "one hydrogen per oxygen beyond Al2O3 (H/Al = O/Al - 1.5)",
+  "values": {
+   "Ag_1e15_at_cm2": 15.276028299790113,
+   "Al_oxide_1e15_at_cm2": 95.28432117682165,
+   "O_to_Al": 1.8775943608108714,
+   "Sn_1e15_at_cm2": 19.669799570606905,
+   "Si_oxide_1e15_at_cm2": 48.967935155730814,
+   "O_to_Si": 2.0
+  },
+  "errors_pct": {
+   "Ag_1e15_at_cm2": 0.5001861828296983,
+   "Al_oxide_1e15_at_cm2": 1.3662991242783473,
+   "O_to_Al": 1.4915870708579027,
+   "Sn_1e15_at_cm2": 0.356120258198489,
+   "Si_oxide_1e15_at_cm2": -0.6735595218441803
+  },
+  "chi2": 0.7051897252355838,
+  "inside": true,
+  "o_to_sn": 1.4808507062160539,
+  "o_to_si": 2.0
+ },
+ {
+  "label": "CHEAP",
+  "route": "natural tin isotopes and no hydrogen in the stopping",
+  "values": {
+   "Ag_1e15_at_cm2": 15.145763366648747,
+   "Al_oxide_1e15_at_cm2": 93.05113901018095,
+   "O_to_Al": 2.169570897545437,
+   "Sn_1e15_at_cm2": 19.695693760967597,
+   "Si_oxide_1e15_at_cm2": 55.21912325844101,
+   "O_to_Si": 2.0
+  },
+  "errors_pct": {
+   "Ag_1e15_at_cm2": -0.35681995625823637,
+   "Al_oxide_1e15_at_cm2": -1.0094265849138861,
+   "O_to_Al": 17.27410257002362,
+   "Sn_1e15_at_cm2": 0.48823347432447317,
+   "Si_oxide_1e15_at_cm2": 12.006335209819508
+  },
+  "chi2": 0.95822516258646,
+  "inside": false,
+  "o_to_sn": 2.580600592155044e-10,
+  "o_to_si": 2.0
+ },
+ {
+  "label": "CHEAP",
+  "route": "mean atomic masses, OH hydrogen, O/Sn free",
+  "values": {
+   "Ag_1e15_at_cm2": 15.296735817351507,
+   "Al_oxide_1e15_at_cm2": 99.69635324547787,
+   "O_to_Al": 1.6948729765723176,
+   "Sn_1e15_at_cm2": 19.715165009416907,
+   "Si_oxide_1e15_at_cm2": 51.65215747504555,
+   "O_to_Si": 2.0
+  },
+  "errors_pct": {
+   "Ag_1e15_at_cm2": 0.6364198509967611,
+   "Al_oxide_1e15_at_cm2": 6.059950261146674,
+   "O_to_Al": -8.385244509604462,
+   "Sn_1e15_at_cm2": 0.5875765786576892,
+   "Si_oxide_1e15_at_cm2": 4.771110497049791
+  },
+  "chi2": 1.4837639945272212,
+  "inside": false,
+  "o_to_sn": 1.604480918452166,
+  "o_to_si": 2.0
+ },
+ {
+  "label": "CHEAP",
+  "route": "mean atomic masses, resolution and calibration refitted",
+  "values": {
+   "Ag_1e15_at_cm2": 15.257327286012885,
+   "Al_oxide_1e15_at_cm2": 98.45042926623434,
+   "O_to_Al": 1.76655436847365,
+   "Sn_1e15_at_cm2": 19.678919477254382,
+   "Si_oxide_1e15_at_cm2": 54.415890297026415,
+   "O_to_Si": 2.0
+  },
+  "errors_pct": {
+   "Ag_1e15_at_cm2": 0.377153197453195,
+   "Al_oxide_1e15_at_cm2": 4.734499219398236,
+   "O_to_Al": -4.51057467710001,
+   "Sn_1e15_at_cm2": 0.402650394155013,
+   "Si_oxide_1e15_at_cm2": 10.377059426017077
+  },
+  "chi2": 1.0922003027320875,
+  "inside": false,
+  "o_to_sn": 0.9957967925142385,
+  "o_to_si": 2.0,
+  "refitted_resolution_offset_gain": {
+   "normal": [
+    18.1345,
+    -7.0556,
+    1.0041
+   ],
+   "tilted": [
+    16.9235,
+    -0.1316,
+    1.0001
+   ]
+  }
+ },
+ {
+  "label": "CHEAP",
+  "route": "119Sn, OH hydrogen, tin film taken as pure Sn",
+  "values": {
+   "Ag_1e15_at_cm2": 15.425340431318649,
+   "Al_oxide_1e15_at_cm2": 95.28754321814371,
+   "O_to_Al": 1.9219058350012075,
+   "Sn_1e15_at_cm2": 20.073440334662,
+   "Si_oxide_1e15_at_cm2": 54.307658381847894,
+   "O_to_Si": 2.0
+  },
+  "errors_pct": {
+   "Ag_1e15_at_cm2": 1.4825028376227012,
+   "Al_oxide_1e15_at_cm2": 1.3697268278124675,
+   "O_to_Al": 3.886801891957159,
+   "Sn_1e15_at_cm2": 2.415511911540813,
+   "Si_oxide_1e15_at_cm2": 10.157522072713787
+  },
+  "chi2": 1.440473107960443,
+  "inside": false,
+  "o_to_sn": 0.0,
+  "o_to_si": 2.0
+ },
+ {
+  "label": "CHEAP",
+  "route": "119Sn, OH hydrogen, pure Sn and stoichiometric Al2O3 (O/Al 1.5)",
+  "values": {
+   "Ag_1e15_at_cm2": 15.610955230878089,
+   "Al_oxide_1e15_at_cm2": 115.95338016466494,
+   "O_to_Al": 1.5,
+   "Sn_1e15_at_cm2": 20.214455955976504,
+   "Si_oxide_1e15_at_cm2": 55.284804925254576,
+   "O_to_Si": 2.0
+  },
+  "errors_pct": {
+   "Ag_1e15_at_cm2": 2.7036528347242683,
+   "Al_oxide_1e15_at_cm2": 23.354659749643545,
+   "O_to_Al": -18.918918918918926,
+   "Sn_1e15_at_cm2": 3.1349793672270643,
+   "Si_oxide_1e15_at_cm2": 12.139563742909898
+  },
+  "chi2": 2.0216204239996824,
+  "inside": false,
+  "o_to_sn": 0.0,
+  "o_to_si": 2.0
+ },
+ {
+  "label": "CHEAP",
+  "route": "normal incidence only, 119Sn, OH hydrogen, O/Sn free",
+  "values": {
+   "Ag_1e15_at_cm2": 18.944452256922336,
+   "Al_oxide_1e15_at_cm2": 94.65671917337208,
+   "O_to_Al": 1.7428722397770597,
+   "Sn_1e15_at_cm2": 17.537114363387307,
+   "Si_oxide_1e15_at_cm2": 40.398888007066624,
+   "O_to_Si": 2.0
+  },
+  "errors_pct": {
+   "Ag_1e15_at_cm2": 24.634554321857483,
+   "Al_oxide_1e15_at_cm2": 0.6986374184809296,
+   "O_to_Al": -5.790689741780564,
+   "Sn_1e15_at_cm2": -10.52492671741171,
+   "Si_oxide_1e15_at_cm2": -18.05499390047337
+  },
+  "chi2": 0.7184631496589465,
+  "inside": false,
+  "o_to_sn": 2.715716869915171,
+  "o_to_si": 2.0
+ }
+]

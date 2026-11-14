@@ -1,0 +1,18 @@
+tolerances (percent): {'Ag_1e15_at_cm2': 2.5, 'Al_oxide_1e15_at_cm2': 3.0, 'O_to_Al': 3.5, 'Sn_1e15_at_cm2': 2.5, 'Si_oxide_1e15_at_cm2': 4.0}
+DEF   joint fit, 119Sn tin, OH hydrogen, O/Sn free, fine slabs               Ag   +0.4% Al_oxide   +1.1% O_to_Al   -1.4% Sn   +0.3% Si_oxide   -0.7%  O/Sn 1.49  chi2 0.704  INSIDE
+DEF   joint fit, 119Sn tin, OH hydrogen, O/Sn free, coarser slabs            Ag   +0.4% Al_oxide   +1.2% O_to_Al   -1.4% Sn   +0.3% Si_oxide   -0.7%  O/Sn 1.49  chi2 0.704  INSIDE
+DEF   tilted spectrum only, 119Sn tin, OH hydrogen, O/Sn free                Ag   +0.3% Al_oxide   +1.1% O_to_Al   -1.4% Sn   +0.2% Si_oxide   -0.6%  O/Sn 1.50  chi2 0.688  INSIDE
+DEF   joint fit, 119Sn tin, OH hydrogen, resolution and calibration refitted Ag   +0.3% Al_oxide   +1.5% O_to_Al   -1.6% Sn   +0.2% Si_oxide   -0.6%  O/Sn 1.44  chi2 0.704  INSIDE
+DEF   joint fit, pure 119Sn assumed, OH hydrogen                             Ag   +0.5% Al_oxide   +1.3% O_to_Al   -1.7% Sn   +0.3% Si_oxide   -1.1%  O/Sn 1.54  chi2 0.706  INSIDE
+DEF   joint fit, 119Sn tin, hydrogen fitted freely (H/Al 0.65 +- 0.15)       Ag   +0.4% Al_oxide   +1.1% O_to_Al   -1.4% Sn   +0.3% Si_oxide   -0.7%  O/Sn 1.49  chi2 0.705  INSIDE
+CHEAP natural tin isotopes (enrichment ignored)                              Ag   -0.6% Al_oxide   -2.1% O_to_Al   +7.6% Sn   +0.2% Si_oxide  +12.1%  O/Sn 0.00  chi2 0.934  outside
+CHEAP natural tin isotopes, resolution and calibration refitted              Ag   +0.1% Al_oxide   -2.5% O_to_Al   +8.2% Sn   +0.5% Si_oxide  +12.4%  O/Sn 0.00  chi2 0.861  outside
+CHEAP hydrogen of the ALD layer left out of the stopping                     Ag   +0.6% Al_oxide   +1.8% O_to_Al   +5.3% Sn   +0.5% Si_oxide   -0.6%  O/Sn 1.47  chi2 0.712  outside
+CHEAP hydrogen left out, resolution and calibration refitted                 Ag   +0.4% Al_oxide   +2.5% O_to_Al   +4.4% Sn   +0.4% Si_oxide   -0.8%  O/Sn 1.42  chi2 0.711  outside
+CHEAP one hydrogen per oxygen beyond Al2O3 (H/Al = O/Al - 1.5)               Ag   +0.5% Al_oxide   +1.4% O_to_Al   +1.5% Sn   +0.4% Si_oxide   -0.7%  O/Sn 1.48  chi2 0.705  INSIDE
+CHEAP natural tin isotopes and no hydrogen in the stopping                   Ag   -0.4% Al_oxide   -1.0% O_to_Al  +17.3% Sn   +0.5% Si_oxide  +12.0%  O/Sn 0.00  chi2 0.958  outside
+CHEAP mean atomic masses, OH hydrogen, O/Sn free                             Ag   +0.6% Al_oxide   +6.1% O_to_Al   -8.4% Sn   +0.6% Si_oxide   +4.8%  O/Sn 1.60  chi2 1.484  outside
+CHEAP mean atomic masses, resolution and calibration refitted                Ag   +0.4% Al_oxide   +4.7% O_to_Al   -4.5% Sn   +0.4% Si_oxide  +10.4%  O/Sn 1.00  chi2 1.092  outside
+CHEAP 119Sn, OH hydrogen, tin film taken as pure Sn                          Ag   +1.5% Al_oxide   +1.4% O_to_Al   +3.9% Sn   +2.4% Si_oxide  +10.2%  O/Sn 0.00  chi2 1.440  outside
+CHEAP 119Sn, OH hydrogen, pure Sn and stoichiometric Al2O3 (O/Al 1.5)        Ag   +2.7% Al_oxide  +23.4% O_to_Al  -18.9% Sn   +3.1% Si_oxide  +12.1%  O/Sn 0.00  chi2 2.022  outside
+CHEAP normal incidence only, 119Sn, OH hydrogen, O/Sn free                   Ag  +24.6% Al_oxide   +0.7% O_to_Al   -5.8% Sn  -10.5% Si_oxide  -18.1%  O/Sn 2.72  chi2 0.718  outside

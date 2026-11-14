@@ -1,0 +1,14 @@
+Structurally independent model (continuous depth, RK4 energy loss, exact Gaussian channel integrals)
+
+(1) forward spectra at the true stack, independent model vs generator (slab) model:
+normal: channels with >50 counts: max |difference| 0.01 sigma (Poisson), rms 0.00 sigma; region integrals heavy-metal peaks (1650-1800 keV) +0.000 %, Si/Al edge region (1000-1150 keV) -0.004 %, O region (600-800 keV) -0.027 %
+tilted: channels with >50 counts: max |difference| 0.02 sigma (Poisson), rms 0.01 sigma; region integrals heavy-metal peaks (1650-1800 keV) +0.000 %, Si/Al edge region (1000-1150 keV) -0.007 %, O region (600-800 keV) -0.021 %
+
+(2) joint fit with the independent model (Ag, Al, O/Al, Sn, O/Sn, Si; charge factor and floor per run):
+task data      Ag +0.42%  Al_oxide +1.14%  O_to_Al -1.42%  Sn +0.27%  Si_oxide -0.72%  reduced chi2 0.704
+noise draw 201 Ag +0.10%  Al_oxide +0.76%  O_to_Al -0.95%  Sn -0.08%  Si_oxide -0.41%  reduced chi2 0.626
+noise draw 202 Ag -0.36%  Al_oxide -0.20%  O_to_Al +0.10%  Sn -0.71%  Si_oxide -0.95%  reduced chi2 0.681
+noise draw 203 Ag +0.31%  Al_oxide +0.49%  O_to_Al -0.82%  Sn -0.24%  Si_oxide -1.04%  reduced chi2 0.665
+noise draw 204 Ag -0.18%  Al_oxide -0.73%  O_to_Al +0.59%  Sn +0.04%  Si_oxide -1.25%  reduced chi2 0.612
+
+largest |error| of the independent analysis: Ag 0.42 % (bound 2.5 %, 6.0x inside), Al_oxide 1.14 % (bound 3.0 %, 2.6x inside), O_to_Al 1.42 % (bound 3.5 %, 2.5x inside), Sn 0.71 % (bound 2.5 %, 3.5x inside), Si_oxide 1.25 % (bound 4.0 %, 3.2x inside)

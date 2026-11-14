@@ -1,0 +1,9 @@
+Damietta Port Unit 2 - HP/IP section efficiency tests, 2026-09-23
+
+Unit at fixed load, inlet valves held in one position, constant throttle pressure throughout.
+Drains, vents and blowdown isolated from 06:00; drum level steady. Reheat spray as required
+by the temperature set points.
+
+Test 1 07:30-08:30: rated steam temperatures.
+Test 2 10:00-11:00: hot reheat temperature lowered 32 K.
+Test 3 12:25-13:25: hot reheat temperature lowered 17 K.

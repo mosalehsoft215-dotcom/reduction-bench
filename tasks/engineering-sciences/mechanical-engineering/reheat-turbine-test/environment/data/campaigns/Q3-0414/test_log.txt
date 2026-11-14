@@ -1,0 +1,13 @@
+Qalyub West Unit 3 - HP/IP section efficiency tests, 2026-04-14
+
+Unit at fixed load, inlet valves held in one position, constant throttle pressure throughout.
+Drains, vents and blowdown isolated from 06:00; drum level steady. Reheat spray as required
+by the temperature set points.
+
+Test 1 07:45-08:45: rated steam temperatures.
+Test 2 10:10-11:10: main steam temperature lowered 34 K.
+Test 3 12:40-13:40: hot reheat temperature lowered 33 K.
+Test 4 15:05-16:05: main steam temperature lowered 29 K and hot reheat temperature lowered 28 K.
+
+Remarks:
+PT-IPX post-test check: reads 0.0021 bar low

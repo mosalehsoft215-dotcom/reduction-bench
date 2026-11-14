@@ -1,0 +1,10 @@
+{
+  "C-104": {
+    "lambda0_S_cm2_per_mol": 183.476,
+    "ka_dm3_per_mol": 121.83
+  },
+  "C-117": {
+    "lambda0_S_cm2_per_mol": 143.219,
+    "ka_dm3_per_mol": 912.44
+  }
+}

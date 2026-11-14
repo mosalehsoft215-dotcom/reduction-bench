@@ -1,0 +1,15 @@
+entry,quantity,grams
+stock,salt_g,0.45202
+stock,solvent_g,50.32
+cell,solvent_g,61.4356
+add1,stock_g,0.182
+add2,stock_g,0.20615
+add3,stock_g,0.28373
+add4,stock_g,0.37571
+add5,stock_g,0.46967
+add6,stock_g,0.65576
+add7,stock_g,0.9133
+add8,stock_g,1.23865
+add9,stock_g,1.53675
+add10,stock_g,2.31209
+cell,contents_after_series_g,69.6094

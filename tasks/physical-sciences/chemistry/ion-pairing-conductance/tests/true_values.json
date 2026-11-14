@@ -1,0 +1,22 @@
+{
+  "C-122": {
+    "lambda0_S_cm2_per_mol": 196.731,
+    "ka_dm3_per_mol": 205.38
+  },
+  "C-128": {
+    "lambda0_S_cm2_per_mol": 28.9137,
+    "ka_dm3_per_mol": 637.92
+  },
+  "C-133": {
+    "lambda0_S_cm2_per_mol": 185.164,
+    "ka_dm3_per_mol": 63.071
+  },
+  "C-139": {
+    "lambda0_S_cm2_per_mol": 151.387,
+    "ka_dm3_per_mol": 418.66
+  },
+  "C-146": {
+    "lambda0_S_cm2_per_mol": 203.952,
+    "ka_dm3_per_mol": 1143.6
+  }
+}

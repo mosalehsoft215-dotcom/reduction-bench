@@ -1,0 +1,22 @@
+program,series,L0,KA,L0_allowances,KA_allowances,within
+reference,C-104,183.4717,121.813,0.012,0.009,True
+reference,C-117,143.2268,912.587,0.027,0.011,True
+reference,C-122,196.7091,205.32,0.056,0.019,True
+reference,C-128,28.9167,637.964,0.052,0.005,True
+reference,C-133,185.155,62.756,0.024,0.333,True
+reference,C-139,151.3726,418.469,0.048,0.03,True
+reference,C-146,203.9432,1143.657,0.022,0.003,True
+independent,C-104,183.4772,121.866,0.003,0.02,True
+independent,C-117,143.2176,912.512,0.005,0.005,True
+independent,C-122,196.7182,205.347,0.032,0.011,True
+independent,C-128,28.9167,637.964,0.053,0.005,True
+independent,C-133,185.1627,63.031,0.004,0.043,True
+independent,C-139,151.3699,418.446,0.056,0.034,True
+independent,C-146,203.9332,1143.545,0.046,0.003,True
+literal pass,C-104,183.472,121.818,0.011,0.007,True
+literal pass,C-117,143.2206,912.538,0.006,0.007,True
+literal pass,C-122,194.3801,203.67,5.975,0.555,False
+literal pass,C-128,28.3936,636.638,8.994,0.134,False
+literal pass,C-133,187.5466,117.239,6.434,57.256,False
+literal pass,C-139,153.8608,441.141,8.17,3.58,False
+literal pass,C-146,206.2618,1146.661,5.663,0.178,False

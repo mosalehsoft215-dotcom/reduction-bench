@@ -1,0 +1,13 @@
+entry,quantity,grams
+cell,salt_g,0.04249
+cell,solvent_g,18.1956
+add1,solvent_g,3.2484
+add2,solvent_g,3.8758
+add3,solvent_g,5.4894
+add4,solvent_g,6.3442
+add5,solvent_g,8.2823
+add6,solvent_g,11.1946
+add7,solvent_g,14.4125
+add8,solvent_g,17.5449
+add9,solvent_g,24.8262
+cell,contents_after_series_g,112.2994

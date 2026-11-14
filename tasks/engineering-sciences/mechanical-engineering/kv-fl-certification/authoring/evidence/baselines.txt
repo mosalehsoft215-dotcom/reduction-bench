@@ -1,0 +1,6 @@
+V-51: margin 30.36 bounds (closest: sealed median)
+V-52: margin 7.68 bounds (closest: worked V-23)
+V-54: margin 30.09 bounds (closest: worked V-23)
+V-57: margin 6.18 bounds (closest: sealed median (2 s.f.))
+V-58: margin 3.67 bounds (closest: sealed median)
+OK: no baseline passes a case

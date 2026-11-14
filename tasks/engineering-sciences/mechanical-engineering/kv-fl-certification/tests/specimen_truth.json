@@ -1,0 +1,22 @@
+{
+ "V-51": {
+  "kv_rated_m3h": 30.08,
+  "fl_rated": 0.89
+ },
+ "V-52": {
+  "kv_rated_m3h": 116.14,
+  "fl_rated": 0.795
+ },
+ "V-54": {
+  "kv_rated_m3h": 187.32,
+  "fl_rated": 0.847
+ },
+ "V-57": {
+  "kv_rated_m3h": 43.78,
+  "fl_rated": 0.906
+ },
+ "V-58": {
+  "kv_rated_m3h": 42.94,
+  "fl_rated": 0.817
+ }
+}

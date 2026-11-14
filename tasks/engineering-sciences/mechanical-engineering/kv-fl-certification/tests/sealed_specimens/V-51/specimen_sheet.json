@@ -1,0 +1,29 @@
+{
+ "specimen": "V-51",
+ "type": "globe, single seat, cage guided, linear trim",
+ "size": "DN40",
+ "valve_end_bore_mm": 40.0,
+ "rated_travel_pct": 100,
+ "installation": {
+  "reducers": "concentric DN80 x DN40 upstream and downstream",
+  "pressure_taps": "on the DN80 pipe, 2 D upstream and 6 D downstream of the reducers"
+ },
+ "loop_pipe": {
+  "pipe": "DN80 schedule 80",
+  "inside_diameter_mm": 73.7
+ },
+ "flowmeter": {
+  "kind": "electromagnetic, in the DN80 loop upstream of the test section",
+  "range_m3h": 60.0
+ },
+ "p1_transmitter": "gauge pressure, on a water-filled impulse line from the upstream tap",
+ "dp_transmitter": "differential, on water-filled impulse lines from both taps",
+ "lab": {
+  "elevation_m": 820.0
+ },
+ "daq": {
+  "rate_Hz": 2.0,
+  "procedure": "pump off, holds of 75-110 s per point, pump off"
+ },
+ "fluid": "tap water"
+}

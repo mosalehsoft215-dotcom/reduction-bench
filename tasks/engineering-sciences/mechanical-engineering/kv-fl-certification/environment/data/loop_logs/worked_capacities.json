@@ -1,0 +1,18 @@
+{
+ "V-12": {
+  "kv_rated_m3h": 62.65,
+  "fl_rated": 0.867
+ },
+ "V-23": {
+  "kv_rated_m3h": 102.76,
+  "fl_rated": 0.847
+ },
+ "V-31": {
+  "kv_rated_m3h": 71.93,
+  "fl_rated": 0.867
+ },
+ "V-36": {
+  "kv_rated_m3h": 94.48,
+  "fl_rated": 0.817
+ }
+}

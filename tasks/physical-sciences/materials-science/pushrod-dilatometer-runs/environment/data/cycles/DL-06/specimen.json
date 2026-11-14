@@ -1,0 +1,12 @@
+{
+ "specimen": "DL-06",
+ "material": "alumina-zirconia ceramic",
+ "nominal_length_mm": 25.0,
+ "length_20c_micrometer_mm": [
+  25.01,
+  25.012,
+  25.013
+ ],
+ "sapphire_length_20c_mm": 25.004,
+ "heating_rate_k_per_min": 5.0
+}

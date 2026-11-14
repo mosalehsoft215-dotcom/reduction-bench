@@ -1,0 +1,12 @@
+{
+ "specimen": "DL-10",
+ "material": "ferritic stainless steel",
+ "nominal_length_mm": 20.0,
+ "length_20c_micrometer_mm": [
+  19.987,
+  19.985,
+  19.985
+ ],
+ "sapphire_length_20c_mm": 25.004,
+ "heating_rate_k_per_min": 10.0
+}

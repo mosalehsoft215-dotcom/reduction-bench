@@ -1,0 +1,12 @@
+{
+ "specimen": "DL-33",
+ "material": "austenitic steel",
+ "nominal_length_mm": 20.0,
+ "length_20c_micrometer_mm": [
+  18.109,
+  18.111,
+  18.109
+ ],
+ "sapphire_length_20c_mm": 24.997,
+ "heating_rate_k_per_min": 5.0
+}

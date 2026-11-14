@@ -1,0 +1,12 @@
+{
+ "specimen": "DL-31",
+ "material": "nickel-base superalloy",
+ "nominal_length_mm": 25.0,
+ "length_20c_micrometer_mm": [
+  25.006,
+  25.011,
+  25.01
+ ],
+ "sapphire_length_20c_mm": 24.997,
+ "heating_rate_k_per_min": 5.0
+}

@@ -1,0 +1,12 @@
+{
+ "specimen": "DL-34",
+ "material": "aluminium bronze",
+ "nominal_length_mm": 25.0,
+ "length_20c_micrometer_mm": [
+  22.902,
+  22.901,
+  22.898
+ ],
+ "sapphire_length_20c_mm": 24.997,
+ "heating_rate_k_per_min": 10.0
+}

@@ -1,0 +1,22 @@
+{
+ "DL-31": {
+  "mean_cte_100_600_ppm_per_k": 11.036,
+  "cte_800c_ppm_per_k": 12.5846
+ },
+ "DL-32": {
+  "mean_cte_100_600_ppm_per_k": 17.9223,
+  "cte_800c_ppm_per_k": 19.6436
+ },
+ "DL-33": {
+  "mean_cte_100_600_ppm_per_k": 16.4507,
+  "cte_800c_ppm_per_k": 18.2069
+ },
+ "DL-34": {
+  "mean_cte_100_600_ppm_per_k": 18.5783,
+  "cte_800c_ppm_per_k": 20.0152
+ },
+ "DL-35": {
+  "mean_cte_100_600_ppm_per_k": 16.5383,
+  "cte_800c_ppm_per_k": 18.0697
+ }
+}

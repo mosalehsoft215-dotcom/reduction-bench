@@ -1,0 +1,10 @@
+{
+ "DL-06": {
+  "mean_cte_100_600_ppm_per_k": 9.0493,
+  "cte_800c_ppm_per_k": 10.8762
+ },
+ "DL-10": {
+  "mean_cte_100_600_ppm_per_k": 13.8577,
+  "cte_800c_ppm_per_k": 15.2903
+ }
+}

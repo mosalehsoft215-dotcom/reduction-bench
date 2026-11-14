@@ -1,0 +1,30 @@
+{
+  "EL-31": {
+    "current_efficiency_pct": 95.0278,
+    "dc_energy_kwh_per_t": 2082.0367
+  },
+  "EL-46": {
+    "current_efficiency_pct": 97.3761,
+    "dc_energy_kwh_per_t": 1996.0636
+  },
+  "EL-52": {
+    "current_efficiency_pct": 95.4719,
+    "dc_energy_kwh_per_t": 2063.9455
+  },
+  "EL-58": {
+    "current_efficiency_pct": 95.8111,
+    "dc_energy_kwh_per_t": 2123.9963
+  },
+  "EL-63": {
+    "current_efficiency_pct": 96.9799,
+    "dc_energy_kwh_per_t": 1973.0047
+  },
+  "EL-67": {
+    "current_efficiency_pct": 94.3207,
+    "dc_energy_kwh_per_t": 2176.0061
+  },
+  "EL-74": {
+    "current_efficiency_pct": 96.7057,
+    "dc_energy_kwh_per_t": 2018.1036
+  }
+}

@@ -1,0 +1,7 @@
+17 CE candidates x 12 energy candidates
+
+EL-52: passing pairs 0; closest energy candidate 1.9 allowances, closest CE candidate 0.1 allowances
+EL-58: passing pairs 0; closest energy candidate 3.2 allowances, closest CE candidate 0.6 allowances
+EL-63: passing pairs 0; closest energy candidate 3.3 allowances, closest CE candidate 0.1 allowances
+EL-67: passing pairs 0; closest energy candidate 3.2 allowances, closest CE candidate 0.6 allowances
+EL-74: passing pairs 0; closest energy candidate 2.6 allowances, closest CE candidate 0.7 allowances

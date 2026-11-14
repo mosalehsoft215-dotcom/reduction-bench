@@ -1,0 +1,7 @@
+{
+  "line": "EL-31",
+  "window_start_utc": "2026-08-03T07:00:00Z",
+  "window_end_utc": "2026-08-04T07:00:00Z",
+  "current_set_point_kA": 14.28,
+  "caustic_set_point_pct": 32.0
+}

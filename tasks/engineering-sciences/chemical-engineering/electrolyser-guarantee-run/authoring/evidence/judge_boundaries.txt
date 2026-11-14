@@ -1,0 +1,1 @@
+200 boundary answers (lines x 2 figures x 2 signs x 5 offsets x 2 spellings): judge 1 vs judge 2 disagreements 0; decisions differing from |answer - true| <= allowance 0

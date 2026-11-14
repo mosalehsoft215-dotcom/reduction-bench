@@ -1,0 +1,6 @@
+t_s,event,item,text
+0,NOTE,,"session start"
+900,MOUNT,R-7,"clamped; tips set at 6.0 mm"
+10320,UNMOUNT,R-7,"removed"
+11160,MOUNT,S-52,"clamped; tips set at 6.0 mm"
+20580,UNMOUNT,S-52,"removed"

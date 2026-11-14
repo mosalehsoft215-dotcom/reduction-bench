@@ -1,0 +1,100 @@
+{
+  "session": "D-33",
+  "date": "2026-10-09",
+  "wire_lot": {
+    "id": "K17",
+    "table": "wire_K17.csv"
+  },
+  "probes": {
+    "spacing_mm": 6.0,
+    "heated_side": "probe 2",
+    "wire_anchor": "probe wires clamped to the stage block"
+  },
+  "voltage_channel": {
+    "legs": "B",
+    "polarity": "probe2_minus_probe1"
+  },
+  "heater": {
+    "supply": "constant power while on, logged as heater_mW"
+  },
+  "scanner": {
+    "sweep_interval_s": 1.0,
+    "reference_junction": "isothermal terminal block, Pt100 logged as cj_K"
+  },
+  "stage": {
+    "sensor": "Pt100 in the stage block, logged as stage_K",
+    "setpoint_column": "stage_set_K"
+  },
+  "bars": {
+    "S-70": {
+      "role": "sample",
+      "material": "Sb2Te3-based alloy, p-type, hot-pressed",
+      "section_mm": [
+        2.0,
+        2.0
+      ],
+      "length_mm": 12.0,
+      "kappa_report": {
+        "source": "laser-flash diffusivity x DSC heat capacity x density, materials lab",
+        "points_T_K_kappa_W_per_mK": [
+          [
+            300.0,
+            1.05
+          ],
+          [
+            350.0,
+            1.021
+          ],
+          [
+            400.0,
+            1.005
+          ],
+          [
+            450.0,
+            1.001
+          ],
+          [
+            500.0,
+            1.01
+          ],
+          [
+            550.0,
+            1.031
+          ],
+          [
+            600.0,
+            1.065
+          ]
+        ]
+      }
+    },
+    "R-7": {
+      "role": "reference",
+      "material": "Bi2Te3-based alloy, n-type",
+      "certificate": "R7_certificate.csv",
+      "certificate_range_K": [
+        300,
+        600
+      ],
+      "section_mm": [
+        3.0,
+        3.0
+      ],
+      "length_mm": 14.0
+    },
+    "C-2": {
+      "role": "lead_check",
+      "material": "constantan (Cu55Ni45) strip",
+      "table": "C2_constantan.csv",
+      "table_range_K": [
+        280,
+        620
+      ],
+      "section_mm": [
+        0.5,
+        4.0
+      ],
+      "length_mm": 12.0
+    }
+  }
+}

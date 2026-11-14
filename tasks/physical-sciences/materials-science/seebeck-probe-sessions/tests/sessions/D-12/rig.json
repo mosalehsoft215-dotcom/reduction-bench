@@ -1,0 +1,86 @@
+{
+  "session": "D-12",
+  "date": "2026-09-14",
+  "wire_lot": {
+    "id": "K17",
+    "table": "wire_K17.csv"
+  },
+  "probes": {
+    "spacing_mm": 6.0,
+    "heated_side": "probe 2",
+    "wire_anchor": "probe wires clamped to the stage block"
+  },
+  "voltage_channel": {
+    "legs": "A",
+    "polarity": "probe2_minus_probe1"
+  },
+  "heater": {
+    "supply": "constant power while on, logged as heater_mW"
+  },
+  "scanner": {
+    "sweep_interval_s": 1.0,
+    "reference_junction": "isothermal terminal block, Pt100 logged as cj_K"
+  },
+  "stage": {
+    "sensor": "Pt100 in the stage block, logged as stage_K",
+    "setpoint_column": "stage_set_K"
+  },
+  "bars": {
+    "S-52": {
+      "role": "sample",
+      "material": "Bi2Te3-based alloy, n-type, nanostructured by ball milling",
+      "section_mm": [
+        2.0,
+        2.0
+      ],
+      "length_mm": 12.0,
+      "kappa_report": {
+        "source": "laser-flash diffusivity x DSC heat capacity x density, materials lab",
+        "points_T_K_kappa_W_per_mK": [
+          [
+            300.0,
+            0.64
+          ],
+          [
+            350.0,
+            0.633
+          ],
+          [
+            400.0,
+            0.634
+          ],
+          [
+            450.0,
+            0.641
+          ],
+          [
+            500.0,
+            0.656
+          ],
+          [
+            550.0,
+            0.677
+          ],
+          [
+            600.0,
+            0.706
+          ]
+        ]
+      }
+    },
+    "R-7": {
+      "role": "reference",
+      "material": "Bi2Te3-based alloy, n-type",
+      "certificate": "R7_certificate.csv",
+      "certificate_range_K": [
+        300,
+        600
+      ],
+      "section_mm": [
+        3.0,
+        3.0
+      ],
+      "length_mm": 14.0
+    }
+  }
+}

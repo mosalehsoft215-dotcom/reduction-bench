@@ -1,0 +1,37 @@
+{
+ "programme_800HT": {
+  "stress_exponent": 4.73,
+  "activation_energy_kJ_mol": 316.8,
+  "design_creep_rate_per_s": 4.115982641766823e-10
+ },
+ "programme_2.25Cr-1Mo": {
+  "stress_exponent": 6.42,
+  "activation_energy_kJ_mol": 356.3,
+  "design_creep_rate_per_s": 4.912881687906864e-10
+ },
+ "h1": {
+  "stress_exponent": 7.18,
+  "activation_energy_kJ_mol": 411.6,
+  "design_creep_rate_per_s": 4.5591564140063544e-10
+ },
+ "h2": {
+  "stress_exponent": 4.91,
+  "activation_energy_kJ_mol": 327.4,
+  "design_creep_rate_per_s": 6.524759994235205e-10
+ },
+ "h3": {
+  "stress_exponent": 9.47,
+  "activation_energy_kJ_mol": 503.2,
+  "design_creep_rate_per_s": 8.456639969182134e-10
+ },
+ "h4": {
+  "stress_exponent": 5.23,
+  "activation_energy_kJ_mol": 158.9,
+  "design_creep_rate_per_s": 9.499240319701527e-10
+ },
+ "h5": {
+  "stress_exponent": 4.36,
+  "activation_energy_kJ_mol": 193.7,
+  "design_creep_rate_per_s": 1.7387195261410817e-10
+ }
+}

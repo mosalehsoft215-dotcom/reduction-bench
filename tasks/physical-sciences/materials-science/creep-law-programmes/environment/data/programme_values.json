@@ -1,0 +1,12 @@
+{
+ "programme_800HT": {
+  "stress_exponent": 4.73,
+  "activation_energy_kJ_mol": 316.8,
+  "design_creep_rate_per_s": 4.116e-10
+ },
+ "programme_2.25Cr-1Mo": {
+  "stress_exponent": 6.42,
+  "activation_energy_kJ_mol": 356.3,
+  "design_creep_rate_per_s": 4.9129e-10
+ }
+}

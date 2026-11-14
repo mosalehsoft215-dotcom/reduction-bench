@@ -1,0 +1,28 @@
+18.09.2023 09:20  T01 in F3 on M6, soaking at 540 C; extensometer zeroed.
+18.09.2023 10:00  T01 loaded.
+19.09.2023 11:20  T02 in F4 on M1, soaking at 540 C; extensometer zeroed.
+19.09.2023 12:00  T02 loaded.
+04.11.2023 07:17  T02 unloaded.
+06.11.2023 05:37  T03 in F4 on M1, soaking at 540 C; extensometer zeroed.
+06.11.2023 06:17  T03 loaded.
+22.11.2023 05:00  T03 unloaded.
+24.11.2023 03:20  T05 in F4 on M1, soaking at 565 C; extensometer zeroed.
+24.11.2023 04:00  T05 loaded.
+10.01.2024 11:32  T05 unloaded.
+12.01.2024 09:52  T06 in F4 on M1, soaking at 565 C; extensometer zeroed.
+12.01.2024 10:32  T06 loaded.
+26.01.2024 21:18  T01 unloaded.
+27.01.2024 06:51  T06 unloaded.
+28.01.2024 19:38  T04 in F3 on M6, soaking at 565 C; extensometer zeroed.
+28.01.2024 20:18  T04 loaded.
+29.01.2024 05:11  T08 in F4 on M1, soaking at 590 C; extensometer zeroed.
+29.01.2024 05:51  T08 loaded.
+14.03.2024 02:14  T08 unloaded.
+16.03.2024 00:34  T09 in F4 on M1, soaking at 590 C; extensometer zeroed.
+16.03.2024 01:14  T09 loaded.
+01.04.2024 14:41  T09 unloaded.
+05.04.2024 12:25  T04: extensometer knocked during an inspection and re-seated.
+30.05.2024 20:41  T04 unloaded.
+01.06.2024 19:01  T07 in F3 on M6, soaking at 590 C; extensometer zeroed.
+01.06.2024 19:41  T07 loaded.
+14.10.2024 08:51  T07 unloaded.

@@ -1,0 +1,2 @@
+Online monitoring out of service; run-down of K-32 captured with the portable analyser.
+The unit ran 30 s at rated speed with the analyser recording before the trip.

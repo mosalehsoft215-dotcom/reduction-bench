@@ -1,0 +1,1 @@
+Run-down of K-34 after the overspeed trip test; the unit tripped at 3105 rpm.

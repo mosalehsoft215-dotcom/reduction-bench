@@ -1,0 +1,22 @@
+{
+ "HA-71": {
+  "nitrogen_charge_bar": 71.3,
+  "gas_space_l": 9.62
+ },
+ "HA-72": {
+  "nitrogen_charge_bar": 136.2,
+  "gas_space_l": 48.73
+ },
+ "HA-73": {
+  "nitrogen_charge_bar": 104.9,
+  "gas_space_l": 38.86
+ },
+ "HA-74": {
+  "nitrogen_charge_bar": 83.6,
+  "gas_space_l": 24.18
+ },
+ "HA-75": {
+  "nitrogen_charge_bar": 127.4,
+  "gas_space_l": 15.74
+ }
+}

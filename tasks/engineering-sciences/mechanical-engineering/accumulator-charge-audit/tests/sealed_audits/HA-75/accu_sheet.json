@@ -1,0 +1,19 @@
+{
+ "unit": "HA-75",
+ "type": "piston accumulator",
+ "nominal_gas_volume_L": 14.0,
+ "rated_precharge_bar": 140,
+ "meter": {
+  "type": "gear meter",
+  "k_factor_pulses_per_L": 448.3
+ },
+ "prover_check": {
+  "vessel_L": 2.0,
+  "pulses": [
+   897,
+   895,
+   897
+  ]
+ },
+ "ambient_C": 22.0
+}

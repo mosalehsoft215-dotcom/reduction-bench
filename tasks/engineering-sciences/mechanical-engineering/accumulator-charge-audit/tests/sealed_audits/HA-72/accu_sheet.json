@@ -1,0 +1,19 @@
+{
+ "unit": "HA-72",
+ "type": "piston accumulator",
+ "nominal_gas_volume_L": 44.0,
+ "rated_precharge_bar": 125,
+ "meter": {
+  "type": "gear meter",
+  "k_factor_pulses_per_L": 446.1
+ },
+ "prover_check": {
+  "vessel_L": 2.0,
+  "pulses": [
+   891,
+   893,
+   892
+  ]
+ },
+ "ambient_C": 16.4
+}

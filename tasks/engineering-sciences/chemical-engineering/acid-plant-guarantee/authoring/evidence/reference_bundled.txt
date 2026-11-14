@@ -1,0 +1,7 @@
+p1 ipa_conv 95.4978 vs 95.4987 -> -0.01 lim | so2_kg_p 0.7385 vs 0.7369 -> +0.18 lim
+p2 ipa_conv 96.1328 vs 96.1366 -> -0.05 lim | so2_kg_p 0.8073 vs 0.8072 -> +0.01 lim
+h1 ipa_conv 95.0018 vs 95.0133 -> -0.14 lim | so2_kg_p 0.6430 vs 0.6436 -> -0.08 lim
+h2 ipa_conv 95.8263 vs 95.8298 -> -0.04 lim | so2_kg_p 0.7403 vs 0.7413 -> -0.11 lim
+h3 ipa_conv 91.5162 vs 91.5104 -> +0.07 lim | so2_kg_p 0.6656 vs 0.6616 -> +0.50 lim
+h4 ipa_conv 94.5529 vs 94.5518 -> +0.01 lim | so2_kg_p 0.8227 vs 0.8222 -> +0.06 lim
+h5 ipa_conv 95.7012 vs 95.6992 -> +0.02 lim | so2_kg_p 0.7023 vs 0.7036 -> -0.16 lim

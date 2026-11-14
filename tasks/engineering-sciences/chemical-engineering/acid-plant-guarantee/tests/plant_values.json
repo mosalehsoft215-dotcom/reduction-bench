@@ -1,0 +1,22 @@
+{
+  "h1": {
+    "ipa_conversion_pct": 95.013308,
+    "so2_kg_per_t": 0.643552
+  },
+  "h2": {
+    "ipa_conversion_pct": 95.829847,
+    "so2_kg_per_t": 0.741293
+  },
+  "h3": {
+    "ipa_conversion_pct": 91.510439,
+    "so2_kg_per_t": 0.661641
+  },
+  "h4": {
+    "ipa_conversion_pct": 94.551786,
+    "so2_kg_per_t": 0.822154
+  },
+  "h5": {
+    "ipa_conversion_pct": 95.699249,
+    "so2_kg_per_t": 0.703613
+  }
+}

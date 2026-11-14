@@ -1,0 +1,27 @@
+2026-09-22T22:00:00 | CAL | AT-501 | point=analyzer | gas=N2 | kind=zero-check | as_found=0.70 | unit=ppm
+2026-09-22T22:05:00 | CAL | AT-501 | point=analyzer | gas=CY-1191 | kind=span-check | as_found=400.74 | unit=ppm
+2026-09-22T22:10:00 | CAL | AT-502 | point=analyzer | gas=ambient-air | kind=span-check | as_found=20.935 | unit=%
+2026-09-23T00:18:00 | EVENT | AT-301B | connected | port=converter-inlet-test-port
+2026-09-23T00:21:00 | CAL | AT-301A | point=analyzer | gas=N2 | kind=zero-adjust | as_found=-0.055 | as_left=0.000 | unit=%
+2026-09-23T00:21:00 | CAL | AT-401 | point=analyzer | gas=N2 | kind=zero-adjust | as_found=0.002 | as_left=0.000 | unit=%
+2026-09-23T00:25:00 | CAL | AT-301A | point=analyzer | gas=CY-5949 | kind=span-adjust | as_found=10.048 | as_left=10.000 | unit=%
+2026-09-23T00:25:00 | CAL | AT-401 | point=analyzer | gas=CY-8777 | kind=span-adjust | as_found=1.018 | as_left=1.000 | unit=%
+2026-09-23T00:25:12 | CAL | AT-301B | point=analyzer | gas=N2 | kind=zero-adjust | as_left=0.000 | unit=%
+2026-09-23T00:29:12 | CAL | AT-301B | point=analyzer | gas=CY-5949 | kind=span-adjust | as_left=10.000 | unit=%
+2026-09-23T00:31:00 | CAL | AT-302 | point=analyzer | gas=N2 | kind=zero-check | as_found=-0.009 | unit=%
+2026-09-23T00:35:00 | CAL | AT-302 | point=analyzer | gas=ambient-air | kind=span-check | as_found=20.968 | unit=%
+2026-09-23T01:00:00 | TEST | start
+2026-09-23T05:00:00 | CAL-PERIOD | AT-501,AT-502 | begin
+2026-09-23T05:01:00 | CAL | AT-501 | point=analyzer | gas=N2 | kind=zero-check | as_found=0.63 | unit=ppm
+2026-09-23T05:06:00 | CAL | AT-501 | point=analyzer | gas=CY-1191 | kind=span-check | as_found=400.74 | unit=ppm
+2026-09-23T05:11:00 | CAL | AT-502 | point=analyzer | gas=ambient-air | kind=span-check | as_found=20.935 | unit=%
+2026-09-23T05:15:00 | CAL-PERIOD | AT-501,AT-502 | end
+2026-09-23T07:00:00 | TEST | end
+2026-09-23T07:15:00 | CAL | AT-301A | point=analyzer | gas=N2 | kind=zero-check | as_found=-0.009 | unit=%
+2026-09-23T07:15:00 | CAL | AT-401 | point=analyzer | gas=N2 | kind=zero-check | as_found=-0.002 | unit=%
+2026-09-23T07:18:00 | CAL | AT-301B | point=analyzer | gas=N2 | kind=zero-check | as_found=0.003 | unit=%
+2026-09-23T07:19:00 | CAL | AT-301A | point=analyzer | gas=CY-5949 | kind=span-check | as_found=9.987 | unit=%
+2026-09-23T07:19:00 | CAL | AT-401 | point=analyzer | gas=CY-8777 | kind=span-check | as_found=0.997 | unit=%
+2026-09-23T07:22:00 | CAL | AT-301B | point=analyzer | gas=CY-5949 | kind=span-check | as_found=10.019 | unit=%
+2026-09-23T07:25:00 | CAL | AT-302 | point=analyzer | gas=ambient-air | kind=span-check | as_found=20.981 | unit=%
+2026-09-23T07:27:00 | EVENT | AT-301B | disconnected

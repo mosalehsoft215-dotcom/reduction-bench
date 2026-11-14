@@ -1,0 +1,46 @@
+{
+ "truth itself (control)": [
+  true,
+  true
+ ],
+ "NaN value": [
+  false,
+  false
+ ],
+ "Infinity": [
+  false,
+  false
+ ],
+ "string number": [
+  false,
+  false
+ ],
+ "boolean": [
+  false,
+  false
+ ],
+ "extra keys of any type (control)": [
+  true,
+  true
+ ],
+ "array": [
+  false,
+  false
+ ],
+ "missing key": [
+  false,
+  false
+ ],
+ "empty file": [
+  false,
+  false
+ ],
+ "missing plant": [
+  false,
+  false
+ ],
+ "negative emission": [
+  false,
+  false
+ ]
+}

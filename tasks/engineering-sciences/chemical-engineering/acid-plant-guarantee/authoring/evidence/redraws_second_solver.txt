@@ -1,0 +1,15 @@
+h1 ipa_conversion_pct   worst +0.10 (seed 15)  mean +0.02 sd 0.05
+h1 so2_kg_per_t         worst -0.22 (seed 10)  mean -0.01 sd 0.10
+h2 ipa_conversion_pct   worst +0.11 (seed 28)  mean +0.00 sd 0.05
+h2 so2_kg_per_t         worst +0.28 (seed 16)  mean +0.05 sd 0.12
+h3 ipa_conversion_pct   worst -0.27 (seed 3)  mean -0.02 sd 0.11
+h3 so2_kg_per_t         worst -0.37 (seed 23)  mean +0.04 sd 0.19
+h4 ipa_conversion_pct   worst -0.20 (seed 27)  mean -0.09 sd 0.06
+h4 so2_kg_per_t         worst +0.27 (seed 26)  mean +0.08 sd 0.10
+h5 ipa_conversion_pct   worst +0.22 (seed 24)  mean +0.06 sd 0.05
+h5 so2_kg_per_t         worst -0.36 (seed 6)  mean -0.04 sd 0.14
+p1 ipa_conversion_pct   worst -0.17 (seed 11)  mean -0.04 sd 0.05
+p1 so2_kg_per_t         worst +0.31 (seed 15)  mean +0.07 sd 0.14
+p2 ipa_conversion_pct   worst +0.11 (seed 19)  mean +0.02 sd 0.05
+p2 so2_kg_per_t         worst -0.37 (seed 22)  mean -0.11 sd 0.11
+OVERALL worst 0.36885368633354787

@@ -1,0 +1,169 @@
+{
+  "plant": "acid plant P2",
+  "test_date": "2026-04-21",
+  "configuration": {
+    "beds": 4,
+    "beds_before_interpass_absorber": 3,
+    "absorbers": [
+      "interpass absorption tower",
+      "final absorption tower"
+    ]
+  },
+  "sulfur": {
+    "S_mass_share": 0.9995,
+    "rest": "ash"
+  },
+  "air_venturi": {
+    "C_kg_h": 60000.0,
+    "flow_equation": "m = C * sqrt(dp_kPa * rho1), rho1 = P1 M_air / (R T1)",
+    "dry_air_density_normal_kg_Nm3": 1.29226
+  },
+  "instruments": [
+    {
+      "tag": "FT-101",
+      "measures": "molten sulfur to the burner",
+      "unit": "kg/h",
+      "type": "Coriolis mass flowmeter",
+      "accuracy": "0.15 % of reading"
+    },
+    {
+      "tag": "PDT-201",
+      "measures": "differential pressure of the air venturi on the main blower discharge",
+      "unit": "kPa",
+      "type": "differential pressure transmitter",
+      "range": "0-16 kPa"
+    },
+    {
+      "tag": "PT-201",
+      "measures": "pressure upstream of the air venturi",
+      "unit": "kPa abs"
+    },
+    {
+      "tag": "TT-201",
+      "measures": "temperature upstream of the air venturi",
+      "unit": "C"
+    },
+    {
+      "tag": "FI-201",
+      "measures": "dry air flow computed by the DCS from PDT-201, PT-201 and TT-201",
+      "unit": "Nm3/h",
+      "accuracy": "1 % of reading"
+    },
+    {
+      "tag": "TT-210",
+      "measures": "furnace outlet gas temperature",
+      "unit": "C"
+    },
+    {
+      "tag": "AT-301A",
+      "measures": "SO2 at the converter inlet",
+      "unit": "mol-% dry",
+      "type": "NDIR",
+      "sampling": "extractive: heated probe, sample cooler, acid scrubber that takes out SO3, particle filter, dry gas to the analyzer",
+      "range": "0-15 %"
+    },
+    {
+      "tag": "AT-301B",
+      "measures": "SO2 at the converter inlet test port, portable analyzer of the test team",
+      "unit": "mol-% dry",
+      "type": "NDIR",
+      "sampling": "extractive: heated probe, sample cooler, acid scrubber that takes out SO3, particle filter, dry gas to the analyzer",
+      "range": "0-20 %"
+    },
+    {
+      "tag": "AT-302",
+      "measures": "O2 at the converter inlet",
+      "unit": "mol-% dry",
+      "type": "paramagnetic",
+      "sampling": "shares the sample conditioning of AT-301A"
+    },
+    {
+      "tag": "TT-411",
+      "measures": "gas into bed 1",
+      "unit": "C",
+      "type": "thermocouple type K"
+    },
+    {
+      "tag": "TT-412",
+      "measures": "gas out of bed 1",
+      "unit": "C",
+      "type": "thermocouple type K"
+    },
+    {
+      "tag": "TT-421",
+      "measures": "gas into bed 2",
+      "unit": "C",
+      "type": "thermocouple type K"
+    },
+    {
+      "tag": "TT-422",
+      "measures": "gas out of bed 2",
+      "unit": "C",
+      "type": "thermocouple type K"
+    },
+    {
+      "tag": "TT-431",
+      "measures": "gas into bed 3",
+      "unit": "C",
+      "type": "thermocouple type K"
+    },
+    {
+      "tag": "TT-432",
+      "measures": "gas out of bed 3",
+      "unit": "C",
+      "type": "thermocouple type K"
+    },
+    {
+      "tag": "TT-441",
+      "measures": "gas into bed 4",
+      "unit": "C",
+      "type": "thermocouple type K"
+    },
+    {
+      "tag": "TT-442",
+      "measures": "gas out of bed 4",
+      "unit": "C",
+      "type": "thermocouple type K"
+    },
+    {
+      "tag": "AT-401",
+      "measures": "SO2 in the gas to the interpass absorption tower",
+      "unit": "mol-%",
+      "type": "UV photometer",
+      "sampling": "in situ, across the duct",
+      "range": "0-3 %"
+    },
+    {
+      "tag": "AT-501",
+      "measures": "SO2 in the stack",
+      "unit": "ppm (mol) dry",
+      "type": "UV photometer",
+      "sampling": "extractive: heated probe and line, sample chiller, dry gas to the analyzer",
+      "range": "0-500 ppm"
+    },
+    {
+      "tag": "AT-502",
+      "measures": "O2 in the stack",
+      "unit": "mol-% dry",
+      "type": "paramagnetic",
+      "sampling": "same probe, line and chiller as AT-501"
+    },
+    {
+      "tag": "FT-501",
+      "measures": "stack gas flow at stack conditions",
+      "unit": "m3/h",
+      "type": "ultrasonic transit time, one path",
+      "accuracy": "5 % of reading"
+    },
+    {
+      "tag": "TT-501",
+      "measures": "stack gas temperature",
+      "unit": "C"
+    },
+    {
+      "tag": "PT-501",
+      "measures": "stack gas pressure",
+      "unit": "kPa abs"
+    }
+  ]
+}

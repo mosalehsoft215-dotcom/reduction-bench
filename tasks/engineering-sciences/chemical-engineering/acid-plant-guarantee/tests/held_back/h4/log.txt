@@ -1,0 +1,22 @@
+2026-08-18T22:00:00 | CAL | AT-501 | point=analyzer | gas=N2 | kind=zero-check | as_found=-0.15 | unit=ppm
+2026-08-18T22:05:00 | CAL | AT-501 | point=analyzer | gas=CY-8878 | kind=span-check | as_found=401.49 | unit=ppm
+2026-08-18T22:10:00 | CAL | AT-502 | point=analyzer | gas=ambient-air | kind=span-check | as_found=20.969 | unit=%
+2026-08-19T00:21:00 | CAL | AT-301A | point=analyzer | gas=N2 | kind=zero-adjust | as_found=-0.016 | as_left=0.000 | unit=%
+2026-08-19T00:21:00 | CAL | AT-401 | point=analyzer | gas=N2 | kind=zero-adjust | as_found=0.008 | as_left=0.000 | unit=%
+2026-08-19T00:25:00 | CAL | AT-301A | point=analyzer | gas=CY-5242 | kind=span-adjust | as_found=9.901 | as_left=10.000 | unit=%
+2026-08-19T00:25:00 | CAL | AT-401 | point=analyzer | gas=CY-7666 | kind=span-adjust | as_found=1.013 | as_left=1.000 | unit=%
+2026-08-19T00:31:00 | CAL | AT-302 | point=analyzer | gas=N2 | kind=zero-check | as_found=0.001 | unit=%
+2026-08-19T00:35:00 | CAL | AT-302 | point=analyzer | gas=ambient-air | kind=span-check | as_found=20.977 | unit=%
+2026-08-19T01:00:00 | TEST | start
+2026-08-19T02:00:00 | EVENT | FIC-101 | setpoint-change | from=27254 | to=28344 | unit=kg/h | ramp=600 s
+2026-08-19T02:30:00 | CAL-PERIOD | AT-501,AT-502 | begin
+2026-08-19T02:31:00 | CAL | AT-501 | point=analyzer | gas=N2 | kind=zero-check | as_found=-0.24 | unit=ppm
+2026-08-19T02:36:00 | CAL | AT-501 | point=analyzer | gas=CY-8878 | kind=span-check | as_found=401.49 | unit=ppm
+2026-08-19T02:41:00 | CAL | AT-502 | point=analyzer | gas=ambient-air | kind=span-check | as_found=20.969 | unit=%
+2026-08-19T02:45:00 | CAL-PERIOD | AT-501,AT-502 | end
+2026-08-19T07:00:00 | TEST | end
+2026-08-19T07:15:00 | CAL | AT-301A | point=analyzer | gas=N2 | kind=zero-check | as_found=0.001 | unit=%
+2026-08-19T07:15:00 | CAL | AT-401 | point=analyzer | gas=N2 | kind=zero-check | as_found=0.003 | unit=%
+2026-08-19T07:19:00 | CAL | AT-301A | point=analyzer | gas=CY-5242 | kind=span-check | as_found=10.004 | unit=%
+2026-08-19T07:19:00 | CAL | AT-401 | point=analyzer | gas=CY-7666 | kind=span-check | as_found=1.005 | unit=%
+2026-08-19T07:25:00 | CAL | AT-302 | point=analyzer | gas=ambient-air | kind=span-check | as_found=20.976 | unit=%

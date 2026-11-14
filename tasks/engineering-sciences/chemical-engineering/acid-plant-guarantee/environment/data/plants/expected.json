@@ -1,0 +1,10 @@
+{
+  "p1": {
+    "ipa_conversion_pct": 95.4987,
+    "so2_kg_per_t": 0.7369
+  },
+  "p2": {
+    "ipa_conversion_pct": 96.1366,
+    "so2_kg_per_t": 0.8072
+  }
+}

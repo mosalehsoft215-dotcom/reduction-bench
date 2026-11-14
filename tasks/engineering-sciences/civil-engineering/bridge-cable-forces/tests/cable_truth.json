@@ -1,0 +1,22 @@
+{
+ "CS-41": {
+  "force_before_kn": 800.0,
+  "force_after_kn": 690.0
+ },
+ "CS-43": {
+  "force_before_kn": 1090.0,
+  "force_after_kn": 940.0
+ },
+ "CS-44": {
+  "force_before_kn": 3370.0,
+  "force_after_kn": 2900.0
+ },
+ "CS-45": {
+  "force_before_kn": 470.0,
+  "force_after_kn": 545.0
+ },
+ "CS-46": {
+  "force_before_kn": 960.0,
+  "force_after_kn": 1100.0
+ }
+}

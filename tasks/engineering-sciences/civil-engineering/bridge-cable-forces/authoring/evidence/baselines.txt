@@ -1,0 +1,20 @@
+CS-41: margin 12.08 bounds (closest: sealed median)
+CS-43: margin 3.98 bounds (closest: sealed median)
+CS-44: margin 11.16 bounds (closest: all mean)
+CS-45: margin 34.75 bounds (closest: sealed median)
+CS-46: margin 4.51 bounds (closest: all median)
+OK: no baseline passes a case
+
+Sheet-only nulls (multiples of the 3 % limit; the larger of the two forces' misses):
+CS-41: worked-stress x area 124.64, strand design stress 145.31, bar yield fraction 10.85, worked mean force 184.30, string at 1 Hz 32.80
+CS-43: worked-stress x area 115.62, strand design stress 135.11, bar yield fraction 8.32, worked mean force 126.42, string at 1 Hz 32.29
+CS-44: worked-stress x area 31.75, strand design stress 40.26, bar yield fraction 17.67, worked mean force 18.45, string at 1 Hz 138.65
+CS-45: worked-stress x area 69.71, strand design stress 83.19, bar yield fraction 8.48, worked mean force 286.17, string at 1 Hz 33.15
+CS-46: worked-stress x area 95.86, strand design stress 112.76, bar yield fraction 2.80, worked mean force 123.09, string at 1 Hz 31.71
+smallest sheet-null miss: 2.80 limits (OK)
+Any single value used for both records (the best possible constant, the geometric mean of the two forces):
+CS-41: 2.56 limits
+CS-43: 2.56 limits
+CS-44: 2.60 limits
+CS-45: 2.56 limits
+CS-46: 2.35 limits

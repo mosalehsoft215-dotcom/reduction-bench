@@ -1,0 +1,16 @@
+{
+ "car": "QV-71",
+ "test_mass_kg": 1385.0,
+ "inertia_equivalent_kg": 42.0,
+ "wheel_logger": {
+  "pulses_per_rev": 48,
+  "circumference_setting_m": 1.912,
+  "rate_hz": 10
+ },
+ "gps_rate_hz": 1,
+ "straight": {
+  "length_m": 4400.0,
+  "bearing_deg": 90,
+  "x_zero": "west marker"
+ }
+}

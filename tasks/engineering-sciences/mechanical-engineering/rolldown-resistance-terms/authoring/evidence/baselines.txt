@@ -1,0 +1,6 @@
+QV-71: margin 5.51 bounds (closest: worked QV-04)
+QV-72: margin 2.85 bounds (closest: worked QV-11)
+QV-73: margin 5.39 bounds (closest: sealed mean (2 s.f.))
+QV-74: margin 2.83 bounds (closest: worked QV-04)
+QV-75: margin 3.95 bounds (closest: worked QV-11)
+OK: no baseline passes a case

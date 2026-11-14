@@ -1,0 +1,10 @@
+{
+ "QV-04": {
+  "resist_a_N": 151.3,
+  "resist_c_N_per_kmh2": 0.03386
+ },
+ "QV-11": {
+  "resist_a_N": 212.7,
+  "resist_c_N_per_kmh2": 0.04619
+ }
+}

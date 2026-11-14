@@ -1,0 +1,22 @@
+{
+ "QV-71": {
+  "resist_a_N": 118.6,
+  "resist_c_N_per_kmh2": 0.03052
+ },
+ "QV-72": {
+  "resist_a_N": 248.0,
+  "resist_c_N_per_kmh2": 0.04402
+ },
+ "QV-73": {
+  "resist_a_N": 133.9,
+  "resist_c_N_per_kmh2": 0.04217
+ },
+ "QV-74": {
+  "resist_a_N": 176.2,
+  "resist_c_N_per_kmh2": 0.03211
+ },
+ "QV-75": {
+  "resist_a_N": 184.0,
+  "resist_c_N_per_kmh2": 0.0524
+ }
+}

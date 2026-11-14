@@ -1,0 +1,16 @@
+{
+ "car": "QV-04",
+ "test_mass_kg": 1468.0,
+ "inertia_equivalent_kg": 44.0,
+ "wheel_logger": {
+  "pulses_per_rev": 48,
+  "circumference_setting_m": 1.947,
+  "rate_hz": 10
+ },
+ "gps_rate_hz": 1,
+ "straight": {
+  "length_m": 4300.0,
+  "bearing_deg": 90,
+  "x_zero": "west marker"
+ }
+}

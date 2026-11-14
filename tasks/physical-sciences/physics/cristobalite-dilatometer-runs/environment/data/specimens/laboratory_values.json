@@ -1,0 +1,10 @@
+{
+ "DR-04": {
+  "inversion_temperature_k": 497.36,
+  "mean_expansion_320_440_ppm_per_k": 4.896
+ },
+ "DR-09": {
+  "inversion_temperature_k": 521.84,
+  "mean_expansion_320_440_ppm_per_k": 5.238
+ }
+}

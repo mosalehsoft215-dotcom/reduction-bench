@@ -1,0 +1,8 @@
+{
+ "material": "sintered alumina, certified",
+ "length_mm": 25.0,
+ "expansion_ppm": {
+  "c1_per_k": 4.95,
+  "c2_per_k2": 0.00418
+ }
+}

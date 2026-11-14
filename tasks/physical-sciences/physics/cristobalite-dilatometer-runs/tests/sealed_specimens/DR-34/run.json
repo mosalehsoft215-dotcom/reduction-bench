@@ -1,0 +1,10 @@
+{
+ "run": "DR-34",
+ "date": "2026-07-14",
+ "specimen_length_mm": 25.03,
+ "programme_rate_k_per_min": 3.0,
+ "upper_hold_k": 640.0,
+ "hold_min": 20.0,
+ "pause_min": 480.0,
+ "cycles": 2
+}

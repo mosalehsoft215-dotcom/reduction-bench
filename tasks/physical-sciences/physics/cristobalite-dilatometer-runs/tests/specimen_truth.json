@@ -1,0 +1,22 @@
+{
+ "DR-31": {
+  "inversion_temperature_k": 483.27,
+  "mean_expansion_320_440_ppm_per_k": 4.782
+ },
+ "DR-32": {
+  "inversion_temperature_k": 512.95,
+  "mean_expansion_320_440_ppm_per_k": 6.19
+ },
+ "DR-33": {
+  "inversion_temperature_k": 538.41,
+  "mean_expansion_320_440_ppm_per_k": 5.502
+ },
+ "DR-34": {
+  "inversion_temperature_k": 476.62,
+  "mean_expansion_320_440_ppm_per_k": 4.702
+ },
+ "DR-35": {
+  "inversion_temperature_k": 529.18,
+  "mean_expansion_320_440_ppm_per_k": 5.38
+ }
+}

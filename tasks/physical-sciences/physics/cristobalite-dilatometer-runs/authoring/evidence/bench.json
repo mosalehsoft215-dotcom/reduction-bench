@@ -1,0 +1,147 @@
+{
+ "shipped": {
+  "DR-04": {
+   "reference": 0.167,
+   "second": 0.09
+  },
+  "DR-09": {
+   "reference": 0.033,
+   "second": 0.043
+  },
+  "DR-31": {
+   "reference": 0.051,
+   "second": 0.093
+  },
+  "DR-32": {
+   "reference": 0.525,
+   "second": 0.599
+  },
+  "DR-33": {
+   "reference": 0.221,
+   "second": 0.462
+  },
+  "DR-34": {
+   "reference": 0.278,
+   "second": 0.168
+  },
+  "DR-35": {
+   "reference": 0.151,
+   "second": 0.267
+  }
+ },
+ "routes": {
+  "the record as logged: no thermocouple or push-rod check, thermocouple temperature, first heating": {
+   "DR-04": 4.73,
+   "DR-09": 5.95,
+   "DR-31": 26.89,
+   "DR-32": 111.42,
+   "DR-33": 85.64,
+   "DR-34": 114.39,
+   "DR-35": 19.79
+  },
+  "thermocouple readings as logged (fixed-point cells unused)": {
+   "DR-04": 0.06,
+   "DR-09": 0.04,
+   "DR-31": 0.06,
+   "DR-32": 7.5,
+   "DR-33": 0.29,
+   "DR-34": 8.27,
+   "DR-35": 5.17
+  },
+  "displacement as logged (reference-bar run unused)": {
+   "DR-04": 0.14,
+   "DR-09": 0.04,
+   "DR-31": 30.57,
+   "DR-32": 0.5,
+   "DR-33": 23.62,
+   "DR-34": 21.83,
+   "DR-35": 0.13
+  },
+  "reference bar taken at the furnace temperature at the end of every hold": {
+   "DR-04": 0.25,
+   "DR-09": 0.03,
+   "DR-31": 0.36,
+   "DR-32": 7.03,
+   "DR-33": 23.62,
+   "DR-34": 0.3,
+   "DR-35": 7.18
+  },
+  "cells' calibration kept through the whole run (no drift with use)": {
+   "DR-04": 0.17,
+   "DR-09": 0.03,
+   "DR-31": 0.05,
+   "DR-32": 20.98,
+   "DR-33": 6.2,
+   "DR-34": 0.28,
+   "DR-35": 6.61
+  },
+  "second heating taken as free of moisture (moisture on the first heating only)": {
+   "DR-04": 0.17,
+   "DR-09": 0.03,
+   "DR-31": 0.05,
+   "DR-32": 35.28,
+   "DR-33": 0.22,
+   "DR-34": 39.22,
+   "DR-35": 0.15
+  },
+  "one inversion temperature for heating and cooling (no hysteresis)": {
+   "DR-04": 0.17,
+   "DR-09": 0.03,
+   "DR-31": 19.79,
+   "DR-32": 0.52,
+   "DR-33": 27.81,
+   "DR-34": 0.28,
+   "DR-35": 37.87
+  },
+  "one constant lag time, one curve through both branches": {
+   "DR-04": 0.17,
+   "DR-09": 0.16,
+   "DR-31": 14.28,
+   "DR-32": 34.85,
+   "DR-33": 11.28,
+   "DR-34": 38.56,
+   "DR-35": 17.97
+  },
+  "one constant lag time": {
+   "DR-04": 0.17,
+   "DR-09": 5.07,
+   "DR-31": 26.78,
+   "DR-32": 2.21,
+   "DR-33": 18.72,
+   "DR-34": 2.28,
+   "DR-35": 24.22
+  },
+  "one curve through both branches of the second cycle": {
+   "DR-04": 0.17,
+   "DR-09": 0.3,
+   "DR-31": 17.86,
+   "DR-32": 34.98,
+   "DR-33": 12.74,
+   "DR-34": 39.34,
+   "DR-35": 20.79
+  },
+  "thermocouple temperature, first heating": {
+   "DR-04": 4.6,
+   "DR-09": 5.99,
+   "DR-31": 26.95,
+   "DR-32": 109.83,
+   "DR-33": 60.42,
+   "DR-34": 130.82,
+   "DR-35": 25.03
+  },
+  "first heating, lag-corrected": {
+   "DR-04": 5.58,
+   "DR-09": 0.07,
+   "DR-31": 18.08,
+   "DR-32": 110.69,
+   "DR-33": 48.92,
+   "DR-34": 130.32,
+   "DR-35": 27.11
+  }
+ },
+ "redraws": {
+  "reference": 0.578,
+  "second": 0.88
+ },
+ "worked_copy_passes": 0
+}

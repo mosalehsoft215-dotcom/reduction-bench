@@ -1,0 +1,14 @@
+{
+ "weighed": "2025-12-18",
+ "air": {
+  "temperature_c": 19.73,
+  "pressure_hpa": 995.2,
+  "relative_humidity_pct": 44.2
+ },
+ "water_temperature_c": 19.93,
+ "readings_g": {
+  "weight_in_air": 199.91398,
+  "pan_in_water": 3.2375,
+  "weight_on_pan_in_water": 129.35072
+ }
+}

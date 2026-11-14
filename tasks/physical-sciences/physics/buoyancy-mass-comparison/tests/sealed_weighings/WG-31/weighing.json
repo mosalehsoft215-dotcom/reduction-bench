@@ -1,0 +1,30 @@
+{
+ "weighing": "WG-31",
+ "date": "2026-04-06",
+ "nominal_g": 200.0,
+ "test_weight": {
+  "material": "aluminium alloy",
+  "density_kg_m3": 2697.0
+ },
+ "reference": {
+  "material": "stainless steel",
+  "mass_deviation_mg": 0.087,
+  "density_kg_m3": 8001.0,
+  "certificate_date": "2025-11-18"
+ },
+ "check_standard": {
+  "material": "stainless steel",
+  "mass_deviation_mg": 0.041,
+  "density_kg_m3": 7991.0
+ },
+ "artefacts": {
+  "solid_mass_g": 100.0,
+  "solid_density_kg_m3": 8000.0,
+  "hollow_volume_cm3": 52.371,
+  "true_mass_difference_mg": 0.217
+ },
+ "sensitivity_weight": {
+  "mass_mg": 50.0012,
+  "density_kg_m3": 8000.0
+ }
+}

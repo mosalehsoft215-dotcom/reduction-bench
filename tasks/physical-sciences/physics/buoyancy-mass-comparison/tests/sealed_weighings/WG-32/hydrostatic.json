@@ -1,0 +1,14 @@
+{
+ "weighed": "2026-03-30",
+ "air": {
+  "temperature_c": 20.06,
+  "pressure_hpa": 1017.1,
+  "relative_humidity_pct": 41.8
+ },
+ "water_temperature_c": 19.947,
+ "readings_g": {
+  "weight_in_air": 199.94587,
+  "pan_in_water": 3.4345,
+  "weight_on_pan_in_water": 158.34805
+ }
+}

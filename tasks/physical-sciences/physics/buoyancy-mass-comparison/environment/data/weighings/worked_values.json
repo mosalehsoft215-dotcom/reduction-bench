@@ -1,0 +1,10 @@
+{
+ "WG-04": {
+  "true_mass_deviation_mg": 1.284,
+  "conventional_mass_deviation_mg": -57.5483
+ },
+ "WG-09": {
+  "true_mass_deviation_mg": -0.638,
+  "conventional_mass_deviation_mg": 0.0917
+ }
+}

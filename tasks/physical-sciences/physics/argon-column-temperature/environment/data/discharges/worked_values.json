@@ -1,0 +1,10 @@
+{
+ "AR-02": {
+  "excitation_temperature_K": 6437.0,
+  "metastable_density_per_m3": 1170000000000000.0
+ },
+ "AR-06": {
+  "excitation_temperature_K": 8786.0,
+  "metastable_density_per_m3": 863000000000000.0
+ }
+}

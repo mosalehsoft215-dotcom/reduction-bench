@@ -1,0 +1,392 @@
+{
+ "shipped": {
+  "AR-02": {
+   "reference": {
+    "excitation_temperature_K": 0.04075350648254927,
+    "metastable_density_per_m3": 0.06445340343698518
+   },
+   "independent": {
+    "excitation_temperature_K": 0.027453451787617933,
+    "metastable_density_per_m3": 0.027872525413622878
+   }
+  },
+  "AR-06": {
+   "reference": {
+    "excitation_temperature_K": 0.03390818764319459,
+    "metastable_density_per_m3": 0.09001691965498568
+   },
+   "independent": {
+    "excitation_temperature_K": 0.06488107037470048,
+    "metastable_density_per_m3": 0.06481660671295113
+   }
+  },
+  "AR-31": {
+   "reference": {
+    "excitation_temperature_K": 0.13379024865183275,
+    "metastable_density_per_m3": 0.016090855203757897
+   },
+   "independent": {
+    "excitation_temperature_K": 0.13735279610120887,
+    "metastable_density_per_m3": 0.0285537248117936
+   }
+  },
+  "AR-32": {
+   "reference": {
+    "excitation_temperature_K": 0.010365361819064667,
+    "metastable_density_per_m3": 0.01683493900335546
+   },
+   "independent": {
+    "excitation_temperature_K": 0.11890940757652846,
+    "metastable_density_per_m3": 0.044761104962550334
+   }
+  },
+  "AR-33": {
+   "reference": {
+    "excitation_temperature_K": 0.1000599841056049,
+    "metastable_density_per_m3": 0.010275092312487615
+   },
+   "independent": {
+    "excitation_temperature_K": 0.05832594158057258,
+    "metastable_density_per_m3": 0.0980769113740676
+   }
+  },
+  "AR-34": {
+   "reference": {
+    "excitation_temperature_K": 0.0370850370715603,
+    "metastable_density_per_m3": 0.004835620860469773
+   },
+   "independent": {
+    "excitation_temperature_K": 0.04807492393893442,
+    "metastable_density_per_m3": 0.09863455590006787
+   }
+  },
+  "AR-35": {
+   "reference": {
+    "excitation_temperature_K": 0.01111897295718034,
+    "metastable_density_per_m3": 0.018481742946222884
+   },
+   "independent": {
+    "excitation_temperature_K": 0.27240176607070676,
+    "metastable_density_per_m3": 0.08978106964271741
+   }
+  }
+ },
+ "routes": {
+  "rectangular-profile slab factor (1 - exp(-tau)) / tau": {
+   "AR-02": {
+    "excitation_temperature_K": 0.016558675488409502,
+    "metastable_density_per_m3": 10.204827372132689
+   },
+   "AR-06": {
+    "excitation_temperature_K": 0.012754290430339044,
+    "metastable_density_per_m3": 10.088068114033327
+   },
+   "AR-31": {
+    "excitation_temperature_K": 0.9420759689872327,
+    "metastable_density_per_m3": 13.030113981145993
+   },
+   "AR-32": {
+    "excitation_temperature_K": 1.8819050782684865,
+    "metastable_density_per_m3": 14.409081522621914
+   },
+   "AR-33": {
+    "excitation_temperature_K": 1.8305205177777673,
+    "metastable_density_per_m3": 13.976492867393343
+   },
+   "AR-34": {
+    "excitation_temperature_K": 2.017178020035426,
+    "metastable_density_per_m3": 14.884748376865575
+   },
+   "AR-35": {
+    "excitation_temperature_K": 0.9111983575008198,
+    "metastable_density_per_m3": 13.636589238583282
+   }
+  },
+  "bench response alone (end-window deposit left out)": {
+   "AR-02": {
+    "excitation_temperature_K": 1.97628319667158,
+    "metastable_density_per_m3": 0.07440092005087293
+   },
+   "AR-06": {
+    "excitation_temperature_K": 2.8167574290602793,
+    "metastable_density_per_m3": 0.48298930592840517
+   },
+   "AR-31": {
+    "excitation_temperature_K": 5.583517649072888,
+    "metastable_density_per_m3": 0.11605809862050102
+   },
+   "AR-32": {
+    "excitation_temperature_K": 4.311058829999192,
+    "metastable_density_per_m3": 0.14533543319767972
+   },
+   "AR-33": {
+    "excitation_temperature_K": 9.633591373995099,
+    "metastable_density_per_m3": 0.3833789579184307
+   },
+   "AR-34": {
+    "excitation_temperature_K": 8.564250035596777,
+    "metastable_density_per_m3": 0.23125976045449786
+   },
+   "AR-35": {
+    "excitation_temperature_K": 3.933784565905196,
+    "metastable_density_per_m3": 0.2556141461934244
+   }
+  },
+  "gas temperature from the operating-point table": {
+   "AR-02": {
+    "excitation_temperature_K": 0.04075349921784932,
+    "metastable_density_per_m3": 0.06600713219864959
+   },
+   "AR-06": {
+    "excitation_temperature_K": 0.03390819988160487,
+    "metastable_density_per_m3": 0.08874165510458129
+   },
+   "AR-31": {
+    "excitation_temperature_K": 0.13379023551483016,
+    "metastable_density_per_m3": 3.434881565724561
+   },
+   "AR-32": {
+    "excitation_temperature_K": 0.010365378742149822,
+    "metastable_density_per_m3": 3.6032616171182585
+   },
+   "AR-33": {
+    "excitation_temperature_K": 0.1000599659163548,
+    "metastable_density_per_m3": 0.010435736844790119
+   },
+   "AR-34": {
+    "excitation_temperature_K": 0.037085034955020024,
+    "metastable_density_per_m3": 3.6233022089578237
+   },
+   "AR-35": {
+    "excitation_temperature_K": 0.011118966801726415,
+    "metastable_density_per_m3": 4.08194083881153
+   }
+  },
+  "start-of-session lamp check alone": {
+   "AR-02": {
+    "excitation_temperature_K": 0.04648086813431318,
+    "metastable_density_per_m3": 0.06588546342692533
+   },
+   "AR-06": {
+    "excitation_temperature_K": 0.03743297887547348,
+    "metastable_density_per_m3": 0.09463045483587933
+   },
+   "AR-31": {
+    "excitation_temperature_K": 4.308082863796958,
+    "metastable_density_per_m3": 0.06856583277015846
+   },
+   "AR-32": {
+    "excitation_temperature_K": 0.0112598207848702,
+    "metastable_density_per_m3": 0.017126004885389033
+   },
+   "AR-33": {
+    "excitation_temperature_K": 8.110170901378188,
+    "metastable_density_per_m3": 0.3268838051590395
+   },
+   "AR-34": {
+    "excitation_temperature_K": 6.586440861146681,
+    "metastable_density_per_m3": 0.19554748213460965
+   },
+   "AR-35": {
+    "excitation_temperature_K": 3.2170133566425507,
+    "metastable_density_per_m3": 0.1869693962570455
+   }
+  },
+  "flat-topped lines fitted as peaks": {
+   "AR-02": {
+    "excitation_temperature_K": 0.04075350648254927,
+    "metastable_density_per_m3": 0.06445340343698518
+   },
+   "AR-06": {
+    "excitation_temperature_K": 0.03390818764319459,
+    "metastable_density_per_m3": 0.09001691965498568
+   },
+   "AR-31": {
+    "excitation_temperature_K": 0.13379024865183275,
+    "metastable_density_per_m3": 0.016090855203757897
+   },
+   "AR-32": {
+    "excitation_temperature_K": 1.4968483860837045,
+    "metastable_density_per_m3": 24.895564241357032
+   },
+   "AR-33": {
+    "excitation_temperature_K": 0.15749601258917556,
+    "metastable_density_per_m3": 10.421853600498714
+   },
+   "AR-34": {
+    "excitation_temperature_K": 0.7364199999370324,
+    "metastable_density_per_m3": 29.658648840462522
+   },
+   "AR-35": {
+    "excitation_temperature_K": 0.01111897295718034,
+    "metastable_density_per_m3": 0.018481742946222884
+   }
+  },
+  "recorded wavelength scale taken as calibrated": {
+   "AR-02": {
+    "excitation_temperature_K": 0.0407540088927405,
+    "metastable_density_per_m3": 0.06445372223329304
+   },
+   "AR-06": {
+    "excitation_temperature_K": 0.03390828375271493,
+    "metastable_density_per_m3": 0.09001698553171937
+   },
+   "AR-31": {
+    "excitation_temperature_K": 232.81223008536296,
+    "metastable_density_per_m3": 8.573920967970217
+   },
+   "AR-32": {
+    "excitation_temperature_K": 0.010364713755461885,
+    "metastable_density_per_m3": 0.016834705341491528
+   },
+   "AR-33": {
+    "excitation_temperature_K": 77.61836281495466,
+    "metastable_density_per_m3": 6.847660588011355
+   },
+   "AR-34": {
+    "excitation_temperature_K": 0.03708478222947953,
+    "metastable_density_per_m3": 0.004835197507702116
+   },
+   "AR-35": {
+    "excitation_temperature_K": 398.1135944135899,
+    "metastable_density_per_m3": 11.005977264752476
+   }
+  },
+  "column length of the worked discharges (0.33 m)": {
+   "AR-02": {
+    "excitation_temperature_K": 0.04075353673850257,
+    "metastable_density_per_m3": 0.9476007251005688
+   },
+   "AR-06": {
+    "excitation_temperature_K": 0.03390817222178599,
+    "metastable_density_per_m3": 1.1028457415781365
+   },
+   "AR-31": {
+    "excitation_temperature_K": 0.133790247084975,
+    "metastable_density_per_m3": 2.035317671377139
+   },
+   "AR-32": {
+    "excitation_temperature_K": 0.010365395127154287,
+    "metastable_density_per_m3": 3.011937635226721
+   },
+   "AR-33": {
+    "excitation_temperature_K": 0.1000599841056049,
+    "metastable_density_per_m3": 0.010275092312487615
+   },
+   "AR-34": {
+    "excitation_temperature_K": 0.03708506961820346,
+    "metastable_density_per_m3": 5.044936767629848
+   },
+   "AR-35": {
+    "excitation_temperature_K": 0.011118965995238206,
+    "metastable_density_per_m3": 3.013501443420445
+   }
+  },
+  "all four of: table gas temperature, start check, flat tops, recorded scale": {
+   "AR-02": {
+    "excitation_temperature_K": 0.046482965160810075,
+    "metastable_density_per_m3": 0.06744020291345651
+   },
+   "AR-06": {
+    "excitation_temperature_K": 0.03743298326340794,
+    "metastable_density_per_m3": 0.0933549901038333
+   },
+   "AR-31": {
+    "excitation_temperature_K": 138.8481372672222,
+    "metastable_density_per_m3": 10.409979477073236
+   },
+   "AR-32": {
+    "excitation_temperature_K": 1.496171733732632,
+    "metastable_density_per_m3": 18.626950029847173
+   },
+   "AR-33": {
+    "excitation_temperature_K": 47.41055388774262,
+    "metastable_density_per_m3": 3.6602708344488644
+   },
+   "AR-34": {
+    "excitation_temperature_K": 6.460710653476642,
+    "metastable_density_per_m3": 22.840657336888633
+   },
+   "AR-35": {
+    "excitation_temperature_K": 230.35450923665573,
+    "metastable_density_per_m3": 5.160467567261703
+   }
+  }
+ },
+ "redraws": {
+  "reference": {
+   "AR-02": 0.19295939275442153,
+   "AR-06": 0.24775732894892766,
+   "AR-31": 0.14240590881988702,
+   "AR-32": 0.05252471991129548,
+   "AR-33": 0.07458278741772073,
+   "AR-34": 0.11037235625913633,
+   "AR-35": 0.13532241472458129
+  },
+  "independent": {
+   "AR-02": 0.4461157246556269,
+   "AR-06": 0.5188467888535331,
+   "AR-31": 0.4049331143483714,
+   "AR-32": 0.16945380023530854,
+   "AR-33": 0.28179878352518895,
+   "AR-34": 0.20930714976513665,
+   "AR-35": 0.3658785944454346
+  }
+ },
+ "rect_calibrated_on_worked": {
+  "factor": 1.4376033604528355,
+  "misses": {
+   "AR-02": 0.0837154412578478,
+   "AR-06": 0.08413806054978028,
+   "AR-31": 4.145356964617771,
+   "AR-32": 6.127765336198939,
+   "AR-33": 5.50587443174857,
+   "AR-34": 6.811585604315659,
+   "AR-35": 5.017227832741112
+  }
+ },
+ "round_nulls_per_case": {
+  "AR-31": {
+   "nearest_round_temperature_windows": 0.2,
+   "nearest_round_density_windows": 3.54,
+   "round_temperatures_inside": 2,
+   "round_densities_inside": 0,
+   "round_pairs_clearing_it": 0
+  },
+  "AR-32": {
+   "nearest_round_temperature_windows": 0.18,
+   "nearest_round_density_windows": 2.45,
+   "round_temperatures_inside": 3,
+   "round_densities_inside": 0,
+   "round_pairs_clearing_it": 0
+  },
+  "AR-33": {
+   "nearest_round_temperature_windows": 0.16,
+   "nearest_round_density_windows": 2.92,
+   "round_temperatures_inside": 3,
+   "round_densities_inside": 0,
+   "round_pairs_clearing_it": 0
+  },
+  "AR-34": {
+   "nearest_round_temperature_windows": 0.18,
+   "nearest_round_density_windows": 2.14,
+   "round_temperatures_inside": 3,
+   "round_densities_inside": 0,
+   "round_pairs_clearing_it": 0
+  },
+  "AR-35": {
+   "nearest_round_temperature_windows": 0.25,
+   "nearest_round_density_windows": 1.88,
+   "round_temperatures_inside": 2,
+   "round_densities_inside": 0,
+   "round_pairs_clearing_it": 0
+  }
+ },
+ "constant": {
+  "round_pairs_clearing_any_held_discharge": 0
+ },
+ "worked_copy_fits": {
+  "AR-02": 0,
+  "AR-06": 0
+ }
+}

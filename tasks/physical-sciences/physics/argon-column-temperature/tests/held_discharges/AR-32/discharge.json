@@ -1,0 +1,15 @@
+{
+ "discharge": "AR-32",
+ "gas": "argon",
+ "fill_pressure_Pa": 300.0,
+ "running_pressure_Pa": 552.62,
+ "gas_temperature_K": 430.0,
+ "column_length_m": 0.36,
+ "frames": 21,
+ "spectrum_running_time_h": 1.1,
+ "lamp_checks": {
+  "lamp_check.csv": 0.0,
+  "lamp_check_end.csv": 2.0
+ },
+ "viewing": "end-on along the positive column"
+}

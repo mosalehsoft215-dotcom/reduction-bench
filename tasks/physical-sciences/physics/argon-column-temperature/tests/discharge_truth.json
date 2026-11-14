@@ -1,0 +1,22 @@
+{
+ "AR-31": {
+  "excitation_temperature_K": 5862.0,
+  "metastable_density_per_m3": 1.13e+16
+ },
+ "AR-32": {
+  "excitation_temperature_K": 7337.0,
+  "metastable_density_per_m3": 1.63e+16
+ },
+ "AR-33": {
+  "excitation_temperature_K": 8163.0,
+  "metastable_density_per_m3": 1.37e+16
+ },
+ "AR-34": {
+  "excitation_temperature_K": 6662.0,
+  "metastable_density_per_m3": 1.87e+16
+ },
+ "AR-35": {
+  "excitation_temperature_K": 4838.0,
+  "metastable_density_per_m3": 1.42e+16
+ }
+}

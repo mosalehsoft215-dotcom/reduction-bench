@@ -1,0 +1,15 @@
+largest error over 20 redraws of each campaign (Ea in kJ/mol, exponents absolute, delays as fractions of the true delay)
+reference P1: activation 5.002, pressure 0.046, oxygen 0.038, tau 0.035, tau 0.067
+reference P2: activation 4.523, pressure 0.038, oxygen 0.047, tau 0.042, tau 0.058
+reference H1: activation 4.984, pressure 0.055, oxygen 0.037, tau 0.045, tau 0.108
+reference H2: activation 4.791, pressure 0.049, oxygen 0.045, tau 0.029, tau 0.070
+reference H3: activation 4.770, pressure 0.049, oxygen 0.070, tau 0.028, tau 0.098
+reference H4: activation 4.644, pressure 0.056, oxygen 0.052, tau 0.031, tau 0.098
+reference H5: activation 4.450, pressure 0.038, oxygen 0.047, tau 0.077, tau 0.058
+second P1: activation 3.486, pressure 0.051, oxygen 0.040, tau 0.032, tau 0.068
+second P2: activation 3.264, pressure 0.042, oxygen 0.042, tau 0.040, tau 0.056
+second H1: activation 4.712, pressure 0.058, oxygen 0.028, tau 0.062, tau 0.070
+second H2: activation 3.187, pressure 0.036, oxygen 0.043, tau 0.021, tau 0.059
+second H3: activation 3.013, pressure 0.043, oxygen 0.059, tau 0.031, tau 0.054
+second H4: activation 1.980, pressure 0.045, oxygen 0.038, tau 0.035, tau 0.080
+second H5: activation 4.415, pressure 0.042, oxygen 0.043, tau 0.073, tau 0.056

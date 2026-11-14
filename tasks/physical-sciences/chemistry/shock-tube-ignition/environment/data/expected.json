@@ -1,0 +1,16 @@
+{
+  "st-11": {
+    "activation_energy_kj_mol": 168.0,
+    "pressure_exponent": -0.62,
+    "oxygen_exponent": -0.78,
+    "tau_report_1_us": 1558.24,
+    "tau_report_2_us": 107.65
+  },
+  "st-12": {
+    "activation_energy_kj_mol": 181.5,
+    "pressure_exponent": -0.71,
+    "oxygen_exponent": -0.66,
+    "tau_report_1_us": 2177.52,
+    "tau_report_2_us": 30.26
+  }
+}

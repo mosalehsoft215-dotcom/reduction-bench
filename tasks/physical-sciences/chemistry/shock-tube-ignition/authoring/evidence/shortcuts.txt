@@ -1,0 +1,12 @@
+largest error / tolerance per campaign (Ea 8 kJ/mol, exponents 0.09, delays 12 %); a figure is named where the value exceeds 1
+variant | st-11 | st-12 | st-31 | st-32 | st-33 | st-34 | st-35
+reference | 0.6 | 0.2 | 0.7 | 0.7 | 0.5 | 0.2 | 0.5
+mean shock speed over the stations | 0.7 | 0.3 | 7.6 tau_report_1_us | 0.4 | 0.4 | 0.3 | 0.5
+no leak correction | 0.6 | 0.2 | 0.7 | 2.6 pressure_exponent | 0.5 | 0.2 | 0.5
+side-wall gauge for the pressure history | 0.6 | 0.2 | 0.7 | 0.6 | 0.4 | 0.3 | 1.8 activation_energy_kj_mol
+no pressure history (constant T5, P5) | 0.4 | 0.3 | 1.9 tau_report_1_us | 0.5 | 2.1 activation_energy_kj_mol | 2.3 activation_energy_kj_mol | 2.1 tau_report_1_us
+one straight pressure rise per campaign | 0.5 | 0.2 | 0.6 | 0.5 | 0.4 | 0.6 | 0.3
+calorically perfect gas at the fill temperature | 4.2 tau_report_1_us | 6.5 tau_report_2_us | 4.0 tau_report_1_us | 3.2 tau_report_1_us | 5.7 tau_report_1_us | 5.2 tau_report_2_us | 3.6 tau_report_2_us
+worked campaigns' blends and fill temperature | 0.6 | 0.2 | 2.6 oxygen_exponent | 2.6 pressure_exponent | 3.4 oxygen_exponent | 1.3 oxygen_exponent | 1.7 oxygen_exponent
+constant T5, P5 and the worked blends | 0.4 | 0.3 | 3.3 oxygen_exponent | 2.5 pressure_exponent | 3.9 oxygen_exponent | 2.3 activation_energy_kj_mol | 2.5 tau_report_1_us
+constant T5, P5, no leak correction, calorically perfect | 3.6 tau_report_1_us | 6.7 tau_report_2_us | 3.6 oxygen_exponent | 4.3 tau_report_1_us | 4.7 oxygen_exponent | 6.2 tau_report_1_us | 3.9 tau_report_2_us

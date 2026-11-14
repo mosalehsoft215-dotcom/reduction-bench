@@ -1,0 +1,59 @@
+{
+  "campaign": "ST-12",
+  "fuel": "2-butanol",
+  "species": {
+    "fuel": {
+      "molar_mass_kg_mol": 0.07412,
+      "cp_J_mol_K": [
+        25.0,
+        0.3,
+        -0.0001
+      ]
+    },
+    "Ar": {
+      "molar_mass_kg_mol": 0.039948,
+      "cp_J_mol_K": [
+        20.786,
+        0.0,
+        0.0
+      ]
+    },
+    "O2": {
+      "molar_mass_kg_mol": 0.031998,
+      "cp_J_mol_K": [
+        25.0,
+        0.0125,
+        -3.8e-06
+      ]
+    },
+    "N2": {
+      "molar_mass_kg_mol": 0.028014,
+      "cp_J_mol_K": [
+        26.0,
+        0.008,
+        -1.9e-06
+      ]
+    }
+  },
+  "cp_form": "cp = a + b T + c T^2 with T in K, listed as [a, b, c]",
+  "observation_plane_from_end_wall_m": 0.015,
+  "station_positions_from_end_wall_m": [
+    1.35,
+    0.85,
+    0.45,
+    0.15
+  ],
+  "sampling_rate_hz": 200000,
+  "report_points": [
+    {
+      "T_K": 1050.0,
+      "P_atm": 15.0,
+      "x_o2": 0.04
+    },
+    {
+      "T_K": 1250.0,
+      "P_atm": 30.0,
+      "x_o2": 0.08
+    }
+  ]
+}

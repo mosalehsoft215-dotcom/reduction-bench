@@ -1,0 +1,48 @@
+{
+  "run": "T-29",
+  "date": "2026-07-27",
+  "sample": {
+    "composition": "La0.6Sr0.4Co0.5Fe0.5O3-d",
+    "loaded_mass_mg": 149.66,
+    "loaded_at": "room temperature, in air",
+    "density_g_cm3": 6.47,
+    "iodometric_delta_of_loaded_sample": 0.0251
+  },
+  "reduction_products": "complete reduction in 4 % H2/Ar at 1173 K leaves La2O3, SrO, Co and Fe",
+  "gases": {
+    "air": {
+      "molar_mass_g_mol": 28.9647,
+      "cylinder_pO2_bar": 0.2095
+    },
+    "O2/Ar 1%": {
+      "molar_mass_g_mol": 39.8685,
+      "cylinder_pO2_bar": 0.0101
+    },
+    "O2/Ar 0.1%": {
+      "molar_mass_g_mol": 39.9401,
+      "cylinder_pO2_bar": 0.00103
+    },
+    "O2/Ar 120ppm": {
+      "molar_mass_g_mol": 39.947,
+      "cylinder_pO2_bar": 0.000118
+    },
+    "Ar": {
+      "molar_mass_g_mol": 39.948,
+      "cylinder_pO2_bar": 4.1e-05
+    },
+    "H2/Ar 4%": {
+      "molar_mass_g_mol": 38.4307,
+      "cylinder_pO2_bar": null
+    }
+  },
+  "pressure_bar": 1.013,
+  "zirconia_sensor": {
+    "reference": "air, pO2 0.2095 bar",
+    "pO2_column": "computed by the controller from the EMF with its configured cell temperature of 700 C",
+    "cell_temperature_column": "sensor_C"
+  },
+  "blank": {
+    "file": "blank.csv",
+    "description": "same programme with the empty crucible"
+  }
+}

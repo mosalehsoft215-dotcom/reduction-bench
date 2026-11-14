@@ -1,0 +1,57 @@
+set,program,run,miss_delta_1073K_pO2_1e-4bar,miss_delta_873K_air,within
+redraw1,reference,T-11,0.032,0.004,True
+redraw1,reference,T-16,0.016,0.003,True
+redraw1,reference,T-23,0.006,0.179,True
+redraw1,reference,T-29,0.029,0.001,True
+redraw1,reference,T-34,0.005,0.051,True
+redraw1,reference,T-41,0.145,0.002,True
+redraw1,reference,T-47,0.041,0.003,True
+redraw1,other solver,T-11,0.119,0.004,True
+redraw1,other solver,T-16,0.045,0.003,True
+redraw1,other solver,T-23,0.064,0.196,True
+redraw1,other solver,T-29,0.114,0.006,True
+redraw1,other solver,T-34,0.054,0.053,True
+redraw1,other solver,T-41,0.532,0.003,True
+redraw1,other solver,T-47,0.188,0.001,True
+redraw2,reference,T-11,0.026,0.002,True
+redraw2,reference,T-16,0.01,0.007,True
+redraw2,reference,T-23,0.016,0.171,True
+redraw2,reference,T-29,0.024,0.006,True
+redraw2,reference,T-34,0.01,0.039,True
+redraw2,reference,T-41,0.144,0.002,True
+redraw2,reference,T-47,0.04,0.001,True
+redraw2,other solver,T-11,0.113,0.004,True
+redraw2,other solver,T-16,0.052,0.006,True
+redraw2,other solver,T-23,0.095,0.185,True
+redraw2,other solver,T-29,0.053,0.011,True
+redraw2,other solver,T-34,0.059,0.035,True
+redraw2,other solver,T-41,0.365,0.001,True
+redraw2,other solver,T-47,0.247,0.0,True
+redraw3,reference,T-11,0.025,0.007,True
+redraw3,reference,T-16,0.006,0.004,True
+redraw3,reference,T-23,0.018,0.183,True
+redraw3,reference,T-29,0.022,0.005,True
+redraw3,reference,T-34,0.003,0.02,True
+redraw3,reference,T-41,0.139,0.006,True
+redraw3,reference,T-47,0.044,0.002,True
+redraw3,other solver,T-11,0.113,0.011,True
+redraw3,other solver,T-16,0.142,0.004,True
+redraw3,other solver,T-23,0.103,0.191,True
+redraw3,other solver,T-29,0.268,0.005,True
+redraw3,other solver,T-34,0.052,0.061,True
+redraw3,other solver,T-41,0.512,0.0,True
+redraw3,other solver,T-47,0.236,0.009,True
+redraw4,reference,T-11,0.055,0.004,True
+redraw4,reference,T-16,0.002,0.003,True
+redraw4,reference,T-23,0.013,0.184,True
+redraw4,reference,T-29,0.038,0.001,True
+redraw4,reference,T-34,0.003,0.023,True
+redraw4,reference,T-41,0.119,0.001,True
+redraw4,reference,T-47,0.03,0.002,True
+redraw4,other solver,T-11,0.032,0.01,True
+redraw4,other solver,T-16,0.039,0.012,True
+redraw4,other solver,T-23,0.066,0.197,True
+redraw4,other solver,T-29,0.115,0.007,True
+redraw4,other solver,T-34,0.045,0.002,True
+redraw4,other solver,T-41,0.529,0.001,True
+redraw4,other solver,T-47,0.014,0.003,True

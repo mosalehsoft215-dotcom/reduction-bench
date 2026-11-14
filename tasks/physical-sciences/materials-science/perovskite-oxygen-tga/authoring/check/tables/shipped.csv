@@ -1,0 +1,22 @@
+set,program,run,miss_delta_1073K_pO2_1e-4bar,miss_delta_873K_air,within
+shipped,reference,T-11,0.006,0.001,True
+shipped,reference,T-16,0.01,0.006,True
+shipped,reference,T-23,0.023,0.173,True
+shipped,reference,T-29,0.081,0.004,True
+shipped,reference,T-34,0.024,0.0,True
+shipped,reference,T-41,0.138,0.004,True
+shipped,reference,T-47,0.094,0.006,True
+shipped,other solver,T-11,0.087,0.003,True
+shipped,other solver,T-16,0.035,0.005,True
+shipped,other solver,T-23,0.038,0.193,True
+shipped,other solver,T-29,0.001,0.001,True
+shipped,other solver,T-34,0.075,0.009,True
+shipped,other solver,T-41,0.531,0.006,True
+shipped,other solver,T-47,0.239,0.004,True
+shipped,face value,T-11,0.983,0.796,True
+shipped,face value,T-16,0.55,0.231,True
+shipped,face value,T-23,30.903,20.227,False
+shipped,face value,T-29,2.983,0.021,False
+shipped,face value,T-34,0.886,14.448,False
+shipped,face value,T-41,16.25,15.741,False
+shipped,face value,T-47,5.304,8.396,False

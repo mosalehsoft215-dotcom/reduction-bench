@@ -1,0 +1,10 @@
+t_s,event
+0,buffer flow 50 uL/min over the bare gold sensor; cell at 25.00 C
+3600,inject solution A (polymer A in buffer)
+4800,rinse A with buffer
+5700,inject suspension B (silica nanoparticles in buffer)
+6900,rinse B with buffer
+7800,switch to liquid R
+8700,inject solution C (polymer C in liquid R)
+9900,rinse C with liquid R
+10800,end of record

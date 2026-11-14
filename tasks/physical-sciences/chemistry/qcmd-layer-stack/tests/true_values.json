@@ -1,0 +1,52 @@
+{
+  "H-1": {
+    "A_areal_mass_mg_per_m2": 44.06,
+    "B_areal_mass_mg_per_m2": 21.87,
+    "C_areal_mass_mg_per_m2": 36.29,
+    "A_storage_modulus_MPa": 0.3871,
+    "A_loss_modulus_MPa": 0.5524,
+    "C_storage_modulus_MPa": 0.8317,
+    "C_loss_modulus_MPa": 0.7106,
+    "rho_eta_R": 1.2259
+  },
+  "H-2": {
+    "A_areal_mass_mg_per_m2": 46.83,
+    "B_areal_mass_mg_per_m2": 25.34,
+    "C_areal_mass_mg_per_m2": 31.83,
+    "A_storage_modulus_MPa": 0.5146,
+    "A_loss_modulus_MPa": 0.6893,
+    "C_storage_modulus_MPa": 0.8964,
+    "C_loss_modulus_MPa": 0.6247,
+    "rho_eta_R": 1.178983
+  },
+  "H-3": {
+    "A_areal_mass_mg_per_m2": 42.71,
+    "B_areal_mass_mg_per_m2": 22.96,
+    "C_areal_mass_mg_per_m2": 34.62,
+    "A_storage_modulus_MPa": 0.4362,
+    "A_loss_modulus_MPa": 0.6107,
+    "C_storage_modulus_MPa": 0.7728,
+    "C_loss_modulus_MPa": 0.6812,
+    "rho_eta_R": 1.696876
+  },
+  "H-4": {
+    "A_areal_mass_mg_per_m2": 38.17,
+    "B_areal_mass_mg_per_m2": 26.43,
+    "C_areal_mass_mg_per_m2": 30.94,
+    "A_storage_modulus_MPa": 0.5628,
+    "A_loss_modulus_MPa": 0.7031,
+    "C_storage_modulus_MPa": 0.6413,
+    "C_loss_modulus_MPa": 0.6018,
+    "rho_eta_R": 1.283163
+  },
+  "H-5": {
+    "A_areal_mass_mg_per_m2": 40.88,
+    "B_areal_mass_mg_per_m2": 24.41,
+    "C_areal_mass_mg_per_m2": 32.57,
+    "A_storage_modulus_MPa": 0.4927,
+    "A_loss_modulus_MPa": 0.6614,
+    "C_storage_modulus_MPa": 0.7139,
+    "C_loss_modulus_MPa": 0.6375,
+    "rho_eta_R": 1.532167
+  }
+}

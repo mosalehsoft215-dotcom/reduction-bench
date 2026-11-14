@@ -1,0 +1,32 @@
+{
+  "record": "W-2",
+  "sensor": {
+    "kind": "AT-cut quartz, gold electrode, sold as 5 MHz",
+    "acoustic_impedance_kg_m2_s": 8840000.0
+  },
+  "liquids": {
+    "buffer": {
+      "density_kg_m3": 1004.5,
+      "viscosity_mPa_s_at_25C": 0.912,
+      "dln_viscosity_dT_per_K": -0.0208
+    },
+    "R": {
+      "composition": "aqueous glycerol",
+      "dln_viscosity_dT_per_K": -0.0262
+    }
+  },
+  "layers": {
+    "A": {
+      "material": "hydrated polymer A",
+      "density_kg_m3": 1060.0
+    },
+    "B": {
+      "material": "silica nanoparticles",
+      "density_kg_m3": 1850.0
+    },
+    "C": {
+      "material": "hydrated polymer C",
+      "density_kg_m3": 1080.0
+    }
+  }
+}

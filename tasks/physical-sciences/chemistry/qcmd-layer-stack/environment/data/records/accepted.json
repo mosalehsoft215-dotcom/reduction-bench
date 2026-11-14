@@ -1,0 +1,22 @@
+{
+  "W-1": {
+    "A_areal_mass_mg_per_m2": 41.37,
+    "B_areal_mass_mg_per_m2": 23.62,
+    "C_areal_mass_mg_per_m2": 33.48,
+    "A_storage_modulus_MPa": 0.4553,
+    "A_loss_modulus_MPa": 0.6481,
+    "C_storage_modulus_MPa": 0.7484,
+    "C_loss_modulus_MPa": 0.6524,
+    "rho_eta_R": 1.324835
+  },
+  "W-2": {
+    "A_areal_mass_mg_per_m2": 36.84,
+    "B_areal_mass_mg_per_m2": 27.15,
+    "C_areal_mass_mg_per_m2": 29.71,
+    "A_storage_modulus_MPa": 0.6172,
+    "A_loss_modulus_MPa": 0.7238,
+    "C_storage_modulus_MPa": 0.5936,
+    "C_loss_modulus_MPa": 0.5873,
+    "rho_eta_R": 1.610286
+  }
+}

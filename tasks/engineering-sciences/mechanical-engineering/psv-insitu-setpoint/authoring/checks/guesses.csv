@@ -1,0 +1,76 @@
+valve,guess,value,miss_pct,verdict
+h1,nameplate,120.0,1.259,miss
+h1,public mean,113.995,6.200,miss
+h1,public SV-101,118.62,2.394,miss
+h1,public SV-104,109.37,10.006,miss
+h1,whole bar 116,116.0,4.550,miss
+h1,whole bar 117,117.0,3.727,miss
+h1,whole bar 118,118.0,2.905,miss
+h1,whole bar 119,119.0,2.082,miss
+h1,whole bar 120,120.0,1.259,miss
+h1,whole bar 121,121.0,0.436,miss
+h1,whole bar 122,122.0,0.387,miss
+h1,whole bar 123,123.0,1.210,miss
+h1,whole bar 124,124.0,2.032,miss
+h1,whole bar 125,125.0,2.855,miss
+h1,whole bar 126,126.0,3.678,miss
+h2,nameplate,120.0,3.031,miss
+h2,public mean,113.995,2.125,miss
+h2,public SV-101,118.62,1.846,miss
+h2,public SV-104,109.37,6.096,miss
+h2,whole bar 111,111.0,4.696,miss
+h2,whole bar 112,112.0,3.838,miss
+h2,whole bar 113,113.0,2.979,miss
+h2,whole bar 114,114.0,2.121,miss
+h2,whole bar 115,115.0,1.262,miss
+h2,whole bar 116,116.0,0.404,miss
+h2,whole bar 117,117.0,0.455,miss
+h2,whole bar 118,118.0,1.314,miss
+h2,whole bar 119,119.0,2.172,miss
+h2,whole bar 120,120.0,3.031,miss
+h2,whole bar 121,121.0,3.889,miss
+h3,nameplate,113.5,1.849,miss
+h3,public mean,113.995,2.293,miss
+h3,public SV-101,118.62,6.443,miss
+h3,public SV-104,109.37,1.858,miss
+h3,whole bar 106,106.0,4.882,miss
+h3,whole bar 107,107.0,3.984,miss
+h3,whole bar 108,108.0,3.087,miss
+h3,whole bar 109,109.0,2.190,miss
+h3,whole bar 110,110.0,1.292,miss
+h3,whole bar 111,111.0,0.395,miss
+h3,whole bar 112,112.0,0.503,miss
+h3,whole bar 113,113.0,1.400,miss
+h3,whole bar 114,114.0,2.297,miss
+h3,whole bar 115,115.0,3.195,miss
+h3,whole bar 116,116.0,4.092,miss
+h4,nameplate,39.5,2.651,miss
+h4,public mean,113.995,196.245,miss
+h4,public SV-101,118.62,208.264,miss
+h4,public SV-104,109.37,184.226,miss
+h4,whole bar 33,33.0,14.241,miss
+h4,whole bar 34,34.0,11.642,miss
+h4,whole bar 35,35.0,9.044,miss
+h4,whole bar 36,36.0,6.445,miss
+h4,whole bar 37,37.0,3.846,miss
+h4,whole bar 38,38.0,1.247,miss
+h4,whole bar 39,39.0,1.351,miss
+h4,whole bar 40,40.0,3.950,miss
+h4,whole bar 41,41.0,6.549,miss
+h4,whole bar 42,42.0,9.148,miss
+h4,whole bar 43,43.0,11.746,miss
+h5,nameplate,39.5,5.193,miss
+h5,public mean,113.995,203.582,miss
+h5,public SV-101,118.62,215.899,miss
+h5,public SV-104,109.37,191.265,miss
+h5,whole bar 32,32.0,14.780,miss
+h5,whole bar 33,33.0,12.117,miss
+h5,whole bar 34,34.0,9.454,miss
+h5,whole bar 35,35.0,6.791,miss
+h5,whole bar 36,36.0,4.128,miss
+h5,whole bar 37,37.0,1.465,miss
+h5,whole bar 38,38.0,1.198,miss
+h5,whole bar 39,39.0,3.862,miss
+h5,whole bar 40,40.0,6.525,miss
+h5,whole bar 41,41.0,9.188,miss
+h5,whole bar 42,42.0,11.851,miss

@@ -1,0 +1,1 @@
+Test gauge TG-2 failed (pointer stuck) before series B; series B pressures taken from the DCS drum transmitter.

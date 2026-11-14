@@ -1,0 +1,21 @@
+{
+  "compressor": "K-102",
+  "service": "export gas compressor, single section",
+  "rated_speed_rpm": 9900,
+  "flow_element": "venturi in the compressor suction, downstream of the recycle tie-in; FT-A and FT-B share its pressure taps",
+  "flow_transmitter_damping_s": 0.0,
+  "transmitters": {
+    "ps_a_bara": "PT-A, suction flange, absolute",
+    "ps_b_bara": "PT-B, suction flange, absolute",
+    "pd_bara": "PT-C, discharge flange upstream of the check valve, absolute",
+    "ts_c": "TT-A, suction flange thermowell",
+    "td_c": "TT-C, discharge flange thermowell",
+    "dp_a_kpa": "FT-A, venturi differential",
+    "dp_b_kpa": "FT-B, venturi differential"
+  },
+  "control_heads": {
+    "low": 0.4,
+    "mid": 0.48,
+    "high": 0.56
+  }
+}

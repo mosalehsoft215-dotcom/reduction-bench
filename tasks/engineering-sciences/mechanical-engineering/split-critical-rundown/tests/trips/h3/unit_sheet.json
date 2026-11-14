@@ -1,0 +1,69 @@
+{
+  "unit": "G-43",
+  "rated_speed_rpm": 3000,
+  "rotation": "counter-clockwise",
+  "driver": {
+    "kind": "steam turbine driving a two-pole generator",
+    "running": "synchronised at rated speed until the trip"
+  },
+  "barring_gear": {
+    "motor_rpm": 1485.0,
+    "ratio": 33.0,
+    "engages": "when the rotor has come to rest"
+  },
+  "speed_input": "60-tooth wheel on the shaft, read by the vibration instrument",
+  "keyphasor": "single notch in the shaft; zero of the 1X phase",
+  "probes": {
+    "de_x": {
+      "bearing": "DE",
+      "angle_deg": 90.0
+    },
+    "de_y": {
+      "bearing": "DE",
+      "angle_deg": 0.0
+    },
+    "nde_x": {
+      "bearing": "NDE",
+      "angle_deg": 90.0
+    },
+    "nde_y": {
+      "bearing": "NDE",
+      "angle_deg": 0.0
+    }
+  },
+  "supports": "sleeve bearings in pedestals bolted to a fabricated steel frame",
+  "probe_system": {
+    "sensitivity_v_per_mm": 7.87,
+    "linear_range_v": [
+      -18.0,
+      -2.0
+    ]
+  },
+  "tracking_filter": {
+    "instrument": "online monitoring system",
+    "type": "single-pole low-pass on the demodulated 1X vector",
+    "bandwidth_hz": 1.0
+  },
+  "slow_roll": {
+    "speed_rpm": 45,
+    "taken": "on the barring gear before the last start-up",
+    "vectors": {
+      "de_x": {
+        "um": 14.27,
+        "lag_deg": 360.0
+      },
+      "de_y": {
+        "um": 19.96,
+        "lag_deg": 75.8
+      },
+      "nde_x": {
+        "um": 17.32,
+        "lag_deg": 234.2
+      },
+      "nde_y": {
+        "um": 16.99,
+        "lag_deg": 285.9
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+run,candidate,kd_um,dh_kj_per_mol,passes
+h1,public A0311,2.3788,-38.656,False
+h1,public B0402,0.6095,-21.908,False
+h1,public mean,1.4941,-30.282,False
+h1,"public geometric-mean Kd, mean dH",1.2041,-30.282,False
+h1,"Kd of A0311, dH of B0402",2.3788,-21.908,False
+h1,"Kd of B0402, dH of A0311",0.6095,-38.656,False
+h2,public A0311,2.3788,-38.656,False
+h2,public B0402,0.6095,-21.908,False
+h2,public mean,1.4941,-30.282,False
+h2,"public geometric-mean Kd, mean dH",1.2041,-30.282,False
+h2,"Kd of A0311, dH of B0402",2.3788,-21.908,False
+h2,"Kd of B0402, dH of A0311",0.6095,-38.656,False
+h3,public A0311,2.3788,-38.656,False
+h3,public B0402,0.6095,-21.908,False
+h3,public mean,1.4941,-30.282,False
+h3,"public geometric-mean Kd, mean dH",1.2041,-30.282,False
+h3,"Kd of A0311, dH of B0402",2.3788,-21.908,False
+h3,"Kd of B0402, dH of A0311",0.6095,-38.656,False
+h4,public A0311,2.3788,-38.656,False
+h4,public B0402,0.6095,-21.908,False
+h4,public mean,1.4941,-30.282,False
+h4,"public geometric-mean Kd, mean dH",1.2041,-30.282,False
+h4,"Kd of A0311, dH of B0402",2.3788,-21.908,False
+h4,"Kd of B0402, dH of A0311",0.6095,-38.656,False
+h5,public A0311,2.3788,-38.656,False
+h5,public B0402,0.6095,-21.908,False
+h5,public mean,1.4941,-30.282,False
+h5,"public geometric-mean Kd, mean dH",1.2041,-30.282,False
+h5,"Kd of A0311, dH of B0402",2.3788,-21.908,False
+h5,"Kd of B0402, dH of A0311",0.6095,-38.656,False

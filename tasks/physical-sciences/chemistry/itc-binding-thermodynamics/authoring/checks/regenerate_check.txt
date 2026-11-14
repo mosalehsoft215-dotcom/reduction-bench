@@ -1,0 +1,21 @@
+same  688c7e1233194914  environment/data/runs/run_A0311/blank_thermogram.csv
+same  81ab932b252b5ef6  environment/data/runs/run_A0311/run_sheet.json
+same  027757c79cb82e26  environment/data/runs/run_A0311/thermogram.csv
+same  1b5bea4beceaed58  environment/data/runs/run_B0402/blank_thermogram.csv
+same  658da6217eb595f4  environment/data/runs/run_B0402/run_sheet.json
+same  ba0543f6f1d17416  environment/data/runs/run_B0402/thermogram.csv
+same  6e2506c995d28874  tests/runs/h1/run_sheet.json
+same  9744a2c32dae0844  tests/runs/h1/thermogram.csv
+same  6c8ee87de03a4baa  tests/runs/h2/blank_thermogram.csv
+same  8a96bbcdc3ccc6dd  tests/runs/h2/run_sheet.json
+same  e4221764f12e8cee  tests/runs/h2/thermogram.csv
+same  c773067d048771e1  tests/runs/h3/blank_thermogram.csv
+same  aef2ad944ffb50a8  tests/runs/h3/run_sheet.json
+same  0c23ec29aa4d365a  tests/runs/h3/thermogram.csv
+same  e681696980f9acb1  tests/runs/h4/blank_thermogram.csv
+same  303c188779825299  tests/runs/h4/run_sheet.json
+same  ebdf28b02042cf94  tests/runs/h4/thermogram.csv
+same  651835700ee51cc5  tests/runs/h5/blank_thermogram.csv
+same  c54968b993054fe3  tests/runs/h5/run_sheet.json
+same  05a58ffdd2502fea  tests/runs/h5/thermogram.csv
+20 of 20 files reproduced byte for byte

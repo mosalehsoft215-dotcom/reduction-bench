@@ -1,0 +1,134 @@
+reading,run,kd_um_err_pct,dh_kj_per_mol_err_pct,allowances,chi2,chi2_ref,repaired
+none,A0311,0.37,0.15,0.09,12.8,12.8,False
+none,B0402,-0.09,0.04,0.02,10.3,10.3,False
+none,h1,0.39,0.16,0.1,11.8,11.8,False
+none,h2,0.68,-0.43,0.27,12.1,12.1,False
+none,h3,-0.29,-0.18,0.11,17.3,17.3,False
+none,h4,0.11,0.28,0.18,6.4,6.4,False
+none,h5,-0.21,-0.03,0.03,14.5,14.5,False
+"window integration, straight baseline between injections",A0311,2.17,1.4,0.87,59.2,12.8,False
+"window integration, straight baseline between injections",B0402,9.09,0.8,1.52,135.7,10.3,False
+"window integration, straight baseline between injections",h1,-0.3,-0.04,0.05,79.7,11.8,False
+"window integration, straight baseline between injections",h2,4.1,-15.59,9.74,175.4,12.1,False
+"window integration, straight baseline between injections",h3,-1.33,-0.6,0.38,338.5,17.3,False
+"window integration, straight baseline between injections",h4,0.53,1.43,0.89,88.9,6.4,False
+"window integration, straight baseline between injections",h5,2.15,-0.02,0.36,89.7,14.5,False
+window integration + repair,A0311,2.17,1.4,0.87,59.2,12.8,False
+window integration + repair,B0402,0.13,-0.88,0.55,104.4,10.3,True
+window integration + repair,h1,-0.3,-0.04,0.05,79.7,11.8,False
+window integration + repair,h2,4.1,-15.59,9.74,175.4,12.1,False
+window integration + repair,h3,-1.33,-0.6,0.38,338.5,17.3,False
+window integration + repair,h4,0.53,1.43,0.89,88.9,6.4,False
+window integration + repair,h5,2.15,-0.02,0.36,89.7,14.5,False
+"window integration, baseline lines over the last 40 % of each interval",A0311,3.17,1.46,0.91,91.8,12.8,False
+"window integration, baseline lines over the last 40 % of each interval",B0402,5.05,0.58,0.84,178.9,10.3,False
+"window integration, baseline lines over the last 40 % of each interval",h1,0.2,0.05,0.03,124.1,11.8,False
+"window integration, baseline lines over the last 40 % of each interval",h2,1.67,-7.09,4.43,84.0,12.1,False
+"window integration, baseline lines over the last 40 % of each interval",h3,-0.07,-0.18,0.11,525.2,17.3,False
+"window integration, baseline lines over the last 40 % of each interval",h4,0.11,1.2,0.75,140.4,6.4,False
+"window integration, baseline lines over the last 40 % of each interval",h5,6.58,0.41,1.1,94.7,14.5,False
+"same, + repair",A0311,3.17,1.46,0.91,91.8,12.8,False
+"same, + repair",B0402,5.05,0.58,0.84,178.9,10.3,False
+"same, + repair",h1,0.2,0.05,0.03,124.1,11.8,False
+"same, + repair",h2,1.67,-7.09,4.43,84.0,12.1,False
+"same, + repair",h3,-0.07,-0.18,0.11,525.2,17.3,False
+"same, + repair",h4,0.11,1.2,0.75,140.4,6.4,False
+"same, + repair",h5,6.58,0.41,1.1,94.7,14.5,False
+public lag where no pulse,A0311,0.37,0.15,0.09,12.8,12.8,False
+public lag where no pulse,B0402,-0.09,0.04,0.02,10.3,10.3,False
+public lag where no pulse,h1,0.39,0.16,0.1,11.8,11.8,False
+public lag where no pulse,h2,10.72,-57.95,36.22,871.3,12.1,False
+public lag where no pulse,h3,-0.29,-0.18,0.11,17.3,17.3,False
+public lag where no pulse,h4,0.11,0.28,0.18,6.4,6.4,False
+public lag where no pulse,h5,-0.21,-0.03,0.03,14.5,14.5,False
+public lag where no pulse + repair,A0311,0.37,0.15,0.09,12.8,12.8,False
+public lag where no pulse + repair,B0402,-0.09,0.04,0.02,10.3,10.3,False
+public lag where no pulse + repair,h1,0.39,0.16,0.1,11.8,11.8,False
+public lag where no pulse + repair,h2,10.72,-57.95,36.22,871.3,12.1,False
+public lag where no pulse + repair,h3,-0.29,-0.18,0.11,17.3,17.3,False
+public lag where no pulse + repair,h4,0.11,0.28,0.18,6.4,6.4,False
+public lag where no pulse + repair,h5,-0.21,-0.03,0.03,14.5,14.5,False
+cell volume grows with each injection,A0311,-13.09,-1.49,2.18,19.1,12.8,False
+cell volume grows with each injection,B0402,-11.97,-0.48,1.99,10.6,10.3,False
+cell volume grows with each injection,h1,-8.65,-0.3,1.44,11.4,11.8,False
+cell volume grows with each injection,h2,-11.01,-1.12,1.84,19.5,12.1,False
+cell volume grows with each injection,h3,-13.64,-4.04,2.53,124.8,17.3,False
+cell volume grows with each injection,h4,-14.86,-2.47,2.48,29.5,6.4,False
+cell volume grows with each injection,h5,-14.1,-0.73,2.35,25.8,14.5,False
+cell volume grows + repair,A0311,-13.09,-1.49,2.18,19.1,12.8,False
+cell volume grows + repair,B0402,-11.97,-0.48,1.99,10.6,10.3,False
+cell volume grows + repair,h1,-8.65,-0.3,1.44,11.4,11.8,False
+cell volume grows + repair,h2,-11.01,-1.12,1.84,19.5,12.1,False
+cell volume grows + repair,h3,-9.53,-2.08,1.59,23.4,17.3,True
+cell volume grows + repair,h4,-14.86,-2.47,2.48,29.5,6.4,False
+cell volume grows + repair,h5,-14.1,-0.73,2.35,25.8,14.5,False
+"nothing leaves the cell, no dilution of the cell species",A0311,-8.46,-0.93,1.41,19.1,12.8,False
+"nothing leaves the cell, no dilution of the cell species",B0402,-6.09,-0.24,1.02,10.6,10.3,False
+"nothing leaves the cell, no dilution of the cell species",h1,-4.28,0.02,0.71,11.4,11.8,False
+"nothing leaves the cell, no dilution of the cell species",h2,-5.8,-0.86,0.97,19.5,12.1,False
+"nothing leaves the cell, no dilution of the cell species",h3,-11.1,-3.32,2.07,124.8,17.3,False
+"nothing leaves the cell, no dilution of the cell species",h4,-10.62,-1.54,1.77,29.5,6.4,False
+"nothing leaves the cell, no dilution of the cell species",h5,-7.6,-0.43,1.27,25.8,14.5,False
+Origin's displaced-volume approximation,A0311,0.35,0.24,0.15,15.9,12.8,False
+Origin's displaced-volume approximation,B0402,-0.56,0.06,0.09,10.8,10.3,False
+Origin's displaced-volume approximation,h1,-0.44,0.08,0.07,11.7,11.8,False
+Origin's displaced-volume approximation,h2,0.36,-0.4,0.25,12.0,12.1,False
+Origin's displaced-volume approximation,h3,0.82,0.54,0.34,53.4,17.3,False
+Origin's displaced-volume approximation,h4,0.31,0.45,0.28,7.6,6.4,False
+Origin's displaced-volume approximation,h5,-0.65,0.01,0.11,13.7,14.5,False
+no blank: dilution heat taken as zero,A0311,0.37,0.15,0.09,12.8,12.8,False
+no blank: dilution heat taken as zero,B0402,-0.09,0.04,0.02,10.3,10.3,False
+no blank: dilution heat taken as zero,h1,731.85,146.98,121.97,27849.1,11.8,False
+no blank: dilution heat taken as zero,h2,0.68,-0.43,0.27,12.1,12.1,False
+no blank: dilution heat taken as zero,h3,-0.29,-0.18,0.11,17.3,17.3,False
+no blank: dilution heat taken as zero,h4,0.11,0.28,0.18,6.4,6.4,False
+no blank: dilution heat taken as zero,h5,-0.21,-0.03,0.03,14.5,14.5,False
+no blank: public runs' dilution heat,A0311,0.37,0.15,0.09,12.8,12.8,False
+no blank: public runs' dilution heat,B0402,-0.09,0.04,0.02,10.3,10.3,False
+no blank: public runs' dilution heat,h1,761.39,154.99,126.9,28417.0,11.8,False
+no blank: public runs' dilution heat,h2,0.68,-0.43,0.27,12.1,12.1,False
+no blank: public runs' dilution heat,h3,-0.29,-0.18,0.11,17.3,17.3,False
+no blank: public runs' dilution heat,h4,0.11,0.28,0.18,6.4,6.4,False
+no blank: public runs' dilution heat,h5,-0.21,-0.03,0.03,14.5,14.5,False
+no blank: mean of the last four injections,A0311,0.37,0.15,0.09,12.8,12.8,False
+no blank: mean of the last four injections,B0402,-0.09,0.04,0.02,10.3,10.3,False
+no blank: mean of the last four injections,h1,-17.54,-3.82,2.92,609.0,11.8,False
+no blank: mean of the last four injections,h2,0.68,-0.43,0.27,12.1,12.1,False
+no blank: mean of the last four injections,h3,-0.29,-0.18,0.11,17.3,17.3,False
+no blank: mean of the last four injections,h4,0.11,0.28,0.18,6.4,6.4,False
+no blank: mean of the last four injections,h5,-0.21,-0.03,0.03,14.5,14.5,False
+power scale taken as 1 (pulse unused),A0311,0.37,-0.07,0.06,12.8,12.8,False
+power scale taken as 1 (pulse unused),B0402,-0.09,0.24,0.15,10.3,10.3,False
+power scale taken as 1 (pulse unused),h1,0.39,0.27,0.17,11.8,11.8,False
+power scale taken as 1 (pulse unused),h2,0.68,0.18,0.11,12.2,12.1,False
+power scale taken as 1 (pulse unused),h3,-0.29,-0.28,0.18,17.3,17.3,False
+power scale taken as 1 (pulse unused),h4,0.11,5.13,3.21,6.8,6.4,False
+power scale taken as 1 (pulse unused),h5,-0.21,-0.24,0.15,14.5,14.5,False
+active fraction of a syringe macromolecule ignored,A0311,0.37,0.15,0.09,12.8,12.8,False
+active fraction of a syringe macromolecule ignored,B0402,-0.09,0.04,0.02,10.3,10.3,False
+active fraction of a syringe macromolecule ignored,h1,0.39,0.16,0.1,11.8,11.8,False
+active fraction of a syringe macromolecule ignored,h2,0.68,-0.43,0.27,12.1,12.1,False
+active fraction of a syringe macromolecule ignored,h3,-0.29,-0.18,0.11,17.3,17.3,False
+active fraction of a syringe macromolecule ignored,h4,0.11,0.28,0.18,6.4,6.4,False
+active fraction of a syringe macromolecule ignored,h5,18.52,-15.83,9.89,14.5,14.5,False
+second fill fitted as a fresh cell,A0311,0.37,0.15,0.09,12.8,12.8,False
+second fill fitted as a fresh cell,B0402,-0.09,0.04,0.02,10.3,10.3,False
+second fill fitted as a fresh cell,h1,0.39,0.16,0.1,11.8,11.8,False
+second fill fitted as a fresh cell,h2,0.68,-0.43,0.27,12.1,12.1,False
+second fill fitted as a fresh cell,h3,-40.14,-15.42,9.64,513949.9,17.3,False
+second fill fitted as a fresh cell,h4,0.11,0.28,0.18,6.4,6.4,False
+second fill fitted as a fresh cell,h5,-0.21,-0.03,0.03,14.5,14.5,False
+second fill left out,A0311,0.37,0.15,0.09,12.8,12.8,False
+second fill left out,B0402,-0.09,0.04,0.02,10.3,10.3,False
+second fill left out,h1,0.39,0.16,0.1,11.8,11.8,False
+second fill left out,h2,0.68,-0.43,0.27,12.1,12.1,False
+second fill left out,h3,-0.05,-0.05,0.03,7.8,17.3,False
+second fill left out,h4,0.11,0.28,0.18,6.4,6.4,False
+second fill left out,h5,-0.21,-0.03,0.03,14.5,14.5,False
+first injection of each fill kept,A0311,-2.59,-2.12,1.32,781.7,12.8,False
+first injection of each fill kept,B0402,-1.67,-0.49,0.3,190.7,10.3,False
+first injection of each fill kept,h1,-4.77,-2.43,1.52,580.3,11.8,False
+first injection of each fill kept,h2,-2.11,-1.92,1.2,842.1,12.1,False
+first injection of each fill kept,h3,-4.68,-6.82,4.26,1694.2,17.3,False
+first injection of each fill kept,h4,-3.05,-2.69,1.68,747.0,6.4,False
+first injection of each fill kept,h5,-1.71,-0.62,0.39,261.3,14.5,False

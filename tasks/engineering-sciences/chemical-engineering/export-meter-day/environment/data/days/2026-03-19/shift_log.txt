@@ -1,0 +1,8 @@
+2026-03-19 05:31  GC-501 calibration cylinder 38812 at 14 bar, replaced by cylinder 41877; certificate values entered in the GC.
+2026-03-19 06:21  GC-501 daily calibration on cylinder 41877 completed, result accepted.
+2026-03-19 09:12  GC-501 FAULT: column oven temperature alarm; technician attending.
+2026-03-19 09:43  GC-501 back in analysis after oven controller reset.
+2026-03-19 10:30  Run B isolated (inlet and outlet valves closed) for the quarterly zero-flow check of UF-16-0452.
+2026-03-19 12:30  Zero-flow check of run B completed, run B back in service.
+2026-03-19 13:40  UF-16-0417 path 2 signal lost; meter technician cleaning the transducer junction box.
+2026-03-19 14:31  UF-16-0417 path 2 back after re-terminating the cable.

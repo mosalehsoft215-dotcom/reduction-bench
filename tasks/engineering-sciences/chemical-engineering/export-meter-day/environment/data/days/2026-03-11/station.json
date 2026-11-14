@@ -1,0 +1,269 @@
+{
+  "station": "M-50 export metering skid, two parallel 16 in runs from a common header",
+  "gas_day": "06:00 to 06:00 local time",
+  "base_conditions": {
+    "temperature_C": 15.0,
+    "pressure_kPa": 101.325
+  },
+  "equation_of_state": "GERG-2008 as implemented by CoolProp 6.6.0 (HEOS mixture backend, gas phase)",
+  "calorific_value": "ISO 6976 superior, combustion reference 15 C, ideal molar values below",
+  "gc": {
+    "tag": "GC-501",
+    "cycle_min": 6,
+    "peaks": [
+      "C1",
+      "C2",
+      "C3",
+      "iC4",
+      "nC4",
+      "iC5",
+      "nC5",
+      "C6+",
+      "N2",
+      "CO2"
+    ],
+    "c6plus_split_mol_fraction": {
+      "n-hexane": 0.47466,
+      "n-heptane": 0.3534,
+      "n-octane": 0.17194
+    },
+    "component_table": {
+      "Methane": {
+        "molar_mass_g_mol": 16.04246,
+        "superior_cv_kj_mol": 891.51
+      },
+      "Ethane": {
+        "molar_mass_g_mol": 30.06904,
+        "superior_cv_kj_mol": 1562.06
+      },
+      "Propane": {
+        "molar_mass_g_mol": 44.09562,
+        "superior_cv_kj_mol": 2220.99
+      },
+      "IsoButane": {
+        "molar_mass_g_mol": 58.1222,
+        "superior_cv_kj_mol": 2870.45
+      },
+      "n-Butane": {
+        "molar_mass_g_mol": 58.1222,
+        "superior_cv_kj_mol": 2879.63
+      },
+      "Isopentane": {
+        "molar_mass_g_mol": 72.14878,
+        "superior_cv_kj_mol": 3531.52
+      },
+      "n-Pentane": {
+        "molar_mass_g_mol": 72.14878,
+        "superior_cv_kj_mol": 3538.43
+      },
+      "n-Hexane": {
+        "molar_mass_g_mol": 86.17536,
+        "superior_cv_kj_mol": 4198.06
+      },
+      "n-Heptane": {
+        "molar_mass_g_mol": 100.20194,
+        "superior_cv_kj_mol": 4857.0
+      },
+      "n-Octane": {
+        "molar_mass_g_mol": 114.22852,
+        "superior_cv_kj_mol": 5515.8
+      },
+      "Nitrogen": {
+        "molar_mass_g_mol": 28.0134,
+        "superior_cv_kj_mol": 0.0
+      },
+      "CarbonDioxide": {
+        "molar_mass_g_mol": 44.0095,
+        "superior_cv_kj_mol": 0.0
+      }
+    }
+  },
+  "runs": {
+    "A": {
+      "meter_serial": "UF-16-0417",
+      "bore_mm": 381.02,
+      "paths": [
+        {
+          "path": 1,
+          "chord_position": "top outer",
+          "path_length_mm": 292.36,
+          "axial_length_mm": 187.92,
+          "weight": 0.138197,
+          "delay_up_us": 11.842,
+          "delay_dn_us": 11.861
+        },
+        {
+          "path": 2,
+          "chord_position": "top inner",
+          "path_length_mm": 473.04,
+          "axial_length_mm": 304.07,
+          "weight": 0.361803,
+          "delay_up_us": 12.106,
+          "delay_dn_us": 12.09
+        },
+        {
+          "path": 3,
+          "chord_position": "bottom inner",
+          "path_length_mm": 473.04,
+          "axial_length_mm": 304.07,
+          "weight": 0.361803,
+          "delay_up_us": 12.077,
+          "delay_dn_us": 12.101
+        },
+        {
+          "path": 4,
+          "chord_position": "bottom outer",
+          "path_length_mm": 292.36,
+          "axial_length_mm": 187.92,
+          "weight": 0.138197,
+          "delay_up_us": 11.915,
+          "delay_dn_us": 11.889
+        }
+      ],
+      "calibration": {
+        "laboratory": "high-pressure natural gas loop, 58.4 bar(a), 16.2 C",
+        "velocity_m_s_vs_error_pct": [
+          [
+            1.5,
+            -0.043
+          ],
+          [
+            3.0,
+            -0.051
+          ],
+          [
+            5.0,
+            -0.027
+          ],
+          [
+            8.0,
+            -0.049
+          ],
+          [
+            12.0,
+            -0.025
+          ],
+          [
+            16.0,
+            -0.036
+          ],
+          [
+            20.0,
+            -0.044
+          ]
+        ]
+      },
+      "stored_path_ratios": [
+        0.93208,
+        1.02594,
+        1.02594,
+        0.93208
+      ],
+      "pressure_transmitter": {
+        "tag": "PT-A",
+        "kind": "absolute",
+        "unit": "bar(a)"
+      },
+      "temperature_transmitter": {
+        "tag": "TT-A",
+        "kind": "Pt100 in thermowell, 5 D downstream",
+        "unit": "degC",
+        "keypad_value_degC": 20.0
+      },
+      "flow_computer_low_flow_cutoff_m_s": 0.08
+    },
+    "B": {
+      "meter_serial": "UF-16-0452",
+      "bore_mm": 380.97,
+      "paths": [
+        {
+          "path": 1,
+          "chord_position": "top outer",
+          "path_length_mm": 292.32,
+          "axial_length_mm": 187.9,
+          "weight": 0.138197,
+          "delay_up_us": 12.233,
+          "delay_dn_us": 12.214
+        },
+        {
+          "path": 2,
+          "chord_position": "top inner",
+          "path_length_mm": 472.98,
+          "axial_length_mm": 304.03,
+          "weight": 0.361803,
+          "delay_up_us": 11.978,
+          "delay_dn_us": 11.995
+        },
+        {
+          "path": 3,
+          "chord_position": "bottom inner",
+          "path_length_mm": 472.98,
+          "axial_length_mm": 304.03,
+          "weight": 0.361803,
+          "delay_up_us": 12.019,
+          "delay_dn_us": 12.04
+        },
+        {
+          "path": 4,
+          "chord_position": "bottom outer",
+          "path_length_mm": 292.32,
+          "axial_length_mm": 187.9,
+          "weight": 0.138197,
+          "delay_up_us": 12.311,
+          "delay_dn_us": 12.286
+        }
+      ],
+      "calibration": {
+        "laboratory": "high-pressure natural gas loop, 58.4 bar(a), 16.2 C",
+        "velocity_m_s_vs_error_pct": [
+          [
+            1.5,
+            0.237
+          ],
+          [
+            3.0,
+            0.242
+          ],
+          [
+            5.0,
+            0.242
+          ],
+          [
+            8.0,
+            0.246
+          ],
+          [
+            12.0,
+            0.238
+          ],
+          [
+            16.0,
+            0.217
+          ],
+          [
+            20.0,
+            0.226
+          ]
+        ]
+      },
+      "stored_path_ratios": [
+        0.93208,
+        1.02594,
+        1.02594,
+        0.93208
+      ],
+      "pressure_transmitter": {
+        "tag": "PT-B",
+        "kind": "gauge",
+        "unit": "bar(g)"
+      },
+      "temperature_transmitter": {
+        "tag": "TT-B",
+        "kind": "Pt100 in thermowell, 5 D downstream",
+        "unit": "degC",
+        "keypad_value_degC": 20.0
+      },
+      "flow_computer_low_flow_cutoff_m_s": 0.08
+    }
+  }
+}

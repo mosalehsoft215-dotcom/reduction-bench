@@ -1,0 +1,20 @@
+[
+  {
+    "sample_point": "SP-1 export header",
+    "drawn": "2026-07-30 16:05",
+    "analysed": "2026-07-31 09:25",
+    "method": "laboratory GC, extended analysis, reported on the GC-501 peak list",
+    "mol_percent": {
+      "C1": 95.0316,
+      "C2": 2.4183,
+      "C3": 0.6173,
+      "iC4": 0.1211,
+      "nC4": 0.1432,
+      "iC5": 0.0486,
+      "nC5": 0.0424,
+      "C6+": 0.066,
+      "N2": 0.5285,
+      "CO2": 0.9829
+    }
+  }
+]

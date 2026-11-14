@@ -1,0 +1,3 @@
+2026-08-18 06:21  GC-501 daily calibration on cylinder 52310 completed, result accepted.
+2026-08-18 15:30  UF-16-0417 path 1 signal lost (SNR alarm); meter vendor contacted.
+2026-08-18 22:40  Export flow steady, both runs in service.

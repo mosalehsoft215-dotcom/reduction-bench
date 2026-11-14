@@ -1,0 +1,44 @@
+{
+  "generator_sha256": "7f9d62d172be0cf30c83aa758a00362d55e4ba3760c18069fa57cd93f0f10303",
+  "input_manifest_sha256": {
+    "environment/data/startups/accepted.json": "d9cc7681090282bf7463c399cb3aea22b795da72c02503bb2239b915d71b7386",
+    "environment/data/startups/W-01/assembly.json": "ec569099e632fcd0c9497af5ff700dd4e83d2b8267ffa3e1b183a693dfa9b9ad",
+    "environment/data/startups/W-01/survey.csv": "2466f67f39d134dff0d6ebe7bce653b33ebc359c03dd5b373c1f77ca62ead102",
+    "environment/data/startups/W-01/warm_cycle.csv": "ee047006446e5b2360b356aa5a48aff44bb8ccd2d5ea6c26d02fc88508ac9022",
+    "environment/data/startups/W-04/assembly.json": "041457ad7e82b4ea051ac5d797c7fa2a9491ef68f156e58bb72896f69c89e83e",
+    "environment/data/startups/W-04/survey.csv": "614b4c34196c568d081e1b5a6ecfaa6fa957c4367f7de55ed4e5c9080c698ac9",
+    "environment/data/startups/W-04/warm_cycle.csv": "90da03d6a674fab744897e4ee4fab809f8eeed9868c5a5ff8f1f7df7efa176b9",
+    "tests/cycles/D-17/assembly.json": "26cb77e4c6591ca59c2c61252ff0a690564c9ee5689853c47bc6e80c82719276",
+    "tests/cycles/D-17/survey.csv": "c1f8a0ae38ebc653564f01c3eaea9c3b8ff3d354a0d990364e3e023ae73bca54",
+    "tests/cycles/D-17/warm_cycle.csv": "908c1d3de911dcbdd8f7527f6dab219f9f1cd09724851c940106a7643eb2660d",
+    "tests/cycles/D-23/assembly.json": "70c3611ce4b1758d26bb36f4b4b8a52016a8315e3063ce98c6ba333edb115bb4",
+    "tests/cycles/D-23/survey.csv": "18b3250acc7e3ab830007fba4bc2761fe5d5e5e93f541127a7ce2cf53dc05a5d",
+    "tests/cycles/D-23/warm_cycle.csv": "1ed1231016918abe8a2215b606da59901bdc5e7b4576e5304a0022317764313b",
+    "tests/cycles/D-31/assembly.json": "2a72698cdbacb49bb4dfd44c6e29f193ea73ec47b838721db1ce2e584544d676",
+    "tests/cycles/D-31/survey.csv": "f0cbad03e702746735068096099224e3d838070f29ef8b27f92236625936885f",
+    "tests/cycles/D-31/warm_cycle.csv": "8a2db643d19ae4b1395e11a87dd5600157d45eb1824bf0a6d853c5da8df14876",
+    "tests/cycles/D-42/assembly.json": "3c59ac568470adb895b0bdae3682262029e6416a486ffb84f7dd990aff99a9e8",
+    "tests/cycles/D-42/survey.csv": "16a55e94d19d894a3a2e46c85f4ccaadbdfc2a0956c37ac8b8b6d7ad351d5b57",
+    "tests/cycles/D-42/warm_cycle.csv": "f7659a24c2d341922a516d5c7b82f394d4b7c71b06a388c16fd4782a87617246",
+    "tests/cycles/D-56/assembly.json": "858dd26d04a968cde830feb35f7dac7693afd731f9518fc42ef92cc938dc4de4",
+    "tests/cycles/D-56/survey.csv": "08cc4bf42fd50aa10b581c1182fe93141c56f22b8c4548fb4ae5bc2fcc015552",
+    "tests/cycles/D-56/warm_cycle.csv": "cc2dba74d031ecc26b34b5e6eb2846414f3ec8b722bd912894bb4a9665b96064",
+    "tests/limits_truth.json": "19df6fde67ea43f996baf8001593bbb1aef948b57b457480aa2b544b9c13e63e"
+  },
+  "all_files_identical": true,
+  "generated_file_count": 23,
+  "five_campaign_acceptance_interval_intersections": {
+    "port_friction": [
+      0.282,
+      0.169
+    ],
+    "starboard_friction": [
+      0.181,
+      0.163
+    ],
+    "peak_racking_mm": [
+      14.10337173817854,
+      7.8335198269647375
+    ]
+  }
+}

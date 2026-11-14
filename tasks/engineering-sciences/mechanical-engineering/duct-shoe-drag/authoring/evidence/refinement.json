@@ -1,0 +1,55 @@
+{
+  "substeps": 4,
+  "rows": [
+    {
+      "campaign": "W-01",
+      "coarse_peak_mm": 12.939051344623074,
+      "refined_peak_at_original_rows_mm": 12.939051346058276,
+      "difference_mm": 1.4352021793229142e-09,
+      "coordinate_max_difference_mm": 5.796700008886546e-09
+    },
+    {
+      "campaign": "W-04",
+      "coarse_peak_mm": 6.043501237817814,
+      "refined_peak_at_original_rows_mm": 6.043501239914065,
+      "difference_mm": 2.096250284466805e-09,
+      "coordinate_max_difference_mm": 9.044700988170007e-09
+    },
+    {
+      "campaign": "D-17",
+      "coarse_peak_mm": 14.203024207247282,
+      "refined_peak_at_original_rows_mm": 14.203024209398755,
+      "difference_mm": 2.15147366589008e-09,
+      "coordinate_max_difference_mm": 0.40028115072998105
+    },
+    {
+      "campaign": "D-23",
+      "coarse_peak_mm": 10.142087375220257,
+      "refined_peak_at_original_rows_mm": 10.142087375993622,
+      "difference_mm": 7.733653717423294e-10,
+      "coordinate_max_difference_mm": 1.3464557468978455e-08
+    },
+    {
+      "campaign": "D-31",
+      "coarse_peak_mm": 7.3570249780473596,
+      "refined_peak_at_original_rows_mm": 7.357024981873007,
+      "difference_mm": 3.825647354460671e-09,
+      "coordinate_max_difference_mm": 0.014353598825630698
+    },
+    {
+      "campaign": "D-42",
+      "coarse_peak_mm": 11.704492633368254,
+      "refined_peak_at_original_rows_mm": 11.704492634118363,
+      "difference_mm": 7.501093080009014e-10,
+      "coordinate_max_difference_mm": 0.41681928359292186
+    },
+    {
+      "campaign": "D-56",
+      "coarse_peak_mm": 11.272415835835663,
+      "refined_peak_at_original_rows_mm": 11.27241583556425,
+      "difference_mm": 2.7141311420564307e-10,
+      "coordinate_max_difference_mm": 1.6043934181197983e-08
+    }
+  ],
+  "reference_source_sha256": "d8a7caa87cc53ce2d8bc631d2a6c06942810af0d7f64b23ac4818e8a6caf069b"
+}

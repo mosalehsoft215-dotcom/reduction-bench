@@ -1,0 +1,1397 @@
+{
+  "noise_seeds": 6,
+  "bands": {
+    "port_friction": 0.012,
+    "starboard_friction": 0.012,
+    "peak_racking_mm": 0.35
+  },
+  "reductions": [
+    {
+      "seed": 0,
+      "campaign": "W-01",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.1373510674222137,
+        "starboard_friction": 0.21959842588360576,
+        "peak_racking_mm": 12.940763596394888
+      },
+      "normalized_errors": {
+        "port_friction": 0.029255618517807593,
+        "starboard_friction": 0.04986882363381314,
+        "peak_racking_mm": 0.004892142445958671
+      },
+      "seconds": 0.26375050004571676
+    },
+    {
+      "seed": 0,
+      "campaign": "W-01",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.13740975540822997,
+        "starboard_friction": 0.21964339182871884,
+        "peak_racking_mm": 12.938760597498828
+      },
+      "normalized_errors": {
+        "port_friction": 0.034146284019163455,
+        "starboard_friction": 0.053615985726569726,
+        "peak_racking_mm": 0.0008307115427846108
+      },
+      "seconds": 0.4291161000728607
+    },
+    {
+      "seed": 0,
+      "campaign": "W-04",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.24095571892534864,
+        "starboard_friction": 0.12599208697083156,
+        "peak_racking_mm": 6.039437040479491
+      },
+      "normalized_errors": {
+        "port_friction": 0.0036900895542789818,
+        "starboard_friction": 0.0006594190973703099,
+        "peak_racking_mm": 0.011612000383759584
+      },
+      "seconds": 0.2660827999934554
+    },
+    {
+      "seed": 0,
+      "campaign": "W-04",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.24117890974865389,
+        "starboard_friction": 0.12608173569441283,
+        "peak_racking_mm": 6.044294077150308
+      },
+      "normalized_errors": {
+        "port_friction": 0.014909145721157813,
+        "starboard_friction": 0.00681130786773602,
+        "peak_racking_mm": 0.0022652472471459567
+      },
+      "seconds": 0.4300227001076564
+    },
+    {
+      "seed": 0,
+      "campaign": "D-17",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.18585354136433024,
+        "starboard_friction": 0.19304235796166294,
+        "peak_racking_mm": 14.44655633442499
+      },
+      "normalized_errors": {
+        "port_friction": 0.01220488630581292,
+        "starboard_friction": 0.0035298301385780495,
+        "peak_racking_mm": 0.019472582152997932
+      },
+      "seconds": 0.21007269993424416
+    },
+    {
+      "seed": 0,
+      "campaign": "D-17",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.18629674899378296,
+        "starboard_friction": 0.19314508070239525,
+        "peak_racking_mm": 14.4824164953448
+      },
+      "normalized_errors": {
+        "port_friction": 0.024729082815246512,
+        "starboard_friction": 0.012090058532937079,
+        "peak_racking_mm": 0.0829850204750317
+      },
+      "seconds": 0.7192787999520078
+    },
+    {
+      "seed": 0,
+      "campaign": "D-23",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.2668015252329722,
+        "starboard_friction": 0.1509296168521832,
+        "peak_racking_mm": 10.14575443923901
+      },
+      "normalized_errors": {
+        "port_friction": 0.016539563918986182,
+        "starboard_friction": 0.0058652623180661485,
+        "peak_racking_mm": 0.010477321557971209
+      },
+      "seconds": 0.24266230000648648
+    },
+    {
+      "seed": 0,
+      "campaign": "D-23",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.2667386548821293,
+        "starboard_friction": 0.15092314652901254,
+        "peak_racking_mm": 10.142743881105108
+      },
+      "normalized_errors": {
+        "port_friction": 0.021778759822561427,
+        "starboard_friction": 0.0064044559156215914,
+        "peak_racking_mm": 0.001875726889681216
+      },
+      "seconds": 0.5983521000016481
+    },
+    {
+      "seed": 0,
+      "campaign": "D-31",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.1579441076122316,
+        "starboard_friction": 0.17979761230594424,
+        "peak_racking_mm": 7.484474977064842
+      },
+      "normalized_errors": {
+        "port_friction": 0.0786756343526332,
+        "starboard_friction": 0.10019897450464638,
+        "peak_racking_mm": 0.0027290002860118944
+      },
+      "seconds": 0.38031350006349385
+    },
+    {
+      "seed": 0,
+      "campaign": "D-31",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.15873588148769596,
+        "starboard_friction": 0.17980225796704746,
+        "peak_racking_mm": 7.500636476659746
+      },
+      "normalized_errors": {
+        "port_friction": 0.14465679064133014,
+        "starboard_friction": 0.0998118360793776,
+        "peak_racking_mm": 0.04890471341431026
+      },
+      "seconds": 0.6193134000059217
+    },
+    {
+      "seed": 0,
+      "campaign": "D-42",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.29402951949975514,
+        "starboard_friction": 0.18304034813780112,
+        "peak_racking_mm": 11.708338888411145
+      },
+      "normalized_errors": {
+        "port_friction": 0.0024599583129299627,
+        "starboard_friction": 0.003362344816760602,
+        "peak_racking_mm": 0.010989296026348176
+      },
+      "seconds": 0.2722811000421643
+    },
+    {
+      "seed": 0,
+      "campaign": "D-42",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.2940327016206018,
+        "starboard_friction": 0.1830132407774276,
+        "peak_racking_mm": 11.707508514758732
+      },
+      "normalized_errors": {
+        "port_friction": 0.002725135050151336,
+        "starboard_friction": 0.0011033981189660185,
+        "peak_racking_mm": 0.008616799876597676
+      },
+      "seconds": 0.6039396000560373
+    },
+    {
+      "seed": 0,
+      "campaign": "D-56",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.2917202283577718,
+        "starboard_friction": 0.16427307336617109,
+        "peak_racking_mm": 8.466928701550486
+      },
+      "normalized_errors": {
+        "port_friction": 0.060019029814316796,
+        "starboard_friction": 0.022756113847589854,
+        "peak_racking_mm": 0.0072078720198476285
+      },
+      "seconds": 0.2366149000590667
+    },
+    {
+      "seed": 0,
+      "campaign": "D-56",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.2915250778527807,
+        "starboard_friction": 0.16427956249763004,
+        "peak_racking_mm": 8.46731103650518
+      },
+      "normalized_errors": {
+        "port_friction": 0.043756487731726655,
+        "starboard_friction": 0.023296874802502626,
+        "peak_racking_mm": 0.00830025760468597
+      },
+      "seconds": 0.9633812999818474
+    },
+    {
+      "seed": 1,
+      "campaign": "W-01",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.13680085177358584,
+        "starboard_friction": 0.2186576721665078,
+        "peak_racking_mm": 12.938105365839657
+      },
+      "normalized_errors": {
+        "port_friction": 0.01659568553451461,
+        "starboard_friction": 0.028527319457682943,
+        "peak_racking_mm": 0.002702801997556443
+      },
+      "seconds": 0.20085759996436536
+    },
+    {
+      "seed": 1,
+      "campaign": "W-01",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.13682593194692694,
+        "starboard_friction": 0.21865600658399992,
+        "peak_racking_mm": 12.93825070730297
+      },
+      "normalized_errors": {
+        "port_friction": 0.014505671089422762,
+        "starboard_friction": 0.028666118000006863,
+        "peak_racking_mm": 0.002287540673806226
+      },
+      "seconds": 0.5056965999538079
+    },
+    {
+      "seed": 1,
+      "campaign": "W-04",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.24112308428959606,
+        "starboard_friction": 0.1260069863998514,
+        "peak_racking_mm": 6.04117625901759
+      },
+      "normalized_errors": {
+        "port_friction": 0.010257024133005407,
+        "starboard_friction": 0.0005821999876157169,
+        "peak_racking_mm": 0.006642804560621179
+      },
+      "seconds": 0.456759300082922
+    },
+    {
+      "seed": 1,
+      "campaign": "W-04",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.2411573697891576,
+        "starboard_friction": 0.12600956005329908,
+        "peak_racking_mm": 6.040955245487577
+      },
+      "normalized_errors": {
+        "port_friction": 0.013114149096468223,
+        "starboard_friction": 0.0007966711082565969,
+        "peak_racking_mm": 0.007274271789228238
+      },
+      "seconds": 0.39750840002670884
+    },
+    {
+      "seed": 1,
+      "campaign": "D-17",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.18580645615741548,
+        "starboard_friction": 0.19298227347996683,
+        "peak_racking_mm": 14.449468970821602
+      },
+      "normalized_errors": {
+        "port_friction": 0.016128653548710032,
+        "starboard_friction": 0.001477210002764906,
+        "peak_racking_mm": 0.01115076387696336
+      },
+      "seconds": 0.24163950001820922
+    },
+    {
+      "seed": 1,
+      "campaign": "D-17",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.1866940508952347,
+        "starboard_friction": 0.19369271818919162,
+        "peak_racking_mm": 14.486571815686471
+      },
+      "normalized_errors": {
+        "port_friction": 0.05783757460289113,
+        "starboard_friction": 0.05772651576596797,
+        "peak_racking_mm": 0.0948573643083758
+      },
+      "seconds": 0.7993550000246614
+    },
+    {
+      "seed": 1,
+      "campaign": "D-23",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.26701240500809864,
+        "starboard_friction": 0.1510943299019694,
+        "peak_racking_mm": 10.146066599238832
+      },
+      "normalized_errors": {
+        "port_friction": 0.0010337506748854992,
+        "starboard_friction": 0.007860825164116014,
+        "peak_racking_mm": 0.01136920727174941
+      },
+      "seconds": 0.22765200003050268
+    },
+    {
+      "seed": 1,
+      "campaign": "D-23",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.26719202803675074,
+        "starboard_friction": 0.15104768151860476,
+        "peak_racking_mm": 10.14434805916856
+      },
+      "normalized_errors": {
+        "port_friction": 0.016002336395893695,
+        "starboard_friction": 0.003973459883730342,
+        "peak_racking_mm": 0.006459092785259405
+      },
+      "seconds": 0.8180621000938118
+    },
+    {
+      "seed": 1,
+      "campaign": "D-31",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.15631588883459444,
+        "starboard_friction": 0.17976843011138507,
+        "peak_racking_mm": 7.48308894233444
+      },
+      "normalized_errors": {
+        "port_friction": 0.057009263783797115,
+        "starboard_friction": 0.1026308240512433,
+        "peak_racking_mm": 0.0012310989437074634
+      },
+      "seconds": 0.30485180008690804
+    },
+    {
+      "seed": 1,
+      "campaign": "D-31",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.15638726448684154,
+        "starboard_friction": 0.17915277143168898,
+        "peak_racking_mm": 7.499345779525807
+      },
+      "normalized_errors": {
+        "port_friction": 0.05106129276320528,
+        "starboard_friction": 0.15393571402591796,
+        "peak_racking_mm": 0.045217007317341594
+      },
+      "seconds": 0.6489020000444725
+    },
+    {
+      "seed": 1,
+      "campaign": "D-42",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.2941590947275776,
+        "starboard_friction": 0.18301011604287074,
+        "peak_racking_mm": 11.698892043556096
+      },
+      "normalized_errors": {
+        "port_friction": 0.013257893964802961,
+        "starboard_friction": 0.0008430035725615995,
+        "peak_racking_mm": 0.016001689273790833
+      },
+      "seconds": 0.23941310006193817
+    },
+    {
+      "seed": 1,
+      "campaign": "D-42",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.294122185857277,
+        "starboard_friction": 0.18297689989259042,
+        "peak_racking_mm": 11.701478809228657
+      },
+      "normalized_errors": {
+        "port_friction": 0.010182154773085336,
+        "starboard_friction": 0.0019250089507982793,
+        "peak_racking_mm": 0.008610930209331158
+      },
+      "seconds": 0.7054319999879226
+    },
+    {
+      "seed": 1,
+      "campaign": "D-56",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.29128815227324084,
+        "starboard_friction": 0.16417178440769936,
+        "peak_racking_mm": 8.450868934345067
+      },
+      "normalized_errors": {
+        "port_friction": 0.02401268943673836,
+        "starboard_friction": 0.014315367308279554,
+        "peak_racking_mm": 0.038677177138493696
+      },
+      "seconds": 0.23301820002961904
+    },
+    {
+      "seed": 1,
+      "campaign": "D-56",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.29114993023234115,
+        "starboard_friction": 0.1640497037962677,
+        "peak_racking_mm": 8.464636446966999
+      },
+      "normalized_errors": {
+        "port_friction": 0.012494186028430554,
+        "starboard_friction": 0.00414198302230856,
+        "peak_racking_mm": 0.0006585732098837331
+      },
+      "seconds": 0.9910417000064626
+    },
+    {
+      "seed": 2,
+      "campaign": "W-01",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.13701968443997628,
+        "starboard_friction": 0.21920562850473574,
+        "peak_racking_mm": 12.944811361930347
+      },
+      "normalized_errors": {
+        "port_friction": 0.0016403699980224729,
+        "starboard_friction": 0.017135708727978222,
+        "peak_racking_mm": 0.016457186832984205
+      },
+      "seconds": 0.23843699996359646
+    },
+    {
+      "seed": 2,
+      "campaign": "W-01",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.13721280086189996,
+        "starboard_friction": 0.21954246795373425,
+        "peak_racking_mm": 12.945131632381493
+      },
+      "normalized_errors": {
+        "port_friction": 0.01773340515832944,
+        "starboard_friction": 0.04520566281118743,
+        "peak_racking_mm": 0.01737224526483061
+      },
+      "seconds": 0.3696282999590039
+    },
+    {
+      "seed": 2,
+      "campaign": "W-04",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.2413414693203479,
+        "starboard_friction": 0.12621052553389694,
+        "peak_racking_mm": 6.046200378862103
+      },
+      "normalized_errors": {
+        "port_friction": 0.028455776695658165,
+        "starboard_friction": 0.017543794491411968,
+        "peak_racking_mm": 0.007711823566560433
+      },
+      "seconds": 0.1448077999521047
+    },
+    {
+      "seed": 2,
+      "campaign": "W-04",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.241411560177092,
+        "starboard_friction": 0.126253735059254,
+        "peak_racking_mm": 6.048196692083671
+      },
+      "normalized_errors": {
+        "port_friction": 0.03429668142433442,
+        "starboard_friction": 0.021144588271166293,
+        "peak_racking_mm": 0.013415575628183012
+      },
+      "seconds": 0.5368812000378966
+    },
+    {
+      "seed": 2,
+      "campaign": "D-17",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.1861678396423443,
+        "starboard_friction": 0.19303829464003128,
+        "peak_racking_mm": 14.446559467448587
+      },
+      "normalized_errors": {
+        "port_friction": 0.013986636862024318,
+        "starboard_friction": 0.003191220002606021,
+        "peak_racking_mm": 0.0194636306570065
+      },
+      "seconds": 0.3335397000191733
+    },
+    {
+      "seed": 2,
+      "campaign": "D-17",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.18657365458380384,
+        "starboard_friction": 0.1931940494681921,
+        "peak_racking_mm": 14.455395663277727
+      },
+      "normalized_errors": {
+        "port_friction": 0.047804548650320446,
+        "starboard_friction": 0.016170789016008158,
+        "peak_racking_mm": 0.005782643140536591
+      },
+      "seconds": 0.8629393998999149
+    },
+    {
+      "seed": 2,
+      "campaign": "D-23",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.26700522358891277,
+        "starboard_friction": 0.15102270681605945,
+        "peak_racking_mm": 10.14291138996203
+      },
+      "normalized_errors": {
+        "port_friction": 0.00043529907606254525,
+        "starboard_friction": 0.0018922346716211216,
+        "peak_racking_mm": 0.002354323623744595
+      },
+      "seconds": 0.24727809999603778
+    },
+    {
+      "seed": 2,
+      "campaign": "D-23",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.2668492918489782,
+        "starboard_friction": 0.15099613887493274,
+        "peak_racking_mm": 10.141745653895516
+      },
+      "normalized_errors": {
+        "port_friction": 0.012559012585150464,
+        "starboard_friction": 0.0003217604222713333,
+        "peak_racking_mm": 0.000976350852011722
+      },
+      "seconds": 0.5592194999335334
+    },
+    {
+      "seed": 2,
+      "campaign": "D-31",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.1568022415930116,
+        "starboard_friction": 0.178838648972038,
+        "peak_racking_mm": 7.4769955657160985
+      },
+      "normalized_errors": {
+        "port_friction": 0.01647986724903396,
+        "starboard_friction": 0.18011258566349997,
+        "peak_racking_mm": 0.018640746424683895
+      },
+      "seconds": 0.22060680005233735
+    },
+    {
+      "seed": 2,
+      "campaign": "D-31",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.1564022000839985,
+        "starboard_friction": 0.17893760311469373,
+        "peak_racking_mm": 7.495136300608365
+      },
+      "normalized_errors": {
+        "port_friction": 0.04981665966679224,
+        "starboard_friction": 0.17186640710885556,
+        "peak_racking_mm": 0.03318992469607857
+      },
+      "seconds": 0.5208387000020593
+    },
+    {
+      "seed": 2,
+      "campaign": "D-42",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.2939991998858984,
+        "starboard_friction": 0.18296399673609173,
+        "peak_racking_mm": 11.703927624540626
+      },
+      "normalized_errors": {
+        "port_friction": 6.667617513204475e-05,
+        "starboard_friction": 0.0030002719923552523,
+        "peak_racking_mm": 0.0016143150322786176
+      },
+      "seconds": 0.4507715000072494
+    },
+    {
+      "seed": 2,
+      "campaign": "D-42",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.2939940506237946,
+        "starboard_friction": 0.18296811667620028,
+        "peak_racking_mm": 11.70307891532994
+      },
+      "normalized_errors": {
+        "port_friction": 0.0004957813504504379,
+        "starboard_friction": 0.002656943649976632,
+        "peak_racking_mm": 0.00403919849138187
+      },
+      "seconds": 0.560650400002487
+    },
+    {
+      "seed": 2,
+      "campaign": "D-56",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.29030384893733874,
+        "starboard_friction": 0.16354049967808448,
+        "peak_racking_mm": 8.465385969353914
+      },
+      "normalized_errors": {
+        "port_friction": 0.058012588555103606,
+        "starboard_friction": 0.0382916934929603,
+        "peak_racking_mm": 0.0028000657439264387
+      },
+      "seconds": 0.2049467999022454
+    },
+    {
+      "seed": 2,
+      "campaign": "D-56",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.2908019287636431,
+        "starboard_friction": 0.16395436972831326,
+        "peak_racking_mm": 8.457941981856905
+      },
+      "normalized_errors": {
+        "port_friction": 0.01650593636307503,
+        "starboard_friction": 0.0038025226405622816,
+        "peak_racking_mm": 0.01846846996181333
+      },
+      "seconds": 1.0387681999709457
+    },
+    {
+      "seed": 3,
+      "campaign": "W-01",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.13651613156588902,
+        "starboard_friction": 0.21822970414505538,
+        "peak_racking_mm": 12.938955743043712
+      },
+      "normalized_errors": {
+        "port_friction": 0.04032236950924963,
+        "starboard_friction": 0.06419132124538494,
+        "peak_racking_mm": 0.0002731528431151479
+      },
+      "seconds": 0.20666290004737675
+    },
+    {
+      "seed": 3,
+      "campaign": "W-01",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.1365492178828676,
+        "starboard_friction": 0.21827765505021338,
+        "peak_racking_mm": 12.93922475956777
+      },
+      "normalized_errors": {
+        "port_friction": 0.03756517642769982,
+        "starboard_friction": 0.06019541248221867,
+        "peak_racking_mm": 0.0004954657970504936
+      },
+      "seconds": 0.35531140002422035
+    },
+    {
+      "seed": 3,
+      "campaign": "W-04",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.24190168036838222,
+        "starboard_friction": 0.12646219949701537,
+        "peak_racking_mm": 6.043486018497859
+      },
+      "normalized_errors": {
+        "port_friction": 0.07514003069851911,
+        "starboard_friction": 0.038516624751280815,
+        "peak_racking_mm": 4.349175985193402e-05
+      },
+      "seconds": 0.22184610005933791
+    },
+    {
+      "seed": 3,
+      "campaign": "W-04",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.24150527998356663,
+        "starboard_friction": 0.1263121788408313,
+        "peak_racking_mm": 6.049764053370033
+      },
+      "normalized_errors": {
+        "port_friction": 0.04210666529722018,
+        "starboard_friction": 0.02601490340260748,
+        "peak_racking_mm": 0.017893750732075175
+      },
+      "seconds": 0.5354634000686929
+    },
+    {
+      "seed": 3,
+      "campaign": "D-17",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.1865490582220759,
+        "starboard_friction": 0.19349271247436511,
+        "peak_racking_mm": 14.468437522885313
+      },
+      "normalized_errors": {
+        "port_friction": 0.045754851839658696,
+        "starboard_friction": 0.04105937286375908,
+        "peak_racking_mm": 0.04304509916221175
+      },
+      "seconds": 0.2401697998866439
+    },
+    {
+      "seed": 3,
+      "campaign": "D-17",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.18620280347186735,
+        "starboard_friction": 0.1931488963673998,
+        "peak_racking_mm": 14.470155342135474
+      },
+      "normalized_errors": {
+        "port_friction": 0.016900289322279344,
+        "starboard_friction": 0.012408030616648894,
+        "peak_racking_mm": 0.047953154162669875
+      },
+      "seconds": 0.8367904999759048
+    },
+    {
+      "seed": 3,
+      "campaign": "D-23",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.26684600763108857,
+        "starboard_friction": 0.150904713490769,
+        "peak_racking_mm": 10.147066265649482
+      },
+      "normalized_errors": {
+        "port_friction": 0.012832697409287386,
+        "starboard_friction": 0.00794054243591589,
+        "peak_racking_mm": 0.014225397016462337
+      },
+      "seconds": 0.2600740999914706
+    },
+    {
+      "seed": 3,
+      "campaign": "D-23",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.2668852343694608,
+        "starboard_friction": 0.15093924238678977,
+        "peak_racking_mm": 10.142979497955348
+      },
+      "normalized_errors": {
+        "port_friction": 0.009563802544932757,
+        "starboard_friction": 0.005063134434185601,
+        "peak_racking_mm": 0.002548917890367518
+      },
+      "seconds": 0.9125086999265477
+    },
+    {
+      "seed": 3,
+      "campaign": "D-31",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.15717578691080683,
+        "starboard_friction": 0.1813047984852151,
+        "peak_racking_mm": 7.474843268712803
+      },
+      "normalized_errors": {
+        "port_friction": 0.014648909233902496,
+        "starboard_friction": 0.02539987376792609,
+        "peak_racking_mm": 0.02479016643409945
+      },
+      "seconds": 0.2395574999973178
+    },
+    {
+      "seed": 3,
+      "campaign": "D-31",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.15690080577205476,
+        "starboard_friction": 0.18111097511666485,
+        "peak_racking_mm": 7.49458570867068
+      },
+      "normalized_errors": {
+        "port_friction": 0.008266185662103576,
+        "starboard_friction": 0.009247926388738134,
+        "peak_racking_mm": 0.03161680487412103
+      },
+      "seconds": 0.6642640999052674
+    },
+    {
+      "seed": 3,
+      "campaign": "D-42",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.2940482485543519,
+        "starboard_friction": 0.18303254072414488,
+        "peak_racking_mm": 11.701259868990288
+      },
+      "normalized_errors": {
+        "port_friction": 0.004020712862660518,
+        "starboard_friction": 0.0027117270120733763,
+        "peak_racking_mm": 0.00923647374752891
+      },
+      "seconds": 0.22866969997994602
+    },
+    {
+      "seed": 3,
+      "campaign": "D-42",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.2940719400751299,
+        "starboard_friction": 0.18298604873363716,
+        "peak_racking_mm": 11.69805952020225
+      },
+      "normalized_errors": {
+        "port_friction": 0.005995006260824572,
+        "starboard_friction": 0.0011626055302360605,
+        "peak_racking_mm": 0.018380327427637764
+      },
+      "seconds": 0.6236401000060141
+    },
+    {
+      "seed": 3,
+      "campaign": "D-56",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.29092184664728893,
+        "starboard_friction": 0.16386512941879056,
+        "peak_racking_mm": 8.46599108938673
+      },
+      "normalized_errors": {
+        "port_friction": 0.0065127793925876904,
+        "starboard_friction": 0.01123921510078757,
+        "peak_racking_mm": 0.004528980123400369
+      },
+      "seconds": 0.2611494999146089
+    },
+    {
+      "seed": 3,
+      "campaign": "D-56",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.29050218775379677,
+        "starboard_friction": 0.1638103820810925,
+        "peak_racking_mm": 8.459963798709666
+      },
+      "normalized_errors": {
+        "port_friction": 0.04148435385026757,
+        "starboard_friction": 0.01580149324229239,
+        "peak_racking_mm": 0.012691850382497349
+      },
+      "seconds": 1.0353415999561548
+    },
+    {
+      "seed": 4,
+      "campaign": "W-01",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.13735441754470334,
+        "starboard_friction": 0.21951363912943636,
+        "peak_racking_mm": 12.938164827377
+      },
+      "normalized_errors": {
+        "port_friction": 0.02953479539194448,
+        "starboard_friction": 0.042803260786363394,
+        "peak_racking_mm": 0.00253291189086521
+      },
+      "seconds": 0.24892619997262955
+    },
+    {
+      "seed": 4,
+      "campaign": "W-01",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.13719880345690602,
+        "starboard_friction": 0.21935760552001854,
+        "peak_racking_mm": 12.939630163526047
+      },
+      "normalized_errors": {
+        "port_friction": 0.016566954742167534,
+        "starboard_friction": 0.02980046000154492,
+        "peak_racking_mm": 0.0016537628206998128
+      },
+      "seconds": 0.5410661000059918
+    },
+    {
+      "seed": 4,
+      "campaign": "W-04",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.24049451148710038,
+        "starboard_friction": 0.1257936484877505,
+        "peak_racking_mm": 6.041235713311504
+      },
+      "normalized_errors": {
+        "port_friction": 0.04212404274163417,
+        "starboard_friction": 0.017195959354126173,
+        "peak_racking_mm": 0.006472935149436207
+      },
+      "seconds": 0.28259090008214116
+    },
+    {
+      "seed": 4,
+      "campaign": "W-04",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.24033693869466513,
+        "starboard_friction": 0.12570728727580247,
+        "peak_racking_mm": 6.0455249100703305
+      },
+      "normalized_errors": {
+        "port_friction": 0.05525510877790509,
+        "starboard_friction": 0.024392727016461318,
+        "peak_racking_mm": 0.005781912732924103
+      },
+      "seconds": 0.4912577000213787
+    },
+    {
+      "seed": 4,
+      "campaign": "D-17",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.18531810093637976,
+        "starboard_friction": 0.19219480460658306,
+        "peak_racking_mm": 14.450564688706681
+      },
+      "normalized_errors": {
+        "port_friction": 0.056824921968352815,
+        "starboard_friction": 0.06709961611807887,
+        "peak_racking_mm": 0.008020141348166834
+      },
+      "seconds": 0.31968509999569505
+    },
+    {
+      "seed": 4,
+      "campaign": "D-17",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.18564823519738666,
+        "starboard_friction": 0.1925817302629949,
+        "peak_racking_mm": 14.449475627659051
+      },
+      "normalized_errors": {
+        "port_friction": 0.029313733551111776,
+        "starboard_friction": 0.03485581141709123,
+        "peak_racking_mm": 0.011131744341394016
+      },
+      "seconds": 0.5592912000138313
+    },
+    {
+      "seed": 4,
+      "campaign": "D-23",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.26698486069287597,
+        "starboard_friction": 0.15106557284452654,
+        "peak_racking_mm": 10.143137437176854
+      },
+      "normalized_errors": {
+        "port_friction": 0.0012616089270038138,
+        "starboard_friction": 0.005464403710545481,
+        "peak_racking_mm": 0.0030001728089550693
+      },
+      "seconds": 0.22413979994598776
+    },
+    {
+      "seed": 4,
+      "campaign": "D-23",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.2671520984006229,
+        "starboard_friction": 0.15101538891284721,
+        "peak_racking_mm": 10.136475483283302
+      },
+      "normalized_errors": {
+        "port_friction": 0.012674866718571468,
+        "starboard_friction": 0.0012824094039349625,
+        "peak_racking_mm": 0.01603398117262194
+      },
+      "seconds": 0.9180743000470102
+    },
+    {
+      "seed": 4,
+      "campaign": "D-31",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.15707248049698308,
+        "starboard_friction": 0.18173734673106387,
+        "peak_racking_mm": 7.477344399498072
+      },
+      "normalized_errors": {
+        "port_friction": 0.006040041415256621,
+        "starboard_friction": 0.06144556092198966,
+        "peak_racking_mm": 0.017644078476186972
+      },
+      "seconds": 0.26332099991850555
+    },
+    {
+      "seed": 4,
+      "campaign": "D-31",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.15618493948139894,
+        "starboard_friction": 0.18124021670683624,
+        "peak_racking_mm": 7.492887687410782
+      },
+      "normalized_errors": {
+        "port_friction": 0.06792170988342144,
+        "starboard_friction": 0.020018058903020313,
+        "peak_racking_mm": 0.026765315560126623
+      },
+      "seconds": 0.4140491000143811
+    },
+    {
+      "seed": 4,
+      "campaign": "D-42",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.2939866250022608,
+        "starboard_friction": 0.18307340292732344,
+        "peak_racking_mm": 11.708605810243498
+      },
+      "normalized_errors": {
+        "port_friction": 0.0011145831449316246,
+        "starboard_friction": 0.006116910610286704,
+        "peak_racking_mm": 0.011751929833069752
+      },
+      "seconds": 0.19427649991121143
+    },
+    {
+      "seed": 4,
+      "campaign": "D-42",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.2939670776089806,
+        "starboard_friction": 0.18306590894303626,
+        "peak_racking_mm": 11.704462572252563
+      },
+      "normalized_errors": {
+        "port_friction": 0.002743532584947861,
+        "starboard_friction": 0.005492411919688633,
+        "peak_racking_mm": 8.589299817174378e-05
+      },
+      "seconds": 0.5380996000021696
+    },
+    {
+      "seed": 4,
+      "campaign": "D-56",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.29032442826488614,
+        "starboard_friction": 0.163433930349478,
+        "peak_racking_mm": 8.467874640819542
+      },
+      "normalized_errors": {
+        "port_friction": 0.056297644592820384,
+        "starboard_friction": 0.047172470876833315,
+        "peak_racking_mm": 0.009910555645719554
+      },
+      "seconds": 0.25897840003017336
+    },
+    {
+      "seed": 4,
+      "campaign": "D-56",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.2899045994555088,
+        "starboard_friction": 0.1633200061978446,
+        "peak_racking_mm": 8.467278674801605
+      },
+      "normalized_errors": {
+        "port_friction": 0.09128337870759988,
+        "starboard_friction": 0.05666615017961794,
+        "peak_racking_mm": 0.0082077955944726
+      },
+      "seconds": 0.7820826000533998
+    },
+    {
+      "seed": 5,
+      "campaign": "W-01",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.13727432664391218,
+        "starboard_friction": 0.21954994615738258,
+        "peak_racking_mm": 12.942405433793883
+      },
+      "normalized_errors": {
+        "port_friction": 0.022860553659347083,
+        "starboard_friction": 0.0458288464485479,
+        "peak_racking_mm": 0.009583106443089255
+      },
+      "seconds": 0.19660399993881583
+    },
+    {
+      "seed": 5,
+      "campaign": "W-01",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.13748478365656966,
+        "starboard_friction": 0.2198759873896484,
+        "peak_racking_mm": 12.942023171815684
+      },
+      "normalized_errors": {
+        "port_friction": 0.0403986380474707,
+        "starboard_friction": 0.07299894913736597,
+        "peak_racking_mm": 0.008490929362520003
+      },
+      "seconds": 0.33688389998860657
+    },
+    {
+      "seed": 5,
+      "campaign": "W-04",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.24080088679186984,
+        "starboard_friction": 0.12587014875180774,
+        "peak_racking_mm": 6.041362569356306
+      },
+      "normalized_errors": {
+        "port_friction": 0.016592767344179398,
+        "starboard_friction": 0.01082093734935489,
+        "peak_racking_mm": 0.006110489307147304
+      },
+      "seconds": 0.15943260001949966
+    },
+    {
+      "seed": 5,
+      "campaign": "W-04",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.2410432279623803,
+        "starboard_friction": 0.1259701699070231,
+        "peak_racking_mm": 6.046198558012474
+      },
+      "normalized_errors": {
+        "port_friction": 0.003602330198360093,
+        "starboard_friction": 0.002485841081409368,
+        "peak_racking_mm": 0.007706621139048155
+      },
+      "seconds": 0.3787857999559492
+    },
+    {
+      "seed": 5,
+      "campaign": "D-17",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.18644021052226878,
+        "starboard_friction": 0.19334181960125957,
+        "peak_racking_mm": 14.46541708079501
+      },
+      "normalized_errors": {
+        "port_friction": 0.036684210189065015,
+        "starboard_friction": 0.02848496677163026,
+        "peak_racking_mm": 0.034415264618488095
+      },
+      "seconds": 0.24797380005475134
+    },
+    {
+      "seed": 5,
+      "campaign": "D-17",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.1866262512475589,
+        "starboard_friction": 0.19331008657791857,
+        "peak_racking_mm": 14.513442223367957
+      },
+      "normalized_errors": {
+        "port_friction": 0.05218760396324268,
+        "starboard_friction": 0.02584054815988011,
+        "peak_racking_mm": 0.17162995768404904
+      },
+      "seconds": 0.8386004000203684
+    },
+    {
+      "seed": 5,
+      "campaign": "D-23",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.2668572738336882,
+        "starboard_friction": 0.15095054366878904,
+        "peak_racking_mm": 10.13754575565638
+      },
+      "normalized_errors": {
+        "port_friction": 0.011893847192652926,
+        "starboard_friction": 0.004121360934245903,
+        "peak_racking_mm": 0.012976060106686711
+      },
+      "seconds": 0.18763980001676828
+    },
+    {
+      "seed": 5,
+      "campaign": "D-23",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.2668218358961786,
+        "starboard_friction": 0.15095341162862758,
+        "peak_racking_mm": 10.143211960797654
+      },
+      "normalized_errors": {
+        "port_friction": 0.014847008651786009,
+        "starboard_friction": 0.003882364281034926,
+        "peak_racking_mm": 0.003213097439811463
+      },
+      "seconds": 0.4584601999958977
+    },
+    {
+      "seed": 5,
+      "campaign": "D-31",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.15744717122316013,
+        "starboard_friction": 0.18266701893416662,
+        "peak_racking_mm": 7.483492338185361
+      },
+      "normalized_errors": {
+        "port_friction": 0.03726426859667712,
+        "starboard_friction": 0.13891824451388543,
+        "peak_racking_mm": 7.853936964912529e-05
+      },
+      "seconds": 0.22085459996014833
+    },
+    {
+      "seed": 5,
+      "campaign": "D-31",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.15760852306113957,
+        "starboard_friction": 0.18269667856642524,
+        "peak_racking_mm": 7.495612140685488
+      },
+      "normalized_errors": {
+        "port_friction": 0.050710255094963776,
+        "starboard_friction": 0.14138988053543725,
+        "peak_racking_mm": 0.0345494677735709
+      },
+      "seconds": 0.4501521000638604
+    },
+    {
+      "seed": 5,
+      "campaign": "D-42",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.29385744074689446,
+        "starboard_friction": 0.18295076570786278,
+        "peak_racking_mm": 11.701304871724322
+      },
+      "normalized_errors": {
+        "port_friction": 0.01187993775879359,
+        "starboard_friction": 0.004102857678101035,
+        "peak_racking_mm": 0.00910789450743315
+      },
+      "seconds": 0.22293029993306845
+    },
+    {
+      "seed": 5,
+      "campaign": "D-42",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.29388769233861195,
+        "starboard_friction": 0.18298173849881577,
+        "peak_racking_mm": 11.704652753851072
+      },
+      "normalized_errors": {
+        "port_friction": 0.009358971782336134,
+        "starboard_friction": 0.001521791765352054,
+        "peak_racking_mm": 0.0004574829975670777
+      },
+      "seconds": 0.4876466999994591
+    },
+    {
+      "seed": 5,
+      "campaign": "D-56",
+      "method": "reference",
+      "answer": {
+        "port_friction": 0.28988751344575625,
+        "starboard_friction": 0.16334088233931637,
+        "peak_racking_mm": 8.47585210025127
+      },
+      "normalized_errors": {
+        "port_friction": 0.09270721285364418,
+        "starboard_friction": 0.05492647172363613,
+        "peak_racking_mm": 0.03270329687922973
+      },
+      "seconds": 0.19641550001688302
+    },
+    {
+      "seed": 5,
+      "campaign": "D-56",
+      "method": "independent",
+      "answer": {
+        "port_friction": 0.2894208043238242,
+        "starboard_friction": 0.16313328211685962,
+        "peak_racking_mm": 8.47393363061364
+      },
+      "normalized_errors": {
+        "port_friction": 0.1315996396813133,
+        "starboard_friction": 0.0722264902616986,
+        "peak_racking_mm": 0.027221955057429782
+      },
+      "seconds": 0.7018210999667645
+    }
+  ],
+  "forward_engine_comparisons": [
+    {
+      "campaign": "W-01",
+      "reference_coordinate_max_error_mm": 7.516874234170245e-09,
+      "energy_coordinate_max_error_mm": 1.65505902316454e-08
+    },
+    {
+      "campaign": "W-04",
+      "reference_coordinate_max_error_mm": 1.0308514930557067e-08,
+      "energy_coordinate_max_error_mm": 6.014855458147395e-08
+    },
+    {
+      "campaign": "D-17",
+      "reference_coordinate_max_error_mm": 6.247173445217413e-09,
+      "energy_coordinate_max_error_mm": 3.8725129769545674e-08
+    },
+    {
+      "campaign": "D-23",
+      "reference_coordinate_max_error_mm": 1.4332705688957503e-08,
+      "energy_coordinate_max_error_mm": 5.757779319992551e-08
+    },
+    {
+      "campaign": "D-31",
+      "reference_coordinate_max_error_mm": 5.368935518390572e-09,
+      "energy_coordinate_max_error_mm": 1.4493050670694174e-07
+    },
+    {
+      "campaign": "D-42",
+      "reference_coordinate_max_error_mm": 1.3754586802861013e-08,
+      "energy_coordinate_max_error_mm": 3.5448838531237925e-08
+    },
+    {
+      "campaign": "D-56",
+      "reference_coordinate_max_error_mm": 1.64970472837922e-08,
+      "energy_coordinate_max_error_mm": 4.842580025865573e-08
+    }
+  ],
+  "elapsed_seconds": 63.318520899978466,
+  "sources_sha256": {
+    "solution/shoe_reduction.py": "d8a7caa87cc53ce2d8bc631d2a6c06942810af0d7f64b23ac4818e8a6caf069b",
+    "authoring/review/independent.py": "a55513abed8332c410965bd403dacee216db49142213384a5b098e9b6fe488b9",
+    "authoring/factory/campaigns.py": "7f9d62d172be0cf30c83aa758a00362d55e4ba3760c18069fa57cd93f0f10303"
+  }
+}

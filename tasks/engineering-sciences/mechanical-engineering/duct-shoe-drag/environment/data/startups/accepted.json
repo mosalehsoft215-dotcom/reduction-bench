@@ -1,0 +1,12 @@
+{
+  "W-01": {
+    "port_friction": 0.137,
+    "starboard_friction": 0.219,
+    "peak_racking_mm": 12.939051346538802
+  },
+  "W-04": {
+    "port_friction": 0.241,
+    "starboard_friction": 0.126,
+    "peak_racking_mm": 6.043501240613807
+  }
+}

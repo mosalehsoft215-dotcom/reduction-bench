@@ -1,0 +1,27 @@
+{
+  "D-17": {
+    "port_friction": 0.186,
+    "starboard_friction": 0.193,
+    "peak_racking_mm": 14.45337173817854
+  },
+  "D-23": {
+    "port_friction": 0.267,
+    "starboard_friction": 0.151,
+    "peak_racking_mm": 10.14208737669372
+  },
+  "D-31": {
+    "port_friction": 0.157,
+    "starboard_friction": 0.181,
+    "peak_racking_mm": 7.483519826964738
+  },
+  "D-42": {
+    "port_friction": 0.294,
+    "starboard_friction": 0.183,
+    "peak_racking_mm": 11.704492634801923
+  },
+  "D-56": {
+    "port_friction": 0.291,
+    "starboard_friction": 0.164,
+    "peak_racking_mm": 8.46440594634354
+  }
+}

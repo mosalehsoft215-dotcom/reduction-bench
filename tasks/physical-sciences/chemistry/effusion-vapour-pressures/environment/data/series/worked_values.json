@@ -1,0 +1,10 @@
+{
+ "KS-04": {
+  "sublimation_enthalpy_kj_mol": 104.37,
+  "log10_pressure_298_pa": -2.846
+ },
+ "KS-09": {
+  "sublimation_enthalpy_kj_mol": 118.62,
+  "log10_pressure_298_pa": -3.414
+ }
+}

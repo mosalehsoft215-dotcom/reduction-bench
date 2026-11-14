@@ -1,0 +1,22 @@
+{
+ "KS-31": {
+  "sublimation_enthalpy_kj_mol": 96.84,
+  "log10_pressure_298_pa": -2.571
+ },
+ "KS-32": {
+  "sublimation_enthalpy_kj_mol": 91.27,
+  "log10_pressure_298_pa": -2.208
+ },
+ "KS-33": {
+  "sublimation_enthalpy_kj_mol": 127.45,
+  "log10_pressure_298_pa": -3.762
+ },
+ "KS-34": {
+  "sublimation_enthalpy_kj_mol": 121.06,
+  "log10_pressure_298_pa": -3.127
+ },
+ "KS-35": {
+  "sublimation_enthalpy_kj_mol": 113.58,
+  "log10_pressure_298_pa": -3.305
+ }
+}

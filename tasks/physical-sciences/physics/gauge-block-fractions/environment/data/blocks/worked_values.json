@@ -1,0 +1,10 @@
+{
+ "GB-04": {
+  "length_deviation_nm": 83.7,
+  "expansion_coefficient_per_mk": 11.52
+ },
+ "GB-09": {
+  "length_deviation_nm": -146.2,
+  "expansion_coefficient_per_mk": 9.37
+ }
+}

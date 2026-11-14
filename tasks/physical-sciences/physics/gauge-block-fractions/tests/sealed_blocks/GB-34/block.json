@@ -1,0 +1,30 @@
+{
+ "block": "GB-34",
+ "nominal_length_mm": 30.0,
+ "material": "steel",
+ "calibrated": "2026-07-07",
+ "set_levels_c": [
+  19.0,
+  20.5,
+  22.0,
+  23.5
+ ],
+ "hold_min": 80.0,
+ "lasers": [
+  {
+   "laser": "red",
+   "wavelength_nm": 632.991212,
+   "medium": "vacuum"
+  },
+  {
+   "laser": "green",
+   "wavelength_nm": 543.365289,
+   "medium": "standard air (15 C, 101 325 Pa, dry, 450 ppm CO2)"
+  },
+  {
+   "laser": "orange",
+   "wavelength_nm": 611.97077,
+   "medium": "vacuum"
+  }
+ ]
+}

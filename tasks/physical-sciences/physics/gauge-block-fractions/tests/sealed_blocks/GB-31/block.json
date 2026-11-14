@@ -1,0 +1,30 @@
+{
+ "block": "GB-31",
+ "nominal_length_mm": 100.0,
+ "material": "steel",
+ "calibrated": "2026-04-14",
+ "set_levels_c": [
+  18.0,
+  20.0,
+  22.0,
+  24.0
+ ],
+ "hold_min": 46.0,
+ "lasers": [
+  {
+   "laser": "red",
+   "wavelength_nm": 632.991212,
+   "medium": "vacuum"
+  },
+  {
+   "laser": "green",
+   "wavelength_nm": 543.516325,
+   "medium": "vacuum"
+  },
+  {
+   "laser": "orange",
+   "wavelength_nm": 611.97077,
+   "medium": "vacuum"
+  }
+ ]
+}

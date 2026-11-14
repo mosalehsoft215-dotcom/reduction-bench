@@ -1,0 +1,30 @@
+{
+ "block": "GB-32",
+ "nominal_length_mm": 60.0,
+ "material": "tungsten carbide",
+ "calibrated": "2026-05-05",
+ "set_levels_c": [
+  18.5,
+  20.5,
+  22.5,
+  24.5
+ ],
+ "hold_min": 86.0,
+ "lasers": [
+  {
+   "laser": "red",
+   "wavelength_nm": 632.991212,
+   "medium": "vacuum"
+  },
+  {
+   "laser": "green",
+   "wavelength_nm": 543.365289,
+   "medium": "standard air (15 C, 101 325 Pa, dry, 450 ppm CO2)"
+  },
+  {
+   "laser": "orange",
+   "wavelength_nm": 611.97077,
+   "medium": "vacuum"
+  }
+ ]
+}

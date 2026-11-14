@@ -1,0 +1,22 @@
+{
+ "GB-31": {
+  "length_deviation_nm": 211.6,
+  "expansion_coefficient_per_mk": 11.07
+ },
+ "GB-32": {
+  "length_deviation_nm": -63.9,
+  "expansion_coefficient_per_mk": 4.61
+ },
+ "GB-33": {
+  "length_deviation_nm": -187.4,
+  "expansion_coefficient_per_mk": 9.52
+ },
+ "GB-34": {
+  "length_deviation_nm": 129.8,
+  "expansion_coefficient_per_mk": 10.83
+ },
+ "GB-35": {
+  "length_deviation_nm": 54.3,
+  "expansion_coefficient_per_mk": 11.24
+ }
+}

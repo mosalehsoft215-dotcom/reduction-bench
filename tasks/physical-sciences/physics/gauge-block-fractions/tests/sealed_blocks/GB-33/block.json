@@ -1,0 +1,30 @@
+{
+ "block": "GB-33",
+ "nominal_length_mm": 75.0,
+ "material": "zirconia ceramic",
+ "calibrated": "2026-06-02",
+ "set_levels_c": [
+  17.0,
+  19.0,
+  21.0,
+  23.0
+ ],
+ "hold_min": 52.0,
+ "lasers": [
+  {
+   "laser": "red",
+   "wavelength_nm": 632.991212,
+   "medium": "vacuum"
+  },
+  {
+   "laser": "green",
+   "wavelength_nm": 543.516325,
+   "medium": "vacuum"
+  },
+  {
+   "laser": "orange",
+   "wavelength_nm": 611.97077,
+   "medium": "vacuum"
+  }
+ ]
+}

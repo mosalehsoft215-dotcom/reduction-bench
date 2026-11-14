@@ -1,0 +1,75 @@
+{
+ "shipped": {
+  "GB-04": {
+   "reference": 0.037,
+   "second": 0.03
+  },
+  "GB-09": {
+   "reference": 0.029,
+   "second": 0.024
+  },
+  "GB-31": {
+   "reference": 0.257,
+   "second": 0.23
+  },
+  "GB-32": {
+   "reference": 0.009,
+   "second": 0.009
+  },
+  "GB-33": {
+   "reference": 0.265,
+   "second": 0.262
+  },
+  "GB-34": {
+   "reference": 0.003,
+   "second": 0.003
+  },
+  "GB-35": {
+   "reference": 0.141,
+   "second": 0.118
+  }
+ },
+ "routes": {
+  "readings as they stand: last five of each hold, PRT as the block, every wavelength as vacuum": {
+   "GB-04": 0.04,
+   "GB-09": 0.18,
+   "GB-31": 51.71,
+   "GB-32": 52.59,
+   "GB-33": 44.28,
+   "GB-34": 51.81,
+   "GB-35": 60.0
+  },
+  "platen PRT taken as the block temperature (every reading)": {
+   "GB-04": 2.51,
+   "GB-09": 8.77,
+   "GB-31": 80.17,
+   "GB-32": 3.44,
+   "GB-33": 69.0,
+   "GB-34": 4.96,
+   "GB-35": 81.35
+  },
+  "last five readings of each hold, PRT as the block": {
+   "GB-04": 0.04,
+   "GB-09": 0.18,
+   "GB-31": 51.71,
+   "GB-32": 0.09,
+   "GB-33": 44.28,
+   "GB-34": 0.19,
+   "GB-35": 52.69
+  },
+  "every certificate wavelength taken as a vacuum wavelength": {
+   "GB-04": 0.04,
+   "GB-09": 0.03,
+   "GB-31": 0.26,
+   "GB-32": 52.59,
+   "GB-33": 0.26,
+   "GB-34": 51.97,
+   "GB-35": 14.71
+  }
+ },
+ "redraws": {
+  "reference": 0.321,
+  "second": 0.303
+ },
+ "worked_copy_passes": 0
+}

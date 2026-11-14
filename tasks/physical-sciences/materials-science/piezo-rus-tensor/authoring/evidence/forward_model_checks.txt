@@ -1,0 +1,77 @@
+1) Legendre-block model vs independent monomial model, N = 8
+   max |rel diff| over 40 modes = 4.97e-14
+2) convergence of the lowest 60 modes against N = 28
+   N= 8: max rel error modes 1-30 = 6.56e-03, modes 31-60 = 2.97e-02
+   N=10: max rel error modes 1-30 = 1.62e-03, modes 31-60 = 1.60e-02
+   N=12: max rel error modes 1-30 = 2.42e-04, modes 31-60 = 3.09e-03
+   N=14: max rel error modes 1-30 = 4.01e-05, modes 31-60 = 3.19e-04
+   N=16: max rel error modes 1-30 = 1.47e-05, modes 31-60 = 7.21e-05
+   N=18: max rel error modes 1-30 = 4.45e-06, modes 31-60 = 2.27e-05
+   N=20: max rel error modes 1-30 = 1.68e-06, modes 31-60 = 7.13e-06
+   N=22: max rel error modes 1-30 = 6.57e-07, modes 31-60 = 2.77e-06
+   N=24: max rel error modes 1-30 = 2.56e-07, modes 31-60 = 1.04e-06
+3) slender isotropic bar (10 x 1 x 1 mm) against beam theory
+   longitudinal: RR 252996.4 Hz vs c/2L 253184.8 Hz (ratio 0.99926; Love correction ~ -0.07%)
+   torsion:      RR 144203.5 Hz vs Saint-Venant 144206.2 Hz (ratio 0.99998)
+   1st flexure:  RR 50304.0 Hz vs Euler-Bernoulli 52050.8 Hz (ratio 0.96644; Timoshenko shear and rotary inertia take off about 3.5% at L/a = 10)
+4) 90 degree rotation about z with Lx and Ly swapped must not change the spectrum
+   max rel diff = 1.03e-13
+5) 45 degree rotation of a 4/mmm stiffness tensor about c
+   C11' 162.5000 (formula 162.5000), C12' 72.5000 (formula 72.5000), C66' 53.5000 (formula 53.5000)
+6) 4mm piezoelectric tensor is unchanged by any rotation about c
+   max |e(45 deg) - e| = 8.88e-16 C/m^2
+7) piezo model with e = 0 equals the elastic model (N = 10)
+   max rel diff = 0.00e+00
+8) coupled Legendre-block model vs independent unblocked monomial model, N = 6
+   max |rel diff| = 2.20e-14; piezo stiffening shifts these modes by +0.16% to +8.63%
+9) slender unelectroded bars (10 x 1 x 1 mm): D = 0 inside, so the length mode follows the open-circuit compliance
+   bar along the polar axis c: RR 179208.0 Hz vs 1/(2L sqrt(rho s^D)) 179379.3 Hz (ratio 0.99904)
+   bar along a, polar axis across it: RR 199541.1 Hz vs 1/(2L sqrt(rho s^D)) 199781.6 Hz (ratio 0.99880)
+10) giving the potential the same parity as its displacement block removes the coupling entirely
+   max rel diff to the uncoupled model = 2.60e-14
+11) grounded electrodes on both z faces: blocked model vs an independent brute-force 3D-quadrature implementation, N = 5
+   shorted: max |rel diff| = 2.46e-14; bare faces (same quadrature code): 1.99e-14
+   shorting the z faces moves these modes by -3.79% to +0.01% against bare faces
+12) resonator limits with the z faces grounded
+   bar along c, electrodes on its ends: RR 163387.9 Hz vs IEEE k33 resonance 163555.8 Hz (ratio 0.99897; open circuit would be 179379.3 Hz)
+   bar along a, electrodes on its sides: RR 194636.5 Hz vs short-circuit 1/(2L sqrt(rho s11^E)) 194867.8 Hz (ratio 0.99881)
+13) convergence of the coupled model on the task's sample shape, lowest 60 modes against N = 26, with the paint on both z faces
+   grounded electrodes (mount A)
+   N=10: max rel error modes 1-30 = 1.66e-03, modes 31-60 = 6.84e-03
+   N=12: max rel error modes 1-30 = 2.33e-04, modes 31-60 = 2.29e-03
+   N=14: max rel error modes 1-30 = 4.82e-05, modes 31-60 = 3.09e-04
+   N=16: max rel error modes 1-30 = 1.74e-05, modes 31-60 = 8.39e-05
+   N=18: max rel error modes 1-30 = 5.98e-06, modes 31-60 = 2.97e-05
+   N=20: max rel error modes 1-30 = 2.45e-06, modes 31-60 = 1.08e-05
+   N=22: max rel error modes 1-30 = 1.01e-06, modes 31-60 = 4.35e-06
+   floating electrodes (mount B)
+   N=10: max rel error modes 1-30 = 1.66e-03, modes 31-60 = 6.57e-03
+   N=12: max rel error modes 1-30 = 2.33e-04, modes 31-60 = 2.24e-03
+   N=14: max rel error modes 1-30 = 4.82e-05, modes 31-60 = 2.98e-04
+   N=16: max rel error modes 1-30 = 1.74e-05, modes 31-60 = 8.17e-05
+   N=18: max rel error modes 1-30 = 5.98e-06, modes 31-60 = 2.89e-05
+   N=20: max rel error modes 1-30 = 2.45e-06, modes 31-60 = 1.05e-05
+   N=22: max rel error modes 1-30 = 1.01e-06, modes 31-60 = 4.24e-06
+14) paint as a surface mass: a uniform translation carries the crystal plus both paint layers
+   model 8096.526886 kg/m^3 vs (m_crystal + m_paint)/V 8096.526886 kg/m^3 (ratio 1.000000000000)
+15) paint against first-order perturbation theory: d(w^2)/w^2 = -sigma int_faces |u|^2 dA / int rho |u|^2 dV, with 1% of the real paint, N = 14
+   40 modes: shifts -0.0630% to -0.0155%, max |actual/predicted - 1| = 2.48e-03 (the remainder is second order in sigma)
+16) paint on both z faces: blocked model vs the brute-force 3D-quadrature implementation (face integrals by 2D quadrature), N = 5
+   grounded electrodes, 0.3 kg/m^2 per face: max |rel diff| = 2.02e-14
+   floating electrodes, 0.3 kg/m^2 per face: max |rel diff| = 1.78e-14
+17) floating electrodes: blocked model vs the brute-force 3D-quadrature implementation with the extra potential function z/c, N = 5
+   max |rel diff| = 1.33e-14
+18) floating electrodes leave seven of the eight symmetry blocks alone and stiffen only the fully symmetric one (net charge on the electrodes), N = 10
+   block (0, 0, 0): floating/grounded - 1 over its lowest 12 modes: +0.0075% to +3.7159%
+   block (0, 0, 1): floating/grounded - 1 over its lowest 12 modes: +0.0000% to +0.0000%
+   block (0, 1, 0): floating/grounded - 1 over its lowest 12 modes: +0.0000% to +0.0000%
+   block (0, 1, 1): floating/grounded - 1 over its lowest 12 modes: +0.0000% to +0.0000%
+   block (1, 0, 0): floating/grounded - 1 over its lowest 12 modes: +0.0000% to +0.0000%
+   block (1, 0, 1): floating/grounded - 1 over its lowest 12 modes: +0.0000% to +0.0000%
+   block (1, 1, 0): floating/grounded - 1 over its lowest 12 modes: +0.0000% to +0.0000%
+   block (1, 1, 1): floating/grounded - 1 over its lowest 12 modes: +0.0000% to +0.0000%
+19) IEEE Std 176 resonator formulas with floating electrodes (the open-circuit, antiresonance condition), 10 x 1 x 1 mm bars, N = 18
+   bar along a, electrodes on its long sides: fr 194636.5 Hz (grounded), fa 198633.5 Hz (floating); k31 from fr and fa by IEEE 176 0.2218 vs sqrt(d31^2 / (s11^E eps33^T)) 0.2204
+   bar along c, electrodes on its ends: floating RR 179208.0 Hz vs 1/(2L sqrt(rho s33^D)) 179379.3 Hz (ratio 0.99904); k33 from fr and fa by IEEE 176 0.4471 vs sqrt(d33^2 / (s33^E eps33^T)) 0.4469
+20) what the paint does on the task's sample (mount A, N = 18): each mode against the same crystal unpainted, and against the paint smeared into the density
+   paint moves the lowest 60 modes by -3.26% to -0.76%; a uniform density with the same total mass misses them by -0.22% to +2.37%

@@ -1,0 +1,597 @@
+{
+ "limits": {
+  "volume_m3": 0.015,
+  "peak_15min_L_s": 0.02
+ },
+ "notches": {
+  "N-14": {
+   "reference": 0.307,
+   "second": 0.218,
+   "as_logged": 0.178,
+   "clock_only": 0.18,
+   "tail_only": 0.311,
+   "flow_at_injection": 0.894,
+   "free_crest": 1.329,
+   "no_leak": 0.299,
+   "one_lag": 0.306,
+   "one_leak": 0.307,
+   "well_as_channel": 0.319,
+   "one_intake": 0.307,
+   "gauging_intake": 0.307
+  },
+  "N-26": {
+   "reference": 0.174,
+   "second": 0.068,
+   "as_logged": 0.015,
+   "clock_only": 0.01,
+   "tail_only": 0.122,
+   "flow_at_injection": 0.674,
+   "free_crest": 0.412,
+   "no_leak": 0.111,
+   "one_lag": 0.168,
+   "one_leak": 0.174,
+   "well_as_channel": 0.185,
+   "one_intake": 0.174,
+   "gauging_intake": 2.934
+  },
+  "N-33": {
+   "reference": 0.33,
+   "second": 0.429,
+   "as_logged": 1.216,
+   "clock_only": 0.311,
+   "tail_only": 1.347,
+   "flow_at_injection": 0.584,
+   "free_crest": 0.883,
+   "no_leak": 0.575,
+   "one_lag": 0.33,
+   "one_leak": 0.33,
+   "well_as_channel": 0.594,
+   "one_intake": 0.724,
+   "gauging_intake": 0.61
+  },
+  "N-37": {
+   "reference": 0.466,
+   "second": 0.323,
+   "as_logged": 4.166,
+   "clock_only": 4.166,
+   "tail_only": 0.461,
+   "flow_at_injection": 0.21,
+   "free_crest": 0.72,
+   "no_leak": 0.466,
+   "one_lag": 0.466,
+   "one_leak": 0.466,
+   "well_as_channel": 0.461,
+   "one_intake": 0.466,
+   "gauging_intake": 0.466
+  },
+  "N-51": {
+   "reference": 0.248,
+   "second": 0.318,
+   "as_logged": 5.973,
+   "clock_only": 1.299,
+   "tail_only": 5.828,
+   "flow_at_injection": 3.821,
+   "free_crest": 1.525,
+   "no_leak": 4.328,
+   "one_lag": 3.634,
+   "one_leak": 0.248,
+   "well_as_channel": 6.152,
+   "one_intake": 6.617,
+   "gauging_intake": 6.149
+  },
+  "N-52": {
+   "reference": 0.408,
+   "second": 0.262,
+   "as_logged": 6.941,
+   "clock_only": 7.122,
+   "tail_only": 3.154,
+   "flow_at_injection": 3.406,
+   "free_crest": 4.993,
+   "no_leak": 3.161,
+   "one_lag": 0.295,
+   "one_leak": 1.43,
+   "well_as_channel": 0.417,
+   "one_intake": 0.408,
+   "gauging_intake": 0.408
+  },
+  "N-55": {
+   "reference": 0.19,
+   "second": 0.121,
+   "as_logged": 7.934,
+   "clock_only": 13.644,
+   "tail_only": 10.61,
+   "flow_at_injection": 15.855,
+   "free_crest": 15.757,
+   "no_leak": 0.182,
+   "one_lag": 16.016,
+   "one_leak": 0.19,
+   "well_as_channel": 7.391,
+   "one_intake": 6.139,
+   "gauging_intake": 7.39
+  },
+  "N-58": {
+   "reference": 0.497,
+   "second": 0.378,
+   "as_logged": 16.634,
+   "clock_only": 2.068,
+   "tail_only": 16.501,
+   "flow_at_injection": 1.884,
+   "free_crest": 4.163,
+   "no_leak": 2.003,
+   "one_lag": 0.515,
+   "one_leak": 0.47,
+   "well_as_channel": 0.524,
+   "one_intake": 0.497,
+   "gauging_intake": 0.497
+  },
+  "N-59": {
+   "reference": 0.796,
+   "second": 0.243,
+   "as_logged": 19.076,
+   "clock_only": 18.084,
+   "tail_only": 13.415,
+   "flow_at_injection": 19.284,
+   "free_crest": 13.061,
+   "no_leak": 0.796,
+   "one_lag": 9.276,
+   "one_leak": 0.796,
+   "well_as_channel": 2.989,
+   "one_intake": 1.67,
+   "gauging_intake": 1.512
+  }
+ },
+ "redraws": {
+  "1": {
+   "N-14": {
+    "reference": 0.126,
+    "second": 0.29,
+    "well_as_channel": 0.121,
+    "gauging_intake": 11.88
+   },
+   "N-26": {
+    "reference": 0.386,
+    "second": 0.487,
+    "well_as_channel": 0.377,
+    "gauging_intake": 0.386
+   },
+   "N-33": {
+    "reference": 0.139,
+    "second": 0.123,
+    "well_as_channel": 0.091,
+    "gauging_intake": 0.088
+   },
+   "N-37": {
+    "reference": 0.101,
+    "second": 0.045,
+    "well_as_channel": 0.095,
+    "gauging_intake": 0.101
+   },
+   "N-51": {
+    "reference": 0.59,
+    "second": 0.487,
+    "well_as_channel": 6.14,
+    "gauging_intake": 6.133
+   },
+   "N-52": {
+    "reference": 0.069,
+    "second": 0.165,
+    "well_as_channel": 0.078,
+    "gauging_intake": 0.069
+   },
+   "N-55": {
+    "reference": 0.151,
+    "second": 0.101,
+    "well_as_channel": 7.343,
+    "gauging_intake": 7.343
+   },
+   "N-58": {
+    "reference": 0.68,
+    "second": 0.523,
+    "well_as_channel": 0.706,
+    "gauging_intake": 0.68
+   },
+   "N-59": {
+    "reference": 0.238,
+    "second": 0.079,
+    "well_as_channel": 3.454,
+    "gauging_intake": 0.901
+   }
+  },
+  "2": {
+   "N-14": {
+    "reference": 0.409,
+    "second": 0.297,
+    "well_as_channel": 0.419,
+    "gauging_intake": 0.409
+   },
+   "N-26": {
+    "reference": 0.226,
+    "second": 0.133,
+    "well_as_channel": 0.235,
+    "gauging_intake": 0.226
+   },
+   "N-33": {
+    "reference": 0.531,
+    "second": 0.401,
+    "well_as_channel": 0.529,
+    "gauging_intake": 0.531
+   },
+   "N-37": {
+    "reference": 0.308,
+    "second": 0.158,
+    "well_as_channel": 0.304,
+    "gauging_intake": 0.308
+   },
+   "N-51": {
+    "reference": 0.646,
+    "second": 0.416,
+    "well_as_channel": 6.178,
+    "gauging_intake": 6.174
+   },
+   "N-52": {
+    "reference": 0.279,
+    "second": 0.23,
+    "well_as_channel": 0.287,
+    "gauging_intake": 0.279
+   },
+   "N-55": {
+    "reference": 0.571,
+    "second": 0.472,
+    "well_as_channel": 7.557,
+    "gauging_intake": 7.557
+   },
+   "N-58": {
+    "reference": 0.732,
+    "second": 0.562,
+    "well_as_channel": 0.746,
+    "gauging_intake": 0.732
+   },
+   "N-59": {
+    "reference": 0.187,
+    "second": 0.208,
+    "well_as_channel": 3.312,
+    "gauging_intake": 1.191
+   }
+  },
+  "3": {
+   "N-14": {
+    "reference": 0.339,
+    "second": 0.226,
+    "well_as_channel": 0.342,
+    "gauging_intake": 9.264
+   },
+   "N-26": {
+    "reference": 0.406,
+    "second": 0.253,
+    "well_as_channel": 0.414,
+    "gauging_intake": 0.406
+   },
+   "N-33": {
+    "reference": 0.109,
+    "second": 0.162,
+    "well_as_channel": 0.305,
+    "gauging_intake": 0.323
+   },
+   "N-37": {
+    "reference": 0.142,
+    "second": 0.306,
+    "well_as_channel": 0.146,
+    "gauging_intake": 0.142
+   },
+   "N-51": {
+    "reference": 0.179,
+    "second": 0.182,
+    "well_as_channel": 6.317,
+    "gauging_intake": 6.045
+   },
+   "N-52": {
+    "reference": 0.227,
+    "second": 0.393,
+    "well_as_channel": 0.219,
+    "gauging_intake": 0.227
+   },
+   "N-55": {
+    "reference": 0.164,
+    "second": 0.034,
+    "well_as_channel": 7.478,
+    "gauging_intake": 7.476
+   },
+   "N-58": {
+    "reference": 0.427,
+    "second": 0.338,
+    "well_as_channel": 0.455,
+    "gauging_intake": 0.427
+   },
+   "N-59": {
+    "reference": 0.607,
+    "second": 0.584,
+    "well_as_channel": 2.819,
+    "gauging_intake": 1.6
+   }
+  },
+  "4": {
+   "N-14": {
+    "reference": 0.191,
+    "second": 0.166,
+    "well_as_channel": 0.196,
+    "gauging_intake": 0.191
+   },
+   "N-26": {
+    "reference": 0.203,
+    "second": 0.119,
+    "well_as_channel": 0.211,
+    "gauging_intake": 0.203
+   },
+   "N-33": {
+    "reference": 0.35,
+    "second": 0.32,
+    "well_as_channel": 0.415,
+    "gauging_intake": 0.419
+   },
+   "N-37": {
+    "reference": 0.566,
+    "second": 0.46,
+    "well_as_channel": 0.558,
+    "gauging_intake": 0.566
+   },
+   "N-51": {
+    "reference": 0.409,
+    "second": 0.436,
+    "well_as_channel": 6.136,
+    "gauging_intake": 6.131
+   },
+   "N-52": {
+    "reference": 0.107,
+    "second": 0.144,
+    "well_as_channel": 0.1,
+    "gauging_intake": 0.107
+   },
+   "N-55": {
+    "reference": 0.219,
+    "second": 0.194,
+    "well_as_channel": 7.423,
+    "gauging_intake": 7.422
+   },
+   "N-58": {
+    "reference": 0.37,
+    "second": 0.244,
+    "well_as_channel": 0.398,
+    "gauging_intake": 0.37
+   },
+   "N-59": {
+    "reference": 0.439,
+    "second": 0.367,
+    "well_as_channel": 2.886,
+    "gauging_intake": 0.894
+   }
+  },
+  "5": {
+   "N-14": {
+    "reference": 0.321,
+    "second": 0.257,
+    "well_as_channel": 0.326,
+    "gauging_intake": 0.321
+   },
+   "N-26": {
+    "reference": 0.266,
+    "second": 0.176,
+    "well_as_channel": 0.273,
+    "gauging_intake": 0.266
+   },
+   "N-33": {
+    "reference": 0.219,
+    "second": 0.208,
+    "well_as_channel": 0.331,
+    "gauging_intake": 0.347
+   },
+   "N-37": {
+    "reference": 0.179,
+    "second": 0.273,
+    "well_as_channel": 0.188,
+    "gauging_intake": 0.179
+   },
+   "N-51": {
+    "reference": 0.267,
+    "second": 0.409,
+    "well_as_channel": 6.172,
+    "gauging_intake": 6.17
+   },
+   "N-52": {
+    "reference": 0.087,
+    "second": 0.1,
+    "well_as_channel": 0.097,
+    "gauging_intake": 0.087
+   },
+   "N-55": {
+    "reference": 0.224,
+    "second": 0.24,
+    "well_as_channel": 7.199,
+    "gauging_intake": 7.199
+   },
+   "N-58": {
+    "reference": 0.418,
+    "second": 0.371,
+    "well_as_channel": 0.449,
+    "gauging_intake": 0.418
+   },
+   "N-59": {
+    "reference": 0.566,
+    "second": 0.266,
+    "well_as_channel": 2.94,
+    "gauging_intake": 1.852
+   }
+  },
+  "6": {
+   "N-14": {
+    "reference": 0.247,
+    "second": 0.169,
+    "well_as_channel": 0.248,
+    "gauging_intake": 0.247
+   },
+   "N-26": {
+    "reference": 0.189,
+    "second": 0.12,
+    "well_as_channel": 0.2,
+    "gauging_intake": 0.189
+   },
+   "N-33": {
+    "reference": 0.194,
+    "second": 0.304,
+    "well_as_channel": 0.304,
+    "gauging_intake": 0.322
+   },
+   "N-37": {
+    "reference": 0.362,
+    "second": 0.224,
+    "well_as_channel": 0.36,
+    "gauging_intake": 0.362
+   },
+   "N-51": {
+    "reference": 0.05,
+    "second": 0.307,
+    "well_as_channel": 6.506,
+    "gauging_intake": 6.504
+   },
+   "N-52": {
+    "reference": 0.106,
+    "second": 0.101,
+    "well_as_channel": 0.115,
+    "gauging_intake": 0.106
+   },
+   "N-55": {
+    "reference": 0.225,
+    "second": 0.142,
+    "well_as_channel": 7.524,
+    "gauging_intake": 7.521
+   },
+   "N-58": {
+    "reference": 0.254,
+    "second": 0.209,
+    "well_as_channel": 0.287,
+    "gauging_intake": 0.254
+   },
+   "N-59": {
+    "reference": 0.284,
+    "second": 0.188,
+    "well_as_channel": 3.182,
+    "gauging_intake": 0.821
+   }
+  },
+  "7": {
+   "N-14": {
+    "reference": 0.092,
+    "second": 0.154,
+    "well_as_channel": 0.078,
+    "gauging_intake": 0.092
+   },
+   "N-26": {
+    "reference": 0.119,
+    "second": 0.144,
+    "well_as_channel": 0.131,
+    "gauging_intake": 0.119
+   },
+   "N-33": {
+    "reference": 0.25,
+    "second": 0.187,
+    "well_as_channel": 0.302,
+    "gauging_intake": 0.304
+   },
+   "N-37": {
+    "reference": 0.136,
+    "second": 0.197,
+    "well_as_channel": 0.144,
+    "gauging_intake": 0.136
+   },
+   "N-51": {
+    "reference": 0.275,
+    "second": 0.197,
+    "well_as_channel": 6.626,
+    "gauging_intake": 6.623
+   },
+   "N-52": {
+    "reference": 0.087,
+    "second": 0.138,
+    "well_as_channel": 0.096,
+    "gauging_intake": 0.087
+   },
+   "N-55": {
+    "reference": 0.273,
+    "second": 0.267,
+    "well_as_channel": 7.204,
+    "gauging_intake": 7.202
+   },
+   "N-58": {
+    "reference": 0.556,
+    "second": 0.477,
+    "well_as_channel": 0.585,
+    "gauging_intake": 0.556
+   },
+   "N-59": {
+    "reference": 0.598,
+    "second": 0.17,
+    "well_as_channel": 3.098,
+    "gauging_intake": 0.741
+   }
+  },
+  "8": {
+   "N-14": {
+    "reference": 0.073,
+    "second": 0.056,
+    "well_as_channel": 0.073,
+    "gauging_intake": 0.073
+   },
+   "N-26": {
+    "reference": 0.175,
+    "second": 0.098,
+    "well_as_channel": 0.185,
+    "gauging_intake": 0.175
+   },
+   "N-33": {
+    "reference": 0.149,
+    "second": 0.198,
+    "well_as_channel": 0.086,
+    "gauging_intake": 0.092
+   },
+   "N-37": {
+    "reference": 0.244,
+    "second": 0.144,
+    "well_as_channel": 0.239,
+    "gauging_intake": 0.244
+   },
+   "N-51": {
+    "reference": 0.442,
+    "second": 0.478,
+    "well_as_channel": 6.2,
+    "gauging_intake": 6.196
+   },
+   "N-52": {
+    "reference": 0.457,
+    "second": 0.587,
+    "well_as_channel": 0.449,
+    "gauging_intake": 0.457
+   },
+   "N-55": {
+    "reference": 0.134,
+    "second": 0.178,
+    "well_as_channel": 7.559,
+    "gauging_intake": 7.559
+   },
+   "N-58": {
+    "reference": 0.509,
+    "second": 0.444,
+    "well_as_channel": 0.538,
+    "gauging_intake": 0.509
+   },
+   "N-59": {
+    "reference": 0.268,
+    "second": 0.121,
+    "well_as_channel": 3.035,
+    "gauging_intake": 1.204
+   }
+  }
+ },
+ "worst_over_redraws": {
+  "reference": 0.732,
+  "second": 0.587
+ }
+}

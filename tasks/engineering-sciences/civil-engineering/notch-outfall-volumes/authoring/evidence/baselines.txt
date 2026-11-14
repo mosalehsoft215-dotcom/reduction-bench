@@ -1,0 +1,6 @@
+N-51: margin 2.83 bounds (closest: worked N-37)
+N-52: margin 13.85 bounds (closest: sealed mean)
+N-55: margin 2.59 bounds (closest: worked mean (2 s.f.))
+N-58: margin 7.61 bounds (closest: sealed mean)
+N-59: margin 3.35 bounds (closest: worked mean (2 s.f.))
+OK: no baseline passes a case

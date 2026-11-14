@@ -1,0 +1,9 @@
+clock_s,x_m,side,freeboard_m
+1020,18.0,port,4.36
+1065,18.0,starboard,4.45
+1110,33.6,port,4.45
+1155,33.6,starboard,4.52
+1200,48.4,port,4.49
+1245,48.4,starboard,4.6
+1290,64.0,port,4.57
+1335,64.0,starboard,4.68

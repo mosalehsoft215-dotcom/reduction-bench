@@ -1,0 +1,5 @@
+tank,contents,density_t_m3,x_aft_m,x_fwd_m,y_port_m,y_starboard_m,z_bottom_m,z_top_m,pipe_x_m,pipe_y_m,sounding_m,remark
+FW1,fresh water,1.0,8.0,12.0,-2.5,2.5,5.0,7.4,8.5,2.0,1.04,
+FO3,fuel oil,0.905,28.0,36.0,-6.0,6.0,0.05,1.1,35.5,5.5,1.05,pressed full
+WB2P,water ballast,1.022,40.0,52.0,-6.0,-0.5,0.05,1.1,51.5,-5.5,0.0,
+WB2S,water ballast,1.022,40.0,52.0,0.5,6.0,0.05,1.1,51.5,5.5,0.0,

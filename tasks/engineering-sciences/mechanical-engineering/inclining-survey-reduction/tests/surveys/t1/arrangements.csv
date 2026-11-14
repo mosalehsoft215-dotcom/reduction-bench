@@ -1,0 +1,8 @@
+condition,from_clock_s,to_clock_s,A,B,C,D
+0,2600,2900,P,P,S,S
+1,3320,3620,S,P,S,S
+2,4040,4340,S,S,S,S
+3,4760,5060,P,P,S,S
+4,5480,5780,P,P,P,S
+5,6200,6500,P,P,P,P
+6,6920,7220,P,P,S,S

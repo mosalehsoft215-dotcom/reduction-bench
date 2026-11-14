@@ -1,0 +1,4 @@
+tank,contents,density_t_m3,x_aft_m,x_fwd_m,y_port_m,y_starboard_m,z_bottom_m,z_top_m,pipe_x_m,pipe_y_m,sounding_m,remark
+DB3P,water ballast,1.017,40.0,54.0,-5.4,-1.0,0.05,1.45,53.5,-4.9,0.63,cross-over valve to DB3S open
+DB3S,water ballast,1.017,40.0,54.0,1.0,5.4,0.05,1.45,53.5,4.9,0.56,cross-over valve to DB3P open
+FO5,fuel oil,0.93,24.0,30.0,-3.0,3.0,0.05,1.45,29.5,2.5,0.58,

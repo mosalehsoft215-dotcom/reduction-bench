@@ -1,0 +1,3 @@
+tank,contents,density_t_m3,x_aft_m,x_fwd_m,y_port_m,y_starboard_m,z_bottom_m,z_top_m,pipe_x_m,pipe_y_m,sounding_m,remark
+FW3,fresh water,1.0,8.0,14.0,-5.0,5.0,6.5,9.5,13.5,-4.5,1.19,
+DB2C,fuel oil,0.915,60.0,72.0,-3.0,3.0,0.05,1.5,71.5,2.5,1.45,pressed full

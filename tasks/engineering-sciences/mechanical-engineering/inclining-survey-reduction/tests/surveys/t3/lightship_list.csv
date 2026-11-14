@@ -1,0 +1,4 @@
+item,mass_t,x_m,y_m,z_m,status,hung_from_x_m,hung_from_y_m,hung_from_z_m
+inclining party (six persons),0.48,40.0,0.0,11.0,remove,,,
+diving bell handling frame parts on deck,9.4,30.0,-5.5,8.6,remove,,,
+saturation chamber 3 (not yet installed),22.0,48.0,4.0,10.5,fit,,,

@@ -1,0 +1,61 @@
+{
+ "vessel": "heavy-lift general cargo ship",
+ "lbp_m": 105.0,
+ "beam_m": 19.0,
+ "depth_m": 9.5,
+ "draft_marks": [
+  {
+   "mark": "fwd",
+   "x_m": 101.8
+  },
+  {
+   "mark": "mid",
+   "x_m": 52.5
+  },
+  {
+   "mark": "aft",
+   "x_m": 2.6
+  }
+ ],
+ "pendulums": [
+  {
+   "pendulum": "P1",
+   "length_m": 5.2,
+   "x_m": 40.0
+  },
+  {
+   "pendulum": "P2",
+   "length_m": 4.8,
+   "x_m": 70.0
+  }
+ ],
+ "appendages": [
+  {
+   "appendage": "rudder",
+   "volume_m3": 5.8,
+   "x_m": -2.0,
+   "y_m": 0.0,
+   "z_m": 3.0
+  },
+  {
+   "appendage": "propeller and shaft",
+   "volume_m3": 2.4,
+   "x_m": 1.5,
+   "y_m": 0.0,
+   "z_m": 2.2
+  },
+  {
+   "appendage": "bilge keels",
+   "volume_m3": 2.8,
+   "x_m": 52.0,
+   "y_m": 0.0,
+   "z_m": 0.8
+  }
+ ],
+ "open_to_sea": [],
+ "inclinometer": {
+  "x_m": 55.0,
+  "resolution_deg": 0.01,
+  "accuracy": "2 % of reading, after its zero is set"
+ }
+}

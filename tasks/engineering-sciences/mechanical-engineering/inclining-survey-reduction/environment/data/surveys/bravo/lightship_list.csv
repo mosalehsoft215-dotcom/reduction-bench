@@ -1,0 +1,4 @@
+item,mass_t,x_m,y_m,z_m,status,hung_from_x_m,hung_from_y_m,hung_from_z_m
+inclining party (five persons),0.4,30.0,0.0,8.9,remove,,,
+deck cargo rails stacked on deck,3.6,20.0,-3.0,7.3,remove,,,
+hose reel (fitted after delivery),1.1,6.0,4.5,7.6,fit,,,

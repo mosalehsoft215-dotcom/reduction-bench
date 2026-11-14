@@ -1,0 +1,7 @@
+item,mass_t,x_m,y_m,z_m,status,hung_from_x_m,hung_from_y_m,hung_from_z_m
+inclining party (eight persons),0.64,52.0,0.0,11.8,remove,,,
+"main crane boom, topped up as on the day",62.0,66.0,0.0,24.0,remove,,,
+"main crane boom, lowered into its rest",62.0,74.0,0.0,13.8,fit,,,
+"main hook block, hanging from the boom tip",38.0,72.0,0.0,15.5,remove,72.0,0.0,35.0
+"main hook block, secured in its stowage",38.0,82.0,0.0,11.2,fit,,,
+lashing gear in hold 1,6.5,88.0,0.0,2.5,remove,,,

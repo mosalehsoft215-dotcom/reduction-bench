@@ -1,0 +1,54 @@
+{
+ "vessel": "offshore supply vessel",
+ "lbp_m": 64.0,
+ "beam_m": 15.0,
+ "depth_m": 6.8,
+ "draft_marks": [
+  {
+   "mark": "fwd",
+   "x_m": 62.0
+  },
+  {
+   "mark": "mid",
+   "x_m": 32.0
+  },
+  {
+   "mark": "aft",
+   "x_m": 0.8
+  }
+ ],
+ "pendulums": [
+  {
+   "pendulum": "P1",
+   "length_m": 3.6,
+   "x_m": 21.0
+  },
+  {
+   "pendulum": "P2",
+   "length_m": 3.6,
+   "x_m": 40.0
+  }
+ ],
+ "appendages": [
+  {
+   "appendage": "twin rudders",
+   "volume_m3": 3.0,
+   "x_m": -1.2,
+   "y_m": 0.0,
+   "z_m": 2.0
+  },
+  {
+   "appendage": "propellers, nozzles and shafts",
+   "volume_m3": 4.4,
+   "x_m": 1.5,
+   "y_m": 0.0,
+   "z_m": 1.7
+  }
+ ],
+ "open_to_sea": [],
+ "inclinometer": {
+  "x_m": 30.0,
+  "resolution_deg": 0.01,
+  "accuracy": "2 % of reading, after its zero is set"
+ }
+}

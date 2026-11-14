@@ -1,0 +1,120 @@
+route,vessel,lightship_limits,lcg_limits,kg_limits,worst_limits
+reference program,alpha,0.29,-0.07,-0.1,0.29
+reference program,bravo,-0.19,-0.06,0.19,0.19
+reference program,t1,-0.29,-0.19,0.2,0.29
+reference program,t2,-0.26,0.07,0.07,0.26
+reference program,t3,0.09,0.07,0.06,0.09
+reference program,t4,-0.21,-0.41,-0.05,0.41
+reference program,t5,-0.18,0.03,0.17,0.18
+both pendulums averaged without checking them against the inclinometer,alpha,0.29,-0.07,-0.1,0.29
+both pendulums averaged without checking them against the inclinometer,bravo,-0.19,-0.06,0.19,0.19
+both pendulums averaged without checking them against the inclinometer,t1,-0.29,-0.19,0.2,0.29
+both pendulums averaged without checking them against the inclinometer,t2,-0.26,0.06,-2.81,2.81
+both pendulums averaged without checking them against the inclinometer,t3,0.09,0.07,0.06,0.09
+both pendulums averaged without checking them against the inclinometer,t4,-0.21,-0.41,-0.05,0.41
+both pendulums averaged without checking them against the inclinometer,t5,-0.18,0.03,0.17,0.18
+heels taken from the inclinometer alone,alpha,0.29,-0.06,0.95,0.95
+heels taken from the inclinometer alone,bravo,-0.19,-0.07,-1.02,1.02
+heels taken from the inclinometer alone,t1,-0.29,-0.16,1.48,1.48
+heels taken from the inclinometer alone,t2,-0.26,0.07,-0.51,0.51
+heels taken from the inclinometer alone,t3,0.09,0.07,1.04,1.04
+heels taken from the inclinometer alone,t4,-0.21,-0.42,-1.48,1.48
+heels taken from the inclinometer alone,t5,-0.18,0.04,1.2,1.2
+all draft mark scales used without checking them against the freeboards,alpha,0.29,-0.07,-0.1,0.29
+all draft mark scales used without checking them against the freeboards,bravo,-0.19,-0.06,0.19,0.19
+all draft mark scales used without checking them against the freeboards,t1,-0.29,-0.19,0.2,0.29
+all draft mark scales used without checking them against the freeboards,t2,-0.26,0.07,0.07,0.26
+all draft mark scales used without checking them against the freeboards,t3,0.1,0.07,0.05,0.1
+all draft mark scales used without checking them against the freeboards,t4,2.93,4.5,-1.85,4.5
+all draft mark scales used without checking them against the freeboards,t5,-0.18,0.03,0.17,0.18
+painted masses of the inclining weights instead of the load-cell weighings,alpha,0.29,-0.07,-0.08,0.29
+painted masses of the inclining weights instead of the load-cell weighings,bravo,-0.19,-0.07,0.16,0.19
+painted masses of the inclining weights instead of the load-cell weighings,t1,-0.29,-0.19,0.24,0.29
+painted masses of the inclining weights instead of the load-cell weighings,t2,-0.26,0.07,0.11,0.26
+painted masses of the inclining weights instead of the load-cell weighings,t3,0.08,0.07,0.04,0.08
+painted masses of the inclining weights instead of the load-cell weighings,t4,-0.22,-0.42,-0.06,0.42
+painted masses of the inclining weights instead of the load-cell weighings,t5,-0.28,-0.04,-2.9,2.9
+all dock-water samples averaged,alpha,0.29,-0.07,-0.1,0.29
+all dock-water samples averaged,bravo,-0.19,-0.06,0.19,0.19
+all dock-water samples averaged,t1,-2.92,0.04,-0.59,2.92
+all dock-water samples averaged,t2,-0.26,0.07,0.07,0.26
+all dock-water samples averaged,t3,0.09,0.07,0.06,0.09
+all dock-water samples averaged,t4,-0.21,-0.41,-0.05,0.41
+all dock-water samples averaged,t5,-0.18,0.03,0.17,0.18
+no drift correction from the repeated starting arrangement,alpha,0.29,-0.07,-0.14,0.29
+no drift correction from the repeated starting arrangement,bravo,-0.19,-0.06,0.18,0.19
+no drift correction from the repeated starting arrangement,t1,-0.29,-0.19,0.17,0.29
+no drift correction from the repeated starting arrangement,t2,-0.26,0.07,0.07,0.26
+no drift correction from the repeated starting arrangement,t3,0.09,0.06,-3.02,3.02
+no drift correction from the repeated starting arrangement,t4,-0.21,-0.41,-0.01,0.41
+no drift correction from the repeated starting arrangement,t5,-0.18,0.03,0.14,0.18
+"tank liquid from sounding x tank area, ignoring trim and list at the pipe",alpha,0.31,-0.12,-0.1,0.31
+"tank liquid from sounding x tank area, ignoring trim and list at the pipe",bravo,0.24,-0.39,-0.09,0.39
+"tank liquid from sounding x tank area, ignoring trim and list at the pipe",t1,-3.36,4.02,2.75,4.02
+"tank liquid from sounding x tank area, ignoring trim and list at the pipe",t2,-0.13,-0.35,0.07,0.35
+"tank liquid from sounding x tank area, ignoring trim and list at the pipe",t3,0.13,0.0,0.02,0.13
+"tank liquid from sounding x tank area, ignoring trim and list at the pipe",t4,0.19,-0.29,-1.94,1.94
+"tank liquid from sounding x tank area, ignoring trim and list at the pipe",t5,0.26,0.01,-0.22,0.26
+"tank liquids by the standard free-surface correction, not their actual shape at each heel",alpha,0.29,-0.07,-0.1,0.29
+"tank liquids by the standard free-surface correction, not their actual shape at each heel",bravo,-0.19,-0.06,0.2,0.2
+"tank liquids by the standard free-surface correction, not their actual shape at each heel",t1,-0.29,-0.19,0.2,0.29
+"tank liquids by the standard free-surface correction, not their actual shape at each heel",t2,-0.26,0.07,0.08,0.26
+"tank liquids by the standard free-surface correction, not their actual shape at each heel",t3,0.09,0.07,0.06,0.09
+"tank liquids by the standard free-surface correction, not their actual shape at each heel",t4,-0.21,-0.42,-2.39,2.39
+"tank liquids by the standard free-surface correction, not their actual shape at each heel",t5,-0.18,0.03,0.18,0.18
+tank liquids held fixed during the heel (no free-surface effect at all),alpha,0.29,-0.06,0.53,0.53
+tank liquids held fixed during the heel (no free-surface effect at all),bravo,-0.19,0.0,18.92,18.92
+tank liquids held fixed during the heel (no free-surface effect at all),t1,-0.29,-0.02,9.57,9.57
+tank liquids held fixed during the heel (no free-surface effect at all),t2,-0.26,0.08,3.26,3.26
+tank liquids held fixed during the heel (no free-surface effect at all),t3,0.09,0.07,0.61,0.61
+tank liquids held fixed during the heel (no free-surface effect at all),t4,-0.21,-0.39,6.3,6.3
+tank liquids held fixed during the heel (no free-surface effect at all),t5,-0.18,0.09,15.46,15.46
+hanging item taken at its own centre instead of its point of suspension,alpha,0.29,-0.07,-0.1,0.29
+hanging item taken at its own centre instead of its point of suspension,bravo,-0.19,-0.06,0.19,0.19
+hanging item taken at its own centre instead of its point of suspension,t1,-0.29,-0.19,0.2,0.29
+hanging item taken at its own centre instead of its point of suspension,t2,-0.26,0.07,4.79,4.79
+hanging item taken at its own centre instead of its point of suspension,t3,0.09,0.07,0.06,0.09
+hanging item taken at its own centre instead of its point of suspension,t4,-0.21,-0.41,-0.05,0.41
+hanging item taken at its own centre instead of its point of suspension,t5,-0.18,0.03,0.17,0.18
+spaces open to the sea counted as buoyant hull,alpha,0.29,-0.07,-0.1,0.29
+spaces open to the sea counted as buoyant hull,bravo,-0.19,-0.06,0.19,0.19
+spaces open to the sea counted as buoyant hull,t1,-0.29,-0.19,0.2,0.29
+spaces open to the sea counted as buoyant hull,t2,-0.26,0.07,0.07,0.26
+spaces open to the sea counted as buoyant hull,t3,16.87,13.76,-9.78,16.87
+spaces open to the sea counted as buoyant hull,t4,-0.21,-0.41,-0.05,0.41
+spaces open to the sea counted as buoyant hull,t5,-0.18,0.03,0.17,0.18
+"moonpool taken off as lost volume only, its waterplane left in",alpha,0.29,-0.07,-0.1,0.29
+"moonpool taken off as lost volume only, its waterplane left in",bravo,-0.19,-0.06,0.19,0.19
+"moonpool taken off as lost volume only, its waterplane left in",t1,-0.29,-0.19,0.2,0.29
+"moonpool taken off as lost volume only, its waterplane left in",t2,-0.26,0.07,0.07,0.26
+"moonpool taken off as lost volume only, its waterplane left in",t3,0.07,0.05,2.1,2.1
+"moonpool taken off as lost volume only, its waterplane left in",t4,-0.21,-0.41,-0.05,0.41
+"moonpool taken off as lost volume only, its waterplane left in",t5,-0.18,0.03,0.17,0.18
+cross-connected tanks treated as separate tanks,alpha,0.29,-0.07,-0.1,0.29
+cross-connected tanks treated as separate tanks,bravo,-0.19,-0.06,0.19,0.19
+cross-connected tanks treated as separate tanks,t1,-0.29,-0.19,0.2,0.29
+cross-connected tanks treated as separate tanks,t2,-0.26,0.07,0.07,0.26
+cross-connected tanks treated as separate tanks,t3,0.09,0.07,0.06,0.09
+cross-connected tanks treated as separate tanks,t4,-0.21,-0.41,-0.05,0.41
+cross-connected tanks treated as separate tanks,t5,-0.18,0.08,12.54,12.54
+"ship's G put directly above B of the trimmed waterplane, not along the true vertical",alpha,0.29,-0.33,-0.1,0.33
+"ship's G put directly above B of the trimmed waterplane, not along the true vertical",bravo,-0.19,-0.54,0.19,0.54
+"ship's G put directly above B of the trimmed waterplane, not along the true vertical",t1,-0.29,-3.58,0.2,3.58
+"ship's G put directly above B of the trimmed waterplane, not along the true vertical",t2,-0.26,-0.51,0.07,0.51
+"ship's G put directly above B of the trimmed waterplane, not along the true vertical",t3,0.09,-0.5,0.06,0.5
+"ship's G put directly above B of the trimmed waterplane, not along the true vertical",t4,-0.21,-1.11,-0.05,1.11
+"ship's G put directly above B of the trimmed waterplane, not along the true vertical",t5,-0.18,-0.69,0.17,0.69
+draft marks taken to stand at the perpendiculars and amidships,alpha,0.4,0.45,-0.16,0.45
+draft marks taken to stand at the perpendiculars and amidships,bravo,0.01,0.43,0.11,0.43
+draft marks taken to stand at the perpendiculars and amidships,t1,-1.38,8.96,0.2,8.96
+draft marks taken to stand at the perpendiculars and amidships,t2,-0.22,1.03,0.03,1.03
+draft marks taken to stand at the perpendiculars and amidships,t3,0.31,0.8,-0.04,0.8
+draft marks taken to stand at the perpendiculars and amidships,t4,-0.34,0.57,-0.03,0.57
+draft marks taken to stand at the perpendiculars and amidships,t5,-0.13,1.18,0.09,1.18
+small-angle (metacentric) heel instead of the exact heeled hull,alpha,0.29,-0.07,-0.26,0.29
+small-angle (metacentric) heel instead of the exact heeled hull,bravo,-0.19,-0.06,0.05,0.19
+small-angle (metacentric) heel instead of the exact heeled hull,t1,-0.29,-0.19,0.1,0.29
+small-angle (metacentric) heel instead of the exact heeled hull,t2,-0.26,0.07,-0.29,0.29
+small-angle (metacentric) heel instead of the exact heeled hull,t3,0.09,0.07,-0.02,0.09
+small-angle (metacentric) heel instead of the exact heeled hull,t4,-0.21,-0.42,-0.19,0.42
+small-angle (metacentric) heel instead of the exact heeled hull,t5,-0.18,0.03,0.03,0.18

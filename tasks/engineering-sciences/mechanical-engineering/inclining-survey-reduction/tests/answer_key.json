@@ -1,0 +1,34 @@
+{
+ "tolerance": {
+  "mass_percent": 0.4,
+  "light_lcg_m": 0.05,
+  "light_vcg_m": 0.03
+ },
+ "surveys": {
+  "t1": {
+   "light_mass_t": 3172.4,
+   "light_lcg_m": 42.977,
+   "light_vcg_m": 7.041
+  },
+  "t2": {
+   "light_mass_t": 5243.8,
+   "light_lcg_m": 51.311,
+   "light_vcg_m": 7.918
+  },
+  "t3": {
+   "light_mass_t": 3758.1,
+   "light_lcg_m": 38.157,
+   "light_vcg_m": 7.507
+  },
+  "t4": {
+   "light_mass_t": 4206.3,
+   "light_lcg_m": 49.071,
+   "light_vcg_m": 7.694
+  },
+  "t5": {
+   "light_mass_t": 3461.2,
+   "light_lcg_m": 44.142,
+   "light_vcg_m": 7.289
+  }
+ }
+}

@@ -1,0 +1,4 @@
+tank,contents,density_t_m3,x_aft_m,x_fwd_m,y_port_m,y_starboard_m,z_bottom_m,z_top_m,pipe_x_m,pipe_y_m,sounding_m,remark
+FW2,fresh water,1.0,22.0,28.0,-6.0,6.0,0.05,1.2,27.5,-5.5,0.48,
+DO1,diesel oil,0.85,36.0,42.0,-3.0,3.0,0.05,1.2,36.5,2.5,0.52,
+BW5,brine,1.2,12.0,18.0,-5.0,5.0,0.05,1.2,17.5,4.5,0.0,

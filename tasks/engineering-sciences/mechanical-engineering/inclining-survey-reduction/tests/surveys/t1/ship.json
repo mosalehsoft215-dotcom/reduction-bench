@@ -1,0 +1,61 @@
+{
+ "vessel": "product tanker",
+ "lbp_m": 96.0,
+ "beam_m": 16.8,
+ "depth_m": 8.6,
+ "draft_marks": [
+  {
+   "mark": "fwd",
+   "x_m": 93.2
+  },
+  {
+   "mark": "mid",
+   "x_m": 48.0
+  },
+  {
+   "mark": "aft",
+   "x_m": 3.4
+  }
+ ],
+ "pendulums": [
+  {
+   "pendulum": "P1",
+   "length_m": 4.6,
+   "x_m": 38.0
+  },
+  {
+   "pendulum": "P2",
+   "length_m": 4.6,
+   "x_m": 62.0
+  }
+ ],
+ "appendages": [
+  {
+   "appendage": "rudder",
+   "volume_m3": 4.6,
+   "x_m": -1.8,
+   "y_m": 0.0,
+   "z_m": 2.6
+  },
+  {
+   "appendage": "propeller and shaft",
+   "volume_m3": 1.8,
+   "x_m": 1.4,
+   "y_m": 0.0,
+   "z_m": 1.9
+  },
+  {
+   "appendage": "bilge keels",
+   "volume_m3": 2.2,
+   "x_m": 50.0,
+   "y_m": 0.0,
+   "z_m": 0.8
+  }
+ ],
+ "open_to_sea": [],
+ "inclinometer": {
+  "x_m": 50.0,
+  "resolution_deg": 0.01,
+  "accuracy": "2 % of reading, after its zero is set"
+ }
+}

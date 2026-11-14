@@ -1,0 +1,4 @@
+item,mass_t,x_m,y_m,z_m,status,hung_from_x_m,hung_from_y_m,hung_from_z_m
+inclining party (seven persons),0.56,48.0,0.0,10.8,remove,,,
+scaffolding in cargo tank 3,4.2,52.0,0.0,4.5,remove,,,
+free-fall lifeboat (ashore for service),7.8,2.0,0.0,14.5,fit,,,

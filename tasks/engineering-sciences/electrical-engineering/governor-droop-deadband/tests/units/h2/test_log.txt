@@ -1,0 +1,3 @@
+Governor response test of G-13.
+Test set on the spare analog input.
+Dispatcher reported a generation loss in the system during the test.

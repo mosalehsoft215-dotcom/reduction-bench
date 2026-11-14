@@ -1,0 +1,22 @@
+{
+ "h1": {
+  "droop_pct": 5.17,
+  "deadband_mhz": 17.6
+ },
+ "h2": {
+  "droop_pct": 4.83,
+  "deadband_mhz": 23.7
+ },
+ "h3": {
+  "droop_pct": 3.41,
+  "deadband_mhz": 28.3
+ },
+ "h4": {
+  "droop_pct": 4.38,
+  "deadband_mhz": 13.2
+ },
+ "h5": {
+  "droop_pct": 5.63,
+  "deadband_mhz": 16.4
+ }
+}

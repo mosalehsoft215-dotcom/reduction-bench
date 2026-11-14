@@ -1,0 +1,2 @@
+Governor response test of U-21 on the plant load controller.
+Test set on the spare analog input. Speed taken from the DCS.

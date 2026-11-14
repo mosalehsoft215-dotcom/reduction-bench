@@ -1,0 +1,26 @@
+{
+  "unit": "U-11",
+  "rated_power_mw": 255.0,
+  "rated_mva": 300.0,
+  "nominal_frequency_hz": 50.0,
+  "generator_poles": 2,
+  "instrument_setup": {
+    "meter": "generator terminals",
+    "speed": "governor",
+    "plant_frequency": "in service",
+    "load_ref": "governor reference",
+    "load_controller": "out of service",
+    "test_input": "governor test input"
+  },
+  "signals": {
+    "f_grid_hz": "plant frequency transducer on the 400 kV busbar VT",
+    "speed_rpm": "turbine speed (instrument_setup.speed says from where)",
+    "test_signal_mhz": "frequency deviation sent by the test set",
+    "mw_a": "generator MW transducer A (generator VT and CT)",
+    "mw_b": "generator MW transducer B (generator VT and CT)",
+    "load_ref_mw": "load reference (instrument_setup.load_ref says which)",
+    "exhaust_c": "exhaust temperature (control average)",
+    "exhaust_limit_c": "exhaust temperature control limit at the present conditions",
+    "energy_mwh": "revenue meter energy register (metering VT and CT, class 0.2S; instrument_setup.meter says where)"
+  }
+}

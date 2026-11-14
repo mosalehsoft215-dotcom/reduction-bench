@@ -1,0 +1,1 @@
+Visit PV-26, filter V. Unpolarised standard, polarised standard, then the target field, each at sixteen half-wave-plate angles. Photometry by the pipeline at four radii, sky subtracted.

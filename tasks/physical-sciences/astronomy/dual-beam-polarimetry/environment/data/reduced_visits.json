@@ -1,0 +1,10 @@
+{
+ "PV-03": {
+  "target_p_percent": 2.41,
+  "target_angle_deg": 143.6
+ },
+ "PV-08": {
+  "target_p_percent": 4.87,
+  "target_angle_deg": 21.9
+ }
+}

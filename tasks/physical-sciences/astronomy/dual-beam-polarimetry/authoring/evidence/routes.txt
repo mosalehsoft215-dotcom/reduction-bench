@@ -1,0 +1,16 @@
+reference: misses nothing
+largest aperture always: misses PV-26
+aperture 12 always: misses PV-23, PV-26
+aperture 7 always: misses PV-23
+rotator setting trusted: misses PV-24
+no off-axis term: misses PV-21, PV-23, PV-25, PV-27
+field stars' mean removed: misses PV-21, PV-22, PV-23, PV-24, PV-25, PV-26, PV-27
+standard taken at P_max: misses PV-25
+efficiency taken as 1: misses PV-25
+standard's two settings averaged: misses nothing
+naive: misses PV-21, PV-23, PV-24, PV-25, PV-26, PV-27
+PV-03 copied: fits no sealed visit
+PV-08 copied: fits no sealed visit
+mean degree of PV-03 and PV-08: fits no sealed visit
+one shared degree: inside on at most 1 of 7
+one shared angle: inside on at most 1 of 7

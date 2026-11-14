@@ -1,0 +1,2 @@
+reference: worst fraction of an allowance over 180 draws 0.65
+second: worst fraction of an allowance over 180 draws 0.76

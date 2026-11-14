@@ -1,0 +1,4 @@
+649600 constant pairs: 0 pass all five held-back loops; the best passes 2 of five
+loop-11 figures: passes 0 of five
+loop-12 figures: passes 0 of five
+mean of the examples: passes 0 of five

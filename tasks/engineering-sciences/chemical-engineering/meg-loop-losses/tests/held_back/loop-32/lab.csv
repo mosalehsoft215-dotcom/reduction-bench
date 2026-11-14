@@ -1,0 +1,303 @@
+sampled,sample,analyte,value,unit
+2026-02-16 08:00,"lean MEG, injection pump discharge",MEG,90.36,wt%
+2026-02-16 08:00,"lean MEG, injection pump discharge",chloride,8612,mg/kg
+2026-02-16 08:00,"lean MEG, injection pump discharge",calcium,348.5,mg/kg
+2026-02-16 08:00,"rich MEG, inlet separator outlet",MEG,57.99,wt%
+2026-02-16 08:00,"rich MEG, inlet separator outlet",chloride,1.233e+04,mg/kg
+2026-02-16 08:00,"rich MEG, inlet separator outlet",calcium,499.3,mg/kg
+2026-02-16 08:00,regeneration overhead water,MEG,3110,mg/kg
+2026-02-16 08:00,stabilised condensate,MEG,638.6,mg/kg
+2026-02-16 08:00,"reclaimer cake, daily composite",dissolved solids,78.53,wt%
+2026-02-16 08:00,"reclaimer cake, daily composite",MEG,12.34,wt%
+2026-02-17 08:00,"lean MEG, injection pump discharge",MEG,90.21,wt%
+2026-02-17 08:00,"lean MEG, injection pump discharge",chloride,8452,mg/kg
+2026-02-17 08:00,"lean MEG, injection pump discharge",calcium,339.9,mg/kg
+2026-02-17 08:00,"rich MEG, inlet separator outlet",MEG,57.32,wt%
+2026-02-17 08:00,"rich MEG, inlet separator outlet",chloride,1.228e+04,mg/kg
+2026-02-17 08:00,"rich MEG, inlet separator outlet",calcium,481.6,mg/kg
+2026-02-17 08:00,regeneration overhead water,MEG,2796,mg/kg
+2026-02-17 08:00,stabilised condensate,MEG,667.6,mg/kg
+2026-02-17 08:00,"reclaimer cake, daily composite",dissolved solids,76.70,wt%
+2026-02-17 08:00,"reclaimer cake, daily composite",MEG,13.06,wt%
+2026-02-18 08:00,"lean MEG, injection pump discharge",MEG,90.27,wt%
+2026-02-18 08:00,"lean MEG, injection pump discharge",chloride,8519,mg/kg
+2026-02-18 08:00,"lean MEG, injection pump discharge",calcium,360.1,mg/kg
+2026-02-18 08:00,"rich MEG, inlet separator outlet",MEG,58.03,wt%
+2026-02-18 08:00,"rich MEG, inlet separator outlet",chloride,1.238e+04,mg/kg
+2026-02-18 08:00,"rich MEG, inlet separator outlet",calcium,481,mg/kg
+2026-02-18 08:00,regeneration overhead water,MEG,3254,mg/kg
+2026-02-18 08:00,stabilised condensate,MEG,701,mg/kg
+2026-02-18 08:00,"reclaimer cake, daily composite",dissolved solids,78.11,wt%
+2026-02-18 08:00,"reclaimer cake, daily composite",MEG,12.61,wt%
+2026-02-19 08:00,"lean MEG, injection pump discharge",MEG,90.64,wt%
+2026-02-19 08:00,"lean MEG, injection pump discharge",chloride,8377,mg/kg
+2026-02-19 08:00,"lean MEG, injection pump discharge",calcium,343.6,mg/kg
+2026-02-19 08:00,"rich MEG, inlet separator outlet",MEG,57.23,wt%
+2026-02-19 08:00,"rich MEG, inlet separator outlet",chloride,1.231e+04,mg/kg
+2026-02-19 08:00,"rich MEG, inlet separator outlet",calcium,477.8,mg/kg
+2026-02-19 08:00,regeneration overhead water,MEG,2931,mg/kg
+2026-02-19 08:00,stabilised condensate,MEG,657.6,mg/kg
+2026-02-19 08:00,"reclaimer cake, daily composite",dissolved solids,79.33,wt%
+2026-02-19 08:00,"reclaimer cake, daily composite",MEG,12.71,wt%
+2026-02-20 08:00,"lean MEG, injection pump discharge",MEG,90.30,wt%
+2026-02-20 08:00,"lean MEG, injection pump discharge",chloride,8593,mg/kg
+2026-02-20 08:00,"lean MEG, injection pump discharge",calcium,343.5,mg/kg
+2026-02-20 08:00,"rich MEG, inlet separator outlet",MEG,57.28,wt%
+2026-02-20 08:00,"rich MEG, inlet separator outlet",chloride,1.22e+04,mg/kg
+2026-02-20 08:00,"rich MEG, inlet separator outlet",calcium,489.3,mg/kg
+2026-02-20 08:00,regeneration overhead water,MEG,3201,mg/kg
+2026-02-20 08:00,stabilised condensate,MEG,669,mg/kg
+2026-02-20 08:00,"reclaimer cake, daily composite",dissolved solids,78.66,wt%
+2026-02-20 08:00,"reclaimer cake, daily composite",MEG,12.05,wt%
+2026-02-21 08:00,"lean MEG, injection pump discharge",MEG,90.53,wt%
+2026-02-21 08:00,"lean MEG, injection pump discharge",chloride,8578,mg/kg
+2026-02-21 08:00,"lean MEG, injection pump discharge",calcium,344.5,mg/kg
+2026-02-21 08:00,"rich MEG, inlet separator outlet",MEG,57.59,wt%
+2026-02-21 08:00,"rich MEG, inlet separator outlet",chloride,1.211e+04,mg/kg
+2026-02-21 08:00,"rich MEG, inlet separator outlet",calcium,467.7,mg/kg
+2026-02-21 08:00,regeneration overhead water,MEG,2946,mg/kg
+2026-02-21 08:00,stabilised condensate,MEG,651.6,mg/kg
+2026-02-21 08:00,"reclaimer cake, daily composite",dissolved solids,78.78,wt%
+2026-02-21 08:00,"reclaimer cake, daily composite",MEG,12.92,wt%
+2026-02-22 08:00,"lean MEG, injection pump discharge",MEG,90.29,wt%
+2026-02-22 08:00,"lean MEG, injection pump discharge",chloride,8457,mg/kg
+2026-02-22 08:00,"lean MEG, injection pump discharge",calcium,343,mg/kg
+2026-02-22 08:00,"rich MEG, inlet separator outlet",MEG,57.98,wt%
+2026-02-22 08:00,"rich MEG, inlet separator outlet",chloride,1.253e+04,mg/kg
+2026-02-22 08:00,"rich MEG, inlet separator outlet",calcium,485.8,mg/kg
+2026-02-22 08:00,regeneration overhead water,MEG,2577,mg/kg
+2026-02-22 08:00,stabilised condensate,MEG,575.9,mg/kg
+2026-02-22 08:00,"reclaimer cake, daily composite",dissolved solids,77.57,wt%
+2026-02-22 08:00,"reclaimer cake, daily composite",MEG,13.65,wt%
+2026-02-23 08:00,"lean MEG, injection pump discharge",MEG,90.33,wt%
+2026-02-23 08:00,"lean MEG, injection pump discharge",chloride,8498,mg/kg
+2026-02-23 08:00,"lean MEG, injection pump discharge",calcium,339.2,mg/kg
+2026-02-23 08:00,"rich MEG, inlet separator outlet",MEG,57.19,wt%
+2026-02-23 08:00,"rich MEG, inlet separator outlet",chloride,1.191e+04,mg/kg
+2026-02-23 08:00,"rich MEG, inlet separator outlet",calcium,496.1,mg/kg
+2026-02-23 08:00,regeneration overhead water,MEG,3037,mg/kg
+2026-02-23 08:00,stabilised condensate,MEG,580.9,mg/kg
+2026-02-23 08:00,"reclaimer cake, daily composite",dissolved solids,78.91,wt%
+2026-02-23 08:00,"reclaimer cake, daily composite",MEG,12.66,wt%
+2026-02-24 08:00,"lean MEG, injection pump discharge",MEG,90.21,wt%
+2026-02-24 08:00,"lean MEG, injection pump discharge",chloride,8258,mg/kg
+2026-02-24 08:00,"lean MEG, injection pump discharge",calcium,331.5,mg/kg
+2026-02-24 08:00,"rich MEG, inlet separator outlet",MEG,57.72,wt%
+2026-02-24 08:00,"rich MEG, inlet separator outlet",chloride,1.216e+04,mg/kg
+2026-02-24 08:00,"rich MEG, inlet separator outlet",calcium,472.5,mg/kg
+2026-02-24 08:00,regeneration overhead water,MEG,2710,mg/kg
+2026-02-24 08:00,stabilised condensate,MEG,603.6,mg/kg
+2026-02-24 08:00,"reclaimer cake, daily composite",dissolved solids,77.56,wt%
+2026-02-24 08:00,"reclaimer cake, daily composite",MEG,12.89,wt%
+2026-02-25 08:00,"lean MEG, injection pump discharge",MEG,90.17,wt%
+2026-02-25 08:00,"lean MEG, injection pump discharge",chloride,8568,mg/kg
+2026-02-25 08:00,"lean MEG, injection pump discharge",calcium,337.6,mg/kg
+2026-02-25 08:00,"rich MEG, inlet separator outlet",MEG,58.49,wt%
+2026-02-25 08:00,"rich MEG, inlet separator outlet",chloride,1.248e+04,mg/kg
+2026-02-25 08:00,"rich MEG, inlet separator outlet",calcium,501.2,mg/kg
+2026-02-25 08:00,regeneration overhead water,MEG,2815,mg/kg
+2026-02-25 08:00,stabilised condensate,MEG,684.1,mg/kg
+2026-02-25 08:00,"reclaimer cake, daily composite",dissolved solids,78.10,wt%
+2026-02-25 08:00,"reclaimer cake, daily composite",MEG,12.00,wt%
+2026-02-26 08:00,"lean MEG, injection pump discharge",MEG,90.17,wt%
+2026-02-26 08:00,"lean MEG, injection pump discharge",chloride,8379,mg/kg
+2026-02-26 08:00,"lean MEG, injection pump discharge",calcium,335.2,mg/kg
+2026-02-26 08:00,"rich MEG, inlet separator outlet",MEG,57.86,wt%
+2026-02-26 08:00,"rich MEG, inlet separator outlet",chloride,1.218e+04,mg/kg
+2026-02-26 08:00,"rich MEG, inlet separator outlet",calcium,470,mg/kg
+2026-02-26 08:00,regeneration overhead water,MEG,3262,mg/kg
+2026-02-26 08:00,stabilised condensate,MEG,691.5,mg/kg
+2026-02-26 08:00,"reclaimer cake, daily composite",dissolved solids,77.86,wt%
+2026-02-26 08:00,"reclaimer cake, daily composite",MEG,14.10,wt%
+2026-02-27 08:00,"reclaimer cake, daily composite",dissolved solids,77.92,wt%
+2026-02-27 08:00,"reclaimer cake, daily composite",MEG,12.67,wt%
+2026-02-28 08:00,"lean MEG, injection pump discharge",MEG,90.31,wt%
+2026-02-28 08:00,"lean MEG, injection pump discharge",chloride,8336,mg/kg
+2026-02-28 08:00,"lean MEG, injection pump discharge",calcium,331,mg/kg
+2026-02-28 08:00,"rich MEG, inlet separator outlet",MEG,57.91,wt%
+2026-02-28 08:00,"rich MEG, inlet separator outlet",chloride,1.153e+04,mg/kg
+2026-02-28 08:00,"rich MEG, inlet separator outlet",calcium,468.6,mg/kg
+2026-02-28 08:00,regeneration overhead water,MEG,3458,mg/kg
+2026-02-28 08:00,stabilised condensate,MEG,627.5,mg/kg
+2026-02-28 08:00,"reclaimer cake, daily composite",dissolved solids,79.15,wt%
+2026-02-28 08:00,"reclaimer cake, daily composite",MEG,13.47,wt%
+2026-03-01 08:00,"lean MEG, injection pump discharge",MEG,90.09,wt%
+2026-03-01 08:00,"lean MEG, injection pump discharge",chloride,8455,mg/kg
+2026-03-01 08:00,"lean MEG, injection pump discharge",calcium,335.1,mg/kg
+2026-03-01 08:00,"rich MEG, inlet separator outlet",MEG,58.42,wt%
+2026-03-01 08:00,"rich MEG, inlet separator outlet",chloride,1.221e+04,mg/kg
+2026-03-01 08:00,"rich MEG, inlet separator outlet",calcium,487.6,mg/kg
+2026-03-01 08:00,regeneration overhead water,MEG,2811,mg/kg
+2026-03-01 08:00,stabilised condensate,MEG,620.6,mg/kg
+2026-03-01 08:00,"reclaimer cake, daily composite",dissolved solids,77.91,wt%
+2026-03-01 08:00,"reclaimer cake, daily composite",MEG,13.17,wt%
+2026-03-02 08:00,"lean MEG, injection pump discharge",MEG,90.59,wt%
+2026-03-02 08:00,"lean MEG, injection pump discharge",chloride,8351,mg/kg
+2026-03-02 08:00,"lean MEG, injection pump discharge",calcium,346.4,mg/kg
+2026-03-02 08:00,"rich MEG, inlet separator outlet",MEG,58.29,wt%
+2026-03-02 08:00,"rich MEG, inlet separator outlet",chloride,1.177e+04,mg/kg
+2026-03-02 08:00,"rich MEG, inlet separator outlet",calcium,462.7,mg/kg
+2026-03-02 08:00,regeneration overhead water,MEG,3216,mg/kg
+2026-03-02 08:00,stabilised condensate,MEG,604.6,mg/kg
+2026-03-02 08:00,"reclaimer cake, daily composite",dissolved solids,77.52,wt%
+2026-03-02 08:00,"reclaimer cake, daily composite",MEG,12.71,wt%
+2026-03-03 08:00,"lean MEG, injection pump discharge",MEG,90.33,wt%
+2026-03-03 08:00,"lean MEG, injection pump discharge",chloride,8200,mg/kg
+2026-03-03 08:00,"lean MEG, injection pump discharge",calcium,348.8,mg/kg
+2026-03-03 08:00,"rich MEG, inlet separator outlet",MEG,57.14,wt%
+2026-03-03 08:00,"rich MEG, inlet separator outlet",chloride,1.21e+04,mg/kg
+2026-03-03 08:00,"rich MEG, inlet separator outlet",calcium,497.7,mg/kg
+2026-03-03 08:00,regeneration overhead water,MEG,3083,mg/kg
+2026-03-03 08:00,stabilised condensate,MEG,638.2,mg/kg
+2026-03-03 08:00,"reclaimer cake, daily composite",dissolved solids,78.56,wt%
+2026-03-03 08:00,"reclaimer cake, daily composite",MEG,12.74,wt%
+2026-03-04 08:00,"lean MEG, injection pump discharge",MEG,90.14,wt%
+2026-03-04 08:00,"lean MEG, injection pump discharge",chloride,8244,mg/kg
+2026-03-04 08:00,"lean MEG, injection pump discharge",calcium,336.6,mg/kg
+2026-03-04 08:00,"rich MEG, inlet separator outlet",MEG,57.36,wt%
+2026-03-04 08:00,"rich MEG, inlet separator outlet",chloride,1.168e+04,mg/kg
+2026-03-04 08:00,"rich MEG, inlet separator outlet",calcium,480,mg/kg
+2026-03-04 08:00,regeneration overhead water,MEG,2566,mg/kg
+2026-03-04 08:00,stabilised condensate,MEG,711.5,mg/kg
+2026-03-04 08:00,"reclaimer cake, daily composite",dissolved solids,78.45,wt%
+2026-03-04 08:00,"reclaimer cake, daily composite",MEG,12.59,wt%
+2026-03-05 08:00,"lean MEG, injection pump discharge",MEG,90.24,wt%
+2026-03-05 08:00,"lean MEG, injection pump discharge",chloride,8361,mg/kg
+2026-03-05 08:00,"lean MEG, injection pump discharge",calcium,324.3,mg/kg
+2026-03-05 08:00,"rich MEG, inlet separator outlet",MEG,58.26,wt%
+2026-03-05 08:00,"rich MEG, inlet separator outlet",chloride,1.171e+04,mg/kg
+2026-03-05 08:00,"rich MEG, inlet separator outlet",calcium,502.1,mg/kg
+2026-03-05 08:00,regeneration overhead water,MEG,2991,mg/kg
+2026-03-05 08:00,stabilised condensate,MEG,604.4,mg/kg
+2026-03-05 08:00,"reclaimer cake, daily composite",dissolved solids,78.35,wt%
+2026-03-05 08:00,"reclaimer cake, daily composite",MEG,12.66,wt%
+2026-03-06 08:00,"lean MEG, injection pump discharge",MEG,90.18,wt%
+2026-03-06 08:00,"lean MEG, injection pump discharge",chloride,8122,mg/kg
+2026-03-06 08:00,"lean MEG, injection pump discharge",calcium,336.2,mg/kg
+2026-03-06 08:00,"rich MEG, inlet separator outlet",MEG,57.67,wt%
+2026-03-06 08:00,"rich MEG, inlet separator outlet",chloride,1.188e+04,mg/kg
+2026-03-06 08:00,"rich MEG, inlet separator outlet",calcium,464.3,mg/kg
+2026-03-06 08:00,regeneration overhead water,MEG,2739,mg/kg
+2026-03-06 08:00,stabilised condensate,MEG,689.1,mg/kg
+2026-03-06 08:00,"reclaimer cake, daily composite",dissolved solids,78.13,wt%
+2026-03-06 08:00,"reclaimer cake, daily composite",MEG,12.93,wt%
+2026-03-07 08:00,"lean MEG, injection pump discharge",MEG,90.14,wt%
+2026-03-07 08:00,"lean MEG, injection pump discharge",chloride,8261,mg/kg
+2026-03-07 08:00,"lean MEG, injection pump discharge",calcium,327.8,mg/kg
+2026-03-07 08:00,"rich MEG, inlet separator outlet",MEG,57.87,wt%
+2026-03-07 08:00,"rich MEG, inlet separator outlet",chloride,1.167e+04,mg/kg
+2026-03-07 08:00,"rich MEG, inlet separator outlet",calcium,464.8,mg/kg
+2026-03-07 08:00,regeneration overhead water,MEG,2874,mg/kg
+2026-03-07 08:00,stabilised condensate,MEG,610.7,mg/kg
+2026-03-07 08:00,"reclaimer cake, daily composite",dissolved solids,76.68,wt%
+2026-03-07 08:00,"reclaimer cake, daily composite",MEG,12.96,wt%
+2026-03-08 08:00,"lean MEG, injection pump discharge",MEG,90.36,wt%
+2026-03-08 08:00,"lean MEG, injection pump discharge",chloride,8416,mg/kg
+2026-03-08 08:00,"lean MEG, injection pump discharge",calcium,348.9,mg/kg
+2026-03-08 08:00,"rich MEG, inlet separator outlet",MEG,58.80,wt%
+2026-03-08 08:00,"rich MEG, inlet separator outlet",chloride,1.183e+04,mg/kg
+2026-03-08 08:00,"rich MEG, inlet separator outlet",calcium,476.9,mg/kg
+2026-03-08 08:00,regeneration overhead water,MEG,2812,mg/kg
+2026-03-08 08:00,stabilised condensate,MEG,697.4,mg/kg
+2026-03-08 08:00,"reclaimer cake, daily composite",dissolved solids,78.65,wt%
+2026-03-08 08:00,"reclaimer cake, daily composite",MEG,12.96,wt%
+2026-03-09 08:00,"lean MEG, injection pump discharge",MEG,90.36,wt%
+2026-03-09 08:00,"lean MEG, injection pump discharge",chloride,8176,mg/kg
+2026-03-09 08:00,"lean MEG, injection pump discharge",calcium,326.5,mg/kg
+2026-03-09 08:00,"rich MEG, inlet separator outlet",MEG,58.26,wt%
+2026-03-09 08:00,"rich MEG, inlet separator outlet",chloride,1.221e+04,mg/kg
+2026-03-09 08:00,"rich MEG, inlet separator outlet",calcium,494.1,mg/kg
+2026-03-09 08:00,regeneration overhead water,MEG,2945,mg/kg
+2026-03-09 08:00,stabilised condensate,MEG,665,mg/kg
+2026-03-09 08:00,"reclaimer cake, daily composite",dissolved solids,77.12,wt%
+2026-03-09 08:00,"reclaimer cake, daily composite",MEG,13.19,wt%
+2026-03-10 08:00,"lean MEG, injection pump discharge",MEG,90.17,wt%
+2026-03-10 08:00,"lean MEG, injection pump discharge",chloride,8121,mg/kg
+2026-03-10 08:00,"lean MEG, injection pump discharge",calcium,340.1,mg/kg
+2026-03-10 08:00,"rich MEG, inlet separator outlet",MEG,57.11,wt%
+2026-03-10 08:00,"rich MEG, inlet separator outlet",chloride,1.203e+04,mg/kg
+2026-03-10 08:00,"rich MEG, inlet separator outlet",calcium,485,mg/kg
+2026-03-10 08:00,regeneration overhead water,MEG,2719,mg/kg
+2026-03-10 08:00,stabilised condensate,MEG,654.9,mg/kg
+2026-03-10 08:00,"reclaimer cake, daily composite",dissolved solids,76.94,wt%
+2026-03-10 08:00,"reclaimer cake, daily composite",MEG,13.08,wt%
+2026-03-11 08:00,"lean MEG, injection pump discharge",MEG,90.23,wt%
+2026-03-11 08:00,"lean MEG, injection pump discharge",chloride,8445,mg/kg
+2026-03-11 08:00,"lean MEG, injection pump discharge",calcium,328.6,mg/kg
+2026-03-11 08:00,"rich MEG, inlet separator outlet",MEG,57.33,wt%
+2026-03-11 08:00,"rich MEG, inlet separator outlet",chloride,1.167e+04,mg/kg
+2026-03-11 08:00,"rich MEG, inlet separator outlet",calcium,484.3,mg/kg
+2026-03-11 08:00,regeneration overhead water,MEG,2973,mg/kg
+2026-03-11 08:00,stabilised condensate,MEG,669.8,mg/kg
+2026-03-11 08:00,"reclaimer cake, daily composite",dissolved solids,77.53,wt%
+2026-03-11 08:00,"reclaimer cake, daily composite",MEG,13.32,wt%
+2026-03-12 08:00,"lean MEG, injection pump discharge",MEG,90.27,wt%
+2026-03-12 08:00,"lean MEG, injection pump discharge",chloride,8527,mg/kg
+2026-03-12 08:00,"lean MEG, injection pump discharge",calcium,339.3,mg/kg
+2026-03-12 08:00,"rich MEG, inlet separator outlet",MEG,58.07,wt%
+2026-03-12 08:00,"rich MEG, inlet separator outlet",chloride,1.232e+04,mg/kg
+2026-03-12 08:00,"rich MEG, inlet separator outlet",calcium,489.8,mg/kg
+2026-03-12 08:00,regeneration overhead water,MEG,2824,mg/kg
+2026-03-12 08:00,stabilised condensate,MEG,628.5,mg/kg
+2026-03-12 08:00,"reclaimer cake, daily composite",dissolved solids,76.66,wt%
+2026-03-12 08:00,"reclaimer cake, daily composite",MEG,13.20,wt%
+2026-03-13 08:00,"lean MEG, injection pump discharge",MEG,90.17,wt%
+2026-03-13 08:00,"lean MEG, injection pump discharge",chloride,8064,mg/kg
+2026-03-13 08:00,"lean MEG, injection pump discharge",calcium,319.3,mg/kg
+2026-03-13 08:00,"rich MEG, inlet separator outlet",MEG,58.38,wt%
+2026-03-13 08:00,"rich MEG, inlet separator outlet",chloride,1.193e+04,mg/kg
+2026-03-13 08:00,"rich MEG, inlet separator outlet",calcium,478.5,mg/kg
+2026-03-13 08:00,regeneration overhead water,MEG,2818,mg/kg
+2026-03-13 08:00,stabilised condensate,MEG,572,mg/kg
+2026-03-13 08:00,"reclaimer cake, daily composite",dissolved solids,77.28,wt%
+2026-03-13 08:00,"reclaimer cake, daily composite",MEG,12.99,wt%
+2026-03-14 08:00,"lean MEG, injection pump discharge",MEG,90.08,wt%
+2026-03-14 08:00,"lean MEG, injection pump discharge",chloride,8096,mg/kg
+2026-03-14 08:00,"lean MEG, injection pump discharge",calcium,332.7,mg/kg
+2026-03-14 08:00,"rich MEG, inlet separator outlet",MEG,57.98,wt%
+2026-03-14 08:00,"rich MEG, inlet separator outlet",chloride,1.168e+04,mg/kg
+2026-03-14 08:00,"rich MEG, inlet separator outlet",calcium,468.7,mg/kg
+2026-03-14 08:00,regeneration overhead water,MEG,2825,mg/kg
+2026-03-14 08:00,stabilised condensate,MEG,569.7,mg/kg
+2026-03-14 08:00,"reclaimer cake, daily composite",dissolved solids,77.68,wt%
+2026-03-14 08:00,"reclaimer cake, daily composite",MEG,13.23,wt%
+2026-03-15 08:00,"lean MEG, injection pump discharge",MEG,90.38,wt%
+2026-03-15 08:00,"lean MEG, injection pump discharge",chloride,8182,mg/kg
+2026-03-15 08:00,"lean MEG, injection pump discharge",calcium,342.9,mg/kg
+2026-03-15 08:00,"rich MEG, inlet separator outlet",MEG,58.91,wt%
+2026-03-15 08:00,"rich MEG, inlet separator outlet",chloride,1.223e+04,mg/kg
+2026-03-15 08:00,"rich MEG, inlet separator outlet",calcium,481.9,mg/kg
+2026-03-15 08:00,regeneration overhead water,MEG,3028,mg/kg
+2026-03-15 08:00,stabilised condensate,MEG,590.1,mg/kg
+2026-03-15 08:00,"reclaimer cake, daily composite",dissolved solids,78.78,wt%
+2026-03-15 08:00,"reclaimer cake, daily composite",MEG,12.90,wt%
+2026-03-16 08:00,"lean MEG, injection pump discharge",MEG,90.40,wt%
+2026-03-16 08:00,"lean MEG, injection pump discharge",chloride,8476,mg/kg
+2026-03-16 08:00,"lean MEG, injection pump discharge",calcium,328.8,mg/kg
+2026-03-16 08:00,"rich MEG, inlet separator outlet",MEG,56.92,wt%
+2026-03-16 08:00,"rich MEG, inlet separator outlet",chloride,1.203e+04,mg/kg
+2026-03-16 08:00,"rich MEG, inlet separator outlet",calcium,458.7,mg/kg
+2026-03-16 08:00,regeneration overhead water,MEG,3086,mg/kg
+2026-03-16 08:00,stabilised condensate,MEG,626.6,mg/kg
+2026-03-16 08:00,"reclaimer cake, daily composite",dissolved solids,77.90,wt%
+2026-03-16 08:00,"reclaimer cake, daily composite",MEG,12.57,wt%
+2026-03-17 08:00,"lean MEG, injection pump discharge",MEG,90.27,wt%
+2026-03-17 08:00,"lean MEG, injection pump discharge",chloride,8308,mg/kg
+2026-03-17 08:00,"lean MEG, injection pump discharge",calcium,325.8,mg/kg
+2026-03-17 08:00,"rich MEG, inlet separator outlet",MEG,57.45,wt%
+2026-03-17 08:00,"rich MEG, inlet separator outlet",chloride,1.145e+04,mg/kg
+2026-03-17 08:00,"rich MEG, inlet separator outlet",calcium,464.1,mg/kg
+2026-03-17 08:00,regeneration overhead water,MEG,2570,mg/kg
+2026-03-17 08:00,stabilised condensate,MEG,592.5,mg/kg
+2026-03-17 08:00,"reclaimer cake, daily composite",dissolved solids,78.86,wt%
+2026-03-17 08:00,"reclaimer cake, daily composite",MEG,13.46,wt%
+2026-03-18 08:00,"lean MEG, injection pump discharge",MEG,90.06,wt%
+2026-03-18 08:00,"lean MEG, injection pump discharge",chloride,8386,mg/kg
+2026-03-18 08:00,"lean MEG, injection pump discharge",calcium,325.8,mg/kg
+2026-03-18 08:00,"rich MEG, inlet separator outlet",MEG,57.28,wt%
+2026-03-18 08:00,"rich MEG, inlet separator outlet",chloride,1.177e+04,mg/kg
+2026-03-18 08:00,"rich MEG, inlet separator outlet",calcium,466.1,mg/kg
+2026-03-18 08:00,regeneration overhead water,MEG,2951,mg/kg
+2026-03-18 08:00,stabilised condensate,MEG,611.3,mg/kg
+2026-03-18 08:00,"reclaimer cake, daily composite",dissolved solids,77.76,wt%
+2026-03-18 08:00,"reclaimer cake, daily composite",MEG,13.41,wt%

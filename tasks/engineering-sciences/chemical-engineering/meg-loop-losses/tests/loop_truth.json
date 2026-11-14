@@ -1,0 +1,22 @@
+{
+  "loop-31": {
+    "formation_water_t_d": 62.43336068491329,
+    "meg_loss_kg_d": 1708.0012632263667
+  },
+  "loop-32": {
+    "formation_water_t_d": 47.14277849862632,
+    "meg_loss_kg_d": 2990.3155709437788
+  },
+  "loop-33": {
+    "formation_water_t_d": 65.24583000236646,
+    "meg_loss_kg_d": 1551.3676183389177
+  },
+  "loop-34": {
+    "formation_water_t_d": 58.303022226437655,
+    "meg_loss_kg_d": 1887.7378557764657
+  },
+  "loop-35": {
+    "formation_water_t_d": 60.05306189707478,
+    "meg_loss_kg_d": 1882.8126488810124
+  }
+}

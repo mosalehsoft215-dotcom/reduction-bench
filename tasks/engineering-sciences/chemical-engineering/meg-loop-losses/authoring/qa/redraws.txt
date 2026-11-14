@@ -1,0 +1,5 @@
+210 fresh-noise loops (30 of each of the seven)
+ref formation_water_t_d: worst 0.70 of the limit (U1 copy 15), mean 0.21
+ref meg_loss_kg_d: worst 0.48 of the limit (U2 copy 4), mean 0.09
+s2 formation_water_t_d: worst 0.88 of the limit (U5 copy 15), mean 0.28
+s2 meg_loss_kg_d: worst 0.50 of the limit (U2 copy 14), mean 0.09

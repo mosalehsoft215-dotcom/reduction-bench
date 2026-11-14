@@ -1,0 +1,184 @@
+{
+  "loop": "Loop 32",
+  "test_window": {
+    "start": "2026-02-20 00:00",
+    "end": "2026-03-13 00:00"
+  },
+  "wells": [
+    {
+      "well": "W-1",
+      "reservoir_block": "A",
+      "gas_meter": "FI-511",
+      "produces_formation_water": false
+    },
+    {
+      "well": "W-2",
+      "reservoir_block": "A",
+      "gas_meter": "FI-512",
+      "produces_formation_water": true
+    }
+  ],
+  "reservoir_blocks": {
+    "A": {
+      "gas_water_content_kg_per_MSm3": 3600.0
+    }
+  },
+  "inlet_separator": {
+    "gas_water_content_kg_per_MSm3": 420.0,
+    "meg_carried_by_export_gas_kg_per_MSm3": 3.2
+  },
+  "formation_water_analysis": {
+    "sample": "drill-stem test of W-2",
+    "tds_mg_per_kg": 73000.0,
+    "chloride_mg_per_kg": 44000.0,
+    "calcium_mg_per_kg": 1760.0
+  },
+  "lines": {
+    "temperature_C": 8.0,
+    "meg_supply_line": {
+      "liquid_volume_m3": 160.0,
+      "contents": "lean MEG"
+    },
+    "flowline": {
+      "liquid_volume_m3": 950.0,
+      "contents": "lean MEG, condensed water and formation water from the manifold"
+    }
+  },
+  "tanks": {
+    "TK-L": {
+      "service": "lean MEG",
+      "floor_area_m2": 110.0,
+      "level": "LT-101",
+      "temperature": "TT-102"
+    },
+    "TK-R": {
+      "service": "rich MEG",
+      "floor_area_m2": 90.0,
+      "level": "LT-201",
+      "temperature": "TT-202"
+    }
+  },
+  "regeneration": {
+    "lean_meg_set_point_wt_pct": 88.5,
+    "overhead": "water to produced-water treatment, FI-402"
+  },
+  "reclaimer": {
+    "feed": "slipstream of the lean MEG from regeneration",
+    "cake": "centrifuge cake, weighed on discharge (cake.csv); daily composite to the laboratory"
+  },
+  "make_up": {
+    "meter": "FI-601",
+    "into": "TK-L",
+    "grade": "as stated on each delivery note (shift log)"
+  },
+  "instruments": [
+    {
+      "tag": "FI-101",
+      "measures": "lean MEG to the injection pumps",
+      "unit": "kg/h",
+      "type": "Coriolis"
+    },
+    {
+      "tag": "DT-101",
+      "measures": "lean MEG density at TT-101",
+      "unit": "kg/m3",
+      "type": "densitometer"
+    },
+    {
+      "tag": "TT-101",
+      "measures": "lean MEG temperature at DT-101",
+      "unit": "C",
+      "type": ""
+    },
+    {
+      "tag": "FI-201",
+      "measures": "rich MEG from the inlet separator to TK-R",
+      "unit": "m3/h",
+      "type": "electromagnetic, at TT-201"
+    },
+    {
+      "tag": "DT-201",
+      "measures": "rich MEG density at TT-201",
+      "unit": "kg/m3",
+      "type": "densitometer"
+    },
+    {
+      "tag": "TT-201",
+      "measures": "rich MEG temperature at FI-201 and DT-201",
+      "unit": "C",
+      "type": ""
+    },
+    {
+      "tag": "LT-101",
+      "measures": "TK-L level",
+      "unit": "m",
+      "type": "radar"
+    },
+    {
+      "tag": "TT-102",
+      "measures": "TK-L temperature",
+      "unit": "C",
+      "type": ""
+    },
+    {
+      "tag": "LT-201",
+      "measures": "TK-R level",
+      "unit": "m",
+      "type": "radar"
+    },
+    {
+      "tag": "TT-202",
+      "measures": "TK-R temperature",
+      "unit": "C",
+      "type": ""
+    },
+    {
+      "tag": "FI-401",
+      "measures": "regeneration feed from TK-R",
+      "unit": "m3/h",
+      "type": "electromagnetic, at TT-202"
+    },
+    {
+      "tag": "DT-401",
+      "measures": "regeneration feed density at TT-202",
+      "unit": "kg/m3",
+      "type": "densitometer"
+    },
+    {
+      "tag": "FI-402",
+      "measures": "regeneration overhead water",
+      "unit": "m3/h",
+      "type": "electromagnetic, at 35 C"
+    },
+    {
+      "tag": "FI-501",
+      "measures": "export gas",
+      "unit": "MSm3/d",
+      "type": "ultrasonic, fiscal"
+    },
+    {
+      "tag": "FI-502",
+      "measures": "stabilised condensate export",
+      "unit": "t/h",
+      "type": "Coriolis"
+    },
+    {
+      "tag": "FI-601",
+      "measures": "make-up MEG into TK-L",
+      "unit": "kg/h",
+      "type": "Coriolis"
+    },
+    {
+      "tag": "FI-511",
+      "measures": "gas from W-1",
+      "unit": "MSm3/d",
+      "type": "subsea wet-gas meter"
+    },
+    {
+      "tag": "FI-512",
+      "measures": "gas from W-2",
+      "unit": "MSm3/d",
+      "type": "subsea wet-gas meter"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+ "trial_2026-09": {
+  "Q_CO2_GPU": 57.3,
+  "Q_CH4_GPU": 2.31,
+  "E_CH4_kJ_mol": 18.23
+ },
+ "trial_2026-03": {
+  "Q_CO2_GPU": 49.8,
+  "Q_CH4_GPU": 1.62,
+  "E_CH4_kJ_mol": 16.4
+ },
+ "h1": {
+  "Q_CO2_GPU": 61.5,
+  "Q_CH4_GPU": 2.62,
+  "E_CH4_kJ_mol": 19.4
+ },
+ "h2": {
+  "Q_CO2_GPU": 54.2,
+  "Q_CH4_GPU": 2.05,
+  "E_CH4_kJ_mol": 17.6
+ },
+ "h3": {
+  "Q_CO2_GPU": 58.9,
+  "Q_CH4_GPU": 2.44,
+  "E_CH4_kJ_mol": 18.9
+ }
+}

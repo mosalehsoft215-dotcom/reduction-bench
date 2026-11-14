@@ -1,0 +1,63 @@
+2026-09-14 05:40  Trial start. FT-103 isolated for its zero check: reads 0.00 Nm3/h (N2). Back in service.
+2026-09-14 06:00  GC: span gas on the analyser, 3 analyses (stream 4).
+2026-09-14 06:00  Operating point 1 set: PIC-101 30.3 bar(a), TIC-101 25.0 C, FIC-101 203 Sm3/h, PIC-103 1.50 bar(a), PCV-102 differential 9.8 bar.
+2026-09-14 06:13  Upstream supply changed from well W-3 to well W-5 (blend about 15 min).
+2026-09-14 07:53  Upstream supply changed from well W-5 to well W-3 (blend about 15 min).
+2026-09-14 09:33  Upstream supply changed from well W-3 to well W-5 (blend about 15 min).
+2026-09-14 09:50  Operating point 2 set: PIC-101 40.8 bar(a), TIC-101 25.2 C, FIC-101 271 Sm3/h, PIC-103 1.51 bar(a), PCV-102 differential 8.2 bar.
+2026-09-14 11:13  Upstream supply changed from well W-5 to well W-3 (blend about 15 min).
+2026-09-14 11:55  Shift handover; all loops in auto. Weather: dry, barometer 861 mbar.
+2026-09-14 12:53  Upstream supply changed from well W-3 to well W-5 (blend about 15 min).
+2026-09-14 13:40  Operating point 3 set: PIC-101 50.6 bar(a), TIC-101 25.1 C, FIC-101 342 Sm3/h, PIC-103 1.51 bar(a), PCV-102 differential 11.9 bar.
+2026-09-14 14:08  Inlet filter-coalescer F-101 drained: no liquid.
+2026-09-14 14:33  Upstream supply changed from well W-5 to well W-3 (blend about 15 min).
+2026-09-14 16:13  Upstream supply changed from well W-3 to well W-5 (blend about 15 min).
+2026-09-14 17:30  Operating point 4 set: PIC-101 60.2 bar(a), TIC-101 25.3 C, FIC-101 405 Sm3/h, PIC-103 1.51 bar(a), PCV-102 differential 10.2 bar.
+2026-09-14 17:53  Upstream supply changed from well W-5 to well W-3 (blend about 15 min).
+2026-09-14 19:33  Upstream supply changed from well W-3 to well W-5 (blend about 15 min).
+2026-09-14 21:13  Upstream supply changed from well W-5 to well W-3 (blend about 15 min).
+2026-09-14 21:20  Operating point 5 set: PIC-101 50.5 bar(a), TIC-101 25.0 C, FIC-101 168 Sm3/h, PIC-103 1.51 bar(a), PCV-102 differential 6.2 bar.
+2026-09-14 21:31  Compressor K-201 tripped and restarted; plant header pressure dipped, PIC-101 held the separator feed.
+2026-09-14 22:53  Upstream supply changed from well W-3 to well W-5 (blend about 15 min).
+2026-09-14 23:55  Shift handover; all loops in auto. Weather: dry, barometer 861 mbar.
+2026-09-15 00:33  Upstream supply changed from well W-5 to well W-3 (blend about 15 min).
+2026-09-15 01:10  Operating point 6 set: PIC-101 40.3 bar(a), TIC-101 25.1 C, FIC-101 125 Sm3/h, PIC-103 1.50 bar(a), PCV-102 differential 11.1 bar.
+2026-09-15 02:13  Upstream supply changed from well W-3 to well W-5 (blend about 15 min).
+2026-09-15 03:03  Instrument technician compared the FT-101 and FT-102 local displays with the DCS: agree.
+2026-09-15 03:53  Upstream supply changed from well W-5 to well W-3 (blend about 15 min).
+2026-09-15 05:00  Operating point 7 set: PIC-101 30.5 bar(a), TIC-101 24.8 C, FIC-101 112 Sm3/h, PIC-103 1.51 bar(a), PCV-102 differential 7.1 bar.
+2026-09-15 05:33  Upstream supply changed from well W-3 to well W-5 (blend about 15 min).
+2026-09-15 07:13  Upstream supply changed from well W-5 to well W-3 (blend about 15 min).
+2026-09-15 08:44  GC: span gas on the analyser, 3 analyses (stream 4).
+2026-09-15 08:50  Operating point 8 set: PIC-101 60.4 bar(a), TIC-101 25.0 C, FIC-101 222 Sm3/h, PIC-103 1.50 bar(a), PCV-102 differential 7.6 bar.
+2026-09-15 08:53  Upstream supply changed from well W-3 to well W-5 (blend about 15 min).
+2026-09-15 10:22  Rain shower for about 20 min.
+2026-09-15 10:33  Upstream supply changed from well W-5 to well W-3 (blend about 15 min).
+2026-09-15 11:55  Shift handover; all loops in auto. Weather: dry, barometer 861 mbar.
+2026-09-15 12:13  Upstream supply changed from well W-3 to well W-5 (blend about 15 min).
+2026-09-15 12:40  Operating point 9 set: PIC-101 50.4 bar(a), TIC-101 44.9 C, FIC-101 158 Sm3/h, PIC-103 1.52 bar(a), PCV-102 differential 6.4 bar.
+2026-09-15 13:06  Short whistling noise in the test area while TIC-101 ramped up; stopped after a few seconds.
+2026-09-15 13:53  Upstream supply changed from well W-5 to well W-3 (blend about 15 min).
+2026-09-15 15:33  Upstream supply changed from well W-3 to well W-5 (blend about 15 min).
+2026-09-15 16:30  Operating point 10 set: PIC-101 50.5 bar(a), TIC-101 45.1 C, FIC-101 236 Sm3/h, PIC-103 1.50 bar(a), PCV-102 differential 10.6 bar.
+2026-09-15 17:13  Upstream supply changed from well W-5 to well W-3 (blend about 15 min).
+2026-09-15 18:47  Loud rattling from the K-201 suction strainer for a few minutes; mechanical fitter informed.
+2026-09-15 18:53  Upstream supply changed from well W-3 to well W-5 (blend about 15 min).
+2026-09-15 20:20  Operating point 11 set: PIC-101 50.3 bar(a), TIC-101 44.8 C, FIC-101 311 Sm3/h, PIC-103 1.51 bar(a), PCV-102 differential 9.1 bar.
+2026-09-15 20:33  Upstream supply changed from well W-5 to well W-3 (blend about 15 min).
+2026-09-15 22:13  Upstream supply changed from well W-3 to well W-5 (blend about 15 min).
+2026-09-15 23:53  Upstream supply changed from well W-5 to well W-3 (blend about 15 min).
+2026-09-15 23:55  Shift handover; all loops in auto. Weather: dry, barometer 861 mbar.
+2026-09-16 00:10  Operating point 12 set: PIC-101 50.4 bar(a), TIC-101 45.2 C, FIC-101 197 Sm3/h, PIC-103 1.52 bar(a), PCV-102 differential 8.7 bar.
+2026-09-16 01:33  Upstream supply changed from well W-3 to well W-5 (blend about 15 min).
+2026-09-16 03:13  Upstream supply changed from well W-5 to well W-3 (blend about 15 min).
+2026-09-16 04:00  Operating point 13 set: PIC-101 50.2 bar(a), TIC-101 45.0 C, FIC-101 270 Sm3/h, PIC-103 1.51 bar(a), PCV-102 differential 9.6 bar.
+2026-09-16 04:53  Upstream supply changed from well W-3 to well W-5 (blend about 15 min).
+2026-09-16 06:33  Upstream supply changed from well W-5 to well W-3 (blend about 15 min).
+2026-09-16 07:09  Inlet filter-coalescer F-101 drained: no liquid.
+2026-09-16 07:50  Operating point 14 set: PIC-101 50.5 bar(a), TIC-101 44.9 C, FIC-101 130 Sm3/h, PIC-103 1.51 bar(a), PCV-102 differential 7.3 bar.
+2026-09-16 08:13  Upstream supply changed from well W-3 to well W-5 (blend about 15 min).
+2026-09-16 09:53  Upstream supply changed from well W-5 to well W-3 (blend about 15 min).
+2026-09-16 11:27  GC: span gas on the analyser, 3 analyses (stream 4).
+2026-09-16 11:33  Upstream supply changed from well W-3 to well W-5 (blend about 15 min).
+2026-09-16 11:45  Trial end. FT-103 isolated for its zero check: reads 0.22 Nm3/h (N2).

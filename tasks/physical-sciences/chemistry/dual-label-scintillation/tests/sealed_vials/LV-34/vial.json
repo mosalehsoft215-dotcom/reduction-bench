@@ -1,0 +1,34 @@
+{
+ "vial": "LV-34",
+ "counted": "2026-07-02",
+ "standards": {
+  "H3": {
+   "activity_bq": 2210.0,
+   "reference_date": "2017-05-29",
+   "vial": "glass, 20 mL"
+  },
+  "C14": {
+   "activity_bq": 1105.0,
+   "reference_date": "2026-01-12",
+   "vial": "glass, 20 mL"
+  }
+ },
+ "sample": {
+  "appearance": "yellow",
+  "vial": "glass, 20 mL"
+ },
+ "windows_kev": {
+  "A": [
+   0.0,
+   18.6
+  ],
+  "B": [
+   18.6,
+   156.0
+  ]
+ },
+ "series": {
+  "chemical": "nitromethane quenched",
+  "colour": "quenched with a yellow azo dye"
+ }
+}

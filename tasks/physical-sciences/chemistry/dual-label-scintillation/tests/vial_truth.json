@@ -1,0 +1,22 @@
+{
+ "LV-31": {
+  "tritium_bq": 683.4,
+  "carbon14_bq": 152.7
+ },
+ "LV-32": {
+  "tritium_bq": 296.8,
+  "carbon14_bq": 61.4
+ },
+ "LV-33": {
+  "tritium_bq": 948.2,
+  "carbon14_bq": 37.9
+ },
+ "LV-34": {
+  "tritium_bq": 531.5,
+  "carbon14_bq": 179.6
+ },
+ "LV-35": {
+  "tritium_bq": 205.3,
+  "carbon14_bq": 98.1
+ }
+}

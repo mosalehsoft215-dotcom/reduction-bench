@@ -1,0 +1,56 @@
+{
+  "campaign": "P2",
+  "cavity": {
+    "mirror_separation_cm": 70.0,
+    "heated_length_cm": 59.5,
+    "mirror_purge": "nitrogen",
+    "purge_o2_mole_fraction": 0.0
+  },
+  "laser": {
+    "spectral_profile": "gaussian",
+    "fwhm_cm": 0.0491
+  },
+  "detector": {
+    "response": "single-pole",
+    "time_constant_ns": 30.0
+  },
+  "digitiser": {
+    "sample_interval_ns": 60.0,
+    "samples_per_trace": 480,
+    "shots_averaged": 64
+  },
+  "runs": [
+    {
+      "run": "E0",
+      "role": "vacuum",
+      "pressure_torr": 0.058,
+      "arm_temperature_K": 296.0,
+      "gas": "none (cavity evacuated, gas and purge valves closed)"
+    },
+    {
+      "run": "R0",
+      "role": "reference",
+      "pressure_torr": 3.008,
+      "arm_temperature_K": 296.0,
+      "gas": "dry synthetic air",
+      "o2_mole_fraction": 0.20946,
+      "temperature_K": 296.0
+    },
+    {
+      "run": "S1",
+      "role": "sample",
+      "pressure_torr": 5.758,
+      "arm_temperature_K": 300.6,
+      "gas": "reactor feed (O2 in N2)",
+      "temperature_K": null
+    },
+    {
+      "run": "S2",
+      "role": "sample",
+      "pressure_torr": 11.558,
+      "arm_temperature_K": 303.8,
+      "gas": "reactor feed (O2 in N2)",
+      "temperature_K": null
+    }
+  ]
+}

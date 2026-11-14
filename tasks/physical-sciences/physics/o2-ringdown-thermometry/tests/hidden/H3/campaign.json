@@ -1,0 +1,48 @@
+{
+  "campaign": "H3",
+  "cavity": {
+    "mirror_separation_cm": 70.0,
+    "heated_length_cm": 59.5,
+    "mirror_purge": "dry air",
+    "purge_o2_mole_fraction": 0.20946
+  },
+  "laser": {
+    "spectral_profile": "sech2",
+    "fwhm_cm": 0.0603
+  },
+  "detector": {
+    "response": "single-pole",
+    "time_constant_ns": 30.0
+  },
+  "digitiser": {
+    "sample_interval_ns": 60.0,
+    "samples_per_trace": 480,
+    "shots_averaged": 64
+  },
+  "runs": [
+    {
+      "run": "E0",
+      "role": "vacuum",
+      "pressure_torr": 0.074,
+      "arm_temperature_K": 296.0,
+      "gas": "none (cavity evacuated, gas and purge valves closed)"
+    },
+    {
+      "run": "R0",
+      "role": "reference",
+      "pressure_torr": 4.074,
+      "arm_temperature_K": 295.1,
+      "gas": "O2 in N2, gravimetric",
+      "o2_mole_fraction": 0.02503,
+      "temperature_K": 295.1
+    },
+    {
+      "run": "S1",
+      "role": "sample",
+      "pressure_torr": 10.074,
+      "arm_temperature_K": 305.2,
+      "gas": "reactor feed (O2 in N2)",
+      "temperature_K": null
+    }
+  ]
+}

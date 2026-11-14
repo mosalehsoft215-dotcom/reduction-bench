@@ -1,0 +1,18 @@
+{
+ "P1": {
+  "fill_fraction": 0.8613,
+  "o2_mole_fraction": 0.1384,
+  "temperature_K": {
+   "S1": 438.7,
+   "S2": 611.4
+  }
+ },
+ "P2": {
+  "fill_fraction": 0.8641,
+  "o2_mole_fraction": 0.0867,
+  "temperature_K": {
+   "S1": 357.9,
+   "S2": 522.6
+  }
+ }
+}

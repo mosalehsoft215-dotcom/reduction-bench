@@ -1,0 +1,33 @@
+{
+ "H1": {
+  "fill_fraction": 0.8582,
+  "o2_mole_fraction": 0.2471,
+  "temperature_K": {
+   "S1": 762.3
+  }
+ },
+ "H2": {
+  "fill_fraction": 0.8642,
+  "o2_mole_fraction": 0.1653,
+  "temperature_K": {
+   "S1": 401.8,
+   "S2": 688.7
+  }
+ },
+ "H3": {
+  "fill_fraction": 0.8569,
+  "o2_mole_fraction": 0.135,
+  "temperature_K": {
+   "S1": 655.5
+  }
+ },
+ "H4": {
+  "fill_fraction": 1.0,
+  "o2_mole_fraction": 0.1912,
+  "temperature_K": {
+   "S1": 322.4,
+   "S2": 470.9,
+   "S3": 640.2
+  }
+ }
+}

@@ -1,0 +1,22 @@
+second analysis, errors in percent of the generator inputs; draws: task data and 2 redraws
+ task H1: fill_fraction -0.055  o2_mole_fraction -0.335  T_S1 -0.336
+ task H2: fill_fraction +0.092  o2_mole_fraction -0.095  T_S1 -0.059  T_S2 +0.144
+ task H3: fill_fraction +0.003  o2_mole_fraction +0.092  T_S1 +0.161
+ task H4: fill_fraction +0.000  o2_mole_fraction +0.285  T_S1 -0.144  T_S2 -0.021  T_S3 +0.005
+ task P1: fill_fraction -0.102  o2_mole_fraction -0.087  T_S1 -0.065  T_S2 -0.225
+ task P2: fill_fraction +0.014  o2_mole_fraction -0.040  T_S1 +0.086  T_S2 -0.068
+  900 H1: fill_fraction +0.097  o2_mole_fraction +0.501  T_S1 +0.532
+  900 H2: fill_fraction -0.212  o2_mole_fraction -0.038  T_S1 -0.215  T_S2 -0.480
+  900 H3: fill_fraction +0.045  o2_mole_fraction +0.078  T_S1 +0.023
+  900 H4: fill_fraction +0.000  o2_mole_fraction +0.277  T_S1 -0.106  T_S2 -0.335  T_S3 -0.184
+  900 P1: fill_fraction +0.107  o2_mole_fraction -0.054  T_S1 -0.032  T_S2 +0.266
+  900 P2: fill_fraction +0.009  o2_mole_fraction +0.098  T_S1 +0.085  T_S2 +0.050
+  901 H1: fill_fraction -0.022  o2_mole_fraction -0.018  T_S1 -0.071
+  901 H2: fill_fraction -0.041  o2_mole_fraction -0.011  T_S1 -0.141  T_S2 -0.065
+  901 H3: fill_fraction -0.072  o2_mole_fraction -0.323  T_S1 -0.231
+  901 H4: fill_fraction +0.000  o2_mole_fraction +0.357  T_S1 +0.040  T_S2 +0.076  T_S3 -0.104
+  901 P1: fill_fraction -0.027  o2_mole_fraction -0.057  T_S1 -0.013  T_S2 +0.020
+  901 P2: fill_fraction -0.162  o2_mole_fraction +0.226  T_S1 +0.013  T_S2 -0.124
+worst |error| fill_fraction: 0.212
+worst |error| o2_mole_fraction: 0.501
+worst |error| temperature_K: 0.532

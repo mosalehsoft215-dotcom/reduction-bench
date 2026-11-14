@@ -1,0 +1,58 @@
+{
+  "campaign": "H2",
+  "cavity": {
+    "mirror_separation_cm": 52.0,
+    "heated_length_cm": 44.0,
+    "mirror_purge": "nitrogen",
+    "purge_o2_mole_fraction": 0.0
+  },
+  "laser": {
+    "spectral_profile": "gaussian",
+    "fwhm_cm": 0.0458
+  },
+  "detector": {
+    "response": "single-pole",
+    "time_constant_ns": 350.0
+  },
+  "digitiser": {
+    "sample_interval_ns": 60.0,
+    "samples_per_trace": 480,
+    "shots_averaged": 64
+  },
+  "runs": [
+    {
+      "run": "R0",
+      "role": "reference",
+      "pressure_torr": 1.316,
+      "arm_temperature_K": 296.0,
+      "gas": "dry synthetic air",
+      "o2_mole_fraction": 0.20946,
+      "temperature_K": 296.0
+    },
+    {
+      "run": "R1",
+      "role": "reference",
+      "pressure_torr": 6.966,
+      "arm_temperature_K": 296.0,
+      "gas": "dry synthetic air",
+      "o2_mole_fraction": 0.20946,
+      "temperature_K": 296.0
+    },
+    {
+      "run": "S1",
+      "role": "sample",
+      "pressure_torr": 5.266,
+      "arm_temperature_K": 301.1,
+      "gas": "reactor feed (O2 in N2)",
+      "temperature_K": null
+    },
+    {
+      "run": "S2",
+      "role": "sample",
+      "pressure_torr": 9.866,
+      "arm_temperature_K": 306.0,
+      "gas": "reactor feed (O2 in N2)",
+      "temperature_K": null
+    }
+  ]
+}

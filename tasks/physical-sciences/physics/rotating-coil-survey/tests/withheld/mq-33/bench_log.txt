@@ -1,0 +1,3 @@
+MQ-33: shaft mounted, inclinometer read at each plateau
+MQ-33: degaussed, then plateaus in block order
+MQ-33: survey closed

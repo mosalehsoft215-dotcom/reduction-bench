@@ -1,0 +1,14 @@
+{
+  "magnet": "MQ-11",
+  "operating_current_a": 900.0,
+  "operating_branch": "rising",
+  "measurement_currents_a": [
+    0.0,
+    200.0,
+    400.0,
+    600.0,
+    800.0,
+    900.0,
+    1000.0
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "reference_radius_m": 0.025,
+  "steps_per_turn": 256,
+  "increment_unit": "V s (flux change between successive encoder positions, listed by encoder position)",
+  "segments": [
+    {
+      "segment": 1,
+      "distance_from_drive_fraction": 0.25,
+      "inner_radius_m": 0.002,
+      "outer_radius_m": 0.024,
+      "turns": 40
+    },
+    {
+      "segment": 2,
+      "distance_from_drive_fraction": 0.5,
+      "inner_radius_m": 0.002,
+      "outer_radius_m": 0.024,
+      "turns": 40
+    },
+    {
+      "segment": 3,
+      "distance_from_drive_fraction": 0.75,
+      "inner_radius_m": 0.002,
+      "outer_radius_m": 0.024,
+      "turns": 40
+    }
+  ]
+}

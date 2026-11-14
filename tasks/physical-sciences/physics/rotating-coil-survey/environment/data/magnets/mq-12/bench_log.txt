@@ -1,0 +1,3 @@
+MQ-12: shaft mounted, inclinometer read at each plateau
+MQ-12: degaussed, then plateaus in block order
+MQ-12: survey closed

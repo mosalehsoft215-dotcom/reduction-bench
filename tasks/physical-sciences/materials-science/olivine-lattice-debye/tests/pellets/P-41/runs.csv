@@ -1,0 +1,4 @@
+run,absorber,temperature_K,resonant_fraction,real_time_s,live_time_s
+foil_295K.csv,alpha-Fe foil,295,0.5931,63008.8,62395.6
+pellet_295K.csv,pellet,295,0.5351,14718.9,13141.6
+pellet_080K.csv,pellet,80,0.5955,30189.0,28495.0

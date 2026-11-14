@@ -1,0 +1,10 @@
+{
+ "P-03": {
+  "theta_olivine_K": 338.0,
+  "theta_heterosite_K": 344.0
+ },
+ "P-08": {
+  "theta_olivine_K": 352.0,
+  "theta_heterosite_K": 349.0
+ }
+}

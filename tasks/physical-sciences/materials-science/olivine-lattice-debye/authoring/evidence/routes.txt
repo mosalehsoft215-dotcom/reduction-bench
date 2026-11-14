@@ -1,0 +1,77 @@
+reference                                                          P-03  worst   0.05 (theta_heterosite_K)  theta=0.01 theta=0.05
+reference                                                          P-08  worst   0.11 (theta_olivine_K)  theta=0.11 theta=0.10
+reference                                                          P-41  worst   0.08 (theta_heterosite_K)  theta=0.04 theta=0.08
+reference                                                          P-42  worst   0.04 (theta_olivine_K)  theta=0.04 theta=0.01
+reference                                                          P-43  worst   0.04 (theta_heterosite_K)  theta=0.04 theta=0.04
+reference                                                          P-44  worst   0.13 (theta_heterosite_K)  theta=0.12 theta=0.13
+reference                                                          P-45  worst   0.09 (theta_olivine_K)  theta=0.09 theta=0.02
+thin absorber (Lorentzian lines), Debye per site                   P-03  worst   0.53 (theta_heterosite_K)  theta=0.51 theta=0.53
+thin absorber (Lorentzian lines), Debye per site                   P-08  worst   0.77 (theta_heterosite_K)  theta=0.61 theta=0.77
+thin absorber (Lorentzian lines), Debye per site                   P-41  worst  17.56 (theta_heterosite_K)  theta=3.18 theta=17.56
+thin absorber (Lorentzian lines), Debye per site                   P-42  worst  20.08 (theta_heterosite_K)  theta=3.83 theta=20.08
+thin absorber (Lorentzian lines), Debye per site                   P-43  worst  11.06 (theta_olivine_K)  theta=11.06 theta=3.23
+thin absorber (Lorentzian lines), Debye per site                   P-44  worst  15.18 (theta_heterosite_K)  theta=3.57 theta=15.18
+thin absorber (Lorentzian lines), Debye per site                   P-45  worst  22.60 (theta_heterosite_K)  theta=0.33 theta=22.60
+transmission integral, one recoil-free fraction for both sites     P-03  worst   0.14 (theta_olivine_K)  theta=0.14 theta=0.10
+transmission integral, one recoil-free fraction for both sites     P-08  worst   0.16 (theta_heterosite_K)  theta=0.04 theta=0.16
+transmission integral, one recoil-free fraction for both sites     P-41  worst   4.40 (theta_heterosite_K)  theta=2.36 theta=4.40
+transmission integral, one recoil-free fraction for both sites     P-42  worst   5.01 (theta_olivine_K)  theta=5.01 theta=1.47
+transmission integral, one recoil-free fraction for both sites     P-43  worst   2.04 (theta_heterosite_K)  theta=0.64 theta=2.04
+transmission integral, one recoil-free fraction for both sites     P-44  worst   2.83 (theta_olivine_K)  theta=2.83 theta=1.81
+transmission integral, one recoil-free fraction for both sites     P-45  worst   2.88 (theta_olivine_K)  theta=2.88 theta=0.08
+velocity scale linear in channel (foil fitted without the cubic terms) P-03  worst   0.04 (theta_olivine_K)  theta=0.04 theta=0.02
+velocity scale linear in channel (foil fitted without the cubic terms) P-08  worst   0.09 (theta_olivine_K)  theta=0.09 theta=0.09
+velocity scale linear in channel (foil fitted without the cubic terms) P-41  worst   0.17 (theta_heterosite_K)  theta=0.04 theta=0.17
+velocity scale linear in channel (foil fitted without the cubic terms) P-42  worst   0.03 (theta_olivine_K)  theta=0.03 theta=0.03
+velocity scale linear in channel (foil fitted without the cubic terms) P-43  worst   0.05 (theta_olivine_K)  theta=0.05 theta=0.05
+velocity scale linear in channel (foil fitted without the cubic terms) P-44  worst   0.12 (theta_olivine_K)  theta=0.12 theta=0.11
+velocity scale linear in channel (foil fitted without the cubic terms) P-45  worst   0.11 (theta_olivine_K)  theta=0.11 theta=0.04
+analyser dead time ignored (counts taken as recorded)              P-03  worst   0.03 (theta_olivine_K)  theta=0.03 theta=0.03
+analyser dead time ignored (counts taken as recorded)              P-08  worst   0.06 (theta_olivine_K)  theta=0.06 theta=0.05
+analyser dead time ignored (counts taken as recorded)              P-41  worst   4.03 (theta_heterosite_K)  theta=1.25 theta=4.03
+analyser dead time ignored (counts taken as recorded)              P-42  worst   2.68 (theta_heterosite_K)  theta=0.75 theta=2.68
+analyser dead time ignored (counts taken as recorded)              P-43  worst   0.46 (theta_olivine_K)  theta=0.46 theta=0.15
+analyser dead time ignored (counts taken as recorded)              P-44  worst   6.68 (theta_heterosite_K)  theta=3.89 theta=6.68
+analyser dead time ignored (counts taken as recorded)              P-45  worst   5.49 (theta_heterosite_K)  theta=2.39 theta=5.49
+cold run taken at the stage sensor reading (80 K), shifts free per run P-03  worst   0.07 (theta_heterosite_K)  theta=0.00 theta=0.07
+cold run taken at the stage sensor reading (80 K), shifts free per run P-08  worst   0.04 (theta_olivine_K)  theta=0.04 theta=0.02
+cold run taken at the stage sensor reading (80 K), shifts free per run P-41  worst   1.45 (theta_heterosite_K)  theta=1.24 theta=1.45
+cold run taken at the stage sensor reading (80 K), shifts free per run P-42  worst   2.02 (theta_heterosite_K)  theta=1.50 theta=2.02
+cold run taken at the stage sensor reading (80 K), shifts free per run P-43  worst   1.24 (theta_olivine_K)  theta=1.24 theta=1.11
+cold run taken at the stage sensor reading (80 K), shifts free per run P-44  worst   1.69 (theta_olivine_K)  theta=1.69 theta=1.63
+cold run taken at the stage sensor reading (80 K), shifts free per run P-45  worst   1.73 (theta_heterosite_K)  theta=1.56 theta=1.73
+cold head's velocity spread ignored (absorber widths shared by both runs) P-03  worst   0.05 (theta_heterosite_K)  theta=0.01 theta=0.05
+cold head's velocity spread ignored (absorber widths shared by both runs) P-08  worst   0.11 (theta_olivine_K)  theta=0.11 theta=0.10
+cold head's velocity spread ignored (absorber widths shared by both runs) P-41  worst  17.56 (theta_heterosite_K)  theta=5.34 theta=17.56
+cold head's velocity spread ignored (absorber widths shared by both runs) P-42  worst  20.08 (theta_heterosite_K)  theta=3.96 theta=20.08
+cold head's velocity spread ignored (absorber widths shared by both runs) P-43  worst  12.37 (theta_olivine_K)  theta=12.37 theta=1.36
+cold head's velocity spread ignored (absorber widths shared by both runs) P-44  worst  15.20 (theta_heterosite_K)  theta=3.57 theta=15.20
+cold head's velocity spread ignored (absorber widths shared by both runs) P-45  worst  22.60 (theta_heterosite_K)  theta=2.47 theta=22.60
+cold head's spread taken as wider absorber lines in the cold run   P-03  worst   0.11 (theta_heterosite_K)  theta=0.00 theta=0.11
+cold head's spread taken as wider absorber lines in the cold run   P-08  worst   0.13 (theta_heterosite_K)  theta=0.06 theta=0.13
+cold head's spread taken as wider absorber lines in the cold run   P-41  worst  17.48 (theta_heterosite_K)  theta=2.27 theta=17.48
+cold head's spread taken as wider absorber lines in the cold run   P-42  worst   1.06 (theta_heterosite_K)  theta=0.15 theta=1.06
+cold head's spread taken as wider absorber lines in the cold run   P-43  worst   4.02 (theta_olivine_K)  theta=4.02 theta=2.98
+cold head's spread taken as wider absorber lines in the cold run   P-44  worst  14.24 (theta_heterosite_K)  theta=1.54 theta=14.24
+cold head's spread taken as wider absorber lines in the cold run   P-45  worst  25.40 (theta_olivine_K)  theta=25.40 theta=2.09
+sheet's mean areal density taken for the collimated centre         P-03  worst   0.05 (theta_olivine_K)  theta=0.05 theta=0.01
+sheet's mean areal density taken for the collimated centre         P-08  worst   0.02 (theta_olivine_K)  theta=0.02 theta=0.01
+sheet's mean areal density taken for the collimated centre         P-41  worst   4.21 (theta_heterosite_K)  theta=2.13 theta=4.21
+sheet's mean areal density taken for the collimated centre         P-42  worst   7.19 (theta_heterosite_K)  theta=1.66 theta=7.19
+sheet's mean areal density taken for the collimated centre         P-43  worst   2.50 (theta_olivine_K)  theta=2.50 theta=1.54
+sheet's mean areal density taken for the collimated centre         P-44  worst  15.20 (theta_heterosite_K)  theta=11.48 theta=15.20
+sheet's mean areal density taken for the collimated centre         P-45  worst   1.92 (theta_olivine_K)  theta=1.92 theta=1.76
+beam path taken normal to the pellet (no 1/cos of the tilt)        P-03  worst   1.90 (theta_heterosite_K)  theta=1.88 theta=1.90
+beam path taken normal to the pellet (no 1/cos of the tilt)        P-08  worst   2.04 (theta_heterosite_K)  theta=1.95 theta=2.04
+beam path taken normal to the pellet (no 1/cos of the tilt)        P-41  worst   0.08 (theta_heterosite_K)  theta=0.04 theta=0.08
+beam path taken normal to the pellet (no 1/cos of the tilt)        P-42  worst  14.38 (theta_heterosite_K)  theta=3.28 theta=14.38
+beam path taken normal to the pellet (no 1/cos of the tilt)        P-43  worst   0.04 (theta_heterosite_K)  theta=0.04 theta=0.04
+beam path taken normal to the pellet (no 1/cos of the tilt)        P-44  worst  19.57 (theta_olivine_K)  theta=19.57 theta=15.20
+beam path taken normal to the pellet (no 1/cos of the tilt)        P-45  worst   0.09 (theta_olivine_K)  theta=0.09 theta=0.02
+thin absorber, logged temperatures, no dead-time correction (the plain route) P-03  worst   0.39 (theta_olivine_K)  theta=0.39 theta=0.25
+thin absorber, logged temperatures, no dead-time correction (the plain route) P-08  worst   0.40 (theta_olivine_K)  theta=0.40 theta=0.37
+thin absorber, logged temperatures, no dead-time correction (the plain route) P-41  worst   1.94 (theta_olivine_K)  theta=1.94 theta=0.59
+thin absorber, logged temperatures, no dead-time correction (the plain route) P-42  worst  18.05 (theta_heterosite_K)  theta=2.09 theta=18.05
+thin absorber, logged temperatures, no dead-time correction (the plain route) P-43  worst  16.73 (theta_olivine_K)  theta=16.73 theta=4.17
+thin absorber, logged temperatures, no dead-time correction (the plain route) P-44  worst   5.31 (theta_olivine_K)  theta=5.31 theta=3.51
+thin absorber, logged temperatures, no dead-time correction (the plain route) P-45  worst  22.60 (theta_heterosite_K)  theta=2.13 theta=22.60

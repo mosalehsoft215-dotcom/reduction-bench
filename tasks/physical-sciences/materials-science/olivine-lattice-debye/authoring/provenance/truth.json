@@ -1,0 +1,30 @@
+{
+ "P-03": {
+  "theta_olivine_K": 338.0,
+  "theta_heterosite_K": 344.0
+ },
+ "P-08": {
+  "theta_olivine_K": 352.0,
+  "theta_heterosite_K": 349.0
+ },
+ "P-41": {
+  "theta_olivine_K": 292.0,
+  "theta_heterosite_K": 461.0
+ },
+ "P-42": {
+  "theta_olivine_K": 236.0,
+  "theta_heterosite_K": 398.0
+ },
+ "P-43": {
+  "theta_olivine_K": 348.0,
+  "theta_heterosite_K": 281.0
+ },
+ "P-44": {
+  "theta_olivine_K": 404.0,
+  "theta_heterosite_K": 520.0
+ },
+ "P-45": {
+  "theta_olivine_K": 265.0,
+  "theta_heterosite_K": 335.0
+ }
+}

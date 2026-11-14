@@ -1,0 +1,10 @@
+{
+ "TK-1": {
+  "litres_per_mm": 3.1416,
+  "use": "pump suction"
+ },
+ "TK-2": {
+  "litres_per_mm": 2.5447,
+  "use": "drain receiver"
+ }
+}

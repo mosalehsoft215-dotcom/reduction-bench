@@ -1,0 +1,98 @@
+{
+ "pressure": [
+  {
+   "tag": "PR-1",
+   "kind": "electronic_recorder",
+   "chainage_m": 0,
+   "elevation_m": 72.1,
+   "file": "pressure.csv",
+   "resolution_bar": 0.001
+  },
+  {
+   "tag": "DW-1",
+   "kind": "deadweight_tester",
+   "chainage_m": 0,
+   "elevation_m": 72.1,
+   "file": "deadweight.csv",
+   "resolution_bar": 0.002
+  }
+ ],
+ "temperature": [
+  {
+   "tag": "TT-01",
+   "chainage_m": 11,
+   "mounting": "pipe_wall",
+   "file": "rtd_log.csv"
+  },
+  {
+   "tag": "TT-02",
+   "chainage_m": 640,
+   "mounting": "pipe_wall",
+   "file": "rtd_log.csv"
+  },
+  {
+   "tag": "TT-03",
+   "chainage_m": 1280,
+   "mounting": "pipe_wall",
+   "file": "rtd_log.csv"
+  },
+  {
+   "tag": "TT-04",
+   "chainage_m": 1900,
+   "mounting": "pipe_wall",
+   "file": "rtd_log.csv"
+  },
+  {
+   "tag": "TT-05",
+   "chainage_m": 2450,
+   "mounting": "pipe_wall",
+   "file": "rtd_log.csv"
+  },
+  {
+   "tag": "TT-06",
+   "chainage_m": 3150,
+   "mounting": "pipe_wall",
+   "file": "rtd_log.csv"
+  },
+  {
+   "tag": "TT-07",
+   "chainage_m": 5200,
+   "mounting": "pipe_wall",
+   "file": "rtd_log.csv"
+  },
+  {
+   "tag": "TT-08",
+   "chainage_m": 7400,
+   "mounting": "pipe_wall",
+   "file": "rtd_log.csv"
+  },
+  {
+   "tag": "TT-09",
+   "chainage_m": 8620,
+   "mounting": "pipe_wall",
+   "file": "rtd_log.csv"
+  },
+  {
+   "tag": "TS-01",
+   "chainage_m": 1275,
+   "mounting": "soil_at_pipe_depth",
+   "file": "soil_probes.csv"
+  },
+  {
+   "tag": "TS-02",
+   "chainage_m": 5190,
+   "mounting": "soil_at_pipe_depth",
+   "file": "soil_probes.csv"
+  },
+  {
+   "tag": "TA-01",
+   "chainage_m": 0,
+   "mounting": "ambient",
+   "file": "rtd_log.csv"
+  }
+ ],
+ "barometer": {
+  "tag": "PB-1",
+  "file": "barometer.csv"
+ }
+}

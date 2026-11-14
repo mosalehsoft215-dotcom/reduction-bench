@@ -1,0 +1,78 @@
+reading,description,section,leak_kg_per_h,air_sm3,leak_dev_pct,air_dev_pct,leak_allowances,air_allowances,fit_rms_kg
+method,the method,S-411,4.391,7.891,+0.2,-0.4,0.01,0.04,3.92
+method,the method,S-526,7.827,14.343,-0.1,-0.9,0.00,0.09,6.14
+method,the method,S-133,3.414,5.343,-0.5,-0.9,0.03,0.09,4.57
+method,the method,S-208,3.880,23.354,-0.2,-0.5,0.02,0.05,3.84
+method,the method,S-347,5.365,4.367,+0.2,-0.2,0.01,0.02,2.91
+method,the method,S-462,2.869,6.642,+0.3,-0.7,0.02,0.07,4.34
+method,the method,S-519,8.571,21.637,+0.6,-0.2,0.04,0.02,3.49
+keep_pit_sensors,wall sensors in an open excavation averaged with the segment's other sensors,S-411,4.391,7.891,+0.2,-0.4,0.01,0.04,3.92
+keep_pit_sensors,wall sensors in an open excavation averaged with the segment's other sensors,S-526,7.827,14.343,-0.1,-0.9,0.00,0.09,6.14
+keep_pit_sensors,wall sensors in an open excavation averaged with the segment's other sensors,S-133,1.190,5.083,-65.3,-5.7,4.35,0.57,34.66
+keep_pit_sensors,wall sensors in an open excavation averaged with the segment's other sensors,S-208,3.880,23.354,-0.2,-0.5,0.02,0.05,3.84
+keep_pit_sensors,wall sensors in an open excavation averaged with the segment's other sensors,S-347,5.365,4.367,+0.2,-0.2,0.01,0.02,2.91
+keep_pit_sensors,wall sensors in an open excavation averaged with the segment's other sensors,S-462,2.869,6.642,+0.3,-0.7,0.02,0.07,4.34
+keep_pit_sensors,wall sensors in an open excavation averaged with the segment's other sensors,S-519,8.571,21.637,+0.6,-0.2,0.04,0.02,3.49
+pit_majority,the two agreeing wall sensors of a segment taken over the third (median),S-411,4.391,7.891,+0.2,-0.4,0.01,0.04,3.92
+pit_majority,the two agreeing wall sensors of a segment taken over the third (median),S-526,7.827,14.343,-0.1,-0.9,0.00,0.09,6.14
+pit_majority,the two agreeing wall sensors of a segment taken over the third (median),S-133,0.071,4.966,-97.9,-7.9,6.53,0.79,51.94
+pit_majority,the two agreeing wall sensors of a segment taken over the third (median),S-208,3.881,23.355,-0.2,-0.5,0.01,0.05,3.88
+pit_majority,the two agreeing wall sensors of a segment taken over the third (median),S-347,5.365,4.367,+0.2,-0.2,0.01,0.02,2.91
+pit_majority,the two agreeing wall sensors of a segment taken over the third (median),S-462,2.869,6.642,+0.3,-0.7,0.02,0.07,4.34
+pit_majority,the two agreeing wall sensors of a segment taken over the third (median),S-519,8.571,21.637,+0.6,-0.2,0.04,0.02,3.49
+trust_wiring,logger channels taken as configured,S-411,4.391,7.891,+0.2,-0.4,0.01,0.04,3.92
+trust_wiring,logger channels taken as configured,S-526,7.827,14.343,-0.1,-0.9,0.00,0.09,6.14
+trust_wiring,logger channels taken as configured,S-133,3.414,5.343,-0.5,-0.9,0.03,0.09,4.57
+trust_wiring,logger channels taken as configured,S-208,6.061,21.851,+55.9,-6.9,3.72,0.69,154.74
+trust_wiring,logger channels taken as configured,S-347,5.365,4.367,+0.2,-0.2,0.01,0.02,2.91
+trust_wiring,logger channels taken as configured,S-462,2.869,6.642,+0.3,-0.7,0.02,0.07,4.34
+trust_wiring,logger channels taken as configured,S-519,8.571,21.637,+0.6,-0.2,0.04,0.02,3.49
+drop_odd_channel,"a buried channel with a daily swing dropped, nothing swapped",S-411,4.391,7.891,+0.2,-0.4,0.01,0.04,3.92
+drop_odd_channel,"a buried channel with a daily swing dropped, nothing swapped",S-526,7.827,14.343,-0.1,-0.9,0.00,0.09,6.14
+drop_odd_channel,"a buried channel with a daily swing dropped, nothing swapped",S-133,3.414,5.343,-0.5,-0.9,0.03,0.09,4.57
+drop_odd_channel,"a buried channel with a daily swing dropped, nothing swapped",S-208,8.005,20.632,+105.9,-12.1,7.06,1.21,279.39
+drop_odd_channel,"a buried channel with a daily swing dropped, nothing swapped",S-347,5.365,4.367,+0.2,-0.2,0.01,0.02,2.91
+drop_odd_channel,"a buried channel with a daily swing dropped, nothing swapped",S-462,2.869,6.642,+0.3,-0.7,0.02,0.07,4.34
+drop_odd_channel,"a buried channel with a daily swing dropped, nothing swapped",S-519,8.571,21.637,+0.6,-0.2,0.04,0.02,3.49
+air_at_gauge,air taken at the gauge pressure instead of at the summit,S-411,4.392,7.822,+0.2,-1.3,0.01,0.13,3.95
+air_at_gauge,air taken at the gauge pressure instead of at the summit,S-526,7.821,14.264,-0.1,-1.4,0.01,0.14,6.19
+air_at_gauge,air taken at the gauge pressure instead of at the summit,S-133,3.414,5.321,-0.5,-1.3,0.03,0.13,4.57
+air_at_gauge,air taken at the gauge pressure instead of at the summit,S-208,3.860,23.163,-0.7,-1.3,0.05,0.13,4.15
+air_at_gauge,air taken at the gauge pressure instead of at the summit,S-347,5.644,8.817,+5.4,+101.6,0.36,10.16,7.33
+air_at_gauge,air taken at the gauge pressure instead of at the summit,S-462,2.869,6.614,+0.3,-1.2,0.02,0.12,4.35
+air_at_gauge,air taken at the gauge pressure instead of at the summit,S-519,8.572,21.589,+0.6,-0.4,0.04,0.04,3.49
+flat_head,one pressure along the whole line (no water column),S-411,4.411,7.596,+0.6,-4.1,0.04,0.41,4.14
+flat_head,one pressure along the whole line (no water column),S-526,7.824,13.696,-0.1,-5.4,0.01,0.54,7.07
+flat_head,one pressure along the whole line (no water column),S-133,3.433,5.159,+0.1,-4.3,0.01,0.43,4.62
+flat_head,one pressure along the whole line (no water column),S-208,3.797,22.480,-2.4,-4.3,0.16,0.43,6.48
+flat_head,one pressure along the whole line (no water column),S-347,5.636,8.702,+5.2,+98.9,0.35,9.89,7.23
+flat_head,one pressure along the whole line (no water column),S-462,2.887,6.413,+0.9,-4.2,0.06,0.42,4.47
+flat_head,one pressure along the whole line (no water column),S-519,8.589,21.449,+0.8,-1.1,0.05,0.11,3.50
+fresh_water,pure water instead of the analysed salinity,S-411,4.423,7.886,+0.9,-0.4,0.06,0.04,3.91
+fresh_water,pure water instead of the analysed salinity,S-526,7.971,14.335,+1.8,-0.9,0.12,0.09,6.16
+fresh_water,pure water instead of the analysed salinity,S-133,3.444,5.337,+0.4,-1.0,0.03,0.10,4.56
+fresh_water,pure water instead of the analysed salinity,S-208,3.919,23.336,+0.8,-0.6,0.05,0.06,4.07
+fresh_water,pure water instead of the analysed salinity,S-347,5.405,4.358,+0.9,-0.4,0.06,0.04,2.90
+fresh_water,pure water instead of the analysed salinity,S-462,5.612,6.447,+96.2,-3.7,6.42,0.37,7.18
+fresh_water,pure water instead of the analysed salinity,S-519,8.625,21.644,+1.2,-0.2,0.08,0.02,3.48
+hold_last,a sensor that stopped held at its last reading,S-411,4.391,7.891,+0.2,-0.4,0.01,0.04,3.92
+hold_last,a sensor that stopped held at its last reading,S-526,7.827,14.343,-0.1,-0.9,0.00,0.09,6.14
+hold_last,a sensor that stopped held at its last reading,S-133,3.414,5.343,-0.5,-0.9,0.03,0.09,4.57
+hold_last,a sensor that stopped held at its last reading,S-208,3.880,23.354,-0.2,-0.5,0.02,0.05,3.84
+hold_last,a sensor that stopped held at its last reading,S-347,5.365,4.367,+0.2,-0.2,0.01,0.02,2.91
+hold_last,a sensor that stopped held at its last reading,S-462,2.869,6.642,+0.3,-0.7,0.02,0.07,4.34
+hold_last,a sensor that stopped held at its last reading,S-519,13.706,23.537,+60.9,+8.6,4.06,0.86,7.07
+no_air,no air in the line,S-411,1.954,0.000,-55.4,-100.0,3.70,10.00,144.22
+no_air,no air in the line,S-526,-0.337,0.000,-104.3,-100.0,6.95,10.00,349.35
+no_air,no air in the line,S-133,1.518,0.000,-55.8,-100.0,3.72,10.00,108.40
+no_air,no air in the line,S-208,-10.225,0.000,-363.0,-100.0,24.20,10.00,519.24
+no_air,no air in the line,S-347,4.513,0.000,-15.8,-100.0,1.05,10.00,68.01
+no_air,no air in the line,S-462,0.438,0.000,-84.7,-100.0,5.65,10.00,125.65
+no_air,no air in the line,S-519,14.529,0.000,+70.5,-100.0,4.70,10.00,47.54
+"pit_majority,drop_odd_channel,air_at_gauge,hold_last","careful defaults together (majority, drop odd channel, air at the gauge, last reading held)",S-411,4.392,7.822,+0.2,-1.3,0.01,0.13,3.95
+"pit_majority,drop_odd_channel,air_at_gauge,hold_last","careful defaults together (majority, drop odd channel, air at the gauge, last reading held)",S-526,7.821,14.264,-0.1,-1.4,0.01,0.14,6.19
+"pit_majority,drop_odd_channel,air_at_gauge,hold_last","careful defaults together (majority, drop odd channel, air at the gauge, last reading held)",S-133,0.071,4.946,-97.9,-8.3,6.53,0.83,51.94
+"pit_majority,drop_odd_channel,air_at_gauge,hold_last","careful defaults together (majority, drop odd channel, air at the gauge, last reading held)",S-208,7.993,20.467,+105.5,-12.8,7.04,1.28,279.31
+"pit_majority,drop_odd_channel,air_at_gauge,hold_last","careful defaults together (majority, drop odd channel, air at the gauge, last reading held)",S-347,5.644,8.817,+5.4,+101.6,0.36,10.16,7.33
+"pit_majority,drop_odd_channel,air_at_gauge,hold_last","careful defaults together (majority, drop odd channel, air at the gauge, last reading held)",S-462,2.869,6.614,+0.3,-1.2,0.02,0.12,4.35
+"pit_majority,drop_odd_channel,air_at_gauge,hold_last","careful defaults together (majority, drop odd channel, air at the gauge, last reading held)",S-519,13.708,23.484,+60.9,+8.3,4.06,0.83,7.10

@@ -1,0 +1,385 @@
+{
+ "errors": 0,
+ "rows": [
+  {
+   "solver": "air_at_gauge",
+   "section": "S-347",
+   "figure": "air_sm3",
+   "draws": 30,
+   "worst_pct": 103.27,
+   "worst_allowances": 10.33,
+   "least_pct": 99.61,
+   "least_allowances": 9.96
+  },
+  {
+   "solver": "air_at_gauge",
+   "section": "S-347",
+   "figure": "leak_kg_per_h",
+   "draws": 30,
+   "worst_pct": 5.73,
+   "worst_allowances": 0.38,
+   "least_pct": 4.74,
+   "least_allowances": 0.32
+  },
+  {
+   "solver": "fresh_water",
+   "section": "S-462",
+   "figure": "air_sm3",
+   "draws": 30,
+   "worst_pct": -4.19,
+   "worst_allowances": 0.42,
+   "least_pct": 3.06,
+   "least_allowances": 0.31
+  },
+  {
+   "solver": "fresh_water",
+   "section": "S-462",
+   "figure": "leak_kg_per_h",
+   "draws": 30,
+   "worst_pct": 96.7,
+   "worst_allowances": 6.45,
+   "least_pct": 94.28,
+   "least_allowances": 6.29
+  },
+  {
+   "solver": "hold_last",
+   "section": "S-519",
+   "figure": "air_sm3",
+   "draws": 30,
+   "worst_pct": 12.14,
+   "worst_allowances": 1.21,
+   "least_pct": 6.68,
+   "least_allowances": 0.67
+  },
+  {
+   "solver": "hold_last",
+   "section": "S-519",
+   "figure": "leak_kg_per_h",
+   "draws": 30,
+   "worst_pct": 62.5,
+   "worst_allowances": 4.17,
+   "least_pct": 53.45,
+   "least_allowances": 3.56
+  },
+  {
+   "solver": "keep_pit_sensors",
+   "section": "S-133",
+   "figure": "air_sm3",
+   "draws": 30,
+   "worst_pct": -6.29,
+   "worst_allowances": 0.63,
+   "least_pct": 4.91,
+   "least_allowances": 0.49
+  },
+  {
+   "solver": "keep_pit_sensors",
+   "section": "S-133",
+   "figure": "leak_kg_per_h",
+   "draws": 30,
+   "worst_pct": -65.96,
+   "worst_allowances": 4.4,
+   "least_pct": 64.31,
+   "least_allowances": 4.29
+  },
+  {
+   "solver": "reference",
+   "section": "S-133",
+   "figure": "air_sm3",
+   "draws": 30,
+   "worst_pct": -1.54,
+   "worst_allowances": 0.15,
+   "least_pct": 0.12,
+   "least_allowances": 0.01
+  },
+  {
+   "solver": "reference",
+   "section": "S-133",
+   "figure": "leak_kg_per_h",
+   "draws": 30,
+   "worst_pct": -1.36,
+   "worst_allowances": 0.09,
+   "least_pct": 0.02,
+   "least_allowances": 0.0
+  },
+  {
+   "solver": "reference",
+   "section": "S-208",
+   "figure": "air_sm3",
+   "draws": 30,
+   "worst_pct": -0.89,
+   "worst_allowances": 0.09,
+   "least_pct": 0.53,
+   "least_allowances": 0.05
+  },
+  {
+   "solver": "reference",
+   "section": "S-208",
+   "figure": "leak_kg_per_h",
+   "draws": 30,
+   "worst_pct": -1.37,
+   "worst_allowances": 0.09,
+   "least_pct": 0.02,
+   "least_allowances": 0.0
+  },
+  {
+   "solver": "reference",
+   "section": "S-347",
+   "figure": "air_sm3",
+   "draws": 30,
+   "worst_pct": -1.27,
+   "worst_allowances": 0.13,
+   "least_pct": 0.04,
+   "least_allowances": 0.0
+  },
+  {
+   "solver": "reference",
+   "section": "S-347",
+   "figure": "leak_kg_per_h",
+   "draws": 30,
+   "worst_pct": 0.48,
+   "worst_allowances": 0.03,
+   "least_pct": 0.05,
+   "least_allowances": 0.0
+  },
+  {
+   "solver": "reference",
+   "section": "S-411",
+   "figure": "air_sm3",
+   "draws": 30,
+   "worst_pct": -0.89,
+   "worst_allowances": 0.09,
+   "least_pct": 0.0,
+   "least_allowances": 0.0
+  },
+  {
+   "solver": "reference",
+   "section": "S-411",
+   "figure": "leak_kg_per_h",
+   "draws": 30,
+   "worst_pct": -1.4,
+   "worst_allowances": 0.09,
+   "least_pct": 0.05,
+   "least_allowances": 0.0
+  },
+  {
+   "solver": "reference",
+   "section": "S-462",
+   "figure": "air_sm3",
+   "draws": 30,
+   "worst_pct": -1.29,
+   "worst_allowances": 0.13,
+   "least_pct": 0.14,
+   "least_allowances": 0.01
+  },
+  {
+   "solver": "reference",
+   "section": "S-462",
+   "figure": "leak_kg_per_h",
+   "draws": 30,
+   "worst_pct": -1.53,
+   "worst_allowances": 0.1,
+   "least_pct": 0.07,
+   "least_allowances": 0.0
+  },
+  {
+   "solver": "reference",
+   "section": "S-519",
+   "figure": "air_sm3",
+   "draws": 30,
+   "worst_pct": -2.37,
+   "worst_allowances": 0.24,
+   "least_pct": 0.15,
+   "least_allowances": 0.02
+  },
+  {
+   "solver": "reference",
+   "section": "S-519",
+   "figure": "leak_kg_per_h",
+   "draws": 30,
+   "worst_pct": -2.29,
+   "worst_allowances": 0.15,
+   "least_pct": 0.17,
+   "least_allowances": 0.01
+  },
+  {
+   "solver": "reference",
+   "section": "S-526",
+   "figure": "air_sm3",
+   "draws": 30,
+   "worst_pct": -1.16,
+   "worst_allowances": 0.12,
+   "least_pct": 0.46,
+   "least_allowances": 0.05
+  },
+  {
+   "solver": "reference",
+   "section": "S-526",
+   "figure": "leak_kg_per_h",
+   "draws": 30,
+   "worst_pct": -0.88,
+   "worst_allowances": 0.06,
+   "least_pct": 0.01,
+   "least_allowances": 0.0
+  },
+  {
+   "solver": "second",
+   "section": "S-133",
+   "figure": "air_sm3",
+   "draws": 30,
+   "worst_pct": 2.18,
+   "worst_allowances": 0.22,
+   "least_pct": 1.27,
+   "least_allowances": 0.13
+  },
+  {
+   "solver": "second",
+   "section": "S-133",
+   "figure": "leak_kg_per_h",
+   "draws": 30,
+   "worst_pct": -6.09,
+   "worst_allowances": 0.41,
+   "least_pct": 3.6,
+   "least_allowances": 0.24
+  },
+  {
+   "solver": "second",
+   "section": "S-208",
+   "figure": "air_sm3",
+   "draws": 30,
+   "worst_pct": -0.27,
+   "worst_allowances": 0.03,
+   "least_pct": 0.01,
+   "least_allowances": 0.0
+  },
+  {
+   "solver": "second",
+   "section": "S-208",
+   "figure": "leak_kg_per_h",
+   "draws": 30,
+   "worst_pct": -3.49,
+   "worst_allowances": 0.23,
+   "least_pct": 2.16,
+   "least_allowances": 0.14
+  },
+  {
+   "solver": "second",
+   "section": "S-347",
+   "figure": "air_sm3",
+   "draws": 30,
+   "worst_pct": 3.76,
+   "worst_allowances": 0.38,
+   "least_pct": 2.02,
+   "least_allowances": 0.2
+  },
+  {
+   "solver": "second",
+   "section": "S-347",
+   "figure": "leak_kg_per_h",
+   "draws": 30,
+   "worst_pct": -2.89,
+   "worst_allowances": 0.19,
+   "least_pct": 2.06,
+   "least_allowances": 0.14
+  },
+  {
+   "solver": "second",
+   "section": "S-411",
+   "figure": "air_sm3",
+   "draws": 30,
+   "worst_pct": 1.81,
+   "worst_allowances": 0.18,
+   "least_pct": 0.62,
+   "least_allowances": 0.06
+  },
+  {
+   "solver": "second",
+   "section": "S-411",
+   "figure": "leak_kg_per_h",
+   "draws": 30,
+   "worst_pct": -5.71,
+   "worst_allowances": 0.38,
+   "least_pct": 3.94,
+   "least_allowances": 0.26
+  },
+  {
+   "solver": "second",
+   "section": "S-462",
+   "figure": "air_sm3",
+   "draws": 30,
+   "worst_pct": 2.06,
+   "worst_allowances": 0.21,
+   "least_pct": 0.94,
+   "least_allowances": 0.09
+  },
+  {
+   "solver": "second",
+   "section": "S-462",
+   "figure": "leak_kg_per_h",
+   "draws": 30,
+   "worst_pct": -9.25,
+   "worst_allowances": 0.62,
+   "least_pct": 6.72,
+   "least_allowances": 0.45
+  },
+  {
+   "solver": "second",
+   "section": "S-519",
+   "figure": "air_sm3",
+   "draws": 30,
+   "worst_pct": 6.31,
+   "worst_allowances": 0.63,
+   "least_pct": 0.3,
+   "least_allowances": 0.03
+  },
+  {
+   "solver": "second",
+   "section": "S-519",
+   "figure": "leak_kg_per_h",
+   "draws": 30,
+   "worst_pct": -3.67,
+   "worst_allowances": 0.24,
+   "least_pct": 0.03,
+   "least_allowances": 0.0
+  },
+  {
+   "solver": "second",
+   "section": "S-526",
+   "figure": "air_sm3",
+   "draws": 30,
+   "worst_pct": 1.44,
+   "worst_allowances": 0.14,
+   "least_pct": 0.76,
+   "least_allowances": 0.08
+  },
+  {
+   "solver": "second",
+   "section": "S-526",
+   "figure": "leak_kg_per_h",
+   "draws": 30,
+   "worst_pct": -5.81,
+   "worst_allowances": 0.39,
+   "least_pct": 4.4,
+   "least_allowances": 0.29
+  },
+  {
+   "solver": "trust_wiring",
+   "section": "S-208",
+   "figure": "air_sm3",
+   "draws": 30,
+   "worst_pct": -7.29,
+   "worst_allowances": 0.73,
+   "least_pct": 6.92,
+   "least_allowances": 0.69
+  },
+  {
+   "solver": "trust_wiring",
+   "section": "S-208",
+   "figure": "leak_kg_per_h",
+   "draws": 30,
+   "worst_pct": 56.1,
+   "worst_allowances": 3.74,
+   "least_pct": 54.93,
+   "least_allowances": 3.66
+  }
+ ]
+}

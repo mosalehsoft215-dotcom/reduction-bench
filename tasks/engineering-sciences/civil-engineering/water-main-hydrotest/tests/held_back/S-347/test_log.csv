@@ -1,0 +1,23 @@
+time,event,ref
+2026-02-24 05:20,record_start,
+2026-02-24 08:20,pressurisation_start,
+2026-02-24 08:20,pump_start,TK-1
+2026-02-24 08:29,pump_stop,TK-1
+2026-02-24 08:36,pump_start,TK-1
+2026-02-24 08:45,pump_stop,TK-1
+2026-02-24 08:52,pump_start,TK-1
+2026-02-24 09:01,pump_stop,TK-1
+2026-02-24 09:08,pump_start,TK-1
+2026-02-24 09:17,pump_stop,TK-1
+2026-02-24 09:24,pump_start,TK-1
+2026-02-24 09:33,pump_stop,TK-1
+2026-02-24 09:40,pump_start,TK-1
+2026-02-24 09:46,pump_stop,TK-1
+2026-02-24 09:46,pressurisation_end,
+2026-02-24 10:31,hold_start,
+2026-02-25 10:31,hold_end,
+2026-02-25 10:46,drain_start,TK-2
+2026-02-25 10:56,drain_stop,TK-2
+2026-02-25 11:20,drain_start,TK-2
+2026-02-25 11:30,drain_stop,TK-2
+2026-02-25 11:54,record_end,

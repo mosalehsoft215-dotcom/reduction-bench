@@ -1,0 +1,39 @@
+{
+ "section": "S-462",
+ "material": "carbon steel, epoxy lined",
+ "segments": [
+  {
+   "id": "A-HEAD",
+   "from_m": 0,
+   "to_m": 28,
+   "od_mm": 1219.0,
+   "wt_mm": 12.7,
+   "kind": "above_ground"
+  },
+  {
+   "id": "S1",
+   "from_m": 28,
+   "to_m": 3640,
+   "od_mm": 1219.0,
+   "wt_mm": 12.7,
+   "kind": "buried"
+  },
+  {
+   "id": "S2",
+   "from_m": 3640,
+   "to_m": 7120,
+   "od_mm": 1219.0,
+   "wt_mm": 12.7,
+   "kind": "buried"
+  },
+  {
+   "id": "B-HEAD",
+   "from_m": 7120,
+   "to_m": 7143,
+   "od_mm": 1219.0,
+   "wt_mm": 12.7,
+   "kind": "above_ground"
+  }
+ ],
+ "test_pressure_bar_g": 16.0
+}

@@ -1,0 +1,47 @@
+{
+ "section": "S-526",
+ "material": "carbon steel, epoxy lined",
+ "segments": [
+  {
+   "id": "A-HEAD",
+   "from_m": 0,
+   "to_m": 30,
+   "od_mm": 1422.0,
+   "wt_mm": 14.2,
+   "kind": "above_ground"
+  },
+  {
+   "id": "S1",
+   "from_m": 30,
+   "to_m": 3060,
+   "od_mm": 1422.0,
+   "wt_mm": 14.2,
+   "kind": "buried"
+  },
+  {
+   "id": "W1",
+   "from_m": 3060,
+   "to_m": 3540,
+   "od_mm": 1422.0,
+   "wt_mm": 14.2,
+   "kind": "above_ground"
+  },
+  {
+   "id": "S2",
+   "from_m": 3540,
+   "to_m": 7790,
+   "od_mm": 1422.0,
+   "wt_mm": 14.2,
+   "kind": "buried"
+  },
+  {
+   "id": "B-HEAD",
+   "from_m": 7790,
+   "to_m": 7818,
+   "od_mm": 1422.0,
+   "wt_mm": 14.2,
+   "kind": "above_ground"
+  }
+ ],
+ "test_pressure_bar_g": 18.0
+}

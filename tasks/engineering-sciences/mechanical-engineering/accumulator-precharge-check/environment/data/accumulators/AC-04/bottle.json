@@ -1,0 +1,19 @@
+{
+ "bottle": "AC-04",
+ "type": "piston accumulator",
+ "nominal_gas_volume_L": 18.9,
+ "rated_precharge_bar": 90,
+ "meter": {
+  "type": "gear meter",
+  "k_factor_pulses_per_L": 451.2
+ },
+ "prover_check": {
+  "vessel_L": 2.0,
+  "pulses": [
+   902,
+   904,
+   902
+  ]
+ },
+ "ambient_C": 21.4
+}

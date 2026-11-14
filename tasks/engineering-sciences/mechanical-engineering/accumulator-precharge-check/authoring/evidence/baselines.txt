@@ -1,0 +1,6 @@
+AC-41: margin 84.81 bounds (closest: worked AC-04)
+AC-42: margin 29.86 bounds (closest: worked AC-17)
+AC-43: margin 16.28 bounds (closest: worked AC-17)
+AC-44: margin 16.44 bounds (closest: worked AC-04)
+AC-45: margin 27.47 bounds (closest: worked AC-04)
+OK: no baseline passes a case

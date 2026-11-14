@@ -1,0 +1,22 @@
+{
+ "AC-41": {
+  "precharge_bar_20c": 71.3,
+  "gas_volume_l": 9.62
+ },
+ "AC-42": {
+  "precharge_bar_20c": 136.2,
+  "gas_volume_l": 48.73
+ },
+ "AC-43": {
+  "precharge_bar_20c": 104.9,
+  "gas_volume_l": 38.86
+ },
+ "AC-44": {
+  "precharge_bar_20c": 83.6,
+  "gas_volume_l": 24.18
+ },
+ "AC-45": {
+  "precharge_bar_20c": 127.4,
+  "gas_volume_l": 15.74
+ }
+}

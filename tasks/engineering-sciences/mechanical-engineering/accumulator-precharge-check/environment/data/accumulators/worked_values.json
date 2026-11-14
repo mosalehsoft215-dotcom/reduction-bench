@@ -1,0 +1,10 @@
+{
+ "AC-04": {
+  "precharge_bar_20c": 92.4,
+  "gas_volume_l": 19.41
+ },
+ "AC-17": {
+  "precharge_bar_20c": 118.7,
+  "gas_volume_l": 31.27
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "bottle": "AC-45",
+ "type": "piston accumulator",
+ "nominal_gas_volume_L": 15.5,
+ "rated_precharge_bar": 125,
+ "meter": {
+  "type": "gear meter",
+  "k_factor_pulses_per_L": 448.3
+ },
+ "prover_check": {
+  "vessel_L": 2.0,
+  "pulses": [
+   898,
+   896,
+   897
+  ]
+ },
+ "ambient_C": 22.0
+}

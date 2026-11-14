@@ -1,0 +1,19 @@
+{
+ "bottle": "AC-17",
+ "type": "piston accumulator",
+ "nominal_gas_volume_L": 31.4,
+ "rated_precharge_bar": 120,
+ "meter": {
+  "type": "gear meter",
+  "k_factor_pulses_per_L": 447.9
+ },
+ "prover_check": {
+  "vessel_L": 2.0,
+  "pulses": [
+   893,
+   895,
+   897
+  ]
+ },
+ "ambient_C": 18.2
+}

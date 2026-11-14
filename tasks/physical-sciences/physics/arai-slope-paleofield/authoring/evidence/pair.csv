@@ -1,0 +1,15 @@
+program,basalt,field_windows,moment_windows
+reference,BA-12,0.07,0.05
+reference,BA-16,0.16,0.11
+reference,BA-41,0.05,0.03
+reference,BA-42,0.09,0.06
+reference,BA-43,0.10,0.06
+reference,BA-44,0.05,0.03
+reference,BA-45,0.00,0.00
+second,BA-12,0.00,0.03
+second,BA-16,0.11,0.06
+second,BA-41,0.16,0.12
+second,BA-42,0.07,0.00
+second,BA-43,0.02,0.01
+second,BA-44,0.06,0.03
+second,BA-45,0.19,0.14

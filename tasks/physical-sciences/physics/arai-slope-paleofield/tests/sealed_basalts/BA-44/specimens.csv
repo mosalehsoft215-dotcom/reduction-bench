@@ -1,0 +1,10 @@
+specimen,azimuth_deg,plunge_deg,solenoid_field_ut,solenoid_cooling_min
+BA-44-a,288.2,85.9,,
+BA-44-b,129.9,80.3,,
+BA-44-c,56.3,74.9,,
+BA-44-d,341.2,86.9,,
+BA-44-e,352.2,87.7,,
+BA-44-f,94.9,86.1,,
+BA-44-g,341.3,87.6,,
+BA-44-h,138.1,87.6,,
+BA-44-ctl,,,61.3,40

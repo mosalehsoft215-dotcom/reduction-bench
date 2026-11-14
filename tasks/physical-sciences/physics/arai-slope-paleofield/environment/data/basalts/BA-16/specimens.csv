@@ -1,0 +1,10 @@
+specimen,azimuth_deg,plunge_deg,solenoid_field_ut,solenoid_cooling_min
+BA-16-a,347.7,74.9,,
+BA-16-b,221.9,74.0,,
+BA-16-c,199.2,85.8,,
+BA-16-d,108.8,75.5,,
+BA-16-e,249.6,87.9,,
+BA-16-f,202.5,81.0,,
+BA-16-g,355.9,77.1,,
+BA-16-h,61.4,83.0,,
+BA-16-ctl,,,50.4,40

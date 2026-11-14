@@ -1,0 +1,10 @@
+specimen,azimuth_deg,plunge_deg,solenoid_field_ut,solenoid_cooling_min
+BA-45-a,268.1,88.7,,
+BA-45-b,275.3,76.3,,
+BA-45-c,338.8,82.9,,
+BA-45-d,90.9,84.9,,
+BA-45-e,168.2,75.0,,
+BA-45-f,339.2,78.6,,
+BA-45-g,235.7,88.4,,
+BA-45-h,260.9,78.7,,
+BA-45-ctl,,,25.2,40

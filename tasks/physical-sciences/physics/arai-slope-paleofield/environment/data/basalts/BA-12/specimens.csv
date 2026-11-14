@@ -1,0 +1,10 @@
+specimen,azimuth_deg,plunge_deg,solenoid_field_ut,solenoid_cooling_min
+BA-12-a,152.2,78.9,,
+BA-12-b,175.3,87.9,,
+BA-12-c,44.6,74.9,,
+BA-12-d,221.2,75.3,,
+BA-12-e,325.1,83.8,,
+BA-12-f,276.1,88.5,,
+BA-12-g,257.9,81.5,,
+BA-12-h,327.9,88.9,,
+BA-12-ctl,,,40.7,40

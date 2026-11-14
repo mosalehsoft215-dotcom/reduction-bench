@@ -1,0 +1,5 @@
+copy of BA-12: closest kept-back basalt BA-41 at 6.1 windows
+copy of BA-16: closest kept-back basalt BA-42 at 4.8 windows
+mean of the worked basalts: closest kept-back basalt BA-42 at 2.5 windows
+one shared paleofield_ut: inside on at most 1 of 5 basalts
+one shared vdm_zam2: inside on at most 2 of 5 basalts

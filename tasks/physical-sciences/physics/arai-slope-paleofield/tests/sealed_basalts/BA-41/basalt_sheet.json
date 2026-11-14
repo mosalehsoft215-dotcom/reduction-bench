@@ -1,0 +1,20 @@
+{
+ "basalt": "BA-41",
+ "site": {
+  "latitude_deg": 38.9,
+  "longitude_deg": 26.8
+ },
+ "outcrop": {
+  "natural_cooling_days": 46.3,
+  "younger_unit_above_m": 5.5,
+  "bedding_strike_deg": 118.0,
+  "bedding_dip_deg": 27.0
+ },
+ "oven": {
+  "field_ut": 30.0,
+  "coil_current_a": 0.0728,
+  "coil_constant_ut_per_a": 412.0,
+  "field_axis": "+z of the specimen",
+  "cooling_min": 40.0
+ }
+}

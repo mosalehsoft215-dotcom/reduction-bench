@@ -1,0 +1,28 @@
+{
+  "correct_mechanism": {
+    "measurement_chi_square": 920.9583993955162,
+    "unstable_prepared_states": 0
+  },
+  "wrong_mechanism_local_fit_exact_equilibria": {
+    "measurement_chi_square": 541274019.217812,
+    "unstable_prepared_states": 0
+  },
+  "physical_bound_midpoint": {
+    "measurement_chi_square": 6571018673.511558,
+    "unstable_prepared_states": 0
+  },
+  "linear_period_errors": [
+    {
+      "id": "H1",
+      "relative_error": 0.14924054134728082
+    },
+    {
+      "id": "H2",
+      "relative_error": 0.014150230672060227
+    },
+    {
+      "id": "H3",
+      "relative_error": 0.036920158564161754
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "parameter_order": [
+    "E0_V",
+    "k0_s_inv",
+    "alpha",
+    "interaction",
+    "kcat_M_inv_s_inv",
+    "Gamma_mol_cm2",
+    "km_s_inv",
+    "Ru_ohm_cm2",
+    "Cdl_F_cm2"
+  ],
+  "parameter_bounds": {
+    "E0_V": [
+      -0.29,
+      -0.18
+    ],
+    "k0_s_inv": [
+      0.3,
+      15.0
+    ],
+    "alpha": [
+      0.25,
+      0.7
+    ],
+    "interaction": [
+      2.0,
+      6.0
+    ],
+    "kcat_M_inv_s_inv": [
+      60.0,
+      650.0
+    ],
+    "Gamma_mol_cm2": [
+      6e-10,
+      4e-09
+    ],
+    "km_s_inv": [
+      0.15,
+      2.0
+    ],
+    "Ru_ohm_cm2": [
+      120.0,
+      650.0
+    ],
+    "Cdl_F_cm2": [
+      2.5e-05,
+      0.00024
+    ]
+  },
+  "conditions": [
+    {
+      "id": "dilute",
+      "bulk_M": 0.002,
+      "rpm": 600.0,
+      "film_cm": 0.003
+    },
+    {
+      "id": "standard",
+      "bulk_M": 0.003,
+      "rpm": 1000.0,
+      "film_cm": 0.003
+    },
+    {
+      "id": "rich",
+      "bulk_M": 0.004,
+      "rpm": 1600.0,
+      "film_cm": 0.003
+    }
+  ],
+  "constants": {
+    "F_C_mol": 96485.33212,
+    "F_over_RT_V_inv": 38.9217445
+  },
+  "mechanisms": [
+    1,
+    2
+  ],
+  "hopf_queries": [
+    {
+      "id": "H1",
+      "condition_id": "standard",
+      "command_V": -0.2653
+    },
+    {
+      "id": "H2",
+      "condition_id": "rich",
+      "command_V": -0.2772
+    },
+    {
+      "id": "H3",
+      "condition_id": "rich",
+      "command_V": -0.2834
+    }
+  ],
+  "total_capacitance_interval_F_cm2": [
+    0.0005,
+    0.03
+  ],
+  "orbit_phi_section_offset": 0.05,
+  "orbit_phase_samples": 64,
+  "criticality_change": {
+    "condition_id": "rich",
+    "command_interval_V": [
+      -0.275,
+      -0.2725
+    ]
+  },
+  "cycle_bistability": {
+    "condition_id": "rich",
+    "command_V": -0.2745,
+    "section_offset_interval": [
+      0.02,
+      0.14
+    ]
+  }
+}

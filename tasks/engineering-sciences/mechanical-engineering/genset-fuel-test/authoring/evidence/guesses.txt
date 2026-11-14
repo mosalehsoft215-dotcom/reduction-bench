@@ -1,0 +1,7 @@
+G-11: closest candidate 215.0 with ratio 1.020 (0.17 % at worst); grid pairs inside: 36; example-derived answers inside: 0
+G-12: closest candidate 196.5 with ratio 1.030 (0.14 % at worst); grid pairs inside: 27; example-derived answers inside: 0
+G-13: closest candidate 231.5 with ratio 1.030 (0.08 % at worst); grid pairs inside: 37; example-derived answers inside: 0
+G-14: closest candidate 216.5 with ratio 1.010 (0.09 % at worst); grid pairs inside: 30; example-derived answers inside: 0
+G-15: closest candidate 190.0 with ratio 1.035 (0.16 % at worst); grid pairs inside: 27; example-derived answers inside: 0
+1182 candidates; example-derived answers passing a held-back set: 0
+(the dense grid covers every truth by construction and is listed only for scale)

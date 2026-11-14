@@ -1,0 +1,11 @@
+time,event,detail
+2026-02-11 08:05:00,engine_start,
+2026-02-11 08:05:00,step_start,0
+2026-02-11 08:15:00,step_start,25
+2026-02-11 08:35:00,step_start,50
+2026-02-11 08:55:00,step_start,75
+2026-02-11 09:40:00,step_start,100
+2026-02-11 09:56:17,transfer_pump_start,
+2026-02-11 10:09:24,transfer_pump_stop,
+2026-02-11 10:40:00,step_start,110
+2026-02-11 11:10:00,engine_stop,

@@ -1,0 +1,22 @@
+{
+ "G-11": {
+  "sfc75_g_per_kwh": 214.642,
+  "sfc100_g_per_kwh": 219.171
+ },
+ "G-12": {
+  "sfc75_g_per_kwh": 196.485,
+  "sfc100_g_per_kwh": 202.116
+ },
+ "G-13": {
+  "sfc75_g_per_kwh": 231.311,
+  "sfc100_g_per_kwh": 238.287
+ },
+ "G-14": {
+  "sfc75_g_per_kwh": 216.686,
+  "sfc100_g_per_kwh": 218.824
+ },
+ "G-15": {
+  "sfc75_g_per_kwh": 189.87,
+  "sfc100_g_per_kwh": 196.329
+ }
+}

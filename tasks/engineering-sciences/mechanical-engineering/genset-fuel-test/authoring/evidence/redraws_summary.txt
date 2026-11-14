@@ -1,0 +1,21 @@
+errors: 0
+solver           set   draws   worst %  least |%|
+aux_ignored      G-15     30    +4.626      3.510
+no_ct_check      G-12     30    +4.319      4.249
+no_zero          G-11     30    +3.605      2.636
+panel_power      G-14     30    -3.193      0.048
+reference        G-01     30    +0.148      0.076
+reference        G-02     30    +0.130      0.070
+reference        G-11     30    +0.047      0.000
+reference        G-12     30    +0.116      0.043
+reference        G-13     30    +0.087      0.032
+reference        G-14     30    +0.151      0.078
+reference        G-15     30    +0.151      0.083
+return_at_15c    G-13     30    -4.340      2.449
+second           G-01     30    +0.102      0.002
+second           G-02     30    +0.221      0.143
+second           G-11     30    -0.053      0.000
+second           G-12     30    +0.140      0.059
+second           G-13     30    +0.071      0.006
+second           G-14     30    +0.161      0.087
+second           G-15     30    +0.170      0.096

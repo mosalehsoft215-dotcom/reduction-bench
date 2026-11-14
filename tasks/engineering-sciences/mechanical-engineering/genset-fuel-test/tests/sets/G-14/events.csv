@@ -1,0 +1,12 @@
+time,event,detail
+2026-03-12 09:20:00,engine_start,
+2026-03-12 09:20:00,step_start,0
+2026-03-12 09:30:00,step_start,25
+2026-03-12 09:50:00,step_start,50
+2026-03-12 10:10:00,step_start,75
+2026-03-12 10:55:00,step_start,100
+2026-03-12 11:09:00,load_bank_alarm,phase L2 element group open
+2026-03-12 11:22:53,transfer_pump_start,
+2026-03-12 11:37:39,transfer_pump_stop,
+2026-03-12 11:55:00,step_start,110
+2026-03-12 12:25:00,engine_stop,

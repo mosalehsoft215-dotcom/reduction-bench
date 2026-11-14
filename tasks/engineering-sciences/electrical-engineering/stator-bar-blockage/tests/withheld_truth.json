@@ -1,0 +1,22 @@
+{
+  "w1": {
+    "blocked_bar": "T35",
+    "flow_fraction": 0.687
+  },
+  "w2": {
+    "blocked_bar": "B06",
+    "flow_fraction": 0.862
+  },
+  "w3": {
+    "blocked_bar": "T09",
+    "flow_fraction": 0.748
+  },
+  "w4": {
+    "blocked_bar": "B17",
+    "flow_fraction": 0.731
+  },
+  "w5": {
+    "blocked_bar": "B40",
+    "flow_fraction": 0.804
+  }
+}

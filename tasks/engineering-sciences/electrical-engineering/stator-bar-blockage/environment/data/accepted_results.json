@@ -1,0 +1,10 @@
+{
+  "S1": {
+    "blocked_bar": "B12",
+    "flow_fraction": 0.742
+  },
+  "S2": {
+    "blocked_bar": "T31",
+    "flow_fraction": 0.663
+  }
+}

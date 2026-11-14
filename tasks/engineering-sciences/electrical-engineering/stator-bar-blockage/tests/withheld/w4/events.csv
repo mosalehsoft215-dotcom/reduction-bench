@@ -1,0 +1,10 @@
+minute,event,value
+0,excitation_on,
+45,breaker_closed,
+45,load_set,150
+115,load_set,300
+140,jb_inspection,JB-3
+185,load_set,450
+200,breaker_opened,
+230,breaker_closed,
+290,load_step,590

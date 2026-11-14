@@ -1,0 +1,12 @@
+tolerances (percent): {'emittance_n_mm_mrad': 12.5, 'beta_m': 10.5, 'alpha': 11.0, 'energy_MeV': 0.5, 'energy_spread_rms_percent': 5.0}
+DEF   whole line-outs, chromatic, spectrometer blur removed (reference)    eps   +1.53% beta   -1.19% alpha   -1.17% E   +0.01% dE   -1.60%  chi2 0.062  INSIDE
+DEF   whole line-outs, chromatic, spread fitted from the line-out shapes   eps   +0.30% beta   +0.09% alpha   +0.12% E   +0.01% dE   +0.47%  chi2 0.061  INSIDE
+CHEAP whole line-outs, chromatic, spectrometer spread as measured          eps  -13.58% beta  +17.25% alpha  +17.30% E   +0.01% dE  +27.90%  chi2 0.295  outside
+CHEAP rms sizes (+-4 Gaussian sigma), chromatic                            eps  -31.90% beta  +45.14% alpha  +45.11% E   +0.01% dE   -1.60%  chi2 2.552  outside
+CHEAP whole line-outs, single-energy optics                                eps  +50.53% beta  -34.78% alpha  -34.80% E   +0.01% dE   -1.60%  chi2 0.829  outside
+CHEAP Gaussian-fit sizes, single-energy optics                             eps  +21.73% beta  -26.48% alpha  -26.55% E   +0.01% dE   -1.60%  chi2 48.027  outside
+CHEAP Gaussian-fit sizes, chromatic                                        eps  -91.71% beta +941.49% alpha +941.67% E   +0.01% dE   -1.60%  chi2 57.850  outside
+CHEAP rms sizes, single-energy optics                                      eps  +69.92% beta  -41.76% alpha  -41.84% E   +0.01% dE   -1.60%  chi2 2.552  outside
+CHEAP rms sizes, chromatic, resolution not removed                         eps   +4.67% beta   -5.42% alpha   -5.45% E   +0.01% dE   -1.60%  chi2 2.278  INSIDE
+CHEAP rms sizes, chromatic with the within-shot spread only (1.1 %)        eps  -21.59% beta  +26.07% alpha  +26.04% E   +0.01% dE   -1.60%  chi2 2.552  outside
+CHEAP whole line-outs, chromatic, nominal 250 MeV                          eps   +0.30% beta   -4.97% alpha   -2.71% E   -0.79% dE   -1.60%  chi2 0.062  outside

@@ -1,0 +1,222 @@
+[
+ {
+  "label": "DEF",
+  "route": "whole line-outs, chromatic, spectrometer blur removed (reference)",
+  "values": {
+   "emittance_n_mm_mrad": 1.1168008542012378,
+   "beta_m": 2.37150423892853,
+   "alpha": -47.4396115017225,
+   "energy_MeV": 252.01471676740226,
+   "energy_spread_rms_percent": 1.138225907593925
+  },
+  "errors_pct": {
+   "emittance_n_mm_mrad": 1.5273503819307033,
+   "beta_m": -1.1873233779779113,
+   "alpha": -1.167476038078119,
+   "energy_MeV": 0.005839987064382157,
+   "energy_spread_rms_percent": -1.5971377544804266
+  },
+  "chi2": 0.062323327772410904,
+  "inside": true
+ },
+ {
+  "label": "DEF",
+  "route": "whole line-outs, chromatic, spread fitted from the line-out shapes",
+  "values": {
+   "emittance_n_mm_mrad": 1.1032650289093768,
+   "beta_m": 2.4022560847252485,
+   "alpha": -48.05538104519928,
+   "energy_MeV": 252.01471676740226,
+   "energy_spread_rms_percent": 1.162177742590684
+  },
+  "errors_pct": {
+   "emittance_n_mm_mrad": 0.29682080994333226,
+   "beta_m": 0.09400353021868924,
+   "alpha": 0.11537717749849907,
+   "energy_MeV": 0.005839987064382157,
+   "energy_spread_rms_percent": 0.4735664036209952
+  },
+  "chi2": 0.061208634084408214,
+  "inside": true
+ },
+ {
+  "label": "CHEAP",
+  "route": "whole line-outs, chromatic, spectrometer spread as measured",
+  "values": {
+   "emittance_n_mm_mrad": 0.9506251028490332,
+   "beta_m": 2.8140598250223916,
+   "alpha": -56.302117682162915,
+   "energy_MeV": 252.01471676740226,
+   "energy_spread_rms_percent": 1.4793955210866272
+  },
+  "errors_pct": {
+   "emittance_n_mm_mrad": -13.57953610463335,
+   "beta_m": 17.25249270926632,
+   "alpha": 17.296078504506074,
+   "energy_MeV": 0.005839987064382157,
+   "energy_spread_rms_percent": 27.89794424540737
+  },
+  "chi2": 0.2947806024541311,
+  "inside": false
+ },
+ {
+  "label": "CHEAP",
+  "route": "rms sizes (+-4 Gaussian sigma), chromatic",
+  "values": {
+   "emittance_n_mm_mrad": 0.7491205159824622,
+   "beta_m": 3.4832720791014977,
+   "alpha": -69.65153063618541,
+   "energy_MeV": 252.01471676740226,
+   "energy_spread_rms_percent": 1.138225907593925
+  },
+  "errors_pct": {
+   "emittance_n_mm_mrad": -31.89813491068526,
+   "beta_m": 45.13633662922907,
+   "alpha": 45.10735549205294,
+   "energy_MeV": 0.005839987064382157,
+   "energy_spread_rms_percent": -1.5971377544804266
+  },
+  "chi2": 2.5517948396029544,
+  "inside": false
+ },
+ {
+  "label": "CHEAP",
+  "route": "whole line-outs, single-energy optics",
+  "values": {
+   "emittance_n_mm_mrad": 1.655874672000899,
+   "beta_m": 1.565253912234009,
+   "alpha": -31.29545878078893,
+   "energy_MeV": 252.01471676740226,
+   "energy_spread_rms_percent": 1.138225907593925
+  },
+  "errors_pct": {
+   "emittance_n_mm_mrad": 50.53406109099081,
+   "beta_m": -34.78108699024962,
+   "alpha": -34.80112754002306,
+   "energy_MeV": 0.005839987064382157,
+   "energy_spread_rms_percent": -1.5971377544804266
+  },
+  "chi2": 0.8287310710803606,
+  "inside": false
+ },
+ {
+  "label": "CHEAP",
+  "route": "Gaussian-fit sizes, single-energy optics",
+  "values": {
+   "emittance_n_mm_mrad": 1.3390167658974328,
+   "beta_m": 1.764476808743056,
+   "alpha": -35.257648293884195,
+   "energy_MeV": 252.01471676740226,
+   "energy_spread_rms_percent": 1.138225907593925
+  },
+  "errors_pct": {
+   "emittance_n_mm_mrad": 21.72879689976661,
+   "beta_m": -26.480132969039328,
+   "alpha": -26.546566054407926,
+   "energy_MeV": 0.005839987064382157,
+   "energy_spread_rms_percent": -1.5971377544804266
+  },
+  "chi2": 48.02664844807862,
+  "inside": false
+ },
+ {
+  "label": "CHEAP",
+  "route": "Gaussian-fit sizes, chromatic",
+  "values": {
+   "emittance_n_mm_mrad": 0.09116103539171752,
+   "beta_m": 24.99572491351262,
+   "alpha": -499.99999999789367,
+   "energy_MeV": 252.01471676740226,
+   "energy_spread_rms_percent": 1.138225907593925
+  },
+  "errors_pct": {
+   "emittance_n_mm_mrad": -91.7126331462075,
+   "beta_m": 941.488538063026,
+   "alpha": 941.6666666622784,
+   "energy_MeV": 0.005839987064382157,
+   "energy_spread_rms_percent": -1.5971377544804266
+  },
+  "chi2": 57.84986695508902,
+  "inside": false
+ },
+ {
+  "label": "CHEAP",
+  "route": "rms sizes, single-energy optics",
+  "values": {
+   "emittance_n_mm_mrad": 1.8691628688726274,
+   "beta_m": 1.3978742644356994,
+   "alpha": -27.916231432428532,
+   "energy_MeV": 252.01471676740226,
+   "energy_spread_rms_percent": 1.138225907593925
+  },
+  "errors_pct": {
+   "emittance_n_mm_mrad": 69.92389717023883,
+   "beta_m": -41.75523898184586,
+   "alpha": -41.84118451577389,
+   "energy_MeV": 0.005839987064382157,
+   "energy_spread_rms_percent": -1.5971377544804266
+  },
+  "chi2": 2.5520993294726426,
+  "inside": false
+ },
+ {
+  "label": "CHEAP",
+  "route": "rms sizes, chromatic, resolution not removed",
+  "values": {
+   "emittance_n_mm_mrad": 1.151386047408583,
+   "beta_m": 2.2700133624857037,
+   "alpha": -45.38204285081391,
+   "energy_MeV": 252.01471676740226,
+   "energy_spread_rms_percent": 1.138225907593925
+  },
+  "errors_pct": {
+   "emittance_n_mm_mrad": 4.671458855325716,
+   "beta_m": -5.4161098964290115,
+   "alpha": -5.454077394137691,
+   "energy_MeV": 0.005839987064382157,
+   "energy_spread_rms_percent": -1.5971377544804266
+  },
+  "chi2": 2.277565871567139,
+  "inside": true
+ },
+ {
+  "label": "CHEAP",
+  "route": "rms sizes, chromatic with the within-shot spread only (1.1 %)",
+  "values": {
+   "emittance_n_mm_mrad": 0.8624715481271008,
+   "beta_m": 3.0257300329000847,
+   "alpha": -60.49770259625793,
+   "energy_MeV": 252.01471676740226,
+   "energy_spread_rms_percent": 1.138225907593925
+  },
+  "errors_pct": {
+   "emittance_n_mm_mrad": -21.593495624809023,
+   "beta_m": 26.072084704170194,
+   "alpha": 26.036880408870687,
+   "energy_MeV": 0.005839987064382157,
+   "energy_spread_rms_percent": -1.5971377544804266
+  },
+  "chi2": 2.5518137903690685,
+  "inside": false
+ },
+ {
+  "label": "CHEAP",
+  "route": "whole line-outs, chromatic, nominal 250 MeV",
+  "values": {
+   "emittance_n_mm_mrad": 1.1033376087350528,
+   "beta_m": 2.2808151904919103,
+   "alpha": -46.70026054553547,
+   "energy_MeV": 250.0,
+   "energy_spread_rms_percent": 1.138225907593925
+  },
+  "errors_pct": {
+   "emittance_n_mm_mrad": 0.3034189759138828,
+   "beta_m": -4.966033729503739,
+   "alpha": -2.707790530134435,
+   "energy_MeV": -0.7936507936507908,
+   "energy_spread_rms_percent": -1.5971377544804266
+  },
+  "chi2": 0.06189087576046635,
+  "inside": false
+ }
+]

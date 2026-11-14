@@ -1,0 +1,10 @@
+{
+  "emittance_n_mm_mrad": 1.1168,
+  "beta_m": 2.3715,
+  "alpha": -47.4396,
+  "energy_MeV": 252.015,
+  "energy_spread_rms_percent": 1.1382,
+  "measured_spectrometer_spread_percent": 1.4794,
+  "spectrometer_blur_percent": 0.945,
+  "reduced_chi2": 0.0623
+}

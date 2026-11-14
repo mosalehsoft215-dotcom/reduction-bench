@@ -1,0 +1,7 @@
+{
+ "emittance_n_mm_mrad": 1.10334,
+ "beta_m": 2.28082,
+ "alpha": -46.70026,
+ "energy_MeV": 250.0,
+ "energy_spread_rms_percent": 1.13823
+}

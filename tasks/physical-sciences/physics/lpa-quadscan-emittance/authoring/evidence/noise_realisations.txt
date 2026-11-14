@@ -1,0 +1,15 @@
+seed 201: emittance_n_mm_mrad +2.04%  beta_m -1.35%  alpha -1.41%  energy_MeV +0.04%  energy_spread_rms_percent -0.70%
+seed 202: emittance_n_mm_mrad +3.29%  beta_m -3.23%  alpha -3.30%  energy_MeV +0.01%  energy_spread_rms_percent -0.61%
+seed 203: emittance_n_mm_mrad +2.56%  beta_m -2.01%  alpha -2.16%  energy_MeV +0.06%  energy_spread_rms_percent -1.04%
+seed 204: emittance_n_mm_mrad +5.11%  beta_m -4.27%  alpha -4.41%  energy_MeV +0.02%  energy_spread_rms_percent -1.95%
+seed 205: emittance_n_mm_mrad +1.06%  beta_m -0.87%  alpha -1.00%  energy_MeV +0.05%  energy_spread_rms_percent +0.62%
+seed 206: emittance_n_mm_mrad -1.07%  beta_m +1.22%  alpha +1.16%  energy_MeV +0.04%  energy_spread_rms_percent -0.05%
+seed 207: emittance_n_mm_mrad +1.93%  beta_m -1.94%  alpha -1.98%  energy_MeV -0.02%  energy_spread_rms_percent -1.64%
+seed 208: emittance_n_mm_mrad +3.10%  beta_m -3.23%  alpha -3.29%  energy_MeV +0.02%  energy_spread_rms_percent -0.75%
+seed 209: emittance_n_mm_mrad +2.80%  beta_m -2.83%  alpha -3.01%  energy_MeV +0.04%  energy_spread_rms_percent -1.18%
+seed 210: emittance_n_mm_mrad +0.29%  beta_m -0.77%  alpha -0.72%  energy_MeV -0.01%  energy_spread_rms_percent -0.15%
+max |error| emittance_n_mm_mrad: 5.11 %
+max |error| beta_m: 4.27 %
+max |error| alpha: 4.41 %
+max |error| energy_MeV: 0.06 %
+max |error| energy_spread_rms_percent: 1.95 %

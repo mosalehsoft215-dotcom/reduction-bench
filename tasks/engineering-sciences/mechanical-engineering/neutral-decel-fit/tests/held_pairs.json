@@ -1,0 +1,22 @@
+{
+ "DR-71": {
+  "a_roll_N": 117.7,
+  "c_air_N_per_kmh2": 0.03102
+ },
+ "DR-56": {
+  "a_roll_N": 253.0,
+  "c_air_N_per_kmh2": 0.04342
+ },
+ "DR-94": {
+  "a_roll_N": 132.1,
+  "c_air_N_per_kmh2": 0.04245
+ },
+ "DR-62": {
+  "a_roll_N": 180.7,
+  "c_air_N_per_kmh2": 0.03158
+ },
+ "DR-85": {
+  "a_roll_N": 187.9,
+  "c_air_N_per_kmh2": 0.05264
+ }
+}

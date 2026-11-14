@@ -1,0 +1,16 @@
+{
+ "vehicle": "DR-23",
+ "mass_kg": 1510.0,
+ "rotating_mass_kg": 45.0,
+ "pulse_logger": {
+  "teeth": 48,
+  "circ_setting_m": 1.951,
+  "hz": 10
+ },
+ "gnss_hz": 1,
+ "track": {
+  "span_m": 4300.0,
+  "bearing_deg": 90,
+  "origin": "west marker"
+ }
+}

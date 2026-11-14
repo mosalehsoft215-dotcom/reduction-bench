@@ -1,0 +1,6 @@
+DR-71: margin 5.28 bounds (closest: worked DR-23)
+DR-56: margin 2.78 bounds (closest: worked DR-08)
+DR-94: margin 5.74 bounds (closest: sealed mean (2 s.f.))
+DR-62: margin 3.53 bounds (closest: worked DR-23)
+DR-85: margin 3.80 bounds (closest: worked DR-08)
+OK: no baseline passes a case

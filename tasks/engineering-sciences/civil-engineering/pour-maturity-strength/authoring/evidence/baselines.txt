@@ -1,0 +1,6 @@
+PR-41: margin 4.48 bounds (closest: sealed mean)
+PR-42: margin 3.37 bounds (closest: sealed median (2 s.f.))
+PR-43: margin 6.12 bounds (closest: worked PR-13)
+PR-44: margin 11.25 bounds (closest: worked PR-07)
+PR-45: margin 9.08 bounds (closest: worked PR-13)
+OK: no baseline passes a case

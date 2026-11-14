@@ -1,0 +1,22 @@
+{
+ "PR-41": {
+  "hours_to_10_mpa": 17.19,
+  "strength_mpa": 21.43
+ },
+ "PR-42": {
+  "hours_to_10_mpa": 14.98,
+  "strength_mpa": 16.14
+ },
+ "PR-43": {
+  "hours_to_10_mpa": 25.19,
+  "strength_mpa": 15.54
+ },
+ "PR-44": {
+  "hours_to_10_mpa": 9.26,
+  "strength_mpa": 28.87
+ },
+ "PR-45": {
+  "hours_to_10_mpa": 26.97,
+  "strength_mpa": 13.16
+ }
+}

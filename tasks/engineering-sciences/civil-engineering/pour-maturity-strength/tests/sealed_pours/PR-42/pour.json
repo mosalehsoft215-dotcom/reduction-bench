@@ -1,0 +1,16 @@
+{
+ "pour": "PR-42",
+ "element": "wall panel",
+ "mix": "M-03",
+ "placed": "2026-10-16 12:45",
+ "stripped": "2026-10-17 14:45",
+ "fresh_concrete_C": 32.1,
+ "inspection": {
+  "time": "2026-10-17 04:45",
+  "core_tube_probe_C": 44.5
+ },
+ "logger": {
+  "model": "DL-8",
+  "channels": "core, top, edge thermocouples; ambient RTD"
+ }
+}

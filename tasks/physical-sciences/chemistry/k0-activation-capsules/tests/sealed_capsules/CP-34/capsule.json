@@ -1,0 +1,30 @@
+{
+ "capsule": "CP-34",
+ "irradiated": "2026-07-06",
+ "irradiation_s": 7200.0,
+ "f_thermal_epithermal": 31.4,
+ "alpha": 0.0,
+ "pulser_hz": 400.0,
+ "axis_mm": {
+  "au_bottom": 0.0,
+  "sample": 30.0,
+  "al_foil": 30.0,
+  "fe_wire": 30.0,
+  "au_top": 60.0,
+  "au_cd": 30.0
+ },
+ "masses_g": {
+  "sample": 0.1934,
+  "al_foil": 0.00598,
+  "fe_wire": 0.00969,
+  "au_bottom": 6.14e-05,
+  "au_top": 5.93e-05,
+  "au_cd": 9.8216e-05
+ },
+ "nominal_power_kw": 250.0,
+ "efficiency": {
+  "a0": -0.83,
+  "a1": -0.78,
+  "a2": 0.0
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "CP-31": {
+  "sodium_ug_per_g": 3418.0,
+  "manganese_ug_per_g": 236.4
+ },
+ "CP-32": {
+  "sodium_ug_per_g": 1184.0,
+  "manganese_ug_per_g": 286.3
+ },
+ "CP-33": {
+  "sodium_ug_per_g": 11930.0,
+  "manganese_ug_per_g": 312.7
+ },
+ "CP-34": {
+  "sodium_ug_per_g": 2361.0,
+  "manganese_ug_per_g": 197.8
+ },
+ "CP-35": {
+  "sodium_ug_per_g": 1527.0,
+  "manganese_ug_per_g": 344.1
+ }
+}

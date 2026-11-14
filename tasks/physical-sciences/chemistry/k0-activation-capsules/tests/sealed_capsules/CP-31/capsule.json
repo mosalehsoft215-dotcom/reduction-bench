@@ -1,0 +1,30 @@
+{
+ "capsule": "CP-31",
+ "irradiated": "2026-04-13",
+ "irradiation_s": 7200.0,
+ "f_thermal_epithermal": 31.4,
+ "alpha": 0.0,
+ "pulser_hz": 400.0,
+ "axis_mm": {
+  "au_bottom": 0.0,
+  "sample": 30.0,
+  "al_foil": 30.0,
+  "fe_wire": 30.0,
+  "au_top": 60.0,
+  "au_cd": 30.0
+ },
+ "masses_g": {
+  "sample": 0.1652,
+  "al_foil": 0.00534,
+  "fe_wire": 0.00992,
+  "au_bottom": 5.91e-05,
+  "au_top": 6.18e-05,
+  "au_cd": 0.000103158
+ },
+ "nominal_power_kw": 250.0,
+ "efficiency": {
+  "a0": -0.83,
+  "a1": -0.78,
+  "a2": 0.0
+ }
+}

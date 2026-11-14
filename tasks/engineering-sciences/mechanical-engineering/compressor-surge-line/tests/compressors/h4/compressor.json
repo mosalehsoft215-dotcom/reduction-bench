@@ -1,0 +1,20 @@
+{
+  "compressor": "K-202",
+  "service": "flash gas compressor, first stage",
+  "rated_speed_rpm": 11800,
+  "flow_element": "venturi in the compressor suction, downstream of the recycle tie-in; FT-A and FT-B share its pressure taps",
+  "transmitters": {
+    "ps_a_bara": "PT-A, suction flange, absolute",
+    "ps_b_bara": "PT-B, suction flange, absolute",
+    "pd_bara": "PT-C, discharge flange upstream of the check valve, absolute",
+    "ts_c": "TT-A, suction flange thermowell",
+    "td_c": "TT-C, discharge flange thermowell",
+    "dp_a_kpa": "FT-A, venturi differential",
+    "dp_b_kpa": "FT-B, venturi differential"
+  },
+  "control_heads": {
+    "low": 0.48,
+    "mid": 0.57,
+    "high": 0.67
+  }
+}

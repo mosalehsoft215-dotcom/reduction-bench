@@ -1,0 +1,106 @@
+test,key,guess,value,miss_pct,verdict
+h1,qr2_low,public mean,0.0050140,48.47,miss
+h1,qr2_low,public C-101,0.0041750,23.63,miss
+h1,qr2_low,public C-101 q/h at this head,0.0045135,33.65,miss
+h1,qr2_low,"public C-101 q/h at this head, 10 % margin",0.0049649,47.02,miss
+h1,qr2_low,public C-201,0.0058530,73.32,miss
+h1,qr2_low,public C-201 q/h at this head,0.0053209,57.56,miss
+h1,qr2_low,"public C-201 q/h at this head, 10 % margin",0.0058530,73.32,miss
+h1,qr2_mid,public mean,0.0059020,48.07,miss
+h1,qr2_mid,public C-101,0.0049300,23.68,miss
+h1,qr2_mid,public C-101 q/h at this head,0.0052587,31.93,miss
+h1,qr2_mid,"public C-101 q/h at this head, 10 % margin",0.0057845,45.12,miss
+h1,qr2_mid,public C-201,0.0068740,72.45,miss
+h1,qr2_mid,public C-201 q/h at this head,0.0062255,56.18,miss
+h1,qr2_mid,"public C-201 q/h at this head, 10 % margin",0.0068481,71.80,miss
+h1,qr2_high,public mean,0.0067330,47.23,miss
+h1,qr2_high,public C-101,0.0056320,23.16,miss
+h1,qr2_high,public C-101 q/h at this head,0.0059508,30.13,miss
+h1,qr2_high,"public C-101 q/h at this head, 10 % margin",0.0065459,43.14,miss
+h1,qr2_high,public C-201,0.0078340,71.31,miss
+h1,qr2_high,public C-201 q/h at this head,0.0070759,54.73,miss
+h1,qr2_high,"public C-201 q/h at this head, 10 % margin",0.0077835,70.20,miss
+h2,qr2_low,public mean,0.0050140,23.93,miss
+h2,qr2_low,public C-101,0.0041750,36.66,miss
+h2,qr2_low,public C-101 q/h at this head,0.0039493,40.08,miss
+h2,qr2_low,"public C-101 q/h at this head, 10 % margin",0.0043443,34.09,miss
+h2,qr2_low,public C-201,0.0058530,11.20,miss
+h2,qr2_low,public C-201 q/h at this head,0.0046558,29.36,miss
+h2,qr2_low,"public C-201 q/h at this head, 10 % margin",0.0051214,22.30,miss
+h2,qr2_mid,public mean,0.0059020,24.21,miss
+h2,qr2_mid,public C-101,0.0049300,36.69,miss
+h2,qr2_mid,public C-101 q/h at this head,0.0047109,39.50,miss
+h2,qr2_mid,"public C-101 q/h at this head, 10 % margin",0.0051820,33.45,miss
+h2,qr2_mid,public C-201,0.0068740,11.72,miss
+h2,qr2_mid,public C-201 q/h at this head,0.0055770,28.38,miss
+h2,qr2_mid,"public C-201 q/h at this head, 10 % margin",0.0061347,21.22,miss
+h2,qr2_high,public mean,0.0067330,22.94,miss
+h2,qr2_high,public C-101,0.0056320,35.54,miss
+h2,qr2_high,public C-101 q/h at this head,0.0053132,39.19,miss
+h2,qr2_high,"public C-101 q/h at this head, 10 % margin",0.0058445,33.11,miss
+h2,qr2_high,public C-201,0.0078340,10.34,miss
+h2,qr2_high,public C-201 q/h at this head,0.0063177,27.69,miss
+h2,qr2_high,"public C-201 q/h at this head, 10 % margin",0.0069495,20.46,miss
+h3,qr2_low,public mean,0.0050140,3.92,miss
+h3,qr2_low,public C-101,0.0041750,13.47,miss
+h3,qr2_low,public C-101 q/h at this head,0.0047392,1.78,miss
+h3,qr2_low,"public C-101 q/h at this head, 10 % margin",0.0052131,8.04,miss
+h3,qr2_low,public C-201,0.0058530,21.31,miss
+h3,qr2_low,public C-201 q/h at this head,0.0055870,15.79,miss
+h3,qr2_low,"public C-201 q/h at this head, 10 % margin",0.0061457,27.37,miss
+h3,qr2_mid,public mean,0.0059020,3.85,miss
+h3,qr2_mid,public C-101,0.0049300,13.25,miss
+h3,qr2_mid,public C-101 q/h at this head,0.0054778,3.61,miss
+h3,qr2_mid,"public C-101 q/h at this head, 10 % margin",0.0060256,6.03,miss
+h3,qr2_mid,public C-201,0.0068740,20.96,miss
+h3,qr2_mid,public C-201 q/h at this head,0.0064849,14.11,miss
+h3,qr2_mid,"public C-201 q/h at this head, 10 % margin",0.0071334,25.52,miss
+h3,qr2_high,public mean,0.0067330,1.66,miss
+h3,qr2_high,public C-101,0.0056320,14.96,miss
+h3,qr2_high,public C-101 q/h at this head,0.0062696,5.34,miss
+h3,qr2_high,"public C-101 q/h at this head, 10 % margin",0.0068965,4.13,miss
+h3,qr2_high,public C-201,0.0078340,18.28,miss
+h3,qr2_high,public C-201 q/h at this head,0.0074549,12.56,miss
+h3,qr2_high,"public C-201 q/h at this head, 10 % margin",0.0082004,23.82,miss
+h4,qr2_low,public mean,0.0050140,86.05,miss
+h4,qr2_low,public C-101,0.0041750,54.92,miss
+h4,qr2_low,public C-101 q/h at this head,0.0054162,100.97,miss
+h4,qr2_low,"public C-101 q/h at this head, 10 % margin",0.0059578,121.07,miss
+h4,qr2_low,public C-201,0.0058530,117.18,miss
+h4,qr2_low,public C-201 q/h at this head,0.0063851,136.92,miss
+h4,qr2_low,"public C-201 q/h at this head, 10 % margin",0.0070236,160.62,miss
+h4,qr2_mid,public mean,0.0059020,86.54,miss
+h4,qr2_mid,public C-101,0.0049300,55.82,miss
+h4,qr2_mid,public C-101 q/h at this head,0.0062447,97.37,miss
+h4,qr2_mid,"public C-101 q/h at this head, 10 % margin",0.0068691,117.10,miss
+h4,qr2_mid,public C-201,0.0068740,117.26,miss
+h4,qr2_mid,public C-201 q/h at this head,0.0073928,133.65,miss
+h4,qr2_mid,"public C-201 q/h at this head, 10 % margin",0.0081321,157.02,miss
+h4,qr2_high,public mean,0.0067330,83.36,miss
+h4,qr2_high,public C-101,0.0056320,53.38,miss
+h4,qr2_high,public C-101 q/h at this head,0.0071197,93.89,miss
+h4,qr2_high,"public C-101 q/h at this head, 10 % margin",0.0078317,113.28,miss
+h4,qr2_high,public C-201,0.0078340,113.34,miss
+h4,qr2_high,public C-201 q/h at this head,0.0084658,130.55,miss
+h4,qr2_high,"public C-201 q/h at this head, 10 % margin",0.0093124,153.60,miss
+h5,qr2_low,public mean,0.0050140,40.05,miss
+h5,qr2_low,public C-101,0.0041750,50.08,miss
+h5,qr2_low,public C-101 q/h at this head,0.0050777,39.28,miss
+h5,qr2_low,"public C-101 q/h at this head, 10 % margin",0.0055855,33.21,miss
+h5,qr2_low,public C-201,0.0058530,30.01,miss
+h5,qr2_low,public C-201 q/h at this head,0.0059860,28.42,miss
+h5,qr2_low,"public C-201 q/h at this head, 10 % margin",0.0065846,21.26,miss
+h5,qr2_mid,public mean,0.0059020,40.23,miss
+h5,qr2_mid,public C-101,0.0049300,50.08,miss
+h5,qr2_mid,public C-101 q/h at this head,0.0060256,38.98,miss
+h5,qr2_mid,"public C-101 q/h at this head, 10 % margin",0.0066281,32.88,miss
+h5,qr2_mid,public C-201,0.0068740,30.39,miss
+h5,qr2_mid,public C-201 q/h at this head,0.0071334,27.76,miss
+h5,qr2_mid,"public C-201 q/h at this head, 10 % margin",0.0078467,20.54,miss
+h5,qr2_high,public mean,0.0067330,39.49,miss
+h5,qr2_high,public C-101,0.0056320,49.39,miss
+h5,qr2_high,public C-101 q/h at this head,0.0068009,38.88,miss
+h5,qr2_high,"public C-101 q/h at this head, 10 % margin",0.0074810,32.77,miss
+h5,qr2_high,public C-201,0.0078340,29.60,miss
+h5,qr2_high,public C-201 q/h at this head,0.0080867,27.33,miss
+h5,qr2_high,"public C-201 q/h at this head, 10 % margin",0.0088954,20.06,miss

@@ -1,0 +1,1262 @@
+{
+  "AG-04": {
+    "redraws": [
+      {
+        "reference": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.04846749362199532,
+            "wall_speed_m_s": 0.025080678763385787,
+            "bulk_loss_ms_inv": 0.040118501344893476,
+            "transfer_ms_inv": 0.004614112572931539,
+            "cross_loss_m3_s": 0.0887775907506381,
+            "wall_fraction": 0.02040928117474916
+          },
+          "seconds": 3.2615
+        },
+        "splitting": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.08027396404750142,
+            "wall_speed_m_s": 0.03294855161997864,
+            "bulk_loss_ms_inv": 0.0029100945721449722,
+            "transfer_ms_inv": 0.00017423877214373107,
+            "cross_loss_m3_s": 0.10189826018495855,
+            "wall_fraction": 0.03878379041995691
+          },
+          "seconds": 1.3483
+        }
+      },
+      {
+        "reference": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.022174880123859708,
+            "wall_speed_m_s": 0.013167912069419105,
+            "bulk_loss_ms_inv": 0.05083173597409951,
+            "transfer_ms_inv": 0.009260710157188434,
+            "cross_loss_m3_s": 0.017897114314615045,
+            "wall_fraction": 0.010860623517637094
+          },
+          "seconds": 3.9717
+        },
+        "splitting": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.025983363467707576,
+            "wall_speed_m_s": 0.013395502450856227,
+            "bulk_loss_ms_inv": 0.0741911317242494,
+            "transfer_ms_inv": 0.010319069681197224,
+            "cross_loss_m3_s": 0.07310697147902177,
+            "wall_fraction": 0.009996153096399526
+          },
+          "seconds": 1.4793
+        }
+      },
+      {
+        "reference": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.03512720151384485,
+            "wall_speed_m_s": 0.008401535192966344,
+            "bulk_loss_ms_inv": 0.06907861769933632,
+            "transfer_ms_inv": 0.021333648908461456,
+            "cross_loss_m3_s": 0.07582097573275152,
+            "wall_fraction": 0.029318579990148898
+          },
+          "seconds": 4.8491
+        },
+        "splitting": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.05004714946771571,
+            "wall_speed_m_s": 0.011315723350931636,
+            "bulk_loss_ms_inv": 0.07950539780511301,
+            "transfer_ms_inv": 0.019705417651455504,
+            "cross_loss_m3_s": 0.10368442658584208,
+            "wall_fraction": 0.03652791154234077
+          },
+          "seconds": 1.4304
+        }
+      },
+      {
+        "reference": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.06767773803917798,
+            "wall_speed_m_s": 0.018557802405264983,
+            "bulk_loss_ms_inv": 0.11728858847466772,
+            "transfer_ms_inv": 0.007069409762555656,
+            "cross_loss_m3_s": 0.0886790975431328,
+            "wall_fraction": 0.01701914202132763
+          },
+          "seconds": 3.3922
+        },
+        "splitting": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.0600872743966363,
+            "wall_speed_m_s": 0.020503725399371547,
+            "bulk_loss_ms_inv": 0.10898478461865979,
+            "transfer_ms_inv": 0.0020224215099506893,
+            "cross_loss_m3_s": 0.11912352724175336,
+            "wall_fraction": 0.013531109160802579
+          },
+          "seconds": 1.4118
+        }
+      },
+      {
+        "reference": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.04706846914021234,
+            "wall_speed_m_s": 0.010994359775340357,
+            "bulk_loss_ms_inv": 0.04343487786711009,
+            "transfer_ms_inv": 0.0069629451998620695,
+            "cross_loss_m3_s": 0.02476439670585139,
+            "wall_fraction": 0.004775737875338064
+          },
+          "seconds": 3.7499
+        },
+        "splitting": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.05482454326676489,
+            "wall_speed_m_s": 0.010759103674162773,
+            "bulk_loss_ms_inv": 0.07054424893502831,
+            "transfer_ms_inv": 0.011956370616694745,
+            "cross_loss_m3_s": 0.027609270794431644,
+            "wall_fraction": 0.00936712935017033
+          },
+          "seconds": 1.3955
+        }
+      }
+    ],
+    "logged_values": {
+      "gauge_readings_as_pressures": {
+        "diffusion_mm2_ms": 0.1191877252660678,
+        "wall_speed_m_s": 0.018841485007385177,
+        "bulk_loss_ms_inv": 0.1455132838945994,
+        "transfer_ms_inv": 0.07432266737801285,
+        "cross_loss_m3_s": 0.11237890928496135,
+        "wall_fraction": 0.041169683730607476
+      },
+      "no_outside_chord_normalisation": {
+        "diffusion_mm2_ms": 0.02634193447081934,
+        "wall_speed_m_s": 0.028395435455741413,
+        "bulk_loss_ms_inv": 0.035505591198897735,
+        "transfer_ms_inv": 0.0033881796631107797,
+        "cross_loss_m3_s": 0.07710012963366324,
+        "wall_fraction": 0.030335060881773547
+      },
+      "both_as_logged": {
+        "diffusion_mm2_ms": 0.1413703507451558,
+        "wall_speed_m_s": 0.02216810559620234,
+        "bulk_loss_ms_inv": 0.14090324710265834,
+        "transfer_ms_inv": 0.07555409015819747,
+        "cross_loss_m3_s": 0.10072094662556268,
+        "wall_fraction": 0.031238417778578498
+      }
+    }
+  },
+  "AG-09": {
+    "redraws": [
+      {
+        "reference": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.006773355131226566,
+            "wall_speed_m_s": 0.0059092314597256985,
+            "bulk_loss_ms_inv": 0.012398222393272817,
+            "transfer_ms_inv": 0.04715202085732173,
+            "cross_loss_m3_s": 0.03799578344888824,
+            "wall_fraction": 0.0019039664949834407
+          },
+          "seconds": 2.7149
+        },
+        "splitting": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.02174724926529592,
+            "wall_speed_m_s": 0.009933942472380627,
+            "bulk_loss_ms_inv": 0.024930401828593407,
+            "transfer_ms_inv": 0.04449592603055219,
+            "cross_loss_m3_s": 0.017249874678253667,
+            "wall_fraction": 0.042030580398533246
+          },
+          "seconds": 1.0824
+        }
+      },
+      {
+        "reference": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.12162088678183025,
+            "wall_speed_m_s": 0.0335107392185711,
+            "bulk_loss_ms_inv": 0.09466702426657037,
+            "transfer_ms_inv": 0.0029560824837071564,
+            "cross_loss_m3_s": 0.1306300051529766,
+            "wall_fraction": 0.01327906796968111
+          },
+          "seconds": 3.6125
+        },
+        "splitting": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.1331867433801115,
+            "wall_speed_m_s": 0.029860749290463083,
+            "bulk_loss_ms_inv": 0.06648227015877417,
+            "transfer_ms_inv": 0.020166372334928795,
+            "cross_loss_m3_s": 0.08156072117180628,
+            "wall_fraction": 0.025453311345939127
+          },
+          "seconds": 0.9722
+        }
+      },
+      {
+        "reference": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.042873712296227495,
+            "wall_speed_m_s": 0.014774768404849741,
+            "bulk_loss_ms_inv": 0.007104697243309754,
+            "transfer_ms_inv": 0.011649366708743614,
+            "cross_loss_m3_s": 0.02724168398994971,
+            "wall_fraction": 0.016683676357339323
+          },
+          "seconds": 2.5998
+        },
+        "splitting": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.11484293597952444,
+            "wall_speed_m_s": 0.0068116103308923925,
+            "bulk_loss_ms_inv": 0.026458345769164726,
+            "transfer_ms_inv": 0.029319754741363724,
+            "cross_loss_m3_s": 0.030635443152707525,
+            "wall_fraction": 0.026025206147214004
+          },
+          "seconds": 1.0138
+        }
+      },
+      {
+        "reference": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.09559687151542207,
+            "wall_speed_m_s": 0.022040605107909172,
+            "bulk_loss_ms_inv": 0.10281389074402458,
+            "transfer_ms_inv": 0.02258176823950464,
+            "cross_loss_m3_s": 0.0681106688080435,
+            "wall_fraction": 0.11116584450928298
+          },
+          "seconds": 3.0109
+        },
+        "splitting": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.10313039080587671,
+            "wall_speed_m_s": 0.03257237688958359,
+            "bulk_loss_ms_inv": 0.12767419437198502,
+            "transfer_ms_inv": 0.0297625252156708,
+            "cross_loss_m3_s": 0.08791433825835791,
+            "wall_fraction": 0.13456817781163735
+          },
+          "seconds": 0.9438
+        }
+      },
+      {
+        "reference": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.016248591676237822,
+            "wall_speed_m_s": 0.007256292936112334,
+            "bulk_loss_ms_inv": 0.06395822427500697,
+            "transfer_ms_inv": 0.02499302832179584,
+            "cross_loss_m3_s": 0.13373465055724174,
+            "wall_fraction": 0.034591161306163354
+          },
+          "seconds": 3.551
+        },
+        "splitting": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.04707370908393571,
+            "wall_speed_m_s": 0.014339890061276783,
+            "bulk_loss_ms_inv": 0.06936910962123122,
+            "transfer_ms_inv": 0.044837185163415505,
+            "cross_loss_m3_s": 0.10507800112791774,
+            "wall_fraction": 0.006892112985860492
+          },
+          "seconds": 0.9345
+        }
+      }
+    ],
+    "logged_values": {
+      "gauge_readings_as_pressures": {
+        "diffusion_mm2_ms": 0.22352223602959853,
+        "wall_speed_m_s": 0.003907649478559113,
+        "bulk_loss_ms_inv": 0.12805405057120245,
+        "transfer_ms_inv": 0.1251756702632667,
+        "cross_loss_m3_s": 0.028250950337865025,
+        "wall_fraction": 0.037220821501241876
+      },
+      "no_outside_chord_normalisation": {
+        "diffusion_mm2_ms": 0.014521311101116652,
+        "wall_speed_m_s": 0.009159043582866271,
+        "bulk_loss_ms_inv": 0.0036475491964838014,
+        "transfer_ms_inv": 0.011570981012720694,
+        "cross_loss_m3_s": 0.024360159166968244,
+        "wall_fraction": 0.01286714048465143
+      },
+      "both_as_logged": {
+        "diffusion_mm2_ms": 0.216039636539751,
+        "wall_speed_m_s": 0.011256668827530625,
+        "bulk_loss_ms_inv": 0.1369495042040092,
+        "transfer_ms_inv": 0.1606692529840803,
+        "cross_loss_m3_s": 0.014635202629580908,
+        "wall_fraction": 0.048491184721610736
+      }
+    }
+  },
+  "AG-21": {
+    "redraws": [
+      {
+        "reference": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.05519614098650649,
+            "wall_speed_m_s": 0.0032502512709087217,
+            "bulk_loss_ms_inv": 0.019489076013878837,
+            "transfer_ms_inv": 0.0709995781680961,
+            "cross_loss_m3_s": 0.0591982484173393,
+            "wall_fraction": 0.001294139957091119
+          },
+          "seconds": 2.2939
+        },
+        "splitting": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.025884310293600166,
+            "wall_speed_m_s": 0.0020222254760985754,
+            "bulk_loss_ms_inv": 0.02371773109962616,
+            "transfer_ms_inv": 0.07522905628896126,
+            "cross_loss_m3_s": 0.053020264464237396,
+            "wall_fraction": 0.00043191535258983266
+          },
+          "seconds": 0.9927
+        }
+      },
+      {
+        "reference": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.006261111003409425,
+            "wall_speed_m_s": 0.0029188028650817266,
+            "bulk_loss_ms_inv": 0.01202844179302165,
+            "transfer_ms_inv": 0.00787004011344461,
+            "cross_loss_m3_s": 0.03973886248239887,
+            "wall_fraction": 0.01624909397271908
+          },
+          "seconds": 2.3485
+        },
+        "splitting": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.021050188147730964,
+            "wall_speed_m_s": 0.007173993418246871,
+            "bulk_loss_ms_inv": 0.03666476298733734,
+            "transfer_ms_inv": 0.002721642098624244,
+            "cross_loss_m3_s": 0.04941912232341159,
+            "wall_fraction": 0.0018137173167463252
+          },
+          "seconds": 0.9826
+        }
+      },
+      {
+        "reference": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.012761770376306103,
+            "wall_speed_m_s": 0.0006214941367395829,
+            "bulk_loss_ms_inv": 0.0070303531313764545,
+            "transfer_ms_inv": 0.01275638364113263,
+            "cross_loss_m3_s": 0.041019175311981244,
+            "wall_fraction": 0.026529068265201034
+          },
+          "seconds": 2.148
+        },
+        "splitting": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.06921296794129894,
+            "wall_speed_m_s": 0.0048274199812107605,
+            "bulk_loss_ms_inv": 0.018037788536950927,
+            "transfer_ms_inv": 0.03195623155105576,
+            "cross_loss_m3_s": 0.026731597279703145,
+            "wall_fraction": 0.017239827092901023
+          },
+          "seconds": 0.9727
+        }
+      },
+      {
+        "reference": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.0025917390678742436,
+            "wall_speed_m_s": 0.02419629677125057,
+            "bulk_loss_ms_inv": 0.03873479498300858,
+            "transfer_ms_inv": 0.033048948302094594,
+            "cross_loss_m3_s": 0.010296772294096633,
+            "wall_fraction": 0.04393171761798061
+          },
+          "seconds": 2.4379
+        },
+        "splitting": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.005032904435511298,
+            "wall_speed_m_s": 0.020747911200371304,
+            "bulk_loss_ms_inv": 0.020068750905355426,
+            "transfer_ms_inv": 0.03170620058523532,
+            "cross_loss_m3_s": 0.017472085100726772,
+            "wall_fraction": 0.034702254084135555
+          },
+          "seconds": 0.966
+        }
+      },
+      {
+        "reference": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.04802524668810371,
+            "wall_speed_m_s": 0.0037795966434828188,
+            "bulk_loss_ms_inv": 0.013735527346492304,
+            "transfer_ms_inv": 0.06372443253621629,
+            "cross_loss_m3_s": 0.051579555960296175,
+            "wall_fraction": 0.0070346388080788635
+          },
+          "seconds": 2.7247
+        },
+        "splitting": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.04489501086732517,
+            "wall_speed_m_s": 0.009812256426418772,
+            "bulk_loss_ms_inv": 0.011988655471961707,
+            "transfer_ms_inv": 0.0622162834817086,
+            "cross_loss_m3_s": 0.031246839314649125,
+            "wall_fraction": 0.010272216556842887
+          },
+          "seconds": 1.1614
+        }
+      }
+    ],
+    "logged_values": {
+      "gauge_readings_as_pressures": {
+        "diffusion_mm2_ms": 3.969425931989079,
+        "wall_speed_m_s": 0.06729640006854684,
+        "bulk_loss_ms_inv": 5.8784311001841445,
+        "transfer_ms_inv": 9.906873715942321,
+        "cross_loss_m3_s": 1.0827500191263346,
+        "wall_fraction": 0.4851038081849964
+      },
+      "no_outside_chord_normalisation": {
+        "diffusion_mm2_ms": 0.052863183104214784,
+        "wall_speed_m_s": 0.0022478190837375385,
+        "bulk_loss_ms_inv": 0.0040464746350887815,
+        "transfer_ms_inv": 0.01876839803429675,
+        "cross_loss_m3_s": 0.0027423763902877565,
+        "wall_fraction": 0.010507249658402626
+      },
+      "both_as_logged": {
+        "diffusion_mm2_ms": 3.973304610617543,
+        "wall_speed_m_s": 0.0716026778786849,
+        "bulk_loss_ms_inv": 5.897099670470229,
+        "transfer_ms_inv": 9.857231270341615,
+        "cross_loss_m3_s": 1.145948882856629,
+        "wall_fraction": 0.4778287533934213
+      }
+    },
+    "shortcuts": {
+      "single_ray": {
+        "diffusion_mm2_ms": 10.592056823055467,
+        "wall_speed_m_s": 2.984517563344852,
+        "bulk_loss_ms_inv": 4.018070818947239,
+        "transfer_ms_inv": 2.3963837112984665,
+        "cross_loss_m3_s": 1.9077279970083043,
+        "wall_fraction": 0.6054812084814917
+      },
+      "gate_midpoint": {
+        "diffusion_mm2_ms": 0.2091983593451019,
+        "wall_speed_m_s": 0.15874512592647938,
+        "bulk_loss_ms_inv": 0.4106078197903207,
+        "transfer_ms_inv": 1.6056101327016847,
+        "cross_loss_m3_s": 0.9961689173072177,
+        "wall_fraction": 0.17807445735868824
+      },
+      "no_exchange": {
+        "diffusion_mm2_ms": 60.49515536017439,
+        "wall_speed_m_s": 3.0073980283624895,
+        "bulk_loss_ms_inv": 49.76123989403982,
+        "transfer_ms_inv": 158.0,
+        "cross_loss_m3_s": 127.99999732085857,
+        "wall_fraction": 0.2801333260017321
+      },
+      "no_pair_loss": {
+        "diffusion_mm2_ms": 4.796668453233099,
+        "wall_speed_m_s": 12.836220686598178,
+        "bulk_loss_ms_inv": 55.70609345598725,
+        "transfer_ms_inv": 11.854987592499633,
+        "cross_loss_m3_s": 128.0,
+        "wall_fraction": 5.940418812987199
+      },
+      "linear_bulk": {
+        "diffusion_mm2_ms": 4.361035060009417,
+        "wall_speed_m_s": 7.308996639191969,
+        "bulk_loss_ms_inv": 32.2980944241231,
+        "transfer_ms_inv": 2.0325475576088214,
+        "cross_loss_m3_s": 11.23276631890493,
+        "wall_fraction": 14.273407287361612
+      }
+    }
+  },
+  "AG-24": {
+    "redraws": [
+      {
+        "reference": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.099029230359573,
+            "wall_speed_m_s": 0.0565454950991325,
+            "bulk_loss_ms_inv": 0.03203065128946636,
+            "transfer_ms_inv": 0.03594556824190187,
+            "cross_loss_m3_s": 0.05916833763534372,
+            "wall_fraction": 0.05795249443703761
+          },
+          "seconds": 5.7799
+        },
+        "splitting": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.10325697744963946,
+            "wall_speed_m_s": 0.0020872990671734946,
+            "bulk_loss_ms_inv": 0.1517959594148799,
+            "transfer_ms_inv": 0.04792149459131867,
+            "cross_loss_m3_s": 0.06783422714071861,
+            "wall_fraction": 0.16596371281870267
+          },
+          "seconds": 1.1957
+        }
+      },
+      {
+        "reference": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.0631046111703526,
+            "wall_speed_m_s": 0.016190844489812527,
+            "bulk_loss_ms_inv": 0.0053396138757655365,
+            "transfer_ms_inv": 0.014896397828373376,
+            "cross_loss_m3_s": 0.014285909632464603,
+            "wall_fraction": 0.012112921351873732
+          },
+          "seconds": 5.9552
+        },
+        "splitting": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.02696605855641465,
+            "wall_speed_m_s": 0.02534813352365421,
+            "bulk_loss_ms_inv": 0.0077701543500174886,
+            "transfer_ms_inv": 0.0017428868490709792,
+            "cross_loss_m3_s": 0.0225901575291285,
+            "wall_fraction": 0.0193270437269429
+          },
+          "seconds": 1.3089
+        }
+      },
+      {
+        "reference": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.25950964306428403,
+            "wall_speed_m_s": 0.053794972908257264,
+            "bulk_loss_ms_inv": 0.17288572848114803,
+            "transfer_ms_inv": 0.050048179269379656,
+            "cross_loss_m3_s": 0.04747888252458045,
+            "wall_fraction": 0.1265559293658717
+          },
+          "seconds": 6.087
+        },
+        "splitting": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.35795050943161044,
+            "wall_speed_m_s": 0.006832687515097765,
+            "bulk_loss_ms_inv": 0.2688026116401454,
+            "transfer_ms_inv": 0.04335142514188539,
+            "cross_loss_m3_s": 0.17158786006886564,
+            "wall_fraction": 0.24013073115007147
+          },
+          "seconds": 1.2946
+        }
+      },
+      {
+        "reference": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.1193472138593954,
+            "wall_speed_m_s": 0.058194898872384236,
+            "bulk_loss_ms_inv": 0.07056535151905852,
+            "transfer_ms_inv": 0.03352339680821603,
+            "cross_loss_m3_s": 0.018104260486736704,
+            "wall_fraction": 0.0246996749555158
+          },
+          "seconds": 6.3011
+        },
+        "splitting": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.11437737181775987,
+            "wall_speed_m_s": 0.025589656262958727,
+            "bulk_loss_ms_inv": 0.08181101784676681,
+            "transfer_ms_inv": 0.024084790369921505,
+            "cross_loss_m3_s": 0.06779178126293468,
+            "wall_fraction": 0.04920706039968081
+          },
+          "seconds": 1.5446
+        }
+      },
+      {
+        "reference": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.41758868238279234,
+            "wall_speed_m_s": 0.018904801077964294,
+            "bulk_loss_ms_inv": 0.16819702280860827,
+            "transfer_ms_inv": 0.022131653896090286,
+            "cross_loss_m3_s": 0.11507673999812022,
+            "wall_fraction": 0.18975473668862244
+          },
+          "seconds": 6.2086
+        },
+        "splitting": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.4657490851493584,
+            "wall_speed_m_s": 0.002021497037466939,
+            "bulk_loss_ms_inv": 0.23468414219541822,
+            "transfer_ms_inv": 0.038469072594554676,
+            "cross_loss_m3_s": 0.2096474939963167,
+            "wall_fraction": 0.21851172148771672
+          },
+          "seconds": 1.3195
+        }
+      }
+    ],
+    "logged_values": {
+      "gauge_readings_as_pressures": {
+        "diffusion_mm2_ms": 0.5744758349319845,
+        "wall_speed_m_s": 0.07582083936957437,
+        "bulk_loss_ms_inv": 0.17626434523788648,
+        "transfer_ms_inv": 0.10804241682211835,
+        "cross_loss_m3_s": 0.07664756314155632,
+        "wall_fraction": 0.0907280935686557
+      },
+      "no_outside_chord_normalisation": {
+        "diffusion_mm2_ms": 10.412614574560806,
+        "wall_speed_m_s": 5.401418372912134,
+        "bulk_loss_ms_inv": 4.740904248795711,
+        "transfer_ms_inv": 2.456023945816599,
+        "cross_loss_m3_s": 4.722672120039187,
+        "wall_fraction": 1.925187733831324
+      },
+      "both_as_logged": {
+        "diffusion_mm2_ms": 10.904827517615487,
+        "wall_speed_m_s": 5.373378755959868,
+        "bulk_loss_ms_inv": 4.889408309828899,
+        "transfer_ms_inv": 2.5233245014646575,
+        "cross_loss_m3_s": 4.699655448945987,
+        "wall_fraction": 1.8630591687401146
+      }
+    },
+    "shortcuts": {
+      "single_ray": {
+        "diffusion_mm2_ms": 25.341709684797724,
+        "wall_speed_m_s": 7.024086022142173,
+        "bulk_loss_ms_inv": 1.5376148731254036,
+        "transfer_ms_inv": 1.2720164591265903,
+        "cross_loss_m3_s": 0.9766347630234058,
+        "wall_fraction": 0.42791063253670253
+      },
+      "gate_midpoint": {
+        "diffusion_mm2_ms": 0.028805364794433075,
+        "wall_speed_m_s": 0.08465614195636295,
+        "bulk_loss_ms_inv": 0.49609462407078087,
+        "transfer_ms_inv": 0.21622819882667343,
+        "cross_loss_m3_s": 0.2444772014839918,
+        "wall_fraction": 0.22299143817590866
+      },
+      "no_exchange": {
+        "diffusion_mm2_ms": 64.01247259430222,
+        "wall_speed_m_s": 7.418216307743079,
+        "bulk_loss_ms_inv": 14.0576222094157,
+        "transfer_ms_inv": 36.0,
+        "cross_loss_m3_s": 112.01990838183568,
+        "wall_fraction": 38.71247641916113
+      },
+      "no_pair_loss": {
+        "diffusion_mm2_ms": 8.188414509472661,
+        "wall_speed_m_s": 19.72948177075921,
+        "bulk_loss_ms_inv": 59.63474698530775,
+        "transfer_ms_inv": 8.998338963697922,
+        "cross_loss_m3_s": 164.0,
+        "wall_fraction": 32.40569441446387
+      },
+      "linear_bulk": {
+        "diffusion_mm2_ms": 10.712785470966377,
+        "wall_speed_m_s": 5.285957077687664,
+        "bulk_loss_ms_inv": 14.020086407287108,
+        "transfer_ms_inv": 0.11658666784047367,
+        "cross_loss_m3_s": 3.416189185561384,
+        "wall_fraction": 19.73002250924061
+      }
+    }
+  },
+  "AG-28": {
+    "redraws": [
+      {
+        "reference": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.007045065560316033,
+            "wall_speed_m_s": 0.031230386158265233,
+            "bulk_loss_ms_inv": 0.06934901253141112,
+            "transfer_ms_inv": 0.09573745241666654,
+            "cross_loss_m3_s": 0.01667250102331616,
+            "wall_fraction": 0.08629359020005205
+          },
+          "seconds": 2.8705
+        },
+        "splitting": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.008144364029103457,
+            "wall_speed_m_s": 0.02850325889078113,
+            "bulk_loss_ms_inv": 0.058666875418011966,
+            "transfer_ms_inv": 0.12278568384902488,
+            "cross_loss_m3_s": 0.000347138006321121,
+            "wall_fraction": 0.08831926444590373
+          },
+          "seconds": 1.0154
+        }
+      },
+      {
+        "reference": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.10724422723390248,
+            "wall_speed_m_s": 0.0011622732676667507,
+            "bulk_loss_ms_inv": 0.16684546583716764,
+            "transfer_ms_inv": 0.001746470070407291,
+            "cross_loss_m3_s": 0.11468715557147609,
+            "wall_fraction": 0.05274862192092278
+          },
+          "seconds": 4.7359
+        },
+        "splitting": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.19175544965873925,
+            "wall_speed_m_s": 0.011364903103564899,
+            "bulk_loss_ms_inv": 0.22564788371652877,
+            "transfer_ms_inv": 0.016216331746643498,
+            "cross_loss_m3_s": 0.14355090139759327,
+            "wall_fraction": 0.09166523608202433
+          },
+          "seconds": 1.3663
+        }
+      },
+      {
+        "reference": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.013265811351459433,
+            "wall_speed_m_s": 0.008223737848078727,
+            "bulk_loss_ms_inv": 0.03994059269576411,
+            "transfer_ms_inv": 0.008358312902601028,
+            "cross_loss_m3_s": 0.0932679907212709,
+            "wall_fraction": 0.0132036112129863
+          },
+          "seconds": 5.4867
+        },
+        "splitting": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.018839067512530505,
+            "wall_speed_m_s": 0.0026099749140214477,
+            "bulk_loss_ms_inv": 0.06986668272784269,
+            "transfer_ms_inv": 0.00831300345438546,
+            "cross_loss_m3_s": 0.10044852756002891,
+            "wall_fraction": 0.006501598330044267
+          },
+          "seconds": 1.4728
+        }
+      },
+      {
+        "reference": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.028271179885752673,
+            "wall_speed_m_s": 0.004581061947321145,
+            "bulk_loss_ms_inv": 0.01071132581146328,
+            "transfer_ms_inv": 0.07716987529655661,
+            "cross_loss_m3_s": 0.024228666510606553,
+            "wall_fraction": 0.01642297381306464
+          },
+          "seconds": 3.1472
+        },
+        "splitting": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.02797873546571239,
+            "wall_speed_m_s": 0.011499526091022599,
+            "bulk_loss_ms_inv": 0.031570048635043424,
+            "transfer_ms_inv": 0.10204618402942511,
+            "cross_loss_m3_s": 0.029467033626734175,
+            "wall_fraction": 0.010957891924558613
+          },
+          "seconds": 1.3354
+        }
+      },
+      {
+        "reference": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.044923934523755094,
+            "wall_speed_m_s": 0.01010034902854488,
+            "bulk_loss_ms_inv": 0.015245082426756928,
+            "transfer_ms_inv": 0.022477903897133444,
+            "cross_loss_m3_s": 0.0071925507624466456,
+            "wall_fraction": 0.014979994118073195
+          },
+          "seconds": 4.1078
+        },
+        "splitting": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.0684147142566971,
+            "wall_speed_m_s": 0.015109052201038125,
+            "bulk_loss_ms_inv": 0.019368782339490576,
+            "transfer_ms_inv": 0.009136365850914707,
+            "cross_loss_m3_s": 0.020642089956906397,
+            "wall_fraction": 0.027532192421085105
+          },
+          "seconds": 1.1648
+        }
+      }
+    ],
+    "logged_values": {
+      "gauge_readings_as_pressures": {
+        "diffusion_mm2_ms": 9.764244393681398,
+        "wall_speed_m_s": 0.3342132922938834,
+        "bulk_loss_ms_inv": 5.877504965501807,
+        "transfer_ms_inv": 14.722022409368861,
+        "cross_loss_m3_s": 0.7402272767960436,
+        "wall_fraction": 3.0388194174639414
+      },
+      "no_outside_chord_normalisation": {
+        "diffusion_mm2_ms": 0.05183035415024406,
+        "wall_speed_m_s": 0.0019778752017973744,
+        "bulk_loss_ms_inv": 0.0038593800511022014,
+        "transfer_ms_inv": 0.0005077264159325523,
+        "cross_loss_m3_s": 0.004827235061112883,
+        "wall_fraction": 0.01596110903430888
+      },
+      "both_as_logged": {
+        "diffusion_mm2_ms": 9.709846383818377,
+        "wall_speed_m_s": 0.30284739013764683,
+        "bulk_loss_ms_inv": 5.802862277249199,
+        "transfer_ms_inv": 14.633374930320663,
+        "cross_loss_m3_s": 0.7298235450320915,
+        "wall_fraction": 2.9626877493814465
+      }
+    },
+    "shortcuts": {
+      "single_ray": {
+        "diffusion_mm2_ms": 13.013834445244825,
+        "wall_speed_m_s": 3.854111886367473,
+        "bulk_loss_ms_inv": 0.8239656398023265,
+        "transfer_ms_inv": 2.0118113982530605,
+        "cross_loss_m3_s": 0.20110481011917003,
+        "wall_fraction": 3.083072472041176
+      },
+      "gate_midpoint": {
+        "diffusion_mm2_ms": 0.4762070094395199,
+        "wall_speed_m_s": 0.30268667661253285,
+        "bulk_loss_ms_inv": 0.6102468199512601,
+        "transfer_ms_inv": 2.7938546396922392,
+        "cross_loss_m3_s": 1.3785476609599776,
+        "wall_fraction": 0.12868271899189412
+      },
+      "no_exchange": {
+        "diffusion_mm2_ms": 230.65246722468808,
+        "wall_speed_m_s": 12.327361311656471,
+        "bulk_loss_ms_inv": 15.970344430468908,
+        "transfer_ms_inv": 194.0,
+        "cross_loss_m3_s": 75.99447486060585,
+        "wall_fraction": 21.069901861212685
+      },
+      "no_pair_loss": {
+        "diffusion_mm2_ms": 16.827079401134444,
+        "wall_speed_m_s": 10.931177872442898,
+        "bulk_loss_ms_inv": 40.5105579318055,
+        "transfer_ms_inv": 1.9324076650206523,
+        "cross_loss_m3_s": 76.0,
+        "wall_fraction": 7.685833551633057
+      },
+      "linear_bulk": {
+        "diffusion_mm2_ms": 13.873889571561406,
+        "wall_speed_m_s": 5.9325513014962885,
+        "bulk_loss_ms_inv": 20.769737964567604,
+        "transfer_ms_inv": 0.9745963460408236,
+        "cross_loss_m3_s": 7.825438533931563,
+        "wall_fraction": 10.264279666669003
+      }
+    }
+  },
+  "AG-35": {
+    "redraws": [
+      {
+        "reference": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.09413893918218008,
+            "wall_speed_m_s": 0.02788275099873857,
+            "bulk_loss_ms_inv": 0.08952318054218367,
+            "transfer_ms_inv": 0.013677948009649388,
+            "cross_loss_m3_s": 0.018691824093220344,
+            "wall_fraction": 0.06913178297068834
+          },
+          "seconds": 6.2398
+        },
+        "splitting": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.12168070687756938,
+            "wall_speed_m_s": 0.027060619286415715,
+            "bulk_loss_ms_inv": 0.09720769438975596,
+            "transfer_ms_inv": 0.018180115323862545,
+            "cross_loss_m3_s": 0.03408418320355959,
+            "wall_fraction": 0.06986711277054414
+          },
+          "seconds": 1.2049
+        }
+      },
+      {
+        "reference": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.09300660436277752,
+            "wall_speed_m_s": 0.013349604439720036,
+            "bulk_loss_ms_inv": 0.03088127596155843,
+            "transfer_ms_inv": 0.008067188629024002,
+            "cross_loss_m3_s": 0.0911023216673094,
+            "wall_fraction": 0.018658015053157895
+          },
+          "seconds": 6.0869
+        },
+        "splitting": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.17731059201121724,
+            "wall_speed_m_s": 0.016746872071634243,
+            "bulk_loss_ms_inv": 0.018226585497371772,
+            "transfer_ms_inv": 0.009627298482495217,
+            "cross_loss_m3_s": 0.09158815376430175,
+            "wall_fraction": 0.03497705767399606
+          },
+          "seconds": 1.1817
+        }
+      },
+      {
+        "reference": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.015487371915412496,
+            "wall_speed_m_s": 0.015982666740684458,
+            "bulk_loss_ms_inv": 0.009557562477624515,
+            "transfer_ms_inv": 0.0010126866246573663,
+            "cross_loss_m3_s": 0.0423490500584583,
+            "wall_fraction": 0.02722944489832087
+          },
+          "seconds": 7.912
+        },
+        "splitting": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.16242696686269653,
+            "wall_speed_m_s": 0.016675559837320275,
+            "bulk_loss_ms_inv": 0.005520961046234785,
+            "transfer_ms_inv": 0.009915614894062674,
+            "cross_loss_m3_s": 0.03818814554473101,
+            "wall_fraction": 0.009849614498014247
+          },
+          "seconds": 1.2108
+        }
+      },
+      {
+        "reference": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.043371977048920485,
+            "wall_speed_m_s": 0.010311253251201377,
+            "bulk_loss_ms_inv": 0.039189023587249405,
+            "transfer_ms_inv": 0.045444973387909204,
+            "cross_loss_m3_s": 0.01553317105451701,
+            "wall_fraction": 0.036114867442677
+          },
+          "seconds": 5.45
+        },
+        "splitting": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.11581233063303387,
+            "wall_speed_m_s": 0.01491313746103303,
+            "bulk_loss_ms_inv": 0.04692869132887356,
+            "transfer_ms_inv": 0.03922884155082018,
+            "cross_loss_m3_s": 0.006856278840521154,
+            "wall_fraction": 0.0409872299720615
+          },
+          "seconds": 1.1878
+        }
+      },
+      {
+        "reference": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.014876417973290756,
+            "wall_speed_m_s": 0.00646369059668824,
+            "bulk_loss_ms_inv": 0.020451155962730727,
+            "transfer_ms_inv": 0.0235606723592241,
+            "cross_loss_m3_s": 0.02330982324942201,
+            "wall_fraction": 0.021247520355538452
+          },
+          "seconds": 8.9965
+        },
+        "splitting": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.07831929267982929,
+            "wall_speed_m_s": 0.006131622059949808,
+            "bulk_loss_ms_inv": 0.012869954496474989,
+            "transfer_ms_inv": 0.02384734566888147,
+            "cross_loss_m3_s": 0.04230704391650332,
+            "wall_fraction": 0.027432936309329525
+          },
+          "seconds": 1.2031
+        }
+      }
+    ],
+    "logged_values": {
+      "gauge_readings_as_pressures": {
+        "diffusion_mm2_ms": 0.6257325226713206,
+        "wall_speed_m_s": 0.027171640487651715,
+        "bulk_loss_ms_inv": 0.291873702236245,
+        "transfer_ms_inv": 0.1443473408066609,
+        "cross_loss_m3_s": 0.05103169063429964,
+        "wall_fraction": 0.1124502974441203
+      },
+      "no_outside_chord_normalisation": {
+        "diffusion_mm2_ms": 20.567148838352836,
+        "wall_speed_m_s": 2.8696005389265977,
+        "bulk_loss_ms_inv": 2.1725822468920852,
+        "transfer_ms_inv": 4.451020240222047,
+        "cross_loss_m3_s": 1.8996971919982342,
+        "wall_fraction": 0.8391842366014165
+      },
+      "both_as_logged": {
+        "diffusion_mm2_ms": 21.135423677318812,
+        "wall_speed_m_s": 2.86197417269653,
+        "bulk_loss_ms_inv": 2.398557363022913,
+        "transfer_ms_inv": 4.602147649607291,
+        "cross_loss_m3_s": 1.9444628607747996,
+        "wall_fraction": 0.8934061422893139
+      }
+    },
+    "shortcuts": {
+      "single_ray": {
+        "diffusion_mm2_ms": 43.12924950579036,
+        "wall_speed_m_s": 2.357721270881756,
+        "bulk_loss_ms_inv": 2.1602245495903394,
+        "transfer_ms_inv": 0.014717194739044537,
+        "cross_loss_m3_s": 1.1573320663766649,
+        "wall_fraction": 2.6033157874750894
+      },
+      "gate_midpoint": {
+        "diffusion_mm2_ms": 2.565875560217954,
+        "wall_speed_m_s": 0.1549001687205472,
+        "bulk_loss_ms_inv": 0.4999983487175119,
+        "transfer_ms_inv": 0.498087546576087,
+        "cross_loss_m3_s": 1.0258874401573024,
+        "wall_fraction": 0.35773656245335905
+      },
+      "no_exchange": {
+        "diffusion_mm2_ms": 123.72796175652923,
+        "wall_speed_m_s": 2.632508136918545,
+        "bulk_loss_ms_inv": 10.315884330312164,
+        "transfer_ms_inv": 66.0,
+        "cross_loss_m3_s": 37.99999999997626,
+        "wall_fraction": 7.3038399934029306
+      },
+      "no_pair_loss": {
+        "diffusion_mm2_ms": 76.2527517396575,
+        "wall_speed_m_s": 3.3778236242087907,
+        "bulk_loss_ms_inv": 28.88471918939385,
+        "transfer_ms_inv": 0.8348523545556485,
+        "cross_loss_m3_s": 38.0,
+        "wall_fraction": 10.023498437113119
+      },
+      "linear_bulk": {
+        "diffusion_mm2_ms": 13.962650955723603,
+        "wall_speed_m_s": 7.355910630124416,
+        "bulk_loss_ms_inv": 29.343295829501724,
+        "transfer_ms_inv": 0.8668413946450682,
+        "cross_loss_m3_s": 8.755784785865924,
+        "wall_fraction": 15.020400354556951
+      }
+    }
+  },
+  "AG-39": {
+    "redraws": [
+      {
+        "reference": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.03136049524085749,
+            "wall_speed_m_s": 0.05521166299569854,
+            "bulk_loss_ms_inv": 0.031076389737749732,
+            "transfer_ms_inv": 0.013433405529217346,
+            "cross_loss_m3_s": 0.10129759849325272,
+            "wall_fraction": 0.026235120805739864
+          },
+          "seconds": 4.8774
+        },
+        "splitting": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.023438098817880615,
+            "wall_speed_m_s": 0.012560528273490117,
+            "bulk_loss_ms_inv": 0.05710299471498592,
+            "transfer_ms_inv": 0.021983568181216384,
+            "cross_loss_m3_s": 0.03275590374216613,
+            "wall_fraction": 0.053415948556197655
+          },
+          "seconds": 1.2659
+        }
+      },
+      {
+        "reference": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.08317769965040966,
+            "wall_speed_m_s": 0.028193800201625763,
+            "bulk_loss_ms_inv": 0.07014616227681847,
+            "transfer_ms_inv": 0.021960234007756263,
+            "cross_loss_m3_s": 0.020511834052769427,
+            "wall_fraction": 0.12763533746090738
+          },
+          "seconds": 3.5146
+        },
+        "splitting": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.10750715486031126,
+            "wall_speed_m_s": 0.021364746585309884,
+            "bulk_loss_ms_inv": 0.09773899863299018,
+            "transfer_ms_inv": 0.00022587367609627762,
+            "cross_loss_m3_s": 0.11427234372582215,
+            "wall_fraction": 0.08980444528564983
+          },
+          "seconds": 1.2374
+        }
+      },
+      {
+        "reference": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.0940910118151983,
+            "wall_speed_m_s": 0.0009398108982446493,
+            "bulk_loss_ms_inv": 0.045436744063459544,
+            "transfer_ms_inv": 0.07899170439031877,
+            "cross_loss_m3_s": 0.20545633818868053,
+            "wall_fraction": 0.1129152199028649
+          },
+          "seconds": 4.475
+        },
+        "splitting": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.10111420816147465,
+            "wall_speed_m_s": 0.02115806703010629,
+            "bulk_loss_ms_inv": 0.03452939983518144,
+            "transfer_ms_inv": 0.04253765098614082,
+            "cross_loss_m3_s": 0.21762139363505006,
+            "wall_fraction": 0.14136666960902952
+          },
+          "seconds": 1.4278
+        }
+      },
+      {
+        "reference": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.06449608861350598,
+            "wall_speed_m_s": 0.17983653443488143,
+            "bulk_loss_ms_inv": 0.042170505133787284,
+            "transfer_ms_inv": 0.15513582531740955,
+            "cross_loss_m3_s": 0.29639673613940115,
+            "wall_fraction": 0.13782755182771092
+          },
+          "seconds": 3.5071
+        },
+        "splitting": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.004142551210959411,
+            "wall_speed_m_s": 0.1871367528433569,
+            "bulk_loss_ms_inv": 0.05798528107711087,
+            "transfer_ms_inv": 0.20432472101603594,
+            "cross_loss_m3_s": 0.3133197464401596,
+            "wall_fraction": 0.2504887922161747
+          },
+          "seconds": 1.0894
+        }
+      },
+      {
+        "reference": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.06190420740109559,
+            "wall_speed_m_s": 0.02824204998261119,
+            "bulk_loss_ms_inv": 0.09322500139642975,
+            "transfer_ms_inv": 0.038765089909431616,
+            "cross_loss_m3_s": 0.14865138898265687,
+            "wall_fraction": 0.031334688648613586
+          },
+          "seconds": 4.0283
+        },
+        "splitting": {
+          "scaled_errors": {
+            "diffusion_mm2_ms": 0.04721055018283238,
+            "wall_speed_m_s": 0.0035935566317313317,
+            "bulk_loss_ms_inv": 0.09758607551055287,
+            "transfer_ms_inv": 0.018448222684774862,
+            "cross_loss_m3_s": 0.11620310094929077,
+            "wall_fraction": 0.05034214183667155
+          },
+          "seconds": 1.1408
+        }
+      }
+    ],
+    "logged_values": {
+      "gauge_readings_as_pressures": {
+        "diffusion_mm2_ms": 8.865923822913384,
+        "wall_speed_m_s": 0.08403039093239548,
+        "bulk_loss_ms_inv": 5.184441714570475,
+        "transfer_ms_inv": 9.924747049263916,
+        "cross_loss_m3_s": 1.1102513806891725,
+        "wall_fraction": 3.246791173114124
+      },
+      "no_outside_chord_normalisation": {
+        "diffusion_mm2_ms": 7.0238565211334425,
+        "wall_speed_m_s": 12.828635969803852,
+        "bulk_loss_ms_inv": 9.15032865183622,
+        "transfer_ms_inv": 4.417389806394101,
+        "cross_loss_m3_s": 8.722736623510128,
+        "wall_fraction": 2.074468742391996
+      },
+      "both_as_logged": {
+        "diffusion_mm2_ms": 16.910695995288876,
+        "wall_speed_m_s": 12.588350169353964,
+        "bulk_loss_ms_inv": 14.117361379782023,
+        "transfer_ms_inv": 14.06421500785171,
+        "cross_loss_m3_s": 10.038598990819727,
+        "wall_fraction": 1.3088010145923534
+      }
+    },
+    "shortcuts": {
+      "single_ray": {
+        "diffusion_mm2_ms": 5.37836531510921,
+        "wall_speed_m_s": 6.579050648469886,
+        "bulk_loss_ms_inv": 0.6376673798283328,
+        "transfer_ms_inv": 2.947478865050912,
+        "cross_loss_m3_s": 2.170408513323406,
+        "wall_fraction": 8.028052254175263
+      },
+      "gate_midpoint": {
+        "diffusion_mm2_ms": 0.27849869628354007,
+        "wall_speed_m_s": 0.5194611677852883,
+        "bulk_loss_ms_inv": 0.8823304396692544,
+        "transfer_ms_inv": 0.8235196893740415,
+        "cross_loss_m3_s": 1.5277683349722655,
+        "wall_fraction": 0.4236494273008688
+      },
+      "no_exchange": {
+        "diffusion_mm2_ms": 94.29992364393127,
+        "wall_speed_m_s": 7.517605893407361,
+        "bulk_loss_ms_inv": 11.849282641432124,
+        "transfer_ms_inv": 138.0,
+        "cross_loss_m3_s": 109.99995823179721,
+        "wall_fraction": 73.56780318055476
+      },
+      "no_pair_loss": {
+        "diffusion_mm2_ms": 0.8716057684052192,
+        "wall_speed_m_s": 44.03852737380342,
+        "bulk_loss_ms_inv": 47.95423913728137,
+        "transfer_ms_inv": 5.830733944309618,
+        "cross_loss_m3_s": 110.0,
+        "wall_fraction": 30.206698391694413
+      },
+      "linear_bulk": {
+        "diffusion_mm2_ms": 7.864418089237262,
+        "wall_speed_m_s": 2.7656609937130114,
+        "bulk_loss_ms_inv": 10.579479811732323,
+        "transfer_ms_inv": 0.35962655005068456,
+        "cross_loss_m3_s": 3.4799800866892983,
+        "wall_fraction": 11.63434992205925
+      }
+    }
+  }
+}

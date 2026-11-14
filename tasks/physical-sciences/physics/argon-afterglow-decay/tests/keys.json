@@ -1,0 +1,42 @@
+{
+  "AG-21": {
+    "diffusion_mm2_ms": 1.2,
+    "wall_speed_m_s": 0.34,
+    "bulk_loss_ms_inv": 0.18,
+    "transfer_ms_inv": 0.79,
+    "cross_loss_m3_s": 6.4e-16,
+    "wall_fraction": 0.07976358942404786
+  },
+  "AG-24": {
+    "diffusion_mm2_ms": 3.6,
+    "wall_speed_m_s": 1.66,
+    "bulk_loss_ms_inv": 0.065,
+    "transfer_ms_inv": 0.18,
+    "cross_loss_m3_s": 8.2e-16,
+    "wall_fraction": 0.6605946945966964
+  },
+  "AG-28": {
+    "diffusion_mm2_ms": 2.2,
+    "wall_speed_m_s": 0.91,
+    "bulk_loss_ms_inv": 0.119,
+    "transfer_ms_inv": 0.97,
+    "cross_loss_m3_s": 3.8e-16,
+    "wall_fraction": 0.18105907300185078
+  },
+  "AG-35": {
+    "diffusion_mm2_ms": 4.4,
+    "wall_speed_m_s": 0.57,
+    "bulk_loss_ms_inv": 0.152,
+    "transfer_ms_inv": 0.33,
+    "cross_loss_m3_s": 1.9e-16,
+    "wall_fraction": 0.14953800085756108
+  },
+  "AG-39": {
+    "diffusion_mm2_ms": 1.9,
+    "wall_speed_m_s": 2.02,
+    "bulk_loss_ms_inv": 0.088,
+    "transfer_ms_inv": 0.69,
+    "cross_loss_m3_s": 5.500000000000001e-16,
+    "wall_fraction": 0.4978069211156024
+  }
+}

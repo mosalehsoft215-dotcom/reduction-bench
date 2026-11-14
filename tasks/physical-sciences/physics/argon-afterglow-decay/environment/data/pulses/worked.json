@@ -1,0 +1,18 @@
+{
+  "AG-04": {
+    "diffusion_mm2_ms": 1.6,
+    "wall_speed_m_s": 0.72,
+    "bulk_loss_ms_inv": 0.079,
+    "transfer_ms_inv": 0.25,
+    "cross_loss_m3_s": 4.3000000000000004e-16,
+    "wall_fraction": 0.1369422738692013
+  },
+  "AG-09": {
+    "diffusion_mm2_ms": 2.9,
+    "wall_speed_m_s": 1.54,
+    "bulk_loss_ms_inv": 0.147,
+    "transfer_ms_inv": 0.57,
+    "cross_loss_m3_s": 2.8000000000000006e-16,
+    "wall_fraction": 0.4799360793346243
+  }
+}

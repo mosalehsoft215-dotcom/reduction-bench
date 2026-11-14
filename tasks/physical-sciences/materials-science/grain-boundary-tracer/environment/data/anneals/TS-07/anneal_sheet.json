@@ -1,0 +1,53 @@
+{
+ "anneal_id": "TS-07",
+ "material": "Cu (99.999 %)",
+ "handbook_density_g_cm3": 8.96,
+ "face_diameter_mm": 10.0,
+ "disc_after_deposit": {
+  "mass_mg": 1800.6678,
+  "thickness_mm": 2.5589
+ },
+ "thickness_after_sectioning_mm": [
+  2.5,
+  2.5,
+  2.5001
+ ],
+ "tracer": "Ag-110m",
+ "half_life_d": 249.83,
+ "deposited": "2026-03-09 07:40:00",
+ "deposit": {
+  "method": "vacuum evaporated",
+  "thickness_um": 0.01
+ },
+ "surface_after_anneal": {
+  "appearance": "bright",
+  "oxide_thickness_um": 0.0
+ },
+ "rim_after_anneal": "1 mm turned off",
+ "anneal": {
+  "setpoint_C": 760.0,
+  "planned_hold_h": 20.0,
+  "atmosphere": "Ar-5H2, flowing"
+ },
+ "reference_source": {
+  "isotope": "Ag-110m",
+  "activity_Bq": 5200.0,
+  "on": "2026-03-07 07:40:00"
+ },
+ "counter": {
+  "detectors": [
+   "NaI-1",
+   "NaI-2"
+  ],
+  "scaler": "preset real time",
+  "dead_time_us": 3.5,
+  "dead_time_kind": "non-paralysable"
+ },
+ "balance": {
+  "readability_mg": 0.001
+ },
+ "thickness_gauge": {
+  "readability_mm": 0.0001,
+  "points": "4.5 mm from the centre at 0, 120 and 240 degrees"
+ }
+}

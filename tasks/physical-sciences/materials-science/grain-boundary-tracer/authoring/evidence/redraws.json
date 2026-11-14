@@ -1,0 +1,2242 @@
+[
+ {
+  "anneal": "TS-03",
+  "draw": 1,
+  "truth": {
+   "lattice_diffusivity_m2_s": 2.137e-17,
+   "boundary_product_m3_s": 2.043e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 2.1510706202972852e-17,
+   "boundary_product_m3_s": 2.055553514454774e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 2.1412602167309496e-17,
+   "boundary_product_m3_s": 2.0416684229441354e-21
+  }
+ },
+ {
+  "anneal": "TS-07",
+  "draw": 1,
+  "truth": {
+   "lattice_diffusivity_m2_s": 6.483e-17,
+   "boundary_product_m3_s": 1.1186e-20
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 6.509797685936741e-17,
+   "boundary_product_m3_s": 1.1417718989973231e-20
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 6.479094623823259e-17,
+   "boundary_product_m3_s": 1.1373662262363877e-20
+  }
+ },
+ {
+  "anneal": "TS-11",
+  "draw": 1,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.392e-17,
+   "boundary_product_m3_s": 1.107e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.403132936865139e-17,
+   "boundary_product_m3_s": 1.1226573367163023e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.3887712134629314e-17,
+   "boundary_product_m3_s": 1.1024546521472575e-21
+  }
+ },
+ {
+  "anneal": "TS-12",
+  "draw": 1,
+  "truth": {
+   "lattice_diffusivity_m2_s": 3.071e-17,
+   "boundary_product_m3_s": 2.694e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 3.068937646397085e-17,
+   "boundary_product_m3_s": 2.6541080197167627e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 3.057619140093188e-17,
+   "boundary_product_m3_s": 2.6367581912733934e-21
+  }
+ },
+ {
+  "anneal": "TS-13",
+  "draw": 1,
+  "truth": {
+   "lattice_diffusivity_m2_s": 8.87e-18,
+   "boundary_product_m3_s": 3.412e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 8.841435015819687e-18,
+   "boundary_product_m3_s": 3.424241655647259e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 8.845960256694072e-18,
+   "boundary_product_m3_s": 3.432191569017085e-21
+  }
+ },
+ {
+  "anneal": "TS-14",
+  "draw": 1,
+  "truth": {
+   "lattice_diffusivity_m2_s": 4.046e-17,
+   "boundary_product_m3_s": 5.188e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 4.056921854430452e-17,
+   "boundary_product_m3_s": 5.197384618709305e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 4.021149220668547e-17,
+   "boundary_product_m3_s": 5.135898871269893e-21
+  }
+ },
+ {
+  "anneal": "TS-15",
+  "draw": 1,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.774e-17,
+   "boundary_product_m3_s": 1.836e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.7801177781626454e-17,
+   "boundary_product_m3_s": 1.848338159259185e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.7825261901844783e-17,
+   "boundary_product_m3_s": 1.85544251276476e-21
+  }
+ },
+ {
+  "anneal": "TS-03",
+  "draw": 2,
+  "truth": {
+   "lattice_diffusivity_m2_s": 2.137e-17,
+   "boundary_product_m3_s": 2.043e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 2.1399052516884426e-17,
+   "boundary_product_m3_s": 2.051655496167959e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 2.1312516704007078e-17,
+   "boundary_product_m3_s": 2.036623351830684e-21
+  }
+ },
+ {
+  "anneal": "TS-07",
+  "draw": 2,
+  "truth": {
+   "lattice_diffusivity_m2_s": 6.483e-17,
+   "boundary_product_m3_s": 1.1186e-20
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 6.507325625125714e-17,
+   "boundary_product_m3_s": 1.1216633714784227e-20
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 6.464694463281013e-17,
+   "boundary_product_m3_s": 1.1096511198346525e-20
+  }
+ },
+ {
+  "anneal": "TS-11",
+  "draw": 2,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.392e-17,
+   "boundary_product_m3_s": 1.107e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.409204983274085e-17,
+   "boundary_product_m3_s": 1.1096664318882864e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.4022509419496487e-17,
+   "boundary_product_m3_s": 1.0986674064235256e-21
+  }
+ },
+ {
+  "anneal": "TS-12",
+  "draw": 2,
+  "truth": {
+   "lattice_diffusivity_m2_s": 3.071e-17,
+   "boundary_product_m3_s": 2.694e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 3.0642578179943923e-17,
+   "boundary_product_m3_s": 2.737120528660877e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 3.056064879250247e-17,
+   "boundary_product_m3_s": 2.7165636476869787e-21
+  }
+ },
+ {
+  "anneal": "TS-13",
+  "draw": 2,
+  "truth": {
+   "lattice_diffusivity_m2_s": 8.87e-18,
+   "boundary_product_m3_s": 3.412e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 8.907859300056125e-18,
+   "boundary_product_m3_s": 3.4383175605779985e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 8.920635416803592e-18,
+   "boundary_product_m3_s": 3.446848841756482e-21
+  }
+ },
+ {
+  "anneal": "TS-14",
+  "draw": 2,
+  "truth": {
+   "lattice_diffusivity_m2_s": 4.046e-17,
+   "boundary_product_m3_s": 5.188e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 4.0695453976871324e-17,
+   "boundary_product_m3_s": 5.219994607123321e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 4.068823556411803e-17,
+   "boundary_product_m3_s": 5.2262292675572385e-21
+  }
+ },
+ {
+  "anneal": "TS-15",
+  "draw": 2,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.774e-17,
+   "boundary_product_m3_s": 1.836e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.7497407785144854e-17,
+   "boundary_product_m3_s": 1.8179023480807227e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.7337708127161564e-17,
+   "boundary_product_m3_s": 1.797715470029539e-21
+  }
+ },
+ {
+  "anneal": "TS-03",
+  "draw": 3,
+  "truth": {
+   "lattice_diffusivity_m2_s": 2.137e-17,
+   "boundary_product_m3_s": 2.043e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 2.1532883843606657e-17,
+   "boundary_product_m3_s": 2.095647412967984e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 2.1583211444908013e-17,
+   "boundary_product_m3_s": 2.1026311881189983e-21
+  }
+ },
+ {
+  "anneal": "TS-07",
+  "draw": 3,
+  "truth": {
+   "lattice_diffusivity_m2_s": 6.483e-17,
+   "boundary_product_m3_s": 1.1186e-20
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 6.517107206128032e-17,
+   "boundary_product_m3_s": 1.1298015635501335e-20
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 6.485183616809492e-17,
+   "boundary_product_m3_s": 1.1191953333922184e-20
+  }
+ },
+ {
+  "anneal": "TS-11",
+  "draw": 3,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.392e-17,
+   "boundary_product_m3_s": 1.107e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.4029710788793605e-17,
+   "boundary_product_m3_s": 1.1334630239438556e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.3952793379560838e-17,
+   "boundary_product_m3_s": 1.1181617249817932e-21
+  }
+ },
+ {
+  "anneal": "TS-12",
+  "draw": 3,
+  "truth": {
+   "lattice_diffusivity_m2_s": 3.071e-17,
+   "boundary_product_m3_s": 2.694e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 3.087817029462886e-17,
+   "boundary_product_m3_s": 2.7105677125147006e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 3.07133293488024e-17,
+   "boundary_product_m3_s": 2.6826485701856137e-21
+  }
+ },
+ {
+  "anneal": "TS-13",
+  "draw": 3,
+  "truth": {
+   "lattice_diffusivity_m2_s": 8.87e-18,
+   "boundary_product_m3_s": 3.412e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 8.854899815881485e-18,
+   "boundary_product_m3_s": 3.4098142266878585e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 8.847127725662414e-18,
+   "boundary_product_m3_s": 3.405858417443059e-21
+  }
+ },
+ {
+  "anneal": "TS-14",
+  "draw": 3,
+  "truth": {
+   "lattice_diffusivity_m2_s": 4.046e-17,
+   "boundary_product_m3_s": 5.188e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 4.0731849058434807e-17,
+   "boundary_product_m3_s": 5.236753863022242e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 4.064728144670241e-17,
+   "boundary_product_m3_s": 5.227574264227062e-21
+  }
+ },
+ {
+  "anneal": "TS-15",
+  "draw": 3,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.774e-17,
+   "boundary_product_m3_s": 1.836e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.7916695726952375e-17,
+   "boundary_product_m3_s": 1.8674002912451425e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.7860532272854798e-17,
+   "boundary_product_m3_s": 1.8616928734620645e-21
+  }
+ },
+ {
+  "anneal": "TS-03",
+  "draw": 4,
+  "truth": {
+   "lattice_diffusivity_m2_s": 2.137e-17,
+   "boundary_product_m3_s": 2.043e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 2.1432947037496454e-17,
+   "boundary_product_m3_s": 2.074505364882065e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 2.132526998934854e-17,
+   "boundary_product_m3_s": 2.055282375317061e-21
+  }
+ },
+ {
+  "anneal": "TS-07",
+  "draw": 4,
+  "truth": {
+   "lattice_diffusivity_m2_s": 6.483e-17,
+   "boundary_product_m3_s": 1.1186e-20
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 6.503153575513546e-17,
+   "boundary_product_m3_s": 1.1154559067796537e-20
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 6.485871276669825e-17,
+   "boundary_product_m3_s": 1.113526546649938e-20
+  }
+ },
+ {
+  "anneal": "TS-11",
+  "draw": 4,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.392e-17,
+   "boundary_product_m3_s": 1.107e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.4010942835715648e-17,
+   "boundary_product_m3_s": 1.1274090648582215e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.3880937954854573e-17,
+   "boundary_product_m3_s": 1.1091183123180895e-21
+  }
+ },
+ {
+  "anneal": "TS-12",
+  "draw": 4,
+  "truth": {
+   "lattice_diffusivity_m2_s": 3.071e-17,
+   "boundary_product_m3_s": 2.694e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 3.0837392800877256e-17,
+   "boundary_product_m3_s": 2.7598999517127633e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 3.073610697293126e-17,
+   "boundary_product_m3_s": 2.7382669487493376e-21
+  }
+ },
+ {
+  "anneal": "TS-13",
+  "draw": 4,
+  "truth": {
+   "lattice_diffusivity_m2_s": 8.87e-18,
+   "boundary_product_m3_s": 3.412e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 8.864094772296672e-18,
+   "boundary_product_m3_s": 3.410617142489325e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 8.833567264648438e-18,
+   "boundary_product_m3_s": 3.395084368695292e-21
+  }
+ },
+ {
+  "anneal": "TS-14",
+  "draw": 4,
+  "truth": {
+   "lattice_diffusivity_m2_s": 4.046e-17,
+   "boundary_product_m3_s": 5.188e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 4.044272800965845e-17,
+   "boundary_product_m3_s": 5.1937422439269745e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 4.0470262230963534e-17,
+   "boundary_product_m3_s": 5.2062503724013234e-21
+  }
+ },
+ {
+  "anneal": "TS-15",
+  "draw": 4,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.774e-17,
+   "boundary_product_m3_s": 1.836e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.783045546575678e-17,
+   "boundary_product_m3_s": 1.8480642934467518e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.7783411249999807e-17,
+   "boundary_product_m3_s": 1.8413321249967333e-21
+  }
+ },
+ {
+  "anneal": "TS-03",
+  "draw": 5,
+  "truth": {
+   "lattice_diffusivity_m2_s": 2.137e-17,
+   "boundary_product_m3_s": 2.043e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 2.1379968624312507e-17,
+   "boundary_product_m3_s": 2.0333232386820252e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 2.1321924138444196e-17,
+   "boundary_product_m3_s": 2.022307611932838e-21
+  }
+ },
+ {
+  "anneal": "TS-07",
+  "draw": 5,
+  "truth": {
+   "lattice_diffusivity_m2_s": 6.483e-17,
+   "boundary_product_m3_s": 1.1186e-20
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 6.516145929012831e-17,
+   "boundary_product_m3_s": 1.1332789962347979e-20
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 6.458404049927619e-17,
+   "boundary_product_m3_s": 1.1159655043715026e-20
+  }
+ },
+ {
+  "anneal": "TS-11",
+  "draw": 5,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.392e-17,
+   "boundary_product_m3_s": 1.107e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.3933569662943358e-17,
+   "boundary_product_m3_s": 1.1151853629567291e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.3875113823567543e-17,
+   "boundary_product_m3_s": 1.1047631303627824e-21
+  }
+ },
+ {
+  "anneal": "TS-12",
+  "draw": 5,
+  "truth": {
+   "lattice_diffusivity_m2_s": 3.071e-17,
+   "boundary_product_m3_s": 2.694e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 3.082544987467801e-17,
+   "boundary_product_m3_s": 2.711621679486482e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 3.073596411225669e-17,
+   "boundary_product_m3_s": 2.695758851575293e-21
+  }
+ },
+ {
+  "anneal": "TS-13",
+  "draw": 5,
+  "truth": {
+   "lattice_diffusivity_m2_s": 8.87e-18,
+   "boundary_product_m3_s": 3.412e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 8.856164288181191e-18,
+   "boundary_product_m3_s": 3.388958500663821e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 8.862007206244735e-18,
+   "boundary_product_m3_s": 3.39547812038573e-21
+  }
+ },
+ {
+  "anneal": "TS-14",
+  "draw": 5,
+  "truth": {
+   "lattice_diffusivity_m2_s": 4.046e-17,
+   "boundary_product_m3_s": 5.188e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 4.049649274973189e-17,
+   "boundary_product_m3_s": 5.198632668081151e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 4.0205492065365444e-17,
+   "boundary_product_m3_s": 5.149949330575122e-21
+  }
+ },
+ {
+  "anneal": "TS-15",
+  "draw": 5,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.774e-17,
+   "boundary_product_m3_s": 1.836e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.7806394585169292e-17,
+   "boundary_product_m3_s": 1.843535523689334e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.769865029549742e-17,
+   "boundary_product_m3_s": 1.8325930648105073e-21
+  }
+ },
+ {
+  "anneal": "TS-03",
+  "draw": 6,
+  "truth": {
+   "lattice_diffusivity_m2_s": 2.137e-17,
+   "boundary_product_m3_s": 2.043e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 2.1341772771067935e-17,
+   "boundary_product_m3_s": 2.045344961628766e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 2.1261762903745762e-17,
+   "boundary_product_m3_s": 2.0346472267907125e-21
+  }
+ },
+ {
+  "anneal": "TS-07",
+  "draw": 6,
+  "truth": {
+   "lattice_diffusivity_m2_s": 6.483e-17,
+   "boundary_product_m3_s": 1.1186e-20
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 6.515811237409844e-17,
+   "boundary_product_m3_s": 1.1105113569927758e-20
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 6.478732489076715e-17,
+   "boundary_product_m3_s": 1.0982754598181363e-20
+  }
+ },
+ {
+  "anneal": "TS-11",
+  "draw": 6,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.392e-17,
+   "boundary_product_m3_s": 1.107e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.39499090280389e-17,
+   "boundary_product_m3_s": 1.1198816282933007e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.3761546857417287e-17,
+   "boundary_product_m3_s": 1.0951114455575346e-21
+  }
+ },
+ {
+  "anneal": "TS-12",
+  "draw": 6,
+  "truth": {
+   "lattice_diffusivity_m2_s": 3.071e-17,
+   "boundary_product_m3_s": 2.694e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 3.079857191866175e-17,
+   "boundary_product_m3_s": 2.6976085248767513e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 3.067513742309936e-17,
+   "boundary_product_m3_s": 2.6633872044472338e-21
+  }
+ },
+ {
+  "anneal": "TS-13",
+  "draw": 6,
+  "truth": {
+   "lattice_diffusivity_m2_s": 8.87e-18,
+   "boundary_product_m3_s": 3.412e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 8.906638438805408e-18,
+   "boundary_product_m3_s": 3.4591891704581715e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 8.904507989810439e-18,
+   "boundary_product_m3_s": 3.454766169168957e-21
+  }
+ },
+ {
+  "anneal": "TS-14",
+  "draw": 6,
+  "truth": {
+   "lattice_diffusivity_m2_s": 4.046e-17,
+   "boundary_product_m3_s": 5.188e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 4.0499988205350556e-17,
+   "boundary_product_m3_s": 5.211897404705077e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 4.030155766141274e-17,
+   "boundary_product_m3_s": 5.180679530177247e-21
+  }
+ },
+ {
+  "anneal": "TS-15",
+  "draw": 6,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.774e-17,
+   "boundary_product_m3_s": 1.836e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.7757949603585624e-17,
+   "boundary_product_m3_s": 1.8490838724059797e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.7757838947366495e-17,
+   "boundary_product_m3_s": 1.8524405968162245e-21
+  }
+ },
+ {
+  "anneal": "TS-03",
+  "draw": 7,
+  "truth": {
+   "lattice_diffusivity_m2_s": 2.137e-17,
+   "boundary_product_m3_s": 2.043e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 2.1338642950938094e-17,
+   "boundary_product_m3_s": 2.046158599053009e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 2.127842893377887e-17,
+   "boundary_product_m3_s": 2.034433639317455e-21
+  }
+ },
+ {
+  "anneal": "TS-07",
+  "draw": 7,
+  "truth": {
+   "lattice_diffusivity_m2_s": 6.483e-17,
+   "boundary_product_m3_s": 1.1186e-20
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 6.507944748785916e-17,
+   "boundary_product_m3_s": 1.1608750811694234e-20
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 6.456969191670828e-17,
+   "boundary_product_m3_s": 1.1470653541071426e-20
+  }
+ },
+ {
+  "anneal": "TS-11",
+  "draw": 7,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.392e-17,
+   "boundary_product_m3_s": 1.107e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.4028528941301025e-17,
+   "boundary_product_m3_s": 1.1321933019227685e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.4004273254944457e-17,
+   "boundary_product_m3_s": 1.1236140361977226e-21
+  }
+ },
+ {
+  "anneal": "TS-12",
+  "draw": 7,
+  "truth": {
+   "lattice_diffusivity_m2_s": 3.071e-17,
+   "boundary_product_m3_s": 2.694e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 3.0805628196978695e-17,
+   "boundary_product_m3_s": 2.7734250759111492e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 3.069371049926368e-17,
+   "boundary_product_m3_s": 2.7513521989858395e-21
+  }
+ },
+ {
+  "anneal": "TS-13",
+  "draw": 7,
+  "truth": {
+   "lattice_diffusivity_m2_s": 8.87e-18,
+   "boundary_product_m3_s": 3.412e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 8.890545022668772e-18,
+   "boundary_product_m3_s": 3.463805549754624e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 8.880103244901348e-18,
+   "boundary_product_m3_s": 3.463640053524796e-21
+  }
+ },
+ {
+  "anneal": "TS-14",
+  "draw": 7,
+  "truth": {
+   "lattice_diffusivity_m2_s": 4.046e-17,
+   "boundary_product_m3_s": 5.188e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 4.048964912272404e-17,
+   "boundary_product_m3_s": 5.210206189264051e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 4.0354515324109665e-17,
+   "boundary_product_m3_s": 5.191420381845189e-21
+  }
+ },
+ {
+  "anneal": "TS-15",
+  "draw": 7,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.774e-17,
+   "boundary_product_m3_s": 1.836e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.7943836556923075e-17,
+   "boundary_product_m3_s": 1.8789956909011602e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.7703448247307954e-17,
+   "boundary_product_m3_s": 1.8444422043107793e-21
+  }
+ },
+ {
+  "anneal": "TS-03",
+  "draw": 8,
+  "truth": {
+   "lattice_diffusivity_m2_s": 2.137e-17,
+   "boundary_product_m3_s": 2.043e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 2.1400716738917886e-17,
+   "boundary_product_m3_s": 2.07659940221933e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 2.1161324223700038e-17,
+   "boundary_product_m3_s": 2.0424108558211545e-21
+  }
+ },
+ {
+  "anneal": "TS-07",
+  "draw": 8,
+  "truth": {
+   "lattice_diffusivity_m2_s": 6.483e-17,
+   "boundary_product_m3_s": 1.1186e-20
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 6.500955148022024e-17,
+   "boundary_product_m3_s": 1.1235503543340607e-20
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 6.477389149462661e-17,
+   "boundary_product_m3_s": 1.1178562082311356e-20
+  }
+ },
+ {
+  "anneal": "TS-11",
+  "draw": 8,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.392e-17,
+   "boundary_product_m3_s": 1.107e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.4007674864905722e-17,
+   "boundary_product_m3_s": 1.1290229150857412e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.4024384211188553e-17,
+   "boundary_product_m3_s": 1.1307996688681678e-21
+  }
+ },
+ {
+  "anneal": "TS-12",
+  "draw": 8,
+  "truth": {
+   "lattice_diffusivity_m2_s": 3.071e-17,
+   "boundary_product_m3_s": 2.694e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 3.1045592882154235e-17,
+   "boundary_product_m3_s": 2.8021215799887015e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 3.075732880903942e-17,
+   "boundary_product_m3_s": 2.7520390771976367e-21
+  }
+ },
+ {
+  "anneal": "TS-13",
+  "draw": 8,
+  "truth": {
+   "lattice_diffusivity_m2_s": 8.87e-18,
+   "boundary_product_m3_s": 3.412e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 8.94337171808395e-18,
+   "boundary_product_m3_s": 3.4297685268284816e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 8.90548519982673e-18,
+   "boundary_product_m3_s": 3.409776470846645e-21
+  }
+ },
+ {
+  "anneal": "TS-14",
+  "draw": 8,
+  "truth": {
+   "lattice_diffusivity_m2_s": 4.046e-17,
+   "boundary_product_m3_s": 5.188e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 4.042865605435947e-17,
+   "boundary_product_m3_s": 5.1938395560981515e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 4.024475636206851e-17,
+   "boundary_product_m3_s": 5.1656872710552106e-21
+  }
+ },
+ {
+  "anneal": "TS-15",
+  "draw": 8,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.774e-17,
+   "boundary_product_m3_s": 1.836e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.7991080479969846e-17,
+   "boundary_product_m3_s": 1.871620365403512e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.785970223026728e-17,
+   "boundary_product_m3_s": 1.8490434404001485e-21
+  }
+ },
+ {
+  "anneal": "TS-03",
+  "draw": 9,
+  "truth": {
+   "lattice_diffusivity_m2_s": 2.137e-17,
+   "boundary_product_m3_s": 2.043e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 2.1407986625872498e-17,
+   "boundary_product_m3_s": 2.039284538873944e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 2.1309318958062684e-17,
+   "boundary_product_m3_s": 2.0248941060733396e-21
+  }
+ },
+ {
+  "anneal": "TS-07",
+  "draw": 9,
+  "truth": {
+   "lattice_diffusivity_m2_s": 6.483e-17,
+   "boundary_product_m3_s": 1.1186e-20
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 6.513356262574189e-17,
+   "boundary_product_m3_s": 1.126036154026458e-20
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 6.468746704890578e-17,
+   "boundary_product_m3_s": 1.1151567838635684e-20
+  }
+ },
+ {
+  "anneal": "TS-11",
+  "draw": 9,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.392e-17,
+   "boundary_product_m3_s": 1.107e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.3941089918275717e-17,
+   "boundary_product_m3_s": 1.1116671149328585e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.3955676803735263e-17,
+   "boundary_product_m3_s": 1.1119748661320049e-21
+  }
+ },
+ {
+  "anneal": "TS-12",
+  "draw": 9,
+  "truth": {
+   "lattice_diffusivity_m2_s": 3.071e-17,
+   "boundary_product_m3_s": 2.694e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 3.0973187367173105e-17,
+   "boundary_product_m3_s": 2.8346193242104657e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 3.097944897734321e-17,
+   "boundary_product_m3_s": 2.824021408355369e-21
+  }
+ },
+ {
+  "anneal": "TS-13",
+  "draw": 9,
+  "truth": {
+   "lattice_diffusivity_m2_s": 8.87e-18,
+   "boundary_product_m3_s": 3.412e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 8.879534855275513e-18,
+   "boundary_product_m3_s": 3.3577148344899622e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 8.878002941433937e-18,
+   "boundary_product_m3_s": 3.362551323862362e-21
+  }
+ },
+ {
+  "anneal": "TS-14",
+  "draw": 9,
+  "truth": {
+   "lattice_diffusivity_m2_s": 4.046e-17,
+   "boundary_product_m3_s": 5.188e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 4.053177216617305e-17,
+   "boundary_product_m3_s": 5.20893575574587e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 4.0459202128348317e-17,
+   "boundary_product_m3_s": 5.202730241010816e-21
+  }
+ },
+ {
+  "anneal": "TS-15",
+  "draw": 9,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.774e-17,
+   "boundary_product_m3_s": 1.836e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.7756207035282888e-17,
+   "boundary_product_m3_s": 1.832004649912425e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.759964923276857e-17,
+   "boundary_product_m3_s": 1.806326107567036e-21
+  }
+ },
+ {
+  "anneal": "TS-03",
+  "draw": 10,
+  "truth": {
+   "lattice_diffusivity_m2_s": 2.137e-17,
+   "boundary_product_m3_s": 2.043e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 2.1508530417949234e-17,
+   "boundary_product_m3_s": 2.081001097196781e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 2.1330226802894954e-17,
+   "boundary_product_m3_s": 2.0563830205826054e-21
+  }
+ },
+ {
+  "anneal": "TS-07",
+  "draw": 10,
+  "truth": {
+   "lattice_diffusivity_m2_s": 6.483e-17,
+   "boundary_product_m3_s": 1.1186e-20
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 6.501517771823975e-17,
+   "boundary_product_m3_s": 1.1135253630291006e-20
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 6.462433072137175e-17,
+   "boundary_product_m3_s": 1.1041407690425933e-20
+  }
+ },
+ {
+  "anneal": "TS-11",
+  "draw": 10,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.392e-17,
+   "boundary_product_m3_s": 1.107e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.393718544188203e-17,
+   "boundary_product_m3_s": 1.1189725309251856e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.389799324973998e-17,
+   "boundary_product_m3_s": 1.1107704925849084e-21
+  }
+ },
+ {
+  "anneal": "TS-12",
+  "draw": 10,
+  "truth": {
+   "lattice_diffusivity_m2_s": 3.071e-17,
+   "boundary_product_m3_s": 2.694e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 3.082397178278293e-17,
+   "boundary_product_m3_s": 2.763966059121077e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 3.073997150981355e-17,
+   "boundary_product_m3_s": 2.7476497305115106e-21
+  }
+ },
+ {
+  "anneal": "TS-13",
+  "draw": 10,
+  "truth": {
+   "lattice_diffusivity_m2_s": 8.87e-18,
+   "boundary_product_m3_s": 3.412e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 8.845344371668919e-18,
+   "boundary_product_m3_s": 3.39782482598837e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 8.8432350738832e-18,
+   "boundary_product_m3_s": 3.3984265613722934e-21
+  }
+ },
+ {
+  "anneal": "TS-14",
+  "draw": 10,
+  "truth": {
+   "lattice_diffusivity_m2_s": 4.046e-17,
+   "boundary_product_m3_s": 5.188e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 4.0577215699677617e-17,
+   "boundary_product_m3_s": 5.188875600591252e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 4.049678811855581e-17,
+   "boundary_product_m3_s": 5.1802139346130766e-21
+  }
+ },
+ {
+  "anneal": "TS-15",
+  "draw": 10,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.774e-17,
+   "boundary_product_m3_s": 1.836e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.7570071187867938e-17,
+   "boundary_product_m3_s": 1.8153319488941373e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.755584376793799e-17,
+   "boundary_product_m3_s": 1.818439434127341e-21
+  }
+ },
+ {
+  "anneal": "TS-03",
+  "draw": 11,
+  "truth": {
+   "lattice_diffusivity_m2_s": 2.137e-17,
+   "boundary_product_m3_s": 2.043e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 2.1375598610699767e-17,
+   "boundary_product_m3_s": 2.0696032453511424e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 2.1341583211543484e-17,
+   "boundary_product_m3_s": 2.0641461990710464e-21
+  }
+ },
+ {
+  "anneal": "TS-07",
+  "draw": 11,
+  "truth": {
+   "lattice_diffusivity_m2_s": 6.483e-17,
+   "boundary_product_m3_s": 1.1186e-20
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 6.520800799251964e-17,
+   "boundary_product_m3_s": 1.1245492554454462e-20
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 6.497955002701944e-17,
+   "boundary_product_m3_s": 1.1196997499640978e-20
+  }
+ },
+ {
+  "anneal": "TS-11",
+  "draw": 11,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.392e-17,
+   "boundary_product_m3_s": 1.107e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.3993645817680293e-17,
+   "boundary_product_m3_s": 1.1373284098178072e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.3986908190896136e-17,
+   "boundary_product_m3_s": 1.1321454423682354e-21
+  }
+ },
+ {
+  "anneal": "TS-12",
+  "draw": 11,
+  "truth": {
+   "lattice_diffusivity_m2_s": 3.071e-17,
+   "boundary_product_m3_s": 2.694e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 3.0863796847996544e-17,
+   "boundary_product_m3_s": 2.761201453994349e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 3.075671234209227e-17,
+   "boundary_product_m3_s": 2.736171300462931e-21
+  }
+ },
+ {
+  "anneal": "TS-13",
+  "draw": 11,
+  "truth": {
+   "lattice_diffusivity_m2_s": 8.87e-18,
+   "boundary_product_m3_s": 3.412e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 8.86916086776889e-18,
+   "boundary_product_m3_s": 3.4054718013542885e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 8.852118200281038e-18,
+   "boundary_product_m3_s": 3.3971107890204245e-21
+  }
+ },
+ {
+  "anneal": "TS-14",
+  "draw": 11,
+  "truth": {
+   "lattice_diffusivity_m2_s": 4.046e-17,
+   "boundary_product_m3_s": 5.188e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 4.042646999552455e-17,
+   "boundary_product_m3_s": 5.187045160603336e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 4.023095811177882e-17,
+   "boundary_product_m3_s": 5.156101019432739e-21
+  }
+ },
+ {
+  "anneal": "TS-15",
+  "draw": 11,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.774e-17,
+   "boundary_product_m3_s": 1.836e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.803740081083472e-17,
+   "boundary_product_m3_s": 1.8986089130717197e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.7870595230000972e-17,
+   "boundary_product_m3_s": 1.8710012117766226e-21
+  }
+ },
+ {
+  "anneal": "TS-03",
+  "draw": 12,
+  "truth": {
+   "lattice_diffusivity_m2_s": 2.137e-17,
+   "boundary_product_m3_s": 2.043e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 2.1407147087590663e-17,
+   "boundary_product_m3_s": 2.0583454981181403e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 2.116736462794027e-17,
+   "boundary_product_m3_s": 2.0178598218770064e-21
+  }
+ },
+ {
+  "anneal": "TS-07",
+  "draw": 12,
+  "truth": {
+   "lattice_diffusivity_m2_s": 6.483e-17,
+   "boundary_product_m3_s": 1.1186e-20
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 6.528817168418284e-17,
+   "boundary_product_m3_s": 1.1171871590445653e-20
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 6.503452675130502e-17,
+   "boundary_product_m3_s": 1.1103507977733107e-20
+  }
+ },
+ {
+  "anneal": "TS-11",
+  "draw": 12,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.392e-17,
+   "boundary_product_m3_s": 1.107e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.400796649633278e-17,
+   "boundary_product_m3_s": 1.1079141896906844e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.3935937897775595e-17,
+   "boundary_product_m3_s": 1.0949149193095402e-21
+  }
+ },
+ {
+  "anneal": "TS-12",
+  "draw": 12,
+  "truth": {
+   "lattice_diffusivity_m2_s": 3.071e-17,
+   "boundary_product_m3_s": 2.694e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 3.074637787148148e-17,
+   "boundary_product_m3_s": 2.711816682947399e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 3.0677486899455165e-17,
+   "boundary_product_m3_s": 2.6950735729024534e-21
+  }
+ },
+ {
+  "anneal": "TS-13",
+  "draw": 12,
+  "truth": {
+   "lattice_diffusivity_m2_s": 8.87e-18,
+   "boundary_product_m3_s": 3.412e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 8.846687493983612e-18,
+   "boundary_product_m3_s": 3.4121840437689906e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 8.844691965089842e-18,
+   "boundary_product_m3_s": 3.411137998105519e-21
+  }
+ },
+ {
+  "anneal": "TS-14",
+  "draw": 12,
+  "truth": {
+   "lattice_diffusivity_m2_s": 4.046e-17,
+   "boundary_product_m3_s": 5.188e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 4.0443488431129496e-17,
+   "boundary_product_m3_s": 5.178300250838281e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 4.021345924248761e-17,
+   "boundary_product_m3_s": 5.141290417117829e-21
+  }
+ },
+ {
+  "anneal": "TS-15",
+  "draw": 12,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.774e-17,
+   "boundary_product_m3_s": 1.836e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.7984782867177364e-17,
+   "boundary_product_m3_s": 1.8576756283790193e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.7788431732232015e-17,
+   "boundary_product_m3_s": 1.828999317311952e-21
+  }
+ },
+ {
+  "anneal": "TS-03",
+  "draw": 13,
+  "truth": {
+   "lattice_diffusivity_m2_s": 2.137e-17,
+   "boundary_product_m3_s": 2.043e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 2.1495181302206537e-17,
+   "boundary_product_m3_s": 2.0928477466901008e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 2.1398896787640497e-17,
+   "boundary_product_m3_s": 2.0758272439257294e-21
+  }
+ },
+ {
+  "anneal": "TS-07",
+  "draw": 13,
+  "truth": {
+   "lattice_diffusivity_m2_s": 6.483e-17,
+   "boundary_product_m3_s": 1.1186e-20
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 6.517916622173888e-17,
+   "boundary_product_m3_s": 1.1230545687365148e-20
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 6.483610774188127e-17,
+   "boundary_product_m3_s": 1.1134170739532514e-20
+  }
+ },
+ {
+  "anneal": "TS-11",
+  "draw": 13,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.392e-17,
+   "boundary_product_m3_s": 1.107e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.395629478847021e-17,
+   "boundary_product_m3_s": 1.101732396202581e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.392439628104322e-17,
+   "boundary_product_m3_s": 1.098318224498764e-21
+  }
+ },
+ {
+  "anneal": "TS-12",
+  "draw": 13,
+  "truth": {
+   "lattice_diffusivity_m2_s": 3.071e-17,
+   "boundary_product_m3_s": 2.694e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 3.0905030158839714e-17,
+   "boundary_product_m3_s": 2.7071975405707207e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 3.0673376612167203e-17,
+   "boundary_product_m3_s": 2.6662581803208622e-21
+  }
+ },
+ {
+  "anneal": "TS-13",
+  "draw": 13,
+  "truth": {
+   "lattice_diffusivity_m2_s": 8.87e-18,
+   "boundary_product_m3_s": 3.412e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 8.861835056103766e-18,
+   "boundary_product_m3_s": 3.41314696824764e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 8.845815254023049e-18,
+   "boundary_product_m3_s": 3.4036761430426776e-21
+  }
+ },
+ {
+  "anneal": "TS-14",
+  "draw": 13,
+  "truth": {
+   "lattice_diffusivity_m2_s": 4.046e-17,
+   "boundary_product_m3_s": 5.188e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 4.0583653675269376e-17,
+   "boundary_product_m3_s": 5.209394003941137e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 4.026424065088505e-17,
+   "boundary_product_m3_s": 5.1549062327047274e-21
+  }
+ },
+ {
+  "anneal": "TS-15",
+  "draw": 13,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.774e-17,
+   "boundary_product_m3_s": 1.836e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.7686269771426536e-17,
+   "boundary_product_m3_s": 1.82683464392108e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.767646951270275e-17,
+   "boundary_product_m3_s": 1.8238970788887475e-21
+  }
+ },
+ {
+  "anneal": "TS-03",
+  "draw": 14,
+  "truth": {
+   "lattice_diffusivity_m2_s": 2.137e-17,
+   "boundary_product_m3_s": 2.043e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 2.1454701164944768e-17,
+   "boundary_product_m3_s": 2.064397386581276e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 2.137304474257354e-17,
+   "boundary_product_m3_s": 2.0536050539266187e-21
+  }
+ },
+ {
+  "anneal": "TS-07",
+  "draw": 14,
+  "truth": {
+   "lattice_diffusivity_m2_s": 6.483e-17,
+   "boundary_product_m3_s": 1.1186e-20
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 6.529118368043457e-17,
+   "boundary_product_m3_s": 1.1421655923734349e-20
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 6.474312718307849e-17,
+   "boundary_product_m3_s": 1.127865939522887e-20
+  }
+ },
+ {
+  "anneal": "TS-11",
+  "draw": 14,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.392e-17,
+   "boundary_product_m3_s": 1.107e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.3995958553121552e-17,
+   "boundary_product_m3_s": 1.1194788993266031e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.3979369716080745e-17,
+   "boundary_product_m3_s": 1.1153467055502248e-21
+  }
+ },
+ {
+  "anneal": "TS-12",
+  "draw": 14,
+  "truth": {
+   "lattice_diffusivity_m2_s": 3.071e-17,
+   "boundary_product_m3_s": 2.694e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 3.077610706316892e-17,
+   "boundary_product_m3_s": 2.691053223198769e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 3.061578714738812e-17,
+   "boundary_product_m3_s": 2.661716797795866e-21
+  }
+ },
+ {
+  "anneal": "TS-13",
+  "draw": 14,
+  "truth": {
+   "lattice_diffusivity_m2_s": 8.87e-18,
+   "boundary_product_m3_s": 3.412e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 8.911126478009472e-18,
+   "boundary_product_m3_s": 3.443609040548339e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 8.894154626537192e-18,
+   "boundary_product_m3_s": 3.435338320601132e-21
+  }
+ },
+ {
+  "anneal": "TS-14",
+  "draw": 14,
+  "truth": {
+   "lattice_diffusivity_m2_s": 4.046e-17,
+   "boundary_product_m3_s": 5.188e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 4.063345997267599e-17,
+   "boundary_product_m3_s": 5.212148004286678e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 4.039660364617781e-17,
+   "boundary_product_m3_s": 5.17408385616048e-21
+  }
+ },
+ {
+  "anneal": "TS-15",
+  "draw": 14,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.774e-17,
+   "boundary_product_m3_s": 1.836e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.797483472025984e-17,
+   "boundary_product_m3_s": 1.8499040901113988e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.7913298928083382e-17,
+   "boundary_product_m3_s": 1.8364764033076782e-21
+  }
+ },
+ {
+  "anneal": "TS-03",
+  "draw": 15,
+  "truth": {
+   "lattice_diffusivity_m2_s": 2.137e-17,
+   "boundary_product_m3_s": 2.043e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 2.1442633909038485e-17,
+   "boundary_product_m3_s": 2.0378008625212165e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 2.1346373510403096e-17,
+   "boundary_product_m3_s": 2.019621614974483e-21
+  }
+ },
+ {
+  "anneal": "TS-07",
+  "draw": 15,
+  "truth": {
+   "lattice_diffusivity_m2_s": 6.483e-17,
+   "boundary_product_m3_s": 1.1186e-20
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 6.465431148205179e-17,
+   "boundary_product_m3_s": 1.1159838421780332e-20
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 6.430997572350821e-17,
+   "boundary_product_m3_s": 1.1067748362746701e-20
+  }
+ },
+ {
+  "anneal": "TS-11",
+  "draw": 15,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.392e-17,
+   "boundary_product_m3_s": 1.107e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.392858420058886e-17,
+   "boundary_product_m3_s": 1.1126530565622408e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.3830679329309655e-17,
+   "boundary_product_m3_s": 1.1004181504585013e-21
+  }
+ },
+ {
+  "anneal": "TS-12",
+  "draw": 15,
+  "truth": {
+   "lattice_diffusivity_m2_s": 3.071e-17,
+   "boundary_product_m3_s": 2.694e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 3.092761579528699e-17,
+   "boundary_product_m3_s": 2.7329484123300645e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 3.0753085206180106e-17,
+   "boundary_product_m3_s": 2.7040162108441857e-21
+  }
+ },
+ {
+  "anneal": "TS-13",
+  "draw": 15,
+  "truth": {
+   "lattice_diffusivity_m2_s": 8.87e-18,
+   "boundary_product_m3_s": 3.412e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 8.885435435646052e-18,
+   "boundary_product_m3_s": 3.419210203020383e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 8.882524851512788e-18,
+   "boundary_product_m3_s": 3.417642123029929e-21
+  }
+ },
+ {
+  "anneal": "TS-14",
+  "draw": 15,
+  "truth": {
+   "lattice_diffusivity_m2_s": 4.046e-17,
+   "boundary_product_m3_s": 5.188e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 4.049910939277309e-17,
+   "boundary_product_m3_s": 5.203868919311717e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 4.026088680869182e-17,
+   "boundary_product_m3_s": 5.164914348503966e-21
+  }
+ },
+ {
+  "anneal": "TS-15",
+  "draw": 15,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.774e-17,
+   "boundary_product_m3_s": 1.836e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.803778078407983e-17,
+   "boundary_product_m3_s": 1.8761837222878597e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.797483747052564e-17,
+   "boundary_product_m3_s": 1.867011844387822e-21
+  }
+ },
+ {
+  "anneal": "TS-03",
+  "draw": 16,
+  "truth": {
+   "lattice_diffusivity_m2_s": 2.137e-17,
+   "boundary_product_m3_s": 2.043e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 2.1475776139327714e-17,
+   "boundary_product_m3_s": 2.068821963300662e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 2.1504143635813654e-17,
+   "boundary_product_m3_s": 2.0723456852213653e-21
+  }
+ },
+ {
+  "anneal": "TS-07",
+  "draw": 16,
+  "truth": {
+   "lattice_diffusivity_m2_s": 6.483e-17,
+   "boundary_product_m3_s": 1.1186e-20
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 6.496135198395142e-17,
+   "boundary_product_m3_s": 1.1357684249288013e-20
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 6.475188268557715e-17,
+   "boundary_product_m3_s": 1.1333881032015872e-20
+  }
+ },
+ {
+  "anneal": "TS-11",
+  "draw": 16,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.392e-17,
+   "boundary_product_m3_s": 1.107e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.4067765224687204e-17,
+   "boundary_product_m3_s": 1.1601816199618695e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.414341429199331e-17,
+   "boundary_product_m3_s": 1.1672526457614863e-21
+  }
+ },
+ {
+  "anneal": "TS-12",
+  "draw": 16,
+  "truth": {
+   "lattice_diffusivity_m2_s": 3.071e-17,
+   "boundary_product_m3_s": 2.694e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 3.076274872278262e-17,
+   "boundary_product_m3_s": 2.6856213561198003e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 3.0433579287314005e-17,
+   "boundary_product_m3_s": 2.6275446514681166e-21
+  }
+ },
+ {
+  "anneal": "TS-13",
+  "draw": 16,
+  "truth": {
+   "lattice_diffusivity_m2_s": 8.87e-18,
+   "boundary_product_m3_s": 3.412e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 8.863576288270796e-18,
+   "boundary_product_m3_s": 3.411023999667668e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 8.853663648459442e-18,
+   "boundary_product_m3_s": 3.409571348488531e-21
+  }
+ },
+ {
+  "anneal": "TS-14",
+  "draw": 16,
+  "truth": {
+   "lattice_diffusivity_m2_s": 4.046e-17,
+   "boundary_product_m3_s": 5.188e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 4.063196281673434e-17,
+   "boundary_product_m3_s": 5.212788156862702e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 4.055491894020066e-17,
+   "boundary_product_m3_s": 5.205497905575027e-21
+  }
+ },
+ {
+  "anneal": "TS-15",
+  "draw": 16,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.774e-17,
+   "boundary_product_m3_s": 1.836e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.786748222451309e-17,
+   "boundary_product_m3_s": 1.859961073770833e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.7785412163181928e-17,
+   "boundary_product_m3_s": 1.8495889415631728e-21
+  }
+ },
+ {
+  "anneal": "TS-03",
+  "draw": 17,
+  "truth": {
+   "lattice_diffusivity_m2_s": 2.137e-17,
+   "boundary_product_m3_s": 2.043e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 2.144263802997469e-17,
+   "boundary_product_m3_s": 2.0481728775067434e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 2.1224909947181134e-17,
+   "boundary_product_m3_s": 2.0120886834390184e-21
+  }
+ },
+ {
+  "anneal": "TS-07",
+  "draw": 17,
+  "truth": {
+   "lattice_diffusivity_m2_s": 6.483e-17,
+   "boundary_product_m3_s": 1.1186e-20
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 6.51665462067785e-17,
+   "boundary_product_m3_s": 1.1164473935974174e-20
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 6.469404622747755e-17,
+   "boundary_product_m3_s": 1.1034158510949723e-20
+  }
+ },
+ {
+  "anneal": "TS-11",
+  "draw": 17,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.392e-17,
+   "boundary_product_m3_s": 1.107e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.3851885607616991e-17,
+   "boundary_product_m3_s": 1.0818099704126162e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.3695807722664296e-17,
+   "boundary_product_m3_s": 1.0587832537202782e-21
+  }
+ },
+ {
+  "anneal": "TS-12",
+  "draw": 17,
+  "truth": {
+   "lattice_diffusivity_m2_s": 3.071e-17,
+   "boundary_product_m3_s": 2.694e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 3.087408238649706e-17,
+   "boundary_product_m3_s": 2.7270750371455226e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 3.0833617496202894e-17,
+   "boundary_product_m3_s": 2.722039162771215e-21
+  }
+ },
+ {
+  "anneal": "TS-13",
+  "draw": 17,
+  "truth": {
+   "lattice_diffusivity_m2_s": 8.87e-18,
+   "boundary_product_m3_s": 3.412e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 8.858674017383075e-18,
+   "boundary_product_m3_s": 3.3497270042407695e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 8.848924504758143e-18,
+   "boundary_product_m3_s": 3.3415608019677583e-21
+  }
+ },
+ {
+  "anneal": "TS-14",
+  "draw": 17,
+  "truth": {
+   "lattice_diffusivity_m2_s": 4.046e-17,
+   "boundary_product_m3_s": 5.188e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 4.0481256260765125e-17,
+   "boundary_product_m3_s": 5.203032564527932e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 4.044344143485351e-17,
+   "boundary_product_m3_s": 5.202630163323891e-21
+  }
+ },
+ {
+  "anneal": "TS-15",
+  "draw": 17,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.774e-17,
+   "boundary_product_m3_s": 1.836e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.8008643280671404e-17,
+   "boundary_product_m3_s": 1.86701454100104e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.7938585420090043e-17,
+   "boundary_product_m3_s": 1.8544585067328593e-21
+  }
+ },
+ {
+  "anneal": "TS-03",
+  "draw": 18,
+  "truth": {
+   "lattice_diffusivity_m2_s": 2.137e-17,
+   "boundary_product_m3_s": 2.043e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 2.1490062535731482e-17,
+   "boundary_product_m3_s": 2.0618146288492216e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 2.1399882018339132e-17,
+   "boundary_product_m3_s": 2.045471810460622e-21
+  }
+ },
+ {
+  "anneal": "TS-07",
+  "draw": 18,
+  "truth": {
+   "lattice_diffusivity_m2_s": 6.483e-17,
+   "boundary_product_m3_s": 1.1186e-20
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 6.555807138176457e-17,
+   "boundary_product_m3_s": 1.1436402636369089e-20
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 6.501245310428884e-17,
+   "boundary_product_m3_s": 1.1287169926386675e-20
+  }
+ },
+ {
+  "anneal": "TS-11",
+  "draw": 18,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.392e-17,
+   "boundary_product_m3_s": 1.107e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.3975919865786453e-17,
+   "boundary_product_m3_s": 1.1050945712715791e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.4009187550459633e-17,
+   "boundary_product_m3_s": 1.1070131842406554e-21
+  }
+ },
+ {
+  "anneal": "TS-12",
+  "draw": 18,
+  "truth": {
+   "lattice_diffusivity_m2_s": 3.071e-17,
+   "boundary_product_m3_s": 2.694e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 3.07041649763499e-17,
+   "boundary_product_m3_s": 2.6761958201311438e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 3.05791089871959e-17,
+   "boundary_product_m3_s": 2.6474642971010833e-21
+  }
+ },
+ {
+  "anneal": "TS-13",
+  "draw": 18,
+  "truth": {
+   "lattice_diffusivity_m2_s": 8.87e-18,
+   "boundary_product_m3_s": 3.412e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 8.910059277822063e-18,
+   "boundary_product_m3_s": 3.462864226128095e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 8.906988954196193e-18,
+   "boundary_product_m3_s": 3.457435932347566e-21
+  }
+ },
+ {
+  "anneal": "TS-14",
+  "draw": 18,
+  "truth": {
+   "lattice_diffusivity_m2_s": 4.046e-17,
+   "boundary_product_m3_s": 5.188e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 4.044123933935604e-17,
+   "boundary_product_m3_s": 5.192311105957831e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 4.035198874522981e-17,
+   "boundary_product_m3_s": 5.1824039656090225e-21
+  }
+ },
+ {
+  "anneal": "TS-15",
+  "draw": 18,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.774e-17,
+   "boundary_product_m3_s": 1.836e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.786860995022518e-17,
+   "boundary_product_m3_s": 1.8512266327051224e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.768735614343967e-17,
+   "boundary_product_m3_s": 1.8218755987496294e-21
+  }
+ },
+ {
+  "anneal": "TS-03",
+  "draw": 19,
+  "truth": {
+   "lattice_diffusivity_m2_s": 2.137e-17,
+   "boundary_product_m3_s": 2.043e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 2.1512652774304036e-17,
+   "boundary_product_m3_s": 2.077068905930828e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 2.1429161859919e-17,
+   "boundary_product_m3_s": 2.0640266826825026e-21
+  }
+ },
+ {
+  "anneal": "TS-07",
+  "draw": 19,
+  "truth": {
+   "lattice_diffusivity_m2_s": 6.483e-17,
+   "boundary_product_m3_s": 1.1186e-20
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 6.489830044438516e-17,
+   "boundary_product_m3_s": 1.11347107061301e-20
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 6.465298707316967e-17,
+   "boundary_product_m3_s": 1.106723503859467e-20
+  }
+ },
+ {
+  "anneal": "TS-11",
+  "draw": 19,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.392e-17,
+   "boundary_product_m3_s": 1.107e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.398178183448723e-17,
+   "boundary_product_m3_s": 1.1197518566432535e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.3933698151049585e-17,
+   "boundary_product_m3_s": 1.1134519662347272e-21
+  }
+ },
+ {
+  "anneal": "TS-12",
+  "draw": 19,
+  "truth": {
+   "lattice_diffusivity_m2_s": 3.071e-17,
+   "boundary_product_m3_s": 2.694e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 3.0952670676656895e-17,
+   "boundary_product_m3_s": 2.6592026576484496e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 3.090492448471291e-17,
+   "boundary_product_m3_s": 2.6419846627433263e-21
+  }
+ },
+ {
+  "anneal": "TS-13",
+  "draw": 19,
+  "truth": {
+   "lattice_diffusivity_m2_s": 8.87e-18,
+   "boundary_product_m3_s": 3.412e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 8.829721149270135e-18,
+   "boundary_product_m3_s": 3.3843248677175203e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 8.826864829971685e-18,
+   "boundary_product_m3_s": 3.3852782845506078e-21
+  }
+ },
+ {
+  "anneal": "TS-14",
+  "draw": 19,
+  "truth": {
+   "lattice_diffusivity_m2_s": 4.046e-17,
+   "boundary_product_m3_s": 5.188e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 4.045400753567429e-17,
+   "boundary_product_m3_s": 5.193516054075955e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 4.0368008642139724e-17,
+   "boundary_product_m3_s": 5.1841091982485265e-21
+  }
+ },
+ {
+  "anneal": "TS-15",
+  "draw": 19,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.774e-17,
+   "boundary_product_m3_s": 1.836e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.780163501678176e-17,
+   "boundary_product_m3_s": 1.8317538680923105e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.7613433664361956e-17,
+   "boundary_product_m3_s": 1.807068038330476e-21
+  }
+ },
+ {
+  "anneal": "TS-03",
+  "draw": 20,
+  "truth": {
+   "lattice_diffusivity_m2_s": 2.137e-17,
+   "boundary_product_m3_s": 2.043e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 2.1443098394982187e-17,
+   "boundary_product_m3_s": 2.0748729559076043e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 2.134230192534671e-17,
+   "boundary_product_m3_s": 2.0546053940546028e-21
+  }
+ },
+ {
+  "anneal": "TS-07",
+  "draw": 20,
+  "truth": {
+   "lattice_diffusivity_m2_s": 6.483e-17,
+   "boundary_product_m3_s": 1.1186e-20
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 6.487824891027219e-17,
+   "boundary_product_m3_s": 1.0888732277933408e-20
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 6.475327155691917e-17,
+   "boundary_product_m3_s": 1.0899172908342646e-20
+  }
+ },
+ {
+  "anneal": "TS-11",
+  "draw": 20,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.392e-17,
+   "boundary_product_m3_s": 1.107e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.3940672546819496e-17,
+   "boundary_product_m3_s": 1.1280480255699638e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.3903014424924194e-17,
+   "boundary_product_m3_s": 1.1207858962904153e-21
+  }
+ },
+ {
+  "anneal": "TS-12",
+  "draw": 20,
+  "truth": {
+   "lattice_diffusivity_m2_s": 3.071e-17,
+   "boundary_product_m3_s": 2.694e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 3.0896801705555004e-17,
+   "boundary_product_m3_s": 2.774189328349733e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 3.0617063867079806e-17,
+   "boundary_product_m3_s": 2.727558337650687e-21
+  }
+ },
+ {
+  "anneal": "TS-13",
+  "draw": 20,
+  "truth": {
+   "lattice_diffusivity_m2_s": 8.87e-18,
+   "boundary_product_m3_s": 3.412e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 8.870283709086641e-18,
+   "boundary_product_m3_s": 3.45623086358588e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 8.84655623527027e-18,
+   "boundary_product_m3_s": 3.437563746885593e-21
+  }
+ },
+ {
+  "anneal": "TS-14",
+  "draw": 20,
+  "truth": {
+   "lattice_diffusivity_m2_s": 4.046e-17,
+   "boundary_product_m3_s": 5.188e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 4.0440092752158525e-17,
+   "boundary_product_m3_s": 5.202671890446193e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 4.036898012678703e-17,
+   "boundary_product_m3_s": 5.196003416089739e-21
+  }
+ },
+ {
+  "anneal": "TS-15",
+  "draw": 20,
+  "truth": {
+   "lattice_diffusivity_m2_s": 1.774e-17,
+   "boundary_product_m3_s": 1.836e-21
+  },
+  "reference": {
+   "lattice_diffusivity_m2_s": 1.788645726261177e-17,
+   "boundary_product_m3_s": 1.8457986537603903e-21
+  },
+  "second": {
+   "lattice_diffusivity_m2_s": 1.7733232251332394e-17,
+   "boundary_product_m3_s": 1.8229152131849825e-21
+  }
+ }
+]

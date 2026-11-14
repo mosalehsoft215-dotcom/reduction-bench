@@ -1,0 +1,19 @@
+1. error / window (lattice D, s delta D_gb): reference | second
+TS-03: 0.1 0.2 | 0.1 0.1
+TS-07: 0.2 0.2 | 0.1 0.1
+TS-11: 0.1 0.2 | 0.2 0.2
+TS-12: 0.1 0.4 | 0.0 0.2
+TS-13: 0.0 0.0 | 0.0 0.1
+TS-14: 0.0 0.0 | 0.0 0.0
+TS-15: 0.1 0.0 | 0.1 0.0
+largest: reference 0.38 | second 0.23
+2. blind answers on the held-back anneals (anneals with both figures inside)
+copy of TS-03: 0 of 5 []
+copy of TS-07: 0 of 5 []
+copy of mean of the worked anneals: 0 of 5 []
+one shared lattice_diffusivity_m2_s: at most 1 of 5 ['TS-11']
+one shared boundary_product_m3_s: at most 1 of 5 ['TS-11']
+3. held-back anneals passed as a whole
+reference: 5 of 5
+second: 5 of 5
+4. second reduction with even mixing in place of the chord law, TS-15: 0.6 0.4

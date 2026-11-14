@@ -1,0 +1,22 @@
+{
+ "TS-11": {
+  "lattice_diffusivity_m2_s": 1.392e-17,
+  "boundary_product_m3_s": 1.107e-21
+ },
+ "TS-12": {
+  "lattice_diffusivity_m2_s": 3.071e-17,
+  "boundary_product_m3_s": 2.694e-21
+ },
+ "TS-13": {
+  "lattice_diffusivity_m2_s": 8.87e-18,
+  "boundary_product_m3_s": 3.412e-21
+ },
+ "TS-14": {
+  "lattice_diffusivity_m2_s": 4.046e-17,
+  "boundary_product_m3_s": 5.188e-21
+ },
+ "TS-15": {
+  "lattice_diffusivity_m2_s": 1.774e-17,
+  "boundary_product_m3_s": 1.836e-21
+ }
+}

@@ -1,0 +1,10 @@
+20 noise redraws per anneal; largest error / window per figure (lattice D, s delta D_gb)
+anneal | reference | second
+TS-03 | 0.15 0.26 | 0.20 0.29
+TS-07 | 0.22 0.38 | 0.16 0.26
+TS-11 | 0.25 0.48 | 0.32 0.54
+TS-12 | 0.22 0.52 | 0.18 0.48
+TS-13 | 0.17 0.18 | 0.11 0.21
+TS-14 | 0.13 0.09 | 0.13 0.10
+TS-15 | 0.34 0.34 | 0.45 0.21
+largest over everything: reference 0.52, second 0.54

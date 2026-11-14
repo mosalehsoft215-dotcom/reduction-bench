@@ -1,0 +1,55 @@
+{
+  "bay": "E11",
+  "record": {
+    "start": "2026-01-12 00:00",
+    "hours": 3600,
+    "step": "hourly means; time is the start of the hour"
+  },
+  "equation_of_state": "SF6 reference equation of Guder and Wagner as implemented by CoolProp 6.6.0",
+  "compartments": {
+    "CB": {
+      "volume_m3": 1.92,
+      "rated_filling_kpa_abs_20c": 700.0,
+      "monitor": {
+        "pressure": "absolute, kPa",
+        "temperature": "sensor in the monitor housing on the compartment flange",
+        "density": "computed by the monitor from its own pressure and housing temperature"
+      }
+    },
+    "DS": {
+      "volume_m3": 1.08,
+      "rated_filling_kpa_abs_20c": 500.0,
+      "monitor": {
+        "pressure": "absolute, kPa",
+        "temperature": "sensor in the monitor housing on the compartment flange",
+        "density": "computed by the monitor from its own pressure and housing temperature"
+      }
+    },
+    "CT": {
+      "volume_m3": 1.37,
+      "rated_filling_kpa_abs_20c": 500.0,
+      "monitor": {
+        "pressure": "absolute, kPa",
+        "temperature": "sensor in the monitor housing on the compartment flange",
+        "density": "computed by the monitor from its own pressure and housing temperature"
+      }
+    },
+    "CSE": {
+      "volume_m3": 0.81,
+      "rated_filling_kpa_abs_20c": 500.0,
+      "monitor": {
+        "pressure": "absolute, kPa",
+        "temperature": "sensor in the monitor housing on the compartment flange",
+        "density": "computed by the monitor from its own pressure and housing temperature"
+      }
+    }
+  },
+  "links": {
+    "V-12": [
+      "DS",
+      "CT"
+    ]
+  },
+  "current": "i_bay_a: bay current from the bay protection relay through SCADA (CT ratio 1200/1 configured in SCADA); dcs_mva and dcs_kv: the unit's export MVA and the busbar voltage from the plant DCS (class 0.5)",
+  "hall": "two HVAC hall thermometers, north and south walls"
+}

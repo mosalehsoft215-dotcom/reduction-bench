@@ -1,0 +1,3 @@
+2026-02-07 10:40  DS compartment topped up to rated density from the gas cart; cylinder weights in the gas register.
+2026-03-13 06:00  Bay E07 de-energised for the cable termination inspection.
+2026-03-15 10:00  Bay E07 back in service.

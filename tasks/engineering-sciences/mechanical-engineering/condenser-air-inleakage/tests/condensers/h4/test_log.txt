@@ -1,0 +1,2 @@
+Vacuum decay test on unit 6 condenser.
+DCS configuration of PT-B updated last week.

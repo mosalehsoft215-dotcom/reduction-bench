@@ -1,0 +1,1 @@
+Vacuum decay test on unit 2 condenser; load held by the turbine controller.

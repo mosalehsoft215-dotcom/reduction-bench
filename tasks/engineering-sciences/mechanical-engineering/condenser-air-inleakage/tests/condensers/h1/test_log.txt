@@ -1,0 +1,1 @@
+Vacuum decay test on unit 3 condenser at minimum load.

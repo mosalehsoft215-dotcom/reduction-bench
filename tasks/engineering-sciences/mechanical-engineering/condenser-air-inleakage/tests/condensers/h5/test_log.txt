@@ -1,0 +1,2 @@
+Vacuum decay test on unit 7 condenser.
+Cooling tower cell 3 fan tripped during the test.

@@ -1,0 +1,2 @@
+Vacuum decay test on unit 5 condenser.
+Hotwell level controller in manual during the test.

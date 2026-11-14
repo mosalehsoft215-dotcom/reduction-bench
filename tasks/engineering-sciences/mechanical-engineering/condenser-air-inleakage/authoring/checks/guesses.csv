@@ -1,0 +1,86 @@
+test,guess,kg_per_h,miss_pct,verdict
+h1,5 kg/h,5.000,78.07,miss
+h1,10 kg/h,10.000,56.14,miss
+h1,15 kg/h,15.000,34.21,miss
+h1,20 kg/h,20.000,12.28,miss
+h1,25 kg/h,25.000,9.65,miss
+h1,30 kg/h,30.000,31.58,miss
+h1,35 kg/h,35.000,53.51,miss
+h1,40 kg/h,40.000,75.44,miss
+h1,45 kg/h,45.000,97.37,miss
+h1,50 kg/h,50.000,119.30,miss
+h1,55 kg/h,55.000,141.23,miss
+h1,60 kg/h,60.000,163.16,miss
+h1,example K-1,17.300,24.12,miss
+h1,example K-2,31.600,38.60,miss
+h1,example mean,24.450,7.24,miss
+h1,example K-1 per MW,6.919,69.65,miss
+h1,example K-2 per MW,25.709,12.76,miss
+h2,5 kg/h,5.000,63.50,miss
+h2,10 kg/h,10.000,27.01,miss
+h2,15 kg/h,15.000,9.49,miss
+h2,20 kg/h,20.000,45.99,miss
+h2,25 kg/h,25.000,82.48,miss
+h2,30 kg/h,30.000,118.98,miss
+h2,35 kg/h,35.000,155.47,miss
+h2,40 kg/h,40.000,191.97,miss
+h2,45 kg/h,45.000,228.47,miss
+h2,50 kg/h,50.000,264.96,miss
+h2,55 kg/h,55.000,301.46,miss
+h2,60 kg/h,60.000,337.96,miss
+h2,example K-1,17.300,26.28,miss
+h2,example K-2,31.600,130.66,miss
+h2,example mean,24.450,78.47,miss
+h2,example K-1 per MW,17.011,24.17,miss
+h2,example K-2 per MW,63.208,361.37,miss
+h3,5 kg/h,5.000,86.60,miss
+h3,10 kg/h,10.000,73.19,miss
+h3,15 kg/h,15.000,59.79,miss
+h3,20 kg/h,20.000,46.38,miss
+h3,25 kg/h,25.000,32.98,miss
+h3,30 kg/h,30.000,19.57,miss
+h3,35 kg/h,35.000,6.17,miss
+h3,40 kg/h,40.000,7.24,miss
+h3,45 kg/h,45.000,20.64,miss
+h3,50 kg/h,50.000,34.05,miss
+h3,55 kg/h,55.000,47.45,miss
+h3,60 kg/h,60.000,60.86,miss
+h3,example K-1,17.300,53.62,miss
+h3,example K-2,31.600,15.28,miss
+h3,example mean,24.450,34.45,miss
+h3,example K-1 per MW,8.720,76.62,miss
+h3,example K-2 per MW,32.399,13.14,miss
+h4,5 kg/h,5.000,81.88,miss
+h4,10 kg/h,10.000,63.77,miss
+h4,15 kg/h,15.000,45.65,miss
+h4,20 kg/h,20.000,27.54,miss
+h4,25 kg/h,25.000,9.42,miss
+h4,30 kg/h,30.000,8.70,miss
+h4,35 kg/h,35.000,26.81,miss
+h4,40 kg/h,40.000,44.93,miss
+h4,45 kg/h,45.000,63.04,miss
+h4,50 kg/h,50.000,81.16,miss
+h4,55 kg/h,55.000,99.28,miss
+h4,60 kg/h,60.000,117.39,miss
+h4,example K-1,17.300,37.32,miss
+h4,example K-2,31.600,14.49,miss
+h4,example mean,24.450,11.41,miss
+h4,example K-1 per MW,17.515,36.54,miss
+h4,example K-2 per MW,65.079,135.79,miss
+h5,5 kg/h,5.000,56.90,miss
+h5,10 kg/h,10.000,13.79,miss
+h5,15 kg/h,15.000,29.31,miss
+h5,20 kg/h,20.000,72.41,miss
+h5,25 kg/h,25.000,115.52,miss
+h5,30 kg/h,30.000,158.62,miss
+h5,35 kg/h,35.000,201.72,miss
+h5,40 kg/h,40.000,244.83,miss
+h5,45 kg/h,45.000,287.93,miss
+h5,50 kg/h,50.000,331.03,miss
+h5,55 kg/h,55.000,374.14,miss
+h5,60 kg/h,60.000,417.24,miss
+h5,example K-1,17.300,49.14,miss
+h5,example K-2,31.600,172.41,miss
+h5,example mean,24.450,110.78,miss
+h5,example K-1 per MW,8.435,27.29,miss
+h5,example K-2 per MW,31.341,170.18,miss

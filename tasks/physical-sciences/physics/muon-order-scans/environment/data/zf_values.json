@@ -1,0 +1,10 @@
+{
+ "ZS-11": {
+  "local_field_mt": 141.79,
+  "neel_temperature_k": 24.6
+ },
+ "ZS-12": {
+  "local_field_mt": 62.55,
+  "neel_temperature_k": 11.3
+ }
+}

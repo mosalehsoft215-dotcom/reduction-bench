@@ -1,0 +1,2 @@
+reference: worst miss over 294 redraws 0.39 of an allowance
+second: worst miss over 294 redraws 0.59 of an allowance

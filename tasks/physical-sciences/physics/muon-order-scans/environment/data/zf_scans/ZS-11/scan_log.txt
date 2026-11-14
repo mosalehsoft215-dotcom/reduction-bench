@@ -1,0 +1,1 @@
+Scan ZS-11: Co2(OH)PO4, 16 zero-field runs from base temperature upwards, alpha from a weak transverse-field run in the paramagnetic state.

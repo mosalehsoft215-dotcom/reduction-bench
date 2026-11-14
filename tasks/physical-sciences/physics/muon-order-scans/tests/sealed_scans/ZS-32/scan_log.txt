@@ -1,0 +1,1 @@
+Scan ZS-32: Fe2SiO4, 16 zero-field runs from base temperature upwards, alpha from a weak transverse-field run in the paramagnetic state.

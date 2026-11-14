@@ -1,0 +1,57 @@
+route,scan,local_field_mt_miss,local_field_mt_allowances,neel_temperature_k_miss,neel_temperature_k_allowances,holds
+reference,ZS-11,0.0097,0.01,-0.0112,0.04,1
+reference,ZS-12,0.044,0.03,-0.0054,0.02,1
+reference,ZS-31,0.4819,0.32,0.0052,0.02,1
+reference,ZS-32,-0.0084,0.01,-0.0035,0.01,1
+reference,ZS-33,-0.0849,0.06,-0.001,0.0,1
+reference,ZS-34,-0.0504,0.03,-0.0109,0.04,1
+reference,ZS-35,0.001,0.0,-0.0144,0.05,1
+log_offset,ZS-11,0.0097,0.01,-0.0112,0.04,1
+log_offset,ZS-12,0.044,0.03,-0.0054,0.02,1
+log_offset,ZS-31,0.4819,0.32,0.0052,0.02,1
+log_offset,ZS-32,-0.0084,0.01,-0.0035,0.01,1
+log_offset,ZS-33,-0.0849,0.06,-0.001,0.0,1
+log_offset,ZS-34,-0.0504,0.03,-0.9109,3.04,0
+log_offset,ZS-35,0.001,0.0,-0.0144,0.05,1
+tripped_runs,ZS-11,0.0097,0.01,-0.0112,0.04,1
+tripped_runs,ZS-12,0.044,0.03,-0.0054,0.02,1
+tripped_runs,ZS-31,0.4819,0.32,0.0052,0.02,1
+tripped_runs,ZS-32,-0.0157,0.01,2.0011,6.67,0
+tripped_runs,ZS-33,-0.0849,0.06,-0.001,0.0,1
+tripped_runs,ZS-34,-0.0504,0.03,-0.0109,0.04,1
+tripped_runs,ZS-35,-0.0018,0.0,0.9738,3.25,0
+lifetime_clock,ZS-11,0.0019,0.0,-0.0112,0.04,1
+lifetime_clock,ZS-12,0.0353,0.02,-0.0054,0.02,1
+lifetime_clock,ZS-31,-5.6288,3.75,0.0052,0.02,0
+lifetime_clock,ZS-32,3.5908,2.39,-0.0035,0.01,0
+lifetime_clock,ZS-33,3.6932,2.46,-0.001,0.0,0
+lifetime_clock,ZS-34,-3.5093,2.34,-0.0109,0.04,0
+lifetime_clock,ZS-35,-3.4584,2.31,-0.0144,0.05,0
+unfold,ZS-11,0.0097,0.01,-0.0112,0.04,1
+unfold,ZS-12,0.044,0.03,-0.0054,0.02,1
+unfold,ZS-31,-121.2935,80.86,0.0052,0.02,0
+unfold,ZS-32,-0.0084,0.01,-0.0035,0.01,1
+unfold,ZS-33,-0.0849,0.06,-0.001,0.0,1
+unfold,ZS-34,-0.0504,0.03,-0.0109,0.04,1
+unfold,ZS-35,0.001,0.0,-0.0144,0.05,1
+dominant_site,ZS-11,0.0097,0.01,-0.0112,0.04,1
+dominant_site,ZS-12,0.044,0.03,-0.0054,0.02,1
+dominant_site,ZS-31,0.4819,0.32,0.0052,0.02,1
+dominant_site,ZS-32,41.4228,27.62,-0.0035,0.01,0
+dominant_site,ZS-33,-0.0849,0.06,-0.001,0.0,1
+dominant_site,ZS-34,-0.0504,0.03,-0.0109,0.04,1
+dominant_site,ZS-35,0.001,0.0,-0.0144,0.05,1
+volume_fraction,ZS-11,0.0097,0.01,-0.011,0.04,1
+volume_fraction,ZS-12,0.044,0.03,0.0045,0.02,1
+volume_fraction,ZS-31,0.4819,0.32,0.003,0.01,1
+volume_fraction,ZS-32,-0.0084,0.01,0.9655,3.22,0
+volume_fraction,ZS-33,-0.0849,0.06,-2.4435,8.15,0
+volume_fraction,ZS-34,-0.0504,0.03,-0.009,0.03,1
+volume_fraction,ZS-35,0.001,0.0,0.5305,1.77,0
+plain route,ZS-11,0.0019,0.0,-0.011,0.04,1
+plain route,ZS-12,0.0353,0.02,0.0045,0.02,1
+plain route,ZS-31,-124.8927,83.26,0.003,0.01,0
+plain route,ZS-32,46.2091,30.81,1.5805,5.27,0
+plain route,ZS-33,3.6932,2.46,-2.4435,8.15,0
+plain route,ZS-34,-3.5093,2.34,-0.909,3.03,0
+plain route,ZS-35,-3.4584,2.31,0.9735,3.24,0

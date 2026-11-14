@@ -1,0 +1,22 @@
+{
+ "ZS-31": {
+  "local_field_mt": 295.822,
+  "neel_temperature_k": 38.63
+ },
+ "ZS-32": {
+  "local_field_mt": 125.629,
+  "neel_temperature_k": 17.46
+ },
+ "ZS-33": {
+  "local_field_mt": 175.831,
+  "neel_temperature_k": 30.57
+ },
+ "ZS-34": {
+  "local_field_mt": 87.665,
+  "neel_temperature_k": 15.38
+ },
+ "ZS-35": {
+  "local_field_mt": 104.937,
+  "neel_temperature_k": 21.62
+ }
+}

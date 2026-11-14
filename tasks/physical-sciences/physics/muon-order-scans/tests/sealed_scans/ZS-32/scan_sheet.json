@@ -1,0 +1,13 @@
+{
+ "scan": "ZS-32",
+ "compound": "Fe2SiO4",
+ "sample_form": "polycrystalline pellet",
+ "field": "zero field",
+ "bin_width_us": 0.008,
+ "pre_t0_bins": 100,
+ "alpha_forward_backward": 1.07,
+ "time_range_us": [
+  0.0,
+  10.0
+ ]
+}

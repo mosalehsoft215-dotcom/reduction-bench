@@ -1,0 +1,16 @@
+{
+ "station": "NM-09",
+ "start": "2026-02-02",
+ "altitude_m": 260.0,
+ "cutoff_rigidity_gv": 2.1,
+ "detector": "18-NM64",
+ "standard_pressure_hpa": 982.4,
+ "pressure_source": {
+  "kind": "airport weather office",
+  "elevation_m": 249.0,
+  "distance_km": 6.0,
+  "longitude_deg": 13.9,
+  "clock_utc_offset_h": 1,
+  "reduction": "QNH"
+ }
+}

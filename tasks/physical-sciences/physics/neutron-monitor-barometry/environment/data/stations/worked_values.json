@@ -1,0 +1,10 @@
+{
+ "NM-04": {
+  "barometric_coefficient_pct_per_hpa": 0.7184,
+  "rate_at_standard_pressure_per_h": 412630.0
+ },
+ "NM-09": {
+  "barometric_coefficient_pct_per_hpa": 0.7362,
+  "rate_at_standard_pressure_per_h": 241870.0
+ }
+}

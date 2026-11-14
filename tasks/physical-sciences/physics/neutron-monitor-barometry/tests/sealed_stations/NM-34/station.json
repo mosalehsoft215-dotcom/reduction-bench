@@ -1,0 +1,14 @@
+{
+ "station": "NM-34",
+ "start": "2025-11-03",
+ "altitude_m": 90.0,
+ "cutoff_rigidity_gv": 0.8,
+ "detector": "18-NM64",
+ "standard_pressure_hpa": 1002.5,
+ "pressure_source": {
+  "kind": "hut barometer at the monitor",
+  "elevation_m": 90.0,
+  "longitude_deg": 139.6,
+  "clock_utc_offset_h": 0
+ }
+}

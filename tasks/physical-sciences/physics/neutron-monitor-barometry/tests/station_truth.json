@@ -1,0 +1,22 @@
+{
+ "NM-31": {
+  "barometric_coefficient_pct_per_hpa": 0.6927,
+  "rate_at_standard_pressure_per_h": 503410.0
+ },
+ "NM-32": {
+  "barometric_coefficient_pct_per_hpa": 0.7519,
+  "rate_at_standard_pressure_per_h": 288260.0
+ },
+ "NM-33": {
+  "barometric_coefficient_pct_per_hpa": 0.6741,
+  "rate_at_standard_pressure_per_h": 615940.0
+ },
+ "NM-34": {
+  "barometric_coefficient_pct_per_hpa": 0.7603,
+  "rate_at_standard_pressure_per_h": 197550.0
+ },
+ "NM-35": {
+  "barometric_coefficient_pct_per_hpa": 0.7841,
+  "rate_at_standard_pressure_per_h": 452180.0
+ }
+}

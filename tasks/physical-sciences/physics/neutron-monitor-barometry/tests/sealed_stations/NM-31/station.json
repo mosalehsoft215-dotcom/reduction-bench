@@ -1,0 +1,16 @@
+{
+ "station": "NM-31",
+ "start": "2026-01-19",
+ "altitude_m": 1825.0,
+ "cutoff_rigidity_gv": 6.3,
+ "detector": "18-NM64",
+ "standard_pressure_hpa": 812.4,
+ "pressure_source": {
+  "kind": "airport weather office",
+  "elevation_m": 1185.0,
+  "distance_km": 14.0,
+  "longitude_deg": 77.0,
+  "clock_utc_offset_h": 5,
+  "reduction": "QNH"
+ }
+}

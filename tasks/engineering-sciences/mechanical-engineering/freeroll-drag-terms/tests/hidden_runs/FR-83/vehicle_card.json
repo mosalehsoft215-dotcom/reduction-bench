@@ -1,0 +1,16 @@
+{
+ "vehicle": "FR-83",
+ "mass_kg": 1728.0,
+ "rotating_mass_kg": 52.0,
+ "pulse_logger": {
+  "teeth": 48,
+  "circ_setting_m": 2.009,
+  "hz": 10
+ },
+ "gnss_hz": 1,
+ "track": {
+  "span_m": 4350.0,
+  "bearing_deg": 90,
+  "origin": "west marker"
+ }
+}

@@ -1,0 +1,6 @@
+FR-81: margin 5.29 bounds (closest: worked FR-02)
+FR-82: margin 2.78 bounds (closest: worked FR-09)
+FR-83: margin 5.91 bounds (closest: sealed mean (2 s.f.))
+FR-84: margin 3.53 bounds (closest: worked FR-02)
+FR-85: margin 3.80 bounds (closest: worked FR-09)
+OK: no baseline passes a case

@@ -1,0 +1,10 @@
+{
+ "FR-02": {
+  "drag_base_N": 147.8,
+  "drag_quad_N_per_kmh2": 0.03312
+ },
+ "FR-09": {
+  "drag_base_N": 216.4,
+  "drag_quad_N_per_kmh2": 0.04688
+ }
+}

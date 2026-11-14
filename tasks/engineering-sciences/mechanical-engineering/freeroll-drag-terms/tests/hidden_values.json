@@ -1,0 +1,22 @@
+{
+ "FR-81": {
+  "drag_base_N": 116.9,
+  "drag_quad_N_per_kmh2": 0.03118
+ },
+ "FR-82": {
+  "drag_base_N": 251.3,
+  "drag_quad_N_per_kmh2": 0.04365
+ },
+ "FR-83": {
+  "drag_base_N": 131.2,
+  "drag_quad_N_per_kmh2": 0.04268
+ },
+ "FR-84": {
+  "drag_base_N": 179.5,
+  "drag_quad_N_per_kmh2": 0.03174
+ },
+ "FR-85": {
+  "drag_base_N": 186.7,
+  "drag_quad_N_per_kmh2": 0.05291
+ }
+}

@@ -1,0 +1,10 @@
+{
+ "spin_frequency_hz": 287.46832096127974,
+ "offset_east_arcsec": 126404.15437511021,
+ "offset_north_arcsec": 64599.836709343486,
+ "orbital_period_days": 0.6178381178770308,
+ "projected_semimajor_axis_ls": 1.249154441200268,
+ "eccentricity": 0.25507103111643536,
+ "periastron_longitude_deg": 342.30669907986726,
+ "periastron_epoch_mjd": 60500.218904558074
+}

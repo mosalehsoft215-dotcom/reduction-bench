@@ -1,0 +1,10 @@
+{
+ "TJ-06": {
+  "zero_force_temp_c": 22.9,
+  "axial_load_kn": 146.33
+ },
+ "TJ-15": {
+  "zero_force_temp_c": 21.4,
+  "axial_load_kn": -126.37
+ }
+}

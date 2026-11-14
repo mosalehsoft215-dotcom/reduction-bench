@@ -1,0 +1,14 @@
+{
+ "run": "TJ-72",
+ "site": "km 72.199",
+ "rail_profile": "60E1",
+ "load_cell": {
+  "serial": "LC-1722",
+  "factor_N_per_mV": 401.2
+ },
+ "web_probe_C": [
+  5.23,
+  5.2,
+  4.99
+ ]
+}

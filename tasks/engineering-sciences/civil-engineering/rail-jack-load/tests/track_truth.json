@@ -1,0 +1,22 @@
+{
+ "TJ-71": {
+  "zero_force_temp_c": 32.0,
+  "axial_load_kn": 227.93
+ },
+ "TJ-72": {
+  "zero_force_temp_c": 16.3,
+  "axial_load_kn": -205.61
+ },
+ "TJ-73": {
+  "zero_force_temp_c": 16.5,
+  "axial_load_kn": 330.25
+ },
+ "TJ-74": {
+  "zero_force_temp_c": 15.6,
+  "axial_load_kn": -208.17
+ },
+ "TJ-75": {
+  "zero_force_temp_c": 33.5,
+  "axial_load_kn": 253.77
+ }
+}

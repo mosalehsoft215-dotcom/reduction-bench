@@ -1,0 +1,33 @@
+{
+  "day": "D08C",
+  "temperature_C": 8.0,
+  "notes": [
+    "Room 2.14 was cold in the morning; the holder needed 40 min to settle at 8 C before the first sample.",
+    "Gravimetric check of the 2-100 uL pipette used for every stock addition, after the run: 10 deliveries at its 5.0 uL setting weighed 0.0470 g of water at 22.0 C; 10 deliveries at its 50.0 uL setting weighed 0.4893 g of water at 22.0 C; 10 deliveries at its 100.0 uL setting weighed 0.9807 g of water at 22.0 C. It was serviced afterwards.",
+    "Ludox stock renewed."
+  ],
+  "solutions": {
+    "stock_acrylamide_M": 7.95,
+    "nata_uM": 12.0,
+    "titration_start_uL": 1200.0
+  },
+  "steady_state": {
+    "excitation": "depolarised lamp",
+    "emission_polariser_deg": 54.7,
+    "detector": "photon counting",
+    "counting_time_s": 1.0,
+    "cuvette_path_mm": 4,
+    "viewed_depth_mm": [
+      1.0,
+      3.0
+    ]
+  },
+  "decays": {
+    "emission_polariser_deg": 0.0,
+    "pulses_unquenched": 200000000.0,
+    "pulses_quenched": 600000.0,
+    "irf_pulses": 1000000000.0,
+    "tac_range_ns": 50.0,
+    "channels": 4096
+  }
+}

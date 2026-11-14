@@ -1,0 +1,29 @@
+{
+  "day": "D35C",
+  "temperature_C": 35.0,
+  "notes": [],
+  "solutions": {
+    "stock_acrylamide_M": 7.95,
+    "nata_uM": 12.0,
+    "titration_start_uL": 1200.0
+  },
+  "steady_state": {
+    "excitation": "vertical polariser",
+    "emission_polariser_deg": 54.7,
+    "detector": "analog",
+    "counting_time_s": null,
+    "cuvette_path_mm": 10,
+    "viewed_depth_mm": [
+      4.0,
+      6.0
+    ]
+  },
+  "decays": {
+    "emission_polariser_deg": 54.7,
+    "pulses_unquenched": 200000000.0,
+    "pulses_quenched": 600000.0,
+    "irf_pulses": 1000000000.0,
+    "tac_range_ns": 50.0,
+    "channels": 4096
+  }
+}

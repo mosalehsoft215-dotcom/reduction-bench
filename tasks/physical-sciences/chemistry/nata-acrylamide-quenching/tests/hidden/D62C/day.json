@@ -1,0 +1,32 @@
+{
+  "day": "D62C",
+  "temperature_C": 62.0,
+  "notes": [
+    "Acrylamide stock from the second bottle; its label came off in the water bath and the weighing sheet was not found, so its molarity is not known.",
+    "Counting time raised to 2 s for the weaker hot spectra."
+  ],
+  "solutions": {
+    "stock_acrylamide_M": null,
+    "nata_uM": 12.0,
+    "titration_start_uL": 1200.0
+  },
+  "steady_state": {
+    "excitation": "vertical polariser",
+    "emission_polariser_deg": 0.0,
+    "detector": "photon counting",
+    "counting_time_s": 2.0,
+    "cuvette_path_mm": 4,
+    "viewed_depth_mm": [
+      1.0,
+      3.0
+    ]
+  },
+  "decays": {
+    "emission_polariser_deg": 0.0,
+    "pulses_unquenched": 200000000.0,
+    "pulses_quenched": 600000.0,
+    "irf_pulses": 1000000000.0,
+    "tac_range_ns": 50.0,
+    "channels": 4096
+  }
+}

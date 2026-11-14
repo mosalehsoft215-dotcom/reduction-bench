@@ -1,0 +1,47 @@
+correct analyses: errors in percent of the generator inputs
+
+reference, task data     D20C: tau0_ns -0.017  diffusion_cm2_per_s -0.055
+reference, task data     D35C: tau0_ns +0.057  diffusion_cm2_per_s -0.134
+reference, task data     D08C: tau0_ns +0.003  diffusion_cm2_per_s -0.029
+reference, task data     D27C: tau0_ns +0.022  diffusion_cm2_per_s +0.367
+reference, task data     D62C: tau0_ns +0.006  diffusion_cm2_per_s -0.221
+reference, task data     D85C: tau0_ns -0.016  diffusion_cm2_per_s +0.033
+reference, draw 901      D20C: tau0_ns -0.002  diffusion_cm2_per_s -0.023
+reference, draw 901      D35C: tau0_ns +0.004  diffusion_cm2_per_s -0.238
+reference, draw 901      D08C: tau0_ns +0.071  diffusion_cm2_per_s +0.535
+reference, draw 901      D27C: tau0_ns +0.016  diffusion_cm2_per_s -0.034
+reference, draw 901      D62C: tau0_ns -0.029  diffusion_cm2_per_s -0.068
+reference, draw 901      D85C: tau0_ns +0.025  diffusion_cm2_per_s +0.446
+reference, draw 902      D20C: tau0_ns +0.052  diffusion_cm2_per_s -0.209
+reference, draw 902      D35C: tau0_ns +0.015  diffusion_cm2_per_s +0.236
+reference, draw 902      D08C: tau0_ns +0.053  diffusion_cm2_per_s -0.146
+reference, draw 902      D27C: tau0_ns -0.062  diffusion_cm2_per_s -0.122
+reference, draw 902      D62C: tau0_ns +0.049  diffusion_cm2_per_s +0.237
+reference, draw 902      D85C: tau0_ns +0.010  diffusion_cm2_per_s +0.110
+reference, draw 903      D20C: tau0_ns -0.069  diffusion_cm2_per_s +0.015
+reference, draw 903      D35C: tau0_ns +0.045  diffusion_cm2_per_s +0.250
+reference, draw 903      D08C: tau0_ns -0.042  diffusion_cm2_per_s +0.200
+reference, draw 903      D27C: tau0_ns -0.020  diffusion_cm2_per_s -0.378
+reference, draw 903      D62C: tau0_ns +0.032  diffusion_cm2_per_s -0.510
+reference, draw 903      D85C: tau0_ns -0.062  diffusion_cm2_per_s -0.072
+reference, draw 904      D20C: tau0_ns +0.033  diffusion_cm2_per_s +0.150
+reference, draw 904      D35C: tau0_ns -0.053  diffusion_cm2_per_s +0.159
+reference, draw 904      D08C: tau0_ns +0.032  diffusion_cm2_per_s -0.063
+reference, draw 904      D27C: tau0_ns -0.104  diffusion_cm2_per_s +0.220
+reference, draw 904      D62C: tau0_ns -0.013  diffusion_cm2_per_s -0.081
+reference, draw 904      D85C: tau0_ns -0.023  diffusion_cm2_per_s -0.003
+independent, task data   D20C: tau0_ns -0.017  diffusion_cm2_per_s -0.157
+independent, task data   D35C: tau0_ns +0.058  diffusion_cm2_per_s -0.052
+independent, task data   D08C: tau0_ns +0.003  diffusion_cm2_per_s -0.044
+independent, task data   D27C: tau0_ns +0.023  diffusion_cm2_per_s +0.378
+independent, task data   D62C: tau0_ns +0.005  diffusion_cm2_per_s -0.236
+independent, task data   D85C: tau0_ns -0.016  diffusion_cm2_per_s +0.063
+independent, draw 901    D20C: tau0_ns -0.001  diffusion_cm2_per_s -0.004
+independent, draw 901    D35C: tau0_ns -0.001  diffusion_cm2_per_s -0.246
+independent, draw 901    D08C: tau0_ns +0.071  diffusion_cm2_per_s +0.581
+independent, draw 901    D27C: tau0_ns +0.016  diffusion_cm2_per_s -0.078
+independent, draw 901    D62C: tau0_ns -0.029  diffusion_cm2_per_s -0.064
+independent, draw 901    D85C: tau0_ns +0.025  diffusion_cm2_per_s +0.456
+
+worst |error| tau0_ns: 0.104 %   limit 0.2 %   ratio 1.93
+worst |error| diffusion_cm2_per_s: 0.581 %   limit 1.1 %   ratio 1.89

@@ -1,0 +1,32 @@
+{
+ "h1": {
+  "critical_rpm_x": 1665.5,
+  "af_x": 10.777,
+  "critical_rpm_y": 1665.5,
+  "af_y": 10.777
+ },
+ "h2": {
+  "critical_rpm_x": 1522.7,
+  "af_x": 8.074,
+  "critical_rpm_y": 1522.7,
+  "af_y": 8.074
+ },
+ "h3": {
+  "critical_rpm_x": 1490.3,
+  "af_x": 12.742,
+  "critical_rpm_y": 1490.3,
+  "af_y": 12.742
+ },
+ "h4": {
+  "critical_rpm_x": 1777.0,
+  "af_x": 8.504,
+  "critical_rpm_y": 1777.0,
+  "af_y": 8.504
+ },
+ "h5": {
+  "critical_rpm_x": 1549.7,
+  "af_x": 10.106,
+  "critical_rpm_y": 1695.7,
+  "af_y": 7.81
+ }
+}

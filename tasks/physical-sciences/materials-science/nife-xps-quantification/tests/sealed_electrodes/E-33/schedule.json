@@ -1,0 +1,39 @@
+{
+ "electrode": "E-33",
+ "source": "monochromatic Al Ka, 1486.6 eV",
+ "substrate": "carbon paper",
+ "scale_gain_ppm": 251,
+ "take_off_angle_deg": 0.0,
+ "regions": [
+  {
+   "region": "C1s",
+   "start_s": 0.0,
+   "end_s": 210.0,
+   "pass_energy_ev": 50
+  },
+  {
+   "region": "Ni2p3",
+   "start_s": 210.0,
+   "end_s": 730.0,
+   "pass_energy_ev": 50
+  },
+  {
+   "region": "Fe2p3",
+   "start_s": 730.0,
+   "end_s": 1250.0,
+   "pass_energy_ev": 20
+  },
+  {
+   "region": "O1s",
+   "start_s": 1250.0,
+   "end_s": 1550.0,
+   "pass_energy_ev": 20
+  },
+  {
+   "region": "C1s_end",
+   "start_s": 1550.0,
+   "end_s": 1760.0,
+   "pass_energy_ev": 50
+  }
+ ]
+}

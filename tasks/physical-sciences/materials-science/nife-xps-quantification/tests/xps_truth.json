@@ -1,0 +1,22 @@
+{
+ "E-31": {
+  "ni2p3_binding_ev": 854.03,
+  "fe_fraction": 0.143
+ },
+ "E-32": {
+  "ni2p3_binding_ev": 855.18,
+  "fe_fraction": 0.397
+ },
+ "E-33": {
+  "ni2p3_binding_ev": 854.29,
+  "fe_fraction": 0.617
+ },
+ "E-34": {
+  "ni2p3_binding_ev": 855.87,
+  "fe_fraction": 0.268
+ },
+ "E-35": {
+  "ni2p3_binding_ev": 854.91,
+  "fe_fraction": 0.538
+ }
+}

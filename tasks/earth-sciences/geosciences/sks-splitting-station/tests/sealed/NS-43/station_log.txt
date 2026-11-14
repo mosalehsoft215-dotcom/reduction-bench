@@ -1,0 +1,4 @@
+NS-43: vault broadband station, sensors levelled at installation
+event windows cut around the predicted P and SKS arrivals
+GPS timing locked throughout
+BHE digitizer board replaced during the autumn service

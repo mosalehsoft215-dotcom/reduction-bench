@@ -1,0 +1,4 @@
+NS-41: vault broadband station, sensors levelled at installation
+event windows cut around the predicted P and SKS arrivals
+GPS timing locked throughout
+BHN digitizer board on loan from the spares pool since the flood repairs

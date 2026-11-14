@@ -1,0 +1,3 @@
+SV-38: vault broadband station, sensors levelled at installation
+event windows cut around the predicted P and SKS arrivals
+GPS timing locked throughout

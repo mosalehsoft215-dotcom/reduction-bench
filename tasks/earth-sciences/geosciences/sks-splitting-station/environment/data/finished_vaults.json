@@ -1,0 +1,10 @@
+{
+ "SV-36": {
+  "fast_direction_deg": 63.4,
+  "split_delay_s": 1.18
+ },
+ "SV-38": {
+  "fast_direction_deg": 137.8,
+  "split_delay_s": 1.62
+ }
+}

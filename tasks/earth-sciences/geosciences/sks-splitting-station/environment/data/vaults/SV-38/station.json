@@ -1,0 +1,45 @@
+{
+ "station": "SV-38",
+ "sample_rate_hz": 20.0,
+ "channels": [
+  {
+   "code": "BHN",
+   "azimuth_deg": 0,
+   "dip_deg": 0,
+   "natural_period_s": 120.0,
+   "damping": 0.707,
+   "gain_counts_per_m_s": 1500000.0
+  },
+  {
+   "code": "BHE",
+   "azimuth_deg": 90,
+   "dip_deg": 0,
+   "natural_period_s": 120.0,
+   "damping": 0.707,
+   "gain_counts_per_m_s": 1500000.0
+  },
+  {
+   "code": "BHZ",
+   "azimuth_deg": 0,
+   "dip_deg": -90,
+   "natural_period_s": 120.0,
+   "damping": 0.707,
+   "gain_counts_per_m_s": 1500000.0
+  }
+ ],
+ "calibration": {
+  "taken_on": "2025-05-20",
+  "file": "calibration.npz",
+  "array": "step, shape (channel BHN/BHE/BHZ, sample)",
+  "ground_velocity_step_m_s": 0.01,
+  "step_at_s": 20.0,
+  "length_s": 240.0
+ },
+ "windows": {
+  "p_length_s": 60.0,
+  "p_arrival_s": 20.0,
+  "sks_length_s": 120.0,
+  "sks_arrival_s": 50.0
+ },
+ "array_layout": "windows.npz: p and sks arrays of shape (event, channel BHN/BHE/BHZ, sample)"
+}

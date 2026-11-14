@@ -1,0 +1,22 @@
+{
+ "NS-41": {
+  "fast_direction_deg": 36.4,
+  "split_delay_s": 1.93
+ },
+ "NS-42": {
+  "fast_direction_deg": 16.3,
+  "split_delay_s": 0.91
+ },
+ "NS-43": {
+  "fast_direction_deg": 158.3,
+  "split_delay_s": 1.49
+ },
+ "NS-44": {
+  "fast_direction_deg": 78.9,
+  "split_delay_s": 1.74
+ },
+ "NS-45": {
+  "fast_direction_deg": 46.2,
+  "split_delay_s": 1.06
+ }
+}

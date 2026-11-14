@@ -1,0 +1,15 @@
+20 seeds per station; largest direction error (deg) and delay error (s)
+SV-36 reference   2.60 deg  0.120 s
+SV-36 second      3.10 deg  0.080 s
+SV-38 reference   1.20 deg  0.030 s
+SV-38 second      3.20 deg  0.060 s
+NS-41 reference   1.40 deg  0.030 s
+NS-41 second      2.60 deg  0.050 s
+NS-42 reference   3.70 deg  0.060 s
+NS-42 second      8.30 deg  0.090 s
+NS-43 reference   1.30 deg  0.160 s
+NS-43 second      1.80 deg  0.150 s
+NS-44 reference   3.10 deg  0.210 s
+NS-44 second      5.40 deg  0.180 s
+NS-45 reference   3.80 deg  0.160 s
+NS-45 second      4.30 deg  0.140 s

@@ -1,0 +1,14 @@
+switch | SV-36 | SV-38 | NS-41 | NS-42 | NS-43 | NS-44 | NS-45
+reference | -1/+0.07 | -1/-0.02 | +1/-0.03 | +2/+0.04 | -0/-0.09 | +0/-0.09 | -0/-0.06
+calibration trusted, no phase check | -1/+0.07 | -1/-0.02 | +73/+1.12! | +2/+0.04 | +25/+1.36! | -86/+1.11! | -0/-0.06
+sheet trusted, no phase check | -1/+0.07 | -1/-0.02 | +73/+1.12! | +2/+0.04 | +25/+1.36! | -86/+1.11! | -49/+2.79!
+one wiring for the whole deployment | -1/+0.07 | -1/-0.02 | +1/-0.03 | +2/+0.04 | -0/-0.09 | +0/-0.09 | -0/-0.06
+rotation only, no reversed channel | -1/+0.07 | -1/-0.02 | +1/-0.03 | +79/+1.44! | -0/-0.09 | +0/-0.09 | -0/-0.06
+no orientation step | -1/+0.07 | -1/-0.02 | +1/-0.03 | +77/+1.44! | -0/-0.09 | +0/-0.09 | -1/+0.04
+mean of single-event results | +1/+0.10 | -0/+0.03 | +0/+0.04 | -1/+0.10 | -4/+0.09 | -1/-0.01 | +4/+0.24
+second | -1/+0.08 | -1/-0.00 | +0/-0.01 | +2/+0.03 | +0/-0.09 | +0/+0.02 | -4/+0.18
+copy of SV-36: inside on 0 of 5
+copy of SV-38: inside on 0 of 5
+mean of the worked stations: inside on 0 of 5
+other mean of the worked stations: inside on 0 of 5
+one shared answer, best over a grid: inside on 1 of 5

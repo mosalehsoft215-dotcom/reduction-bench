@@ -1,0 +1,31 @@
+constant,record,worst_key,worst_allowances
+W-1 values,H-1,Xd,15.28
+W-1 values,H-2,Xd,38.55
+W-1 values,H-3,Xd,7.63
+W-1 values,H-4,Xd,25.46
+W-1 values,H-5,Lfd,3.38
+W-2 values,H-1,Xd,36.34
+W-2 values,H-2,Rfd,12.26
+W-2 values,H-3,Xd,16.04
+W-2 values,H-4,Xd,45.36
+W-2 values,H-5,Xd,25.45
+mean,H-1,Xd,25.81
+mean,H-2,Xd,24.95
+mean,H-3,Xd,4.20
+mean,H-4,Xd,35.41
+mean,H-5,Xd,14.22
+geometric mean,H-1,Xd,26.13
+geometric mean,H-2,Xd,24.54
+geometric mean,H-3,Xd,4.56
+geometric mean,H-4,Xd,35.71
+geometric mean,H-5,Xd,14.56
+minimum,H-1,Xd,36.34
+minimum,H-2,Lf1d,31.74
+minimum,H-3,Xd,16.04
+minimum,H-4,Xd,45.36
+minimum,H-5,Xd,25.45
+maximum,H-1,Rfd,33.00
+maximum,H-2,Xd,38.55
+maximum,H-3,Rfd,10.14
+maximum,H-4,Rfd,41.56
+maximum,H-5,Rfd,21.93

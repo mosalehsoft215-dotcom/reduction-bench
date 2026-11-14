@@ -1,0 +1,59 @@
+{
+  "bus_duct": {
+    "length_m": 92.0,
+    "x_mohm_per_m": 0.0483,
+    "r_mohm_per_m": 0.0033
+  },
+  "shorting_assembly": {
+    "x_mohm": 0.68,
+    "r_mohm": 0.055
+  },
+  "current_coils": {
+    "IA": {
+      "gain": 1.004
+    },
+    "IB": {
+      "gain": 1.001
+    },
+    "IC": {
+      "gain": 0.998
+    }
+  },
+  "controller": {
+    "window_s": 0.02,
+    "transducer_factor": 1.001
+  },
+  "open_circuit_curve": {
+    "speed_rpm": 3000.0
+  },
+  "exciter": {
+    "ac_source": [
+      {
+        "kind": "network",
+        "kV": 6.6,
+        "fault_MVA": 400.0,
+        "x_over_r": 13.0
+      },
+      {
+        "kind": "transformer",
+        "name": "rectifier transformer",
+        "MVA": 2.0,
+        "kV_hv": 6.6,
+        "kV_lv": 0.85,
+        "uk_percent": 8.0,
+        "x_over_r": 9.0
+      }
+    ],
+    "bridges_in_service": 3,
+    "dc_reactor_per_bridge": {
+      "uH": 120.0,
+      "mohm": 0.48
+    },
+    "field_cables": {
+      "route_m": 180.0,
+      "cores_per_pole": 4,
+      "core_mm2": 300.0,
+      "temperature_C": 28.0
+    }
+  }
+}

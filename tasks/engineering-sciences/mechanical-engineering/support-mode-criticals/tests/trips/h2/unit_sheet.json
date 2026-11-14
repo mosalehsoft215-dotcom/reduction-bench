@@ -1,0 +1,56 @@
+{
+  "unit": "G-42",
+  "rated_speed_rpm": 3000,
+  "rotation": "clockwise",
+  "keyphasor": "single notch in the shaft; zero of the 1X phase",
+  "probes": {
+    "de_x": {
+      "bearing": "DE",
+      "angle_deg": 135.0
+    },
+    "de_y": {
+      "bearing": "DE",
+      "angle_deg": 45.0
+    },
+    "nde_x": {
+      "bearing": "NDE",
+      "angle_deg": 135.0
+    },
+    "nde_y": {
+      "bearing": "NDE",
+      "angle_deg": 45.0
+    }
+  },
+  "supports": "sleeve bearings in pedestals bolted to a fabricated steel frame",
+  "gap_healthy_v": [
+    -12.0,
+    -8.0
+  ],
+  "tracking_filter": {
+    "instrument": "portable transient analyser",
+    "type": "single-pole low-pass on the demodulated 1X vector",
+    "bandwidth_hz": 0.045
+  },
+  "slow_roll": {
+    "speed_rpm": 300,
+    "taken": "steady barring-gear run before the last start-up",
+    "vectors": {
+      "de_x": {
+        "um": 11.63,
+        "lag_deg": 7.5
+      },
+      "de_y": {
+        "um": 14.88,
+        "lag_deg": 246.9
+      },
+      "nde_x": {
+        "um": 14.29,
+        "lag_deg": 192.7
+      },
+      "nde_y": {
+        "um": 16.43,
+        "lag_deg": 226.7
+      }
+    }
+  }
+}

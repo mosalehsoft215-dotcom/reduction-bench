@@ -1,0 +1,32 @@
+{
+ "h1": {
+  "peak_low_rpm": 1602.7,
+  "af684_low": 8.074,
+  "peak_high_rpm": 1671.1,
+  "af684_high": 6.17
+ },
+ "h2": {
+  "peak_low_rpm": 1694.7,
+  "af684_low": 8.768,
+  "peak_high_rpm": 1765.4,
+  "af684_high": 7.671
+ },
+ "h3": {
+  "peak_low_rpm": 1565.6,
+  "af684_low": 9.511,
+  "peak_high_rpm": 1632.6,
+  "af684_high": 10.544
+ },
+ "h4": {
+  "peak_low_rpm": 1551.7,
+  "af684_low": 10.085,
+  "peak_high_rpm": 1609.2,
+  "af684_high": 8.595
+ },
+ "h5": {
+  "peak_low_rpm": 1579.4,
+  "af684_low": 6.899,
+  "peak_high_rpm": 1646.4,
+  "af684_high": 9.702
+ }
+}

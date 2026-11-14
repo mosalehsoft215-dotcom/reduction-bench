@@ -1,0 +1,56 @@
+{
+  "unit": "T-12",
+  "rated_speed_rpm": 3000,
+  "rotation": "clockwise",
+  "keyphasor": "single notch in the shaft; zero of the 1X phase",
+  "probes": {
+    "de_x": {
+      "bearing": "DE",
+      "angle_deg": 135.0
+    },
+    "de_y": {
+      "bearing": "DE",
+      "angle_deg": 45.0
+    },
+    "nde_x": {
+      "bearing": "NDE",
+      "angle_deg": 135.0
+    },
+    "nde_y": {
+      "bearing": "NDE",
+      "angle_deg": 45.0
+    }
+  },
+  "supports": "sleeve bearings in pedestals bolted to a fabricated steel frame",
+  "gap_healthy_v": [
+    -12.0,
+    -8.0
+  ],
+  "tracking_filter": {
+    "instrument": "online monitoring system",
+    "type": "single-pole low-pass on the demodulated 1X vector",
+    "bandwidth_hz": 0.9
+  },
+  "slow_roll": {
+    "speed_rpm": 300,
+    "taken": "steady barring-gear run before the last start-up",
+    "vectors": {
+      "de_x": {
+        "um": 9.02,
+        "lag_deg": 332.4
+      },
+      "de_y": {
+        "um": 5.99,
+        "lag_deg": 168.3
+      },
+      "nde_x": {
+        "um": 6.93,
+        "lag_deg": 234.6
+      },
+      "nde_y": {
+        "um": 10.67,
+        "lag_deg": 353.3
+      }
+    }
+  }
+}

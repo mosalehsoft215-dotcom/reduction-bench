@@ -1,0 +1,6 @@
+TV-51: margin 6.59 bounds (closest: sealed median)
+TV-52: margin 4.88 bounds (closest: worked TV-08)
+TV-53: margin 2.48 bounds (closest: sealed median (2 s.f.))
+TV-54: margin 2.82 bounds (closest: sealed median (2 s.f.))
+TV-55: margin 2.38 bounds (closest: worked TV-08)
+OK: no baseline passes a case

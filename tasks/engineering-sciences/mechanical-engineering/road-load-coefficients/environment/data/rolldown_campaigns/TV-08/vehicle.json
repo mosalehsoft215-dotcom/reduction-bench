@@ -1,0 +1,12 @@
+{
+ "vehicle": "TV-08",
+ "body": "passenger car, tyres at the pressure for the test mass",
+ "test_mass_kg": 1987.0,
+ "rotating_equivalent_kg": 61.0,
+ "straight": {
+  "length_m": 4150.0,
+  "x_origin": "west marker",
+  "x_direction": "east"
+ },
+ "logger_rate_hz": 5
+}

@@ -1,0 +1,4 @@
+2026-10-07  VSM 2, electromagnet, room-temperature insert
+Balance in service; the sample was not weighed.
+Nickel reference and empty holder measured before the sample.
+Hall probe checked against the NMR probe after the runs: it reads 0.80 % high.

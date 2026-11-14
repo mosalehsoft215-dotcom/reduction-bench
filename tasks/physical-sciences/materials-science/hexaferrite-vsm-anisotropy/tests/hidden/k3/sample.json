@@ -1,0 +1,91 @@
+{
+ "sample_id": "Y24-19",
+ "measured_on": "2026-10-07",
+ "form": "single crystal",
+ "material": {
+  "formula": "BaFe11.4Co0.3Ti0.3O19",
+  "density_g_per_cm3": 5.307
+ },
+ "shape": {
+  "kind": "disc",
+  "diameter_mm": 3.618,
+  "thickness_mm": 0.712,
+  "axis": "z"
+ },
+ "c_axis": "x",
+ "mass_mg": null,
+ "substrate": null,
+ "holder": {
+  "kind": "fused-quartz rod with PTFE tape",
+  "blank_file": "holder_blank.csv"
+ },
+ "reference": {
+  "material": "nickel disc ND-2, 99.99 %",
+  "mass_mg": 51.42,
+  "density_g_per_cm3": 8.908,
+  "sigma_Am2_per_kg": 54.81,
+  "at_field_kA_per_m": 795.8,
+  "at_temperature_K": 293.0,
+  "shape": {
+   "kind": "disc",
+   "diameter_mm": 7.0,
+   "thickness_mm": 0.15,
+   "axis_lab": "Y"
+  },
+  "file": "nickel_reference.csv"
+ },
+ "instrument": {
+  "name": "VSM 2, electromagnet, room-temperature insert",
+  "field_axis": "X",
+  "vibration_axis": "Z",
+  "pickup_coils": [
+   {
+    "centre_mm": [
+     13.0,
+     0.0,
+     7.0
+    ],
+    "radius_mm": 6.0,
+    "sense": 1,
+    "turns": 250
+   },
+   {
+    "centre_mm": [
+     13.0,
+     0.0,
+     -7.0
+    ],
+    "radius_mm": 6.0,
+    "sense": -1,
+    "turns": 250
+   },
+   {
+    "centre_mm": [
+     -13.0,
+     0.0,
+     7.0
+    ],
+    "radius_mm": 6.0,
+    "sense": 1,
+    "turns": 250
+   },
+   {
+    "centre_mm": [
+     -13.0,
+     0.0,
+     -7.0
+    ],
+    "radius_mm": 6.0,
+    "sense": -1,
+    "turns": 250
+   }
+  ]
+ },
+ "runs": [
+  {
+   "file": "run_1.csv",
+   "field_along": "z",
+   "vertical": "x"
+  }
+ ]
+}

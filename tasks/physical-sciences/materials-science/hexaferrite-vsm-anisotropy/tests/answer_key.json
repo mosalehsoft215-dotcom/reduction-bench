@@ -1,0 +1,28 @@
+{
+ "tolerance_percent": {
+  "ms_kA_per_m": 1.0,
+  "hk_kA_per_m": 0.8
+ },
+ "samples": {
+  "k1": {
+   "ms_kA_per_m": 374.8,
+   "hk_kA_per_m": 1724.6
+  },
+  "k2": {
+   "ms_kA_per_m": 314.6,
+   "hk_kA_per_m": 1524.7
+  },
+  "k3": {
+   "ms_kA_per_m": 316.2,
+   "hk_kA_per_m": 1126.8
+  },
+  "k4": {
+   "ms_kA_per_m": 304.6,
+   "hk_kA_per_m": 1374.2
+  },
+  "k5": {
+   "ms_kA_per_m": 284.7,
+   "hk_kA_per_m": 1427.6
+  }
+ }
+}

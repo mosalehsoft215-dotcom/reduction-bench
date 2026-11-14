@@ -1,0 +1,3 @@
+2026-10-02  VSM 2, electromagnet, room-temperature insert
+Nickel reference and empty holder measured before the sample.
+No Hall probe check: the NMR probe is away for repair.

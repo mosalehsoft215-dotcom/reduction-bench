@@ -1,0 +1,11 @@
+candidate,k1,k2,k3,k4,k5
+public X23-07 answer,0,0,0,0,0
+public X23-11 answer,0,0,0,0,0
+"Ms of X23-07, H_K of X23-11",0,0,0,0,0
+"Ms of X23-11, H_K of X23-07",0,0,0,0,0
+mean of the public answers,0,0,0,0,0
+"BaFe12O19 textbook (380, 1353)",0,0,0,0,0
+"SrFe12O19 textbook (377, 1592)",0,0,0,0,0
+"10 x 50 kA/m grid, pairs passing (of 272; all five: 0)",0,0,0,0,0
+"1 x 5 kA/m grid, pairs passing (of 24311; all five: 0)",35,30,24,30,24
+chance of a uniform random pair,1.72e-03,1.28e-03,9.50e-04,1.12e-03,1.08e-03

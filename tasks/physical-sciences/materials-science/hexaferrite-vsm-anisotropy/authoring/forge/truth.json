@@ -1,0 +1,129 @@
+{
+ "X23-07": {
+  "ms_kA_per_m": 331.7,
+  "hk_kA_per_m": 1493.6,
+  "k2_share": 0.061,
+  "moment_scale": 0.9874,
+  "hall_percent": 0.4,
+  "hall_checked": true,
+  "reference": "sphere",
+  "volume_factor": 1.0,
+  "reference_coil": 1.0,
+  "shape_factors": {
+   "x": 0.3333333333333333
+  },
+  "coil_factors": {
+   "x/z": 1.0
+  }
+ },
+ "X23-11": {
+  "ms_kA_per_m": 356.2,
+  "hk_kA_per_m": 1612.9,
+  "k2_share": 0.034,
+  "moment_scale": 1.0123,
+  "hall_percent": -0.3,
+  "hall_checked": true,
+  "reference": "sphere",
+  "volume_factor": 1.0,
+  "reference_coil": 1.0,
+  "shape_factors": {
+   "y": 0.33685860121385836,
+   "z": 0.3536612233802267
+  },
+  "coil_factors": {
+   "y/x": 0.9989867022544731,
+   "z/x": 0.997630801841337
+  }
+ },
+ "k1": {
+  "ms_kA_per_m": 374.8,
+  "hk_kA_per_m": 1724.6,
+  "k2_share": 0.044,
+  "moment_scale": 1.0162,
+  "hall_percent": 2.18,
+  "hall_checked": false,
+  "reference": "sphere",
+  "volume_factor": 1.0,
+  "reference_coil": 1.0,
+  "shape_factors": {
+   "x": 0.3333333333333333
+  },
+  "coil_factors": {
+   "x/z": 1.0
+  }
+ },
+ "k2": {
+  "ms_kA_per_m": 314.6,
+  "hk_kA_per_m": 1524.7,
+  "k2_share": 0.066,
+  "moment_scale": 0.9779,
+  "hall_percent": -0.5,
+  "hall_checked": true,
+  "reference": "sphere",
+  "volume_factor": 0.9608,
+  "reference_coil": 1.0,
+  "shape_factors": {
+   "x": 0.21134609957289874,
+   "y": 0.2628215810905787
+  },
+  "coil_factors": {
+   "x/z": 1.0163057797575732,
+   "y/z": 1.0049538642740745
+  }
+ },
+ "k3": {
+  "ms_kA_per_m": 316.2,
+  "hk_kA_per_m": 1126.8,
+  "k2_share": 0.118,
+  "moment_scale": 1.0246,
+  "hall_percent": 0.8,
+  "hall_checked": true,
+  "reference": "disc",
+  "volume_factor": 1.0,
+  "reference_coil": 1.037120240709417,
+  "shape_factors": {
+   "z": 0.6833314254205
+  },
+  "coil_factors": {
+   "z/x": 0.9742494873205537
+  }
+ },
+ "k4": {
+  "ms_kA_per_m": 304.6,
+  "hk_kA_per_m": 1374.2,
+  "k2_share": 0.083,
+  "moment_scale": 1.0571,
+  "hall_percent": 1.3,
+  "hall_checked": true,
+  "reference": null,
+  "volume_factor": 1.0,
+  "reference_coil": null,
+  "shape_factors": {
+   "y": 0.16651024364457934,
+   "z": 0.6946127783582982
+  },
+  "coil_factors": {
+   "y/x": 1.0011663213033661,
+   "z/x": 0.9721213714885111
+  }
+ },
+ "k5": {
+  "ms_kA_per_m": 284.7,
+  "hk_kA_per_m": 1427.6,
+  "k2_share": 0.055,
+  "moment_scale": 1.0384,
+  "hall_percent": -0.2,
+  "hall_checked": true,
+  "reference": "sphere",
+  "volume_factor": 1.0,
+  "reference_coil": 1.0,
+  "shape_factors": {
+   "y": 0.00015834912244938308,
+   "z": 0.9996941175895747
+  },
+  "coil_factors": {
+   "y/x": 1.0197330983773547,
+   "z/x": 0.90383820928482
+  }
+ }
+}

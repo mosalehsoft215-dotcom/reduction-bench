@@ -1,0 +1,4 @@
+2026-10-05  VSM 2, electromagnet, room-temperature insert
+Nickel reference and empty holder measured before the sample.
+Sample turned on the holder between runs.
+Hall probe checked against the NMR probe after the runs: it reads -0.50 % high.

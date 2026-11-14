@@ -1,0 +1,194 @@
+{
+ "shipped": {
+  "WG-02": {
+   "reference": {
+    "film_index": 0.13938414512359998,
+    "film_thickness_um": 0.012858685845329454
+   },
+   "independent": {
+    "film_index": 0.21498113141745398,
+    "film_thickness_um": 0.01644983155497659
+   }
+  },
+  "WG-07": {
+   "reference": {
+    "film_index": 0.02591306428545437,
+    "film_thickness_um": 0.0032122358281094776
+   },
+   "independent": {
+    "film_index": 0.020668110250661918,
+    "film_thickness_um": 0.0027933892812415095
+   }
+  },
+  "WG-31": {
+   "reference": {
+    "film_index": 0.19116905297285788,
+    "film_thickness_um": 0.0220102536353739
+   },
+   "independent": {
+    "film_index": 0.14956640749389888,
+    "film_thickness_um": 0.021103201524264037
+   }
+  },
+  "WG-32": {
+   "reference": {
+    "film_index": 0.02987754373462437,
+    "film_thickness_um": 0.01887028662186374
+   },
+   "independent": {
+    "film_index": 0.05836174343354373,
+    "film_thickness_um": 0.02338757704132277
+   }
+  },
+  "WG-33": {
+   "reference": {
+    "film_index": 0.22080237823166965,
+    "film_thickness_um": 0.06622012529404753
+   },
+   "independent": {
+    "film_index": 0.2269680455579959,
+    "film_thickness_um": 0.062035576826713346
+   }
+  },
+  "WG-34": {
+   "reference": {
+    "film_index": 0.1958208435100713,
+    "film_thickness_um": 0.004548116018510129
+   },
+   "independent": {
+    "film_index": 0.2156229687755307,
+    "film_thickness_um": 0.0017716403557521687
+   }
+  },
+  "WG-35": {
+   "reference": {
+    "film_index": 0.07023452038919706,
+    "film_thickness_um": 0.07142508738220421
+   },
+   "independent": {
+    "film_index": 0.05950819950066115,
+    "film_thickness_um": 0.04895043962576118
+   }
+  }
+ },
+ "routes": {
+  "one film index for TE and TM (isotropic film)": {
+   "WG-02": {
+    "film_index": 0.13460566229343368,
+    "film_thickness_um": 0.011712751306958147
+   },
+   "WG-07": {
+    "film_index": 0.024536568427417176,
+    "film_thickness_um": 0.0033893749183278032
+   },
+   "WG-31": {
+    "film_index": 69.12095190391673,
+    "film_thickness_um": 18.636599613592185
+   },
+   "WG-32": {
+    "film_index": 10.518264900384693,
+    "film_thickness_um": 1.7053072396043145
+   },
+   "WG-33": {
+    "film_index": 61.25538114689929,
+    "film_thickness_um": 13.449472067877032
+   },
+   "WG-34": {
+    "film_index": 42.8520208493192,
+    "film_thickness_um": 11.160293414776955
+   },
+   "WG-35": {
+    "film_index": 85.7706386305653,
+    "film_thickness_um": 19.661219705517375
+   }
+  },
+  "dips numbered from the top as mode 0": {
+   "WG-02": {
+    "film_index": 0.13938414512359998,
+    "film_thickness_um": 0.012858685845329454
+   },
+   "WG-07": {
+    "film_index": 0.02591306428545437,
+    "film_thickness_um": 0.0032122358281094776
+   },
+   "WG-31": {
+    "film_index": 290.7167019715666,
+    "film_thickness_um": 79.47660585198304
+   },
+   "WG-32": {
+    "film_index": 157.7159988517041,
+    "film_thickness_um": 59.6467535091304
+   },
+   "WG-33": {
+    "film_index": 375.10721594639534,
+    "film_thickness_um": 92.3647698419898
+   },
+   "WG-34": {
+    "film_index": 263.7530673860796,
+    "film_thickness_um": 81.65372449705134
+   },
+   "WG-35": {
+    "film_index": 372.09793311368423,
+    "film_thickness_um": 97.05608841012922
+   }
+  },
+  "stage reading taken as the true angle": {
+   "WG-02": {
+    "film_index": 0.10630984474735429,
+    "film_thickness_um": 0.0063694870928054925
+   },
+   "WG-07": {
+    "film_index": 0.02197238886762302,
+    "film_thickness_um": 0.0028921956316318997
+   },
+   "WG-31": {
+    "film_index": 2.819499510846591,
+    "film_thickness_um": 0.20901181523562684
+   },
+   "WG-32": {
+    "film_index": 3.0132824881149807,
+    "film_thickness_um": 0.22151451335190586
+   },
+   "WG-33": {
+    "film_index": 1.1339432223563448,
+    "film_thickness_um": 0.031174392342192547
+   },
+   "WG-34": {
+    "film_index": 1.4235514028511829,
+    "film_thickness_um": 0.07815798041495015
+   },
+   "WG-35": {
+    "film_index": 0.7390755651874119,
+    "film_thickness_um": 0.23084249082141461
+   }
+  }
+ },
+ "redraws": {
+  "reference": {
+   "WG-02": 0.15997786224482743,
+   "WG-07": 0.3527432458372282,
+   "WG-31": 0.18190676731736727,
+   "WG-32": 0.20386188283039178,
+   "WG-33": 0.48137078018761775,
+   "WG-34": 0.18750749179119455,
+   "WG-35": 0.7134292752275507
+  },
+  "independent": {
+   "WG-02": 0.22655801905265469,
+   "WG-07": 0.39284238841030833,
+   "WG-31": 0.1800195061981332,
+   "WG-32": 0.2201299168236304,
+   "WG-33": 0.48143385622756446,
+   "WG-34": 0.1969770646955323,
+   "WG-35": 0.5799642627798048
+  }
+ },
+ "constant": {
+  "closest_pair_in_double_windows": 36.58536585365852,
+  "max_films_one_constant_can_fit": 1
+ },
+ "worked_copy_fits": {
+  "WG-02": 0,
+  "WG-07": 0
+ }
+}

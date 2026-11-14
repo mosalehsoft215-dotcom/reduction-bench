@@ -1,0 +1,22 @@
+{
+ "WG-31": {
+  "film_index": 1.662,
+  "film_thickness_um": 2.6
+ },
+ "WG-32": {
+  "film_index": 1.638,
+  "film_thickness_um": 3.05
+ },
+ "WG-33": {
+  "film_index": 1.691,
+  "film_thickness_um": 3.3
+ },
+ "WG-34": {
+  "film_index": 1.648,
+  "film_thickness_um": 4.1
+ },
+ "WG-35": {
+  "film_index": 1.676,
+  "film_thickness_um": 3.4
+ }
+}

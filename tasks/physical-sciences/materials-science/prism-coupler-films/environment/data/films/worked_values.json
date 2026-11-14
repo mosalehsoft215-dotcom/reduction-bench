@@ -1,0 +1,10 @@
+{
+ "WG-02": {
+  "film_index": 1.5452,
+  "film_thickness_um": 2.1
+ },
+ "WG-07": {
+  "film_index": 1.5876,
+  "film_thickness_um": 3.4
+ }
+}

@@ -1,0 +1,132 @@
+Ion-exchange calibration campaigns: files, keys and the column model
+
+A campaign is a set of runs of one protein on one packed cation-exchange column,
+on one chromatography system, at one temperature. Every campaign folder has the
+same files and the same keys; the forms a key can take are all listed here,
+including forms the two public campaigns do not use.
+
+Files of a campaign folder
+  system.json               the system, column, buffers, protein and binding
+                            model (keys below)
+  runs.csv                  one row per run (columns below)
+  run_<id>.csv              the record of one run, one line per second
+  run_log.txt               the operator's log, one entry per line:
+                            "DD.MM.YYYY HH:MM | text"; each run has a
+                            "<id> started (<kind>)." and a "<id> finished."
+                            entry, and the other entries are remarks in free
+                            text. Remarks are part of the record: what they
+                            report about the column, the samples or the system
+                            applies to the runs they name.
+  conductivity_standards.csv  standards of NaCl made up in buffer A's buffer
+                            species: NaCl_mM, kappa_25C_mS_cm (conductivity
+                            at 25 C, the buffer species included; between
+                            standards the curve is smooth)
+
+runs.csv columns
+  run            run id (R01, R02, ...)
+  kind           "blank" (no protein), "gradient" (small load) or "load"
+                 (large load)
+  sample_mg_mL   protein in the sample, mg/mL
+  sample_NaCl_mM NaCl in the sample, mM
+  sample_inlet   "valve": a sample pump delivers the sample through the
+                 injection valve at the run flow while the system flow is
+                 diverted; "pump_A": the system pump draws the sample through
+                 its A inlet, so the sample passes the mixer and all tubing
+                 from the mixer on
+  load_volume_mL sample volume; loading starts at time 0
+  load_flow_mL_min  volumetric flow while the sample is loaded
+  flow_mL_min    volumetric flow from the end of loading to the end of the run
+  wash_CV        wash after loading, in column volumes, at start_pctB
+  start_pctB, end_pctB, gradient_CV
+                 linear gradient of the pump setting from start_pctB to
+                 end_pctB over gradient_CV column volumes, starting when the
+                 wash ends
+  hold_CV        hold at end_pctB; the record ends after it
+  file           name of the record
+  One column volume (CV) is the packed bed volume, pi d^2/4 times the bed
+  height of system.json; the method converts every CV figure of runs.csv
+  with that volume, also for runs on a bed that has changed since. The pump setting %B blends buffer A and buffer B by volume, so the
+  NaCl leaving the pump is A + (B - A) %B / 100 (outside loading through
+  pump_A). Samples are made up in buffer A's buffer species with
+  sample_NaCl_mM of NaCl.
+
+run_<id>.csv columns
+  time_s              s from the start of loading
+  volume_mL           volume pumped since time 0
+  uv<wavelength>_mAU  absorbance at each wavelength the UV detector records
+                      (instrument.detectors.UV.wavelengths_nm, 280 and
+                      possibly 300), mAU, auto-zeroed at time 0
+  conductivity_mS_cm  conductivity as the monitor reports it
+  cond_temperature_C  temperature measured in the conductivity cell
+  pctB_set            pump setting %B (what the method asked for; the blend a
+                      pump delivers can fall short of its setting, for
+                      instance with a worn inlet check valve, and the
+                      conductivity records the salt actually delivered)
+  flow_mL_min         flow at that moment
+
+system.json keys
+  temperature_C          temperature of buffers, column and detectors
+  buffers.species        the buffer species, the same in A, B and the samples
+  buffers.Na_from_buffer_mM  sodium ions the buffer species bring (sodium
+                         salts of the buffer acid, or 0 when the buffer is set
+                         with a sodium-free base); the same in A, B and samples
+  buffers.A.NaCl_mM, buffers.B.NaCl_mM
+  protein: name, molar_mass_g_mol, extinction_280nm_mL_mg_cm,
+    extinction_300nm_mL_mg_cm (absorbance of 1 mg/mL over 1 cm)
+  column: resin, diameter_cm, bed_height_cm, stages (number of equal
+    well-mixed stages of the column model), porosity_salt (liquid fraction of
+    the bed open to salt), porosity_protein (liquid fraction open to the
+    protein), ionic_capacity_mM (Lambda, per volume of solid, i.e. of the bed
+    fraction 1 - porosity_salt)
+  binding: model "kinetic steric mass action", k_kin_per_s
+  instrument.mixer_mL    volume of the mixer
+  instrument.tubing      list of {"name", "length_cm", "id_mm"}; the names
+                         used are mixer_to_valve, valve_to_column and the
+                         post-column names that appear in after_column
+  instrument.after_column  the order of tubes and detector cells from the
+                         column outlet, e.g. ["column_to_uv", "UV",
+                         "uv_to_conductivity", "conductivity"] or
+                         ["column_to_conductivity", "conductivity",
+                         "conductivity_to_uv", "UV"]
+  instrument.detectors.UV: cell_volume_mL, path_cm, stray_light_fraction,
+    wavelengths_nm (the wavelengths it records: [280, 300] or [280])
+  instrument.detectors.conductivity: cell_volume_mL,
+    temperature_compensation_pct_per_K: a number when the monitor converts
+    its reading to 25 C with that linear coefficient, or null when it reports
+    the conductivity at the cell temperature
+
+The flow path
+  At time 0 every volume of the system and the column holds buffer A, and the
+  column is free of protein. The mixer is one well-mixed volume; every tube
+  is plug flow with the volume of its length and bore; a detector reads at
+  the middle of its cell and its cell volume is plug flow. All of it runs at
+  the flow of the moment: load_flow_mL_min while loading, flow_mL_min after.
+
+The column model the laboratory uses
+  The column is `stages` equal well-mixed stages in series. In each stage the
+  liquid open to salt is porosity_salt V_c / stages, the liquid open to the
+  protein porosity_protein V_c / stages, the solid (1 - porosity_salt) V_c /
+  stages. Salt c_s and protein c_p (mM) flow through; c_s is the sodium ion
+  concentration, the counter-ion of the exchanger: NaCl plus
+  Na_from_buffer_mM. The protein binds to the solid, q (mM of solid), by
+  kinetic steric mass action:
+      dq/dt = k_kin [ c_p (qf / Lambda)^nu - (q / k_eq) (c_s / Lambda)^nu ]
+      qf = Lambda - (nu + sigma) q      (free counter-ion sites)
+  so at equilibrium k_eq = (q / c_p) (c_s / qf)^nu. Each bound protein
+  releases nu sodium ions to the liquid. nu is the characteristic charge,
+  k_eq the equilibrium constant, sigma the steric factor.
+
+Detectors
+  UV: at each wavelength, the absorbance in the cell is the protein's
+  (extinction times mg/mL times path) plus a baseline that rises in
+  proportion to the NaCl in the cell; the blank run shows that baseline. The detector reports
+  -log10((10^-A + s) / (1 + s)) for a true absorbance A and stray-light
+  fraction s, minus its value at time 0. Noise about 0.2 mAU.
+  Conductivity: at 25 C it follows the standards (NaCl in the buffer
+  species); at the cell temperature T it is kappa_25 (1 + 0.0212 (T - 25 C)). A monitor with
+  temperature_compensation_pct_per_K = a reports kappa_T / (1 + a/100 (T - 25
+  C)); with null it reports kappa_T. Noise about 0.01 mS/cm; the temperature
+  reading has noise of about 0.05 K.
+
+Units
+  mM = mmol/L; 1 M = 1000 mM; 0 C = 273.15 K.

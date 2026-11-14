@@ -1,0 +1,78 @@
+{
+  "temperature_C": 21.0,
+  "buffers": {
+    "species": "25 mM acetic acid, pH 5.0 set with Tris base",
+    "Na_from_buffer_mM": 0.0,
+    "A": {
+      "NaCl_mM": 25.0
+    },
+    "B": {
+      "NaCl_mM": 800.0
+    }
+  },
+  "protein": {
+    "name": "alpha-chymotrypsinogen A",
+    "molar_mass_g_mol": 25656.0,
+    "extinction_280nm_mL_mg_cm": 1.97,
+    "extinction_300nm_mL_mg_cm": 0.166
+  },
+  "column": {
+    "resin": "Capto S",
+    "diameter_cm": 0.5,
+    "bed_height_cm": 5.0,
+    "stages": 120,
+    "porosity_salt": 0.86,
+    "porosity_protein": 0.61,
+    "ionic_capacity_mM": 980.0
+  },
+  "binding": {
+    "model": "kinetic steric mass action",
+    "k_kin_per_s": 1.6
+  },
+  "instrument": {
+    "mixer_mL": 0.6,
+    "tubing": [
+      {
+        "name": "mixer_to_valve",
+        "length_cm": 45.0,
+        "id_mm": 0.75
+      },
+      {
+        "name": "valve_to_column",
+        "length_cm": 30.0,
+        "id_mm": 0.5
+      },
+      {
+        "name": "column_to_uv",
+        "length_cm": 25.0,
+        "id_mm": 0.5
+      },
+      {
+        "name": "uv_to_conductivity",
+        "length_cm": 18.0,
+        "id_mm": 0.5
+      }
+    ],
+    "after_column": [
+      "column_to_uv",
+      "UV",
+      "uv_to_conductivity",
+      "conductivity"
+    ],
+    "detectors": {
+      "UV": {
+        "cell_volume_mL": 0.002,
+        "path_cm": 0.2,
+        "stray_light_fraction": 0.0005,
+        "wavelengths_nm": [
+          280,
+          300
+        ]
+      },
+      "conductivity": {
+        "cell_volume_mL": 0.014,
+        "temperature_compensation_pct_per_K": 2.0
+      }
+    }
+  }
+}

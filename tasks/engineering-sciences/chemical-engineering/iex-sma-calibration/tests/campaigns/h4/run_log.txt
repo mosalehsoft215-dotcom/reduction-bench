@@ -1,0 +1,18 @@
+14.07.2026 08:45 | Campaign started by R. Moreau; column equilibrated with buffer A.
+14.07.2026 08:45 | R01 started (blank).
+14.07.2026 09:07 | R01 finished.
+14.07.2026 09:19 | R02 started (gradient).
+14.07.2026 09:32 | R02 finished.
+14.07.2026 09:44 | R03 started (gradient).
+14.07.2026 10:07 | R03 finished.
+14.07.2026 10:19 | R04 started (gradient).
+14.07.2026 10:49 | R04 finished.
+14.07.2026 10:53 | Inlet check valve of pump B sticking; replaced after R04. R05 onwards with the new valve.
+14.07.2026 11:05 | R05 started (gradient).
+14.07.2026 11:44 | R05 finished.
+14.07.2026 11:56 | R06 started (load).
+14.07.2026 12:18 | R06 finished.
+14.07.2026 12:30 | R07 started (load).
+14.07.2026 12:53 | R07 finished.
+14.07.2026 13:05 | R08 started (load).
+14.07.2026 13:30 | R08 finished.

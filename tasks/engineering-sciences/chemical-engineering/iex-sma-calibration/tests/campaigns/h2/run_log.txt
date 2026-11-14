@@ -1,0 +1,18 @@
+22.04.2026 07:30 | Campaign started by M. Osei; column equilibrated with buffer A.
+22.04.2026 07:30 | R01 started (blank).
+22.04.2026 08:10 | R01 finished.
+22.04.2026 08:22 | R02 started (gradient).
+22.04.2026 09:12 | R02 finished.
+22.04.2026 09:24 | R03 started (gradient).
+22.04.2026 10:05 | R03 finished.
+22.04.2026 10:09 | Pressure trace slightly noisy on pump B during the gradient; within limits, run kept.
+22.04.2026 10:21 | R04 started (gradient).
+22.04.2026 10:59 | R04 finished.
+22.04.2026 11:11 | R05 started (gradient).
+22.04.2026 11:47 | R05 finished.
+22.04.2026 11:59 | R06 started (load).
+22.04.2026 12:43 | R06 finished.
+22.04.2026 12:55 | R07 started (load).
+22.04.2026 13:41 | R07 finished.
+22.04.2026 13:53 | R08 started (load).
+22.04.2026 14:43 | R08 finished.

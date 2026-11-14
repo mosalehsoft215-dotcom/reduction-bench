@@ -1,0 +1,78 @@
+{
+  "temperature_C": 22.0,
+  "buffers": {
+    "species": "25 mM acetic acid, pH 5.0 set with Tris base",
+    "Na_from_buffer_mM": 0.0,
+    "A": {
+      "NaCl_mM": 50.0
+    },
+    "B": {
+      "NaCl_mM": 1000.0
+    }
+  },
+  "protein": {
+    "name": "ribonuclease A (bovine)",
+    "molar_mass_g_mol": 13690.0,
+    "extinction_280nm_mL_mg_cm": 0.72,
+    "extinction_300nm_mL_mg_cm": 0.081
+  },
+  "column": {
+    "resin": "POROS XS",
+    "diameter_cm": 0.46,
+    "bed_height_cm": 5.0,
+    "stages": 150,
+    "porosity_salt": 0.78,
+    "porosity_protein": 0.55,
+    "ionic_capacity_mM": 1340.0
+  },
+  "binding": {
+    "model": "kinetic steric mass action",
+    "k_kin_per_s": 4.2
+  },
+  "instrument": {
+    "mixer_mL": 0.4,
+    "tubing": [
+      {
+        "name": "mixer_to_valve",
+        "length_cm": 45.0,
+        "id_mm": 0.75
+      },
+      {
+        "name": "valve_to_column",
+        "length_cm": 30.0,
+        "id_mm": 0.5
+      },
+      {
+        "name": "column_to_uv",
+        "length_cm": 25.0,
+        "id_mm": 0.5
+      },
+      {
+        "name": "uv_to_conductivity",
+        "length_cm": 18.0,
+        "id_mm": 0.5
+      }
+    ],
+    "after_column": [
+      "column_to_uv",
+      "UV",
+      "uv_to_conductivity",
+      "conductivity"
+    ],
+    "detectors": {
+      "UV": {
+        "cell_volume_mL": 0.008,
+        "path_cm": 0.5,
+        "stray_light_fraction": 0.003,
+        "wavelengths_nm": [
+          280,
+          300
+        ]
+      },
+      "conductivity": {
+        "cell_volume_mL": 0.014,
+        "temperature_compensation_pct_per_K": 2.0
+      }
+    }
+  }
+}

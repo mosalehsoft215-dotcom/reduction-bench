@@ -1,0 +1,19 @@
+13.01.2026 08:20 | Campaign started by L. Brandt; column equilibrated with buffer A.
+13.01.2026 08:20 | R01 started (blank).
+13.01.2026 08:45 | R01 finished.
+13.01.2026 08:49 | Buffer A lot A-2601-03, pH 6.02; buffer B lot B-2601-01.
+13.01.2026 09:01 | R02 started (gradient).
+13.01.2026 09:17 | R02 finished.
+13.01.2026 09:29 | R03 started (gradient).
+13.01.2026 09:54 | R03 finished.
+13.01.2026 10:06 | R04 started (gradient).
+13.01.2026 10:42 | R04 finished.
+13.01.2026 10:54 | R05 started (gradient).
+13.01.2026 11:38 | R05 finished.
+13.01.2026 11:42 | UV lamp hours 1 214 at the end of R05.
+13.01.2026 11:54 | R06 started (load).
+13.01.2026 12:21 | R06 finished.
+13.01.2026 12:33 | R07 started (load).
+13.01.2026 13:02 | R07 finished.
+13.01.2026 13:14 | R08 started (load).
+13.01.2026 13:45 | R08 finished.

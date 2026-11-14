@@ -1,0 +1,18 @@
+03.06.2026 09:00 | Campaign started by A. Lindqvist; column equilibrated with buffer A.
+03.06.2026 09:00 | R01 started (blank).
+03.06.2026 09:27 | R01 finished.
+03.06.2026 09:39 | R02 started (gradient).
+03.06.2026 09:56 | R02 finished.
+03.06.2026 10:08 | R03 started (gradient).
+03.06.2026 10:35 | R03 finished.
+03.06.2026 10:47 | R04 started (gradient).
+03.06.2026 11:24 | R04 finished.
+03.06.2026 11:36 | R05 started (gradient).
+03.06.2026 12:24 | R05 finished.
+03.06.2026 12:36 | R06 started (load).
+03.06.2026 13:07 | R06 finished.
+03.06.2026 13:19 | R07 started (load).
+03.06.2026 13:53 | R07 finished.
+03.06.2026 14:05 | R08 started (load).
+03.06.2026 14:44 | R08 finished.
+03.06.2026 14:48 | Concentrated sample (lot CT-0611, used for R06 to R08) re-measured by A280 after the campaign: 7.58 mg/mL. The 8.0 mg/mL on the run sheet was the supplier's figure.

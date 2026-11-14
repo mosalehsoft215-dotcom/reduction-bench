@@ -1,0 +1,78 @@
+{
+  "temperature_C": 23.0,
+  "buffers": {
+    "species": "20 mM MES, pH 6.0 set with Tris base",
+    "Na_from_buffer_mM": 0.0,
+    "A": {
+      "NaCl_mM": 50.0
+    },
+    "B": {
+      "NaCl_mM": 1000.0
+    }
+  },
+  "protein": {
+    "name": "alpha-chymotrypsinogen A",
+    "molar_mass_g_mol": 25656.0,
+    "extinction_280nm_mL_mg_cm": 1.97,
+    "extinction_300nm_mL_mg_cm": 0.166
+  },
+  "column": {
+    "resin": "Fractogel EMD SO3- (M)",
+    "diameter_cm": 0.66,
+    "bed_height_cm": 3.0,
+    "stages": 90,
+    "porosity_salt": 0.83,
+    "porosity_protein": 0.58,
+    "ionic_capacity_mM": 1050.0
+  },
+  "binding": {
+    "model": "kinetic steric mass action",
+    "k_kin_per_s": 3.1
+  },
+  "instrument": {
+    "mixer_mL": 0.4,
+    "tubing": [
+      {
+        "name": "mixer_to_valve",
+        "length_cm": 45.0,
+        "id_mm": 0.75
+      },
+      {
+        "name": "valve_to_column",
+        "length_cm": 30.0,
+        "id_mm": 0.5
+      },
+      {
+        "name": "column_to_conductivity",
+        "length_cm": 25.0,
+        "id_mm": 0.5
+      },
+      {
+        "name": "conductivity_to_uv",
+        "length_cm": 160.0,
+        "id_mm": 0.75
+      }
+    ],
+    "after_column": [
+      "column_to_conductivity",
+      "conductivity",
+      "conductivity_to_uv",
+      "UV"
+    ],
+    "detectors": {
+      "UV": {
+        "cell_volume_mL": 0.002,
+        "path_cm": 0.2,
+        "stray_light_fraction": 0.0005,
+        "wavelengths_nm": [
+          280,
+          300
+        ]
+      },
+      "conductivity": {
+        "cell_volume_mL": 0.014,
+        "temperature_compensation_pct_per_K": 2.0
+      }
+    }
+  }
+}

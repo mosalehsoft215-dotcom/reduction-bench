@@ -1,0 +1,9 @@
+run,kind,sample_mg_mL,sample_NaCl_mM,sample_inlet,load_volume_mL,load_flow_mL_min,flow_mL_min,wash_CV,start_pctB,end_pctB,gradient_CV,hold_CV,file
+R01,blank,0.0,50.0,valve,0.5,0.3,1.0,3.0,0.0,100.0,20.0,3.0,run_R01.csv
+R02,gradient,1.0,50.0,valve,0.5,0.3,0.5,3.0,0.0,100.0,10.0,3.0,run_R02.csv
+R03,gradient,1.0,50.0,valve,0.5,0.3,1.0,3.0,0.0,100.0,20.0,3.0,run_R03.csv
+R04,gradient,1.0,50.0,valve,0.5,0.3,1.5,3.0,0.0,100.0,30.0,3.0,run_R04.csv
+R05,gradient,1.0,50.0,valve,0.5,0.3,2.0,3.0,0.0,100.0,40.0,3.0,run_R05.csv
+R06,load,10.0,50.0,valve,1.2,0.3,1.0,3.0,0.0,100.0,20.0,3.0,run_R06.csv
+R07,load,10.0,50.0,valve,2.2,0.3,1.0,3.0,0.0,100.0,20.0,3.0,run_R07.csv
+R08,load,10.0,50.0,valve,3.2,0.3,1.0,3.0,0.0,100.0,20.0,3.0,run_R08.csv

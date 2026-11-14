@@ -1,0 +1,78 @@
+{
+  "temperature_C": 20.0,
+  "buffers": {
+    "species": "20 mM MES, pH 6.0 set with Tris base",
+    "Na_from_buffer_mM": 0.0,
+    "A": {
+      "NaCl_mM": 50.0
+    },
+    "B": {
+      "NaCl_mM": 1000.0
+    }
+  },
+  "protein": {
+    "name": "lysozyme (hen egg white)",
+    "molar_mass_g_mol": 14307.0,
+    "extinction_280nm_mL_mg_cm": 2.64,
+    "extinction_300nm_mL_mg_cm": 0.211
+  },
+  "column": {
+    "resin": "Toyopearl SP-650M",
+    "diameter_cm": 0.8,
+    "bed_height_cm": 3.0,
+    "stages": 60,
+    "porosity_salt": 0.8,
+    "porosity_protein": 0.69,
+    "ionic_capacity_mM": 870.0
+  },
+  "binding": {
+    "model": "kinetic steric mass action",
+    "k_kin_per_s": 0.9
+  },
+  "instrument": {
+    "mixer_mL": 2.6,
+    "tubing": [
+      {
+        "name": "mixer_to_valve",
+        "length_cm": 210.0,
+        "id_mm": 1.0
+      },
+      {
+        "name": "valve_to_column",
+        "length_cm": 30.0,
+        "id_mm": 0.5
+      },
+      {
+        "name": "column_to_uv",
+        "length_cm": 25.0,
+        "id_mm": 0.5
+      },
+      {
+        "name": "uv_to_conductivity",
+        "length_cm": 18.0,
+        "id_mm": 0.5
+      }
+    ],
+    "after_column": [
+      "column_to_uv",
+      "UV",
+      "uv_to_conductivity",
+      "conductivity"
+    ],
+    "detectors": {
+      "UV": {
+        "cell_volume_mL": 0.002,
+        "path_cm": 0.2,
+        "stray_light_fraction": 0.0005,
+        "wavelengths_nm": [
+          280,
+          300
+        ]
+      },
+      "conductivity": {
+        "cell_volume_mL": 0.014,
+        "temperature_compensation_pct_per_K": 2.0
+      }
+    }
+  }
+}

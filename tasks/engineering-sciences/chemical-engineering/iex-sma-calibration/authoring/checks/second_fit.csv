@@ -1,0 +1,8 @@
+campaign,nu_dev_pct,k_eq_dev_pct,sigma_dev_pct,chi2_per_point,converged
+campaign_CaptoS_chymotrypsinogen,+0.021,-0.190,-0.032,1.05,yes
+campaign_SPFF_lysozyme,-7.476,+139.234,+19.609,11474.89,no (optimizer stopped at its start; model at the truth: chi2 per point 1.0-1.2)
+h1,+0.022,-0.393,-0.065,1.30,yes
+h2,-2.295,+10.148,-0.920,28.62,no (optimizer stopped near its start; same delivered B 0.948 and same column inlet as the reference)
+h3,-0.002,-0.168,-0.007,1.29,yes
+h4,-0.058,+0.362,-0.050,1.41,yes
+h5,-0.011,+0.056,+0.003,1.11,yes

@@ -1,0 +1,18 @@
+09.02.2026 08:10 | Campaign started by J. Haddad; column equilibrated with buffer A.
+09.02.2026 08:10 | R01 started (blank).
+09.02.2026 08:35 | R01 finished.
+09.02.2026 08:47 | R02 started (gradient).
+09.02.2026 09:03 | R02 finished.
+09.02.2026 09:15 | R03 started (gradient).
+09.02.2026 09:40 | R03 finished.
+09.02.2026 09:52 | R04 started (gradient).
+09.02.2026 10:28 | R04 finished.
+09.02.2026 10:40 | R05 started (gradient).
+09.02.2026 11:24 | R05 finished.
+09.02.2026 11:28 | Inlet of the bed found cracked after R05. Column unpacked and repacked with the same resin; new bed height 2.31 cm, plate count per cm of bed unchanged (129 stages). R06 to R08 run on the repacked bed; method CV left as before.
+09.02.2026 13:15 | R06 started (load).
+09.02.2026 13:42 | R06 finished.
+09.02.2026 13:54 | R07 started (load).
+09.02.2026 14:23 | R07 finished.
+09.02.2026 14:35 | R08 started (load).
+09.02.2026 15:06 | R08 finished.

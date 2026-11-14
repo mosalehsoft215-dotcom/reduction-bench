@@ -1,0 +1,77 @@
+{
+  "temperature_C": 15.0,
+  "buffers": {
+    "species": "20 mM MES, pH 6.0 set with Tris base",
+    "Na_from_buffer_mM": 0.0,
+    "A": {
+      "NaCl_mM": 20.0
+    },
+    "B": {
+      "NaCl_mM": 600.0
+    }
+  },
+  "protein": {
+    "name": "monoclonal antibody mAb-07 (IgG1)",
+    "molar_mass_g_mol": 148200.0,
+    "extinction_280nm_mL_mg_cm": 1.46,
+    "extinction_300nm_mL_mg_cm": 0.098
+  },
+  "column": {
+    "resin": "Eshmuno CPX",
+    "diameter_cm": 0.8,
+    "bed_height_cm": 4.0,
+    "stages": 70,
+    "porosity_salt": 0.85,
+    "porosity_protein": 0.52,
+    "ionic_capacity_mM": 760.0
+  },
+  "binding": {
+    "model": "kinetic steric mass action",
+    "k_kin_per_s": 0.6
+  },
+  "instrument": {
+    "mixer_mL": 0.4,
+    "tubing": [
+      {
+        "name": "mixer_to_valve",
+        "length_cm": 45.0,
+        "id_mm": 0.75
+      },
+      {
+        "name": "valve_to_column",
+        "length_cm": 30.0,
+        "id_mm": 0.5
+      },
+      {
+        "name": "column_to_uv",
+        "length_cm": 25.0,
+        "id_mm": 0.5
+      },
+      {
+        "name": "uv_to_conductivity",
+        "length_cm": 18.0,
+        "id_mm": 0.5
+      }
+    ],
+    "after_column": [
+      "column_to_uv",
+      "UV",
+      "uv_to_conductivity",
+      "conductivity"
+    ],
+    "detectors": {
+      "UV": {
+        "cell_volume_mL": 0.002,
+        "path_cm": 0.2,
+        "stray_light_fraction": 0.0005,
+        "wavelengths_nm": [
+          280
+        ]
+      },
+      "conductivity": {
+        "cell_volume_mL": 0.014,
+        "temperature_compensation_pct_per_K": 1.8
+      }
+    }
+  }
+}

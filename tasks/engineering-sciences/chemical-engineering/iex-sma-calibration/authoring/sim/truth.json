@@ -1,0 +1,37 @@
+{
+ "campaign_SPFF_lysozyme": {
+  "nu": 5.12,
+  "k_eq": 0.0418,
+  "sigma": 31.6
+ },
+ "campaign_CaptoS_chymotrypsinogen": {
+  "nu": 4.37,
+  "k_eq": 0.0763,
+  "sigma": 44.2
+ },
+ "h1": {
+  "nu": 6.38,
+  "k_eq": 0.0127,
+  "sigma": 19.7
+ },
+ "h2": {
+  "nu": 3.66,
+  "k_eq": 0.214,
+  "sigma": 58.3
+ },
+ "h3": {
+  "nu": 7.21,
+  "k_eq": 0.00468,
+  "sigma": 24.9
+ },
+ "h4": {
+  "nu": 4.91,
+  "k_eq": 0.0347,
+  "sigma": 71.4
+ },
+ "h5": {
+  "nu": 7.83,
+  "k_eq": 0.0189,
+  "sigma": 161.4
+ }
+}

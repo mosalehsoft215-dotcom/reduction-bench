@@ -1,0 +1,10 @@
+specimen,azimuth_deg,plunge_deg,solenoid_field_ut,solenoid_cooling_min
+LV-23-a,350.7,78.6,,
+LV-23-b,31.8,76.2,,
+LV-23-c,134.3,79.3,,
+LV-23-d,300.2,83.4,,
+LV-23-e,316.2,87.0,,
+LV-23-f,177.4,86.2,,
+LV-23-g,166.8,89.0,,
+LV-23-h,284.7,86.4,,
+LV-23-ctl,,,30.7,40

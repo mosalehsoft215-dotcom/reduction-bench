@@ -1,0 +1,9 @@
+20 redraws of each lava; largest error in windows (field, moment)
+LV-03: reference 0.35 0.25 | second 0.19 0.12
+LV-07: reference 0.41 0.28 | second 0.40 0.28
+LV-21: reference 0.37 0.25 | second 0.26 0.17
+LV-22: reference 0.26 0.17 | second 0.41 0.26
+LV-23: reference 0.32 0.21 | second 0.33 0.23
+LV-24: reference 0.33 0.21 | second 0.25 0.17
+LV-25: reference 0.42 0.27 | second 0.76 0.51
+largest over everything: reference 0.42, second 0.76

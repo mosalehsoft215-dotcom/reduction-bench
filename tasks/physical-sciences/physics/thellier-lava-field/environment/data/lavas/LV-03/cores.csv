@@ -1,0 +1,10 @@
+specimen,azimuth_deg,plunge_deg,solenoid_field_ut,solenoid_cooling_min
+LV-03-a,246.7,86.1,,
+LV-03-b,260.6,86.6,,
+LV-03-c,38.7,85.1,,
+LV-03-d,61.2,75.5,,
+LV-03-e,41.2,75.3,,
+LV-03-f,87.4,80.1,,
+LV-03-g,359.0,77.8,,
+LV-03-h,186.7,80.1,,
+LV-03-ctl,,,40.1,40

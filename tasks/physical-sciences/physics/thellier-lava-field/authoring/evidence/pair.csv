@@ -1,0 +1,15 @@
+program,lava,field_windows,moment_windows
+reference,LV-03,0.13,0.10
+reference,LV-07,0.19,0.12
+reference,LV-21,0.12,0.08
+reference,LV-22,0.23,0.13
+reference,LV-23,0.02,0.00
+reference,LV-24,0.05,0.03
+reference,LV-25,0.26,0.17
+second,LV-03,0.02,0.01
+second,LV-07,0.10,0.07
+second,LV-21,0.08,0.06
+second,LV-22,0.12,0.11
+second,LV-23,0.10,0.09
+second,LV-24,0.00,0.01
+second,LV-25,0.18,0.13

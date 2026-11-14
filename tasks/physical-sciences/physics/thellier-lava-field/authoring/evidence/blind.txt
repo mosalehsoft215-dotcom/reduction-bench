@@ -1,0 +1,5 @@
+copy of LV-03: closest kept-back lava LV-21 at 5.7 windows
+copy of LV-07: closest kept-back lava LV-24 at 4.7 windows
+mean of the worked lavas: closest kept-back lava LV-22 at 2.5 windows
+one shared ancient_field_ut: inside on at most 1 of 5 lavas
+one shared dipole_moment_zam2: inside on at most 2 of 5 lavas

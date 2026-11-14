@@ -1,0 +1,22 @@
+{
+ "lava": "LV-03",
+ "site": {
+  "latitude_deg": 31.4,
+  "longitude_deg": 35.2
+ },
+ "flow": {
+  "thickness_m": 7.0,
+  "samples_below_top_m": 2.0,
+  "younger_flow_above_m": 0.0,
+  "bedding_strike_deg": 0.0,
+  "bedding_dip_deg": 0.0,
+  "thermal_diffusivity_m2_s": 1e-06
+ },
+ "oven": {
+  "field_ut": 40.0,
+  "coil_current_a": 0.0971,
+  "coil_constant_ut_per_a": 412.0,
+  "field_axis": "+z of the specimen",
+  "cooling_min": 40.0
+ }
+}

@@ -1,0 +1,78 @@
+route,lava,field_windows,moment_windows
+reference,LV-03,0.13,0.10
+reference,LV-07,0.19,0.12
+reference,LV-21,0.12,0.08
+reference,LV-22,0.23,0.13
+reference,LV-23,0.02,0.00
+reference,LV-24,0.05,0.03
+reference,LV-25,0.26,0.17
+anisotropy left out,LV-03,0.16,0.22
+anisotropy left out,LV-07,0.12,0.03
+anisotropy left out,LV-21,0.78,2.40
+anisotropy left out,LV-22,0.40,0.38
+anisotropy left out,LV-23,0.26,0.28
+anisotropy left out,LV-24,0.53,0.26
+anisotropy left out,LV-25,0.41,0.32
+bedding left out,LV-03,0.13,0.10
+bedding left out,LV-07,0.19,0.12
+bedding left out,LV-21,0.12,6.67
+bedding left out,LV-22,0.23,0.13
+bedding left out,LV-23,0.02,0.00
+bedding left out,LV-24,0.05,0.03
+bedding left out,LV-25,0.26,0.17
+no cooling correction,LV-03,0.13,0.10
+no cooling correction,LV-07,0.19,0.12
+no cooling correction,LV-21,0.12,0.08
+no cooling correction,LV-22,3.97,2.62
+no cooling correction,LV-23,0.02,0.00
+no cooling correction,LV-24,0.05,0.03
+no cooling correction,LV-25,0.26,0.17
+cooling only over the test's span,LV-03,0.13,0.10
+cooling only over the test's span,LV-07,0.19,0.12
+cooling only over the test's span,LV-21,0.12,0.08
+cooling only over the test's span,LV-22,2.65,1.74
+cooling only over the test's span,LV-23,0.02,0.00
+cooling only over the test's span,LV-24,0.05,0.03
+cooling only over the test's span,LV-25,0.26,0.17
+field taken as linear,LV-03,0.13,0.10
+field taken as linear,LV-07,0.19,0.12
+field taken as linear,LV-21,0.12,0.08
+field taken as linear,LV-22,0.23,0.13
+field taken as linear,LV-23,4.11,2.73
+field taken as linear,LV-24,0.05,0.03
+field taken as linear,LV-25,0.26,0.17
+control ignored,LV-03,0.13,0.10
+control ignored,LV-07,0.19,0.12
+control ignored,LV-21,0.12,0.08
+control ignored,LV-22,0.23,0.13
+control ignored,LV-23,0.02,0.00
+control ignored,LV-24,1.16,0.77
+control ignored,LV-25,0.26,0.17
+control taken at face value,LV-03,0.13,0.10
+control taken at face value,LV-07,0.19,0.12
+control taken at face value,LV-21,0.12,0.08
+control taken at face value,LV-22,1.54,1.05
+control taken at face value,LV-23,0.02,0.00
+control taken at face value,LV-24,0.05,0.03
+control taken at face value,LV-25,0.26,0.17
+pTRM checks ignored,LV-03,0.13,0.10
+pTRM checks ignored,LV-07,0.19,0.12
+pTRM checks ignored,LV-21,0.12,0.08
+pTRM checks ignored,LV-22,0.23,0.13
+pTRM checks ignored,LV-23,0.02,0.00
+pTRM checks ignored,LV-24,0.05,0.03
+pTRM checks ignored,LV-25,4.13,2.75
+whole Arai line kept,LV-03,0.13,0.10
+whole Arai line kept,LV-07,0.19,0.12
+whole Arai line kept,LV-21,4.28,2.85
+whole Arai line kept,LV-22,0.23,0.13
+whole Arai line kept,LV-23,0.02,0.00
+whole Arai line kept,LV-24,0.05,0.03
+whole Arai line kept,LV-25,0.26,0.17
+all of these together,LV-03,0.16,0.22
+all of these together,LV-07,0.42,0.33
+all of these together,LV-21,5.22,12.68
+all of these together,LV-22,4.16,2.90
+all of these together,LV-23,3.93,2.53
+all of these together,LV-24,1.35,1.00
+all of these together,LV-25,3.78,2.48

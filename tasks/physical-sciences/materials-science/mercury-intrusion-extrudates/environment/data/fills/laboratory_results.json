@@ -1,0 +1,10 @@
+{
+ "MP-04": {
+  "mesopore_volume_ml_per_g": 0.462,
+  "median_pore_diameter_nm": 14.571
+ },
+ "MP-09": {
+  "mesopore_volume_ml_per_g": 0.3874,
+  "median_pore_diameter_nm": 19.99
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "fill": "MP-33",
+ "date": "2026-05-19",
+ "material": "carbon catalyst-support extrudates",
+ "sample_mass_g": 1.208,
+ "penetrometer_mass_g": 61.12,
+ "penetrometer_bulb_ml": 5.18,
+ "assembly_mass_g": 62.328,
+ "filled_mass_g": 125.2082,
+ "analysis_temperature_c": 25.6,
+ "mercury_density_g_per_ml": 13.534,
+ "mercury_surface_tension_n_per_m": 0.485,
+ "contact_angle_deg": 140.0,
+ "fill_pressure_kpa": 3.4,
+ "equilibration_s": 10.0,
+ "blank_run_mercury_ml": 6.31,
+ "stem_volume_ml": 1.1,
+ "stem_bore_cm2": 0.05,
+ "head_at_full_stem_cm": 2.0
+}

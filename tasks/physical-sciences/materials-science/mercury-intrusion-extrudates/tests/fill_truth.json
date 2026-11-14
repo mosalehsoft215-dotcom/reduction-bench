@@ -1,0 +1,22 @@
+{
+ "MP-31": {
+  "mesopore_volume_ml_per_g": 0.527,
+  "median_pore_diameter_nm": 13.235
+ },
+ "MP-32": {
+  "mesopore_volume_ml_per_g": 0.3507,
+  "median_pore_diameter_nm": 18.262
+ },
+ "MP-33": {
+  "mesopore_volume_ml_per_g": 0.594,
+  "median_pore_diameter_nm": 13.307
+ },
+ "MP-34": {
+  "mesopore_volume_ml_per_g": 0.4299,
+  "median_pore_diameter_nm": 24.202
+ },
+ "MP-35": {
+  "mesopore_volume_ml_per_g": 0.408,
+  "median_pore_diameter_nm": 14.817
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "shipped": {
+  "MP-04": {
+   "reference": 0.163,
+   "second": 0.059
+  },
+  "MP-09": {
+   "reference": 0.017,
+   "second": 0.01
+  },
+  "MP-31": {
+   "reference": 0.427,
+   "second": 0.262
+  },
+  "MP-32": {
+   "reference": 0.189,
+   "second": 0.206
+  },
+  "MP-33": {
+   "reference": 0.076,
+   "second": 0.064
+  },
+  "MP-34": {
+   "reference": 0.065,
+   "second": 0.067
+  },
+  "MP-35": {
+   "reference": 0.032,
+   "second": 0.02
+  }
+ },
+ "routes": {
+  "volumes as logged at 10 s (no carry-over to equilibrium)": {
+   "MP-04": 0.16,
+   "MP-09": 0.02,
+   "MP-31": 6.86,
+   "MP-32": 0.19,
+   "MP-33": 5.85,
+   "MP-34": 8.85,
+   "MP-35": 0.03
+  },
+  "no skeleton compression taken off": {
+   "MP-04": 0.11,
+   "MP-09": 0.14,
+   "MP-31": 0.23,
+   "MP-32": 7.3,
+   "MP-33": 3.33,
+   "MP-34": 0.14,
+   "MP-35": 7.24
+  },
+  "both at once: volumes as logged, no skeleton term": {
+   "MP-04": 0.11,
+   "MP-09": 0.14,
+   "MP-31": 7.37,
+   "MP-32": 7.3,
+   "MP-33": 6.46,
+   "MP-34": 9.24,
+   "MP-35": 7.24
+  }
+ },
+ "redraws": {
+  "reference": 0.574,
+  "second": 0.464
+ },
+ "worked_copy_passes": 0
+}

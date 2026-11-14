@@ -1,0 +1,142 @@
+{
+  "FL-31": {
+    "pearl_um": 17.0,
+    "zero_lift_um": 2.08,
+    "vortices": [
+      {
+        "x_um": -12.2,
+        "y_um": -10.5,
+        "winding": 1
+      },
+      {
+        "x_um": 6.5,
+        "y_um": -14.7,
+        "winding": 1
+      },
+      {
+        "x_um": -14.6,
+        "y_um": 17.2,
+        "winding": -1
+      },
+      {
+        "x_um": 17.8,
+        "y_um": 17.1,
+        "winding": 1
+      }
+    ]
+  },
+  "FL-32": {
+    "pearl_um": 46.0,
+    "zero_lift_um": 3.44,
+    "vortices": [
+      {
+        "x_um": -19.4,
+        "y_um": -9.1,
+        "winding": 1
+      },
+      {
+        "x_um": -11.2,
+        "y_um": 17.2,
+        "winding": 1
+      },
+      {
+        "x_um": 12.5,
+        "y_um": 9.2,
+        "winding": -1
+      },
+      {
+        "x_um": 17.6,
+        "y_um": 11.6,
+        "winding": 1
+      },
+      {
+        "x_um": 20.8,
+        "y_um": -13.5,
+        "winding": -1
+      }
+    ]
+  },
+  "FL-33": {
+    "pearl_um": 29.0,
+    "zero_lift_um": 2.9,
+    "vortices": [
+      {
+        "x_um": -13.2,
+        "y_um": 12.0,
+        "winding": 1
+      },
+      {
+        "x_um": -8.8,
+        "y_um": 13.4,
+        "winding": 1
+      },
+      {
+        "x_um": 9.5,
+        "y_um": -13.2,
+        "winding": -1
+      },
+      {
+        "x_um": 19.4,
+        "y_um": 17.3,
+        "winding": -1
+      }
+    ]
+  },
+  "FL-34": {
+    "pearl_um": 57.0,
+    "zero_lift_um": 2.38,
+    "vortices": [
+      {
+        "x_um": -16.8,
+        "y_um": -13.6,
+        "winding": -1
+      },
+      {
+        "x_um": 0.3,
+        "y_um": 10.2,
+        "winding": 1
+      },
+      {
+        "x_um": 4.4,
+        "y_um": 8.2,
+        "winding": -1
+      },
+      {
+        "x_um": 17.3,
+        "y_um": -13.7,
+        "winding": 1
+      }
+    ]
+  },
+  "FL-35": {
+    "pearl_um": 34.0,
+    "zero_lift_um": 3.82,
+    "vortices": [
+      {
+        "x_um": -18.4,
+        "y_um": -10.8,
+        "winding": 1
+      },
+      {
+        "x_um": -9.7,
+        "y_um": 16.3,
+        "winding": -1
+      },
+      {
+        "x_um": 9.4,
+        "y_um": 13.4,
+        "winding": -1
+      },
+      {
+        "x_um": 14.1,
+        "y_um": 13.7,
+        "winding": -1
+      },
+      {
+        "x_um": 16.2,
+        "y_um": -17.4,
+        "winding": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,954 @@
+{
+  "FL-03": {
+    "reference": {
+      "pearl_relative": 0.0012372845864181414,
+      "height_um": 0.0036973089369949363,
+      "count": 4,
+      "expected_count": 4,
+      "vortex_error_um": 0.10879777051835576
+    },
+    "independent": {
+      "pearl_relative": 0.0019963794698494297,
+      "height_um": 0.003639188760036216,
+      "count": 4,
+      "expected_count": 4,
+      "vortex_error_um": 0.13465066532833206
+    },
+    "controls": {
+      "no_wrap_correction": {
+        "pearl_relative": 0.0012372845864181414,
+        "height_um": 0.0036973089369949363,
+        "count": 4,
+        "expected_count": 4,
+        "vortex_error_um": 0.1087977705183559
+      },
+      "report_window_only": {
+        "pearl_relative": 0.001237284583802567,
+        "height_um": 0.0036973089369949363,
+        "count": 4,
+        "expected_count": 4,
+        "vortex_error_um": 0.10879777061163325
+      },
+      "point_pickup": {
+        "pearl_relative": 0.09903462342469016,
+        "height_um": 0.0036973089369949363,
+        "count": 7,
+        "expected_count": 4,
+        "vortex_error_um": null
+      },
+      "stage_taken_as_commanded": {
+        "pearl_relative": 9.744447438619908e-05,
+        "height_um": 0.0005011908009544541,
+        "count": 4,
+        "expected_count": 4,
+        "vortex_error_um": 0.10850508318068929
+      },
+      "approach_pearl_reported": {
+        "pearl_relative": 0.000725692994742122,
+        "height_um": 0.0036973089369949363,
+        "count": 4,
+        "expected_count": 4,
+        "vortex_error_um": 0.1087654120414215
+      },
+      "trigger_delay_ignored": {
+        "pearl_relative": 0.0012372845864181414,
+        "height_um": 0.0036973089369949363,
+        "count": 4,
+        "expected_count": 4,
+        "vortex_error_um": 0.10879777051835576
+      }
+    },
+    "redraws": {
+      "reference": [
+        {
+          "pearl_relative": 0.0022852799424468717,
+          "height_um": 0.004351079933110125,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.11372481693524757
+        },
+        {
+          "pearl_relative": 0.0004349212234765476,
+          "height_um": 0.00292305282471661,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.11568978258038454
+        },
+        {
+          "pearl_relative": 0.002109118374812202,
+          "height_um": 0.0016754142579848974,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.11053554408627286
+        },
+        {
+          "pearl_relative": 0.0006230034777664484,
+          "height_um": 0.00035959804842544685,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.11639556224910039
+        },
+        {
+          "pearl_relative": 0.0008454166044652434,
+          "height_um": 0.000568962193052247,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.11309573751025345
+        }
+      ],
+      "independent": [
+        {
+          "pearl_relative": 0.005868127731310957,
+          "height_um": 0.0046669914353252295,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.12379244476260606
+        },
+        {
+          "pearl_relative": 0.00031229026498702517,
+          "height_um": 0.003092577026546639,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.12015428340095795
+        },
+        {
+          "pearl_relative": 0.0007893459336092423,
+          "height_um": 0.0014314799488839292,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.12844106722286502
+        },
+        {
+          "pearl_relative": 0.002155137049868805,
+          "height_um": 0.0007018700591254756,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.15789227148400625
+        },
+        {
+          "pearl_relative": 0.0034957637593219237,
+          "height_um": 0.0008441286378833013,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.1447895371451084
+        }
+      ]
+    }
+  },
+  "FL-08": {
+    "reference": {
+      "pearl_relative": 0.0019417883150039117,
+      "height_um": 0.001905825020028562,
+      "count": 4,
+      "expected_count": 4,
+      "vortex_error_um": 0.1086427692431656
+    },
+    "independent": {
+      "pearl_relative": 0.005652227322294756,
+      "height_um": 0.0016730101539490505,
+      "count": 4,
+      "expected_count": 4,
+      "vortex_error_um": 0.14333671542885495
+    },
+    "controls": {
+      "no_wrap_correction": {
+        "pearl_relative": 0.0019417883150039117,
+        "height_um": 0.001905825020028562,
+        "count": 4,
+        "expected_count": 4,
+        "vortex_error_um": 0.10864276924316472
+      },
+      "report_window_only": {
+        "pearl_relative": 0.0019417883138048708,
+        "height_um": 0.001905825020028562,
+        "count": 4,
+        "expected_count": 4,
+        "vortex_error_um": 0.10864276924404113
+      },
+      "point_pickup": {
+        "pearl_relative": 0.10356582281044036,
+        "height_um": 0.001905825020028562,
+        "count": 6,
+        "expected_count": 4,
+        "vortex_error_um": null
+      },
+      "stage_taken_as_commanded": {
+        "pearl_relative": 0.0013873570596979468,
+        "height_um": 0.0002559476864396615,
+        "count": 4,
+        "expected_count": 4,
+        "vortex_error_um": 0.10862312725690791
+      },
+      "approach_pearl_reported": {
+        "pearl_relative": 0.003394198631858414,
+        "height_um": 0.001905825020028562,
+        "count": 4,
+        "expected_count": 4,
+        "vortex_error_um": 0.10845678675553061
+      },
+      "trigger_delay_ignored": {
+        "pearl_relative": 0.0019417883150039117,
+        "height_um": 0.001905825020028562,
+        "count": 4,
+        "expected_count": 4,
+        "vortex_error_um": 0.1086427692431656
+      }
+    },
+    "redraws": {
+      "reference": [
+        {
+          "pearl_relative": 0.0007002439152767881,
+          "height_um": 0.004339574026262394,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.11178467631926521
+        },
+        {
+          "pearl_relative": 0.0015727235611447954,
+          "height_um": 0.006433480754890919,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.10900806568572505
+        },
+        {
+          "pearl_relative": 0.0008963892877738022,
+          "height_um": 0.0020990007863059823,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.12015200824943817
+        },
+        {
+          "pearl_relative": 0.0004941369626596526,
+          "height_um": 0.003447866669755495,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.10823057425490985
+        },
+        {
+          "pearl_relative": 0.0008563304092759072,
+          "height_um": 0.002184775164719266,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.1190350006203756
+        }
+      ],
+      "independent": [
+        {
+          "pearl_relative": 0.0006882779099182113,
+          "height_um": 0.004144103081027861,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.14950913911782485
+        },
+        {
+          "pearl_relative": 0.0009122348942058878,
+          "height_um": 0.006461564398126285,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.160199042996322
+        },
+        {
+          "pearl_relative": 0.006152210696032334,
+          "height_um": 0.0020724402348886173,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.13642716116015496
+        },
+        {
+          "pearl_relative": 0.0075055091934771445,
+          "height_um": 0.0038693522370869537,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.16450358335757914
+        },
+        {
+          "pearl_relative": 0.002945791081728877,
+          "height_um": 0.002484101584412368,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.13359585080712522
+        }
+      ]
+    }
+  },
+  "FL-31": {
+    "reference": {
+      "pearl_relative": 0.0018433693016622898,
+      "height_um": 0.005688819764861464,
+      "count": 4,
+      "expected_count": 4,
+      "vortex_error_um": 0.008952008008092299
+    },
+    "independent": {
+      "pearl_relative": 0.003698665059464701,
+      "height_um": 0.005395194547241466,
+      "count": 4,
+      "expected_count": 4,
+      "vortex_error_um": 0.06944387702081996
+    },
+    "controls": {
+      "no_wrap_correction": {
+        "pearl_relative": 0.3591357332078047,
+        "height_um": 0.005688819764861464,
+        "count": 9,
+        "expected_count": 4,
+        "vortex_error_um": null
+      },
+      "report_window_only": {
+        "pearl_relative": 0.001843369286868124,
+        "height_um": 0.005688819764861464,
+        "count": 4,
+        "expected_count": 4,
+        "vortex_error_um": 0.008952007916310917
+      },
+      "point_pickup": {
+        "pearl_relative": 0.43734483202483987,
+        "height_um": 0.005688819764861464,
+        "count": 8,
+        "expected_count": 4,
+        "vortex_error_um": null
+      },
+      "stage_taken_as_commanded": {
+        "pearl_relative": 0.1398673204491745,
+        "height_um": 0.27119467746404524,
+        "count": 6,
+        "expected_count": 4,
+        "vortex_error_um": null
+      },
+      "approach_pearl_reported": {
+        "pearl_relative": 0.12130042163626076,
+        "height_um": 0.005688819764861464,
+        "count": 11,
+        "expected_count": 4,
+        "vortex_error_um": null
+      },
+      "trigger_delay_ignored": {
+        "pearl_relative": 0.08239329088743608,
+        "height_um": 0.005688819764861464,
+        "count": 9,
+        "expected_count": 4,
+        "vortex_error_um": null
+      }
+    },
+    "redraws": {
+      "reference": [
+        {
+          "pearl_relative": 0.001121829466289359,
+          "height_um": 0.0006563254249196682,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.0052813062547081395
+        },
+        {
+          "pearl_relative": 0.0002547471580598426,
+          "height_um": 0.000830887235259592,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.005065611349605935
+        },
+        {
+          "pearl_relative": 0.0004534701822158649,
+          "height_um": 0.0016363762835815976,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.005021155065014455
+        },
+        {
+          "pearl_relative": 7.556592521806849e-05,
+          "height_um": 0.0005027945207838336,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.005936731023843114
+        },
+        {
+          "pearl_relative": 0.0007562221849086725,
+          "height_um": 0.0028466833377294165,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.006209789878928514
+        }
+      ],
+      "independent": [
+        {
+          "pearl_relative": 0.004022823114049556,
+          "height_um": 0.0004990569539877754,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.07762840118795307
+        },
+        {
+          "pearl_relative": 0.00016568670653338557,
+          "height_um": 0.0005292159657912521,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.06667561155100164
+        },
+        {
+          "pearl_relative": 0.0004754113090704726,
+          "height_um": 0.0015980215136393028,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.07231200849268163
+        },
+        {
+          "pearl_relative": 0.0007834839690579187,
+          "height_um": 0.0005172454587598629,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.07860533412841135
+        },
+        {
+          "pearl_relative": 0.0016825270526100722,
+          "height_um": 0.0030962306364665793,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.07735987364503465
+        }
+      ]
+    }
+  },
+  "FL-32": {
+    "reference": {
+      "pearl_relative": 4.1160394900652264e-05,
+      "height_um": 0.004806852553638663,
+      "count": 5,
+      "expected_count": 5,
+      "vortex_error_um": 0.058144033042992475
+    },
+    "independent": {
+      "pearl_relative": 0.009659725730590152,
+      "height_um": 0.005139578056137406,
+      "count": 5,
+      "expected_count": 5,
+      "vortex_error_um": 0.12347726858642864
+    },
+    "controls": {
+      "no_wrap_correction": {
+        "pearl_relative": 0.3920002669482374,
+        "height_um": 0.004806852553638663,
+        "count": 3,
+        "expected_count": 5,
+        "vortex_error_um": null
+      },
+      "report_window_only": {
+        "pearl_relative": 4.106134906156633e-05,
+        "height_um": 0.004806852553638663,
+        "count": 5,
+        "expected_count": 5,
+        "vortex_error_um": 0.05814402001482211
+      },
+      "point_pickup": {
+        "pearl_relative": 0.04805533419789021,
+        "height_um": 0.004806852553638663,
+        "count": 5,
+        "expected_count": 5,
+        "vortex_error_um": 0.13904712956541995
+      },
+      "stage_taken_as_commanded": {
+        "pearl_relative": 0.05653827895307362,
+        "height_um": 0.2075088725158314,
+        "count": 5,
+        "expected_count": 5,
+        "vortex_error_um": 0.08925924094559384
+      },
+      "approach_pearl_reported": {
+        "pearl_relative": 0.16636149154573376,
+        "height_um": 0.004806852553638663,
+        "count": 7,
+        "expected_count": 5,
+        "vortex_error_um": null
+      },
+      "trigger_delay_ignored": {
+        "pearl_relative": 0.02688650753019939,
+        "height_um": 0.004806852553638663,
+        "count": 9,
+        "expected_count": 5,
+        "vortex_error_um": null
+      }
+    },
+    "redraws": {
+      "reference": [
+        {
+          "pearl_relative": 0.0022660900382015514,
+          "height_um": 0.001141291101650399,
+          "count": 5,
+          "expected_count": 5,
+          "vortex_error_um": 0.03217500035027017
+        },
+        {
+          "pearl_relative": 0.0026062663926511576,
+          "height_um": 0.003938132181189324,
+          "count": 5,
+          "expected_count": 5,
+          "vortex_error_um": 0.06974390358492831
+        },
+        {
+          "pearl_relative": 0.006474347365664768,
+          "height_um": 0.010490519405012666,
+          "count": 5,
+          "expected_count": 5,
+          "vortex_error_um": 0.04251444366715518
+        },
+        {
+          "pearl_relative": 0.0007283303060062751,
+          "height_um": 0.0002423377295293072,
+          "count": 5,
+          "expected_count": 5,
+          "vortex_error_um": 0.038825335194893805
+        },
+        {
+          "pearl_relative": 0.00047680224630675117,
+          "height_um": 0.0007317281544572118,
+          "count": 5,
+          "expected_count": 5,
+          "vortex_error_um": 0.0293193653436308
+        }
+      ],
+      "independent": [
+        {
+          "pearl_relative": 0.0006126139416572363,
+          "height_um": 0.0017641365895104677,
+          "count": 5,
+          "expected_count": 5,
+          "vortex_error_um": 0.1372224081676082
+        },
+        {
+          "pearl_relative": 0.0027950266854979144,
+          "height_um": 0.004671182508847682,
+          "count": 5,
+          "expected_count": 5,
+          "vortex_error_um": 0.2669105536433391
+        },
+        {
+          "pearl_relative": 0.00992910857756546,
+          "height_um": 0.010051275731509879,
+          "count": 5,
+          "expected_count": 5,
+          "vortex_error_um": 0.16481370126871958
+        },
+        {
+          "pearl_relative": 0.0014186627392178686,
+          "height_um": 0.00012431927624811934,
+          "count": 5,
+          "expected_count": 5,
+          "vortex_error_um": 0.14140098317673702
+        },
+        {
+          "pearl_relative": 8.494730818320306e-06,
+          "height_um": 0.00027337735390986495,
+          "count": 5,
+          "expected_count": 5,
+          "vortex_error_um": 0.15312703789792872
+        }
+      ]
+    }
+  },
+  "FL-33": {
+    "reference": {
+      "pearl_relative": 0.0006033279678363535,
+      "height_um": 5.7291589877550564e-05,
+      "count": 4,
+      "expected_count": 4,
+      "vortex_error_um": 0.014425376690448525
+    },
+    "independent": {
+      "pearl_relative": 0.0015849095104003563,
+      "height_um": 2.6077577934380258e-05,
+      "count": 4,
+      "expected_count": 4,
+      "vortex_error_um": 0.014599473372841005
+    },
+    "controls": {
+      "no_wrap_correction": {
+        "pearl_relative": 0.0006033279678363535,
+        "height_um": 5.7291589877550564e-05,
+        "count": 4,
+        "expected_count": 4,
+        "vortex_error_um": 0.014425376690448525
+      },
+      "report_window_only": {
+        "pearl_relative": 0.06243355382914806,
+        "height_um": 5.7291589877550564e-05,
+        "count": 11,
+        "expected_count": 4,
+        "vortex_error_um": null
+      },
+      "point_pickup": {
+        "pearl_relative": 0.00867042536729068,
+        "height_um": 5.7291589877550564e-05,
+        "count": 8,
+        "expected_count": 4,
+        "vortex_error_um": null
+      },
+      "stage_taken_as_commanded": {
+        "pearl_relative": 0.09433422748735165,
+        "height_um": 0.2766208406803923,
+        "count": 6,
+        "expected_count": 4,
+        "vortex_error_um": null
+      },
+      "approach_pearl_reported": {
+        "pearl_relative": 0.09110356204978953,
+        "height_um": 5.7291589877550564e-05,
+        "count": 8,
+        "expected_count": 4,
+        "vortex_error_um": null
+      },
+      "trigger_delay_ignored": {
+        "pearl_relative": 0.009233848294896263,
+        "height_um": 5.7291589877550564e-05,
+        "count": 10,
+        "expected_count": 4,
+        "vortex_error_um": null
+      }
+    },
+    "redraws": {
+      "reference": [
+        {
+          "pearl_relative": 0.001306263420266074,
+          "height_um": 0.0022266723359862794,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.012236145395256762
+        },
+        {
+          "pearl_relative": 0.0019193694951220586,
+          "height_um": 0.004681783124365957,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.012466013738248205
+        },
+        {
+          "pearl_relative": 0.0013618458188926486,
+          "height_um": 0.002550687095447479,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.018080505058308088
+        },
+        {
+          "pearl_relative": 7.379722037137437e-05,
+          "height_um": 3.787256287157703e-05,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.018953850291346105
+        },
+        {
+          "pearl_relative": 0.0010089214338950825,
+          "height_um": 0.003288357338022241,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.015040378523343051
+        }
+      ],
+      "independent": [
+        {
+          "pearl_relative": 0.0027754183094852447,
+          "height_um": 0.002401865923884028,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.021633848298371415
+        },
+        {
+          "pearl_relative": 0.006391390410727116,
+          "height_um": 0.004612362092495825,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.0487238564817315
+        },
+        {
+          "pearl_relative": 0.000657276257312267,
+          "height_um": 0.0026341943668448664,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.04136494736030362
+        },
+        {
+          "pearl_relative": 0.0005788851503198966,
+          "height_um": 5.83134982079514e-05,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.026428367101855626
+        },
+        {
+          "pearl_relative": 0.00038656506711576277,
+          "height_um": 0.0036425879194839084,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.04288057228692592
+        }
+      ]
+    }
+  },
+  "FL-34": {
+    "reference": {
+      "pearl_relative": 0.0010922062500779983,
+      "height_um": 0.0003986672923894652,
+      "count": 4,
+      "expected_count": 4,
+      "vortex_error_um": 0.013834691958435159
+    },
+    "independent": {
+      "pearl_relative": 0.005382810145278194,
+      "height_um": 0.00047987073255484347,
+      "count": 4,
+      "expected_count": 4,
+      "vortex_error_um": 0.06027404015636945
+    },
+    "controls": {
+      "no_wrap_correction": {
+        "pearl_relative": 0.37981150856894197,
+        "height_um": 0.0003986672923894652,
+        "count": 5,
+        "expected_count": 4,
+        "vortex_error_um": null
+      },
+      "report_window_only": {
+        "pearl_relative": 0.021986216305808215,
+        "height_um": 0.0003986672923894652,
+        "count": 11,
+        "expected_count": 4,
+        "vortex_error_um": null
+      },
+      "point_pickup": {
+        "pearl_relative": 0.0994659488155778,
+        "height_um": 0.0003986672923894652,
+        "count": 6,
+        "expected_count": 4,
+        "vortex_error_um": null
+      },
+      "stage_taken_as_commanded": {
+        "pearl_relative": 0.06509108415829334,
+        "height_um": 0.22118433332291065,
+        "count": 4,
+        "expected_count": 4,
+        "vortex_error_um": 0.06333341413130998
+      },
+      "approach_pearl_reported": {
+        "pearl_relative": 0.14964927410199258,
+        "height_um": 0.0003986672923894652,
+        "count": 7,
+        "expected_count": 4,
+        "vortex_error_um": null
+      },
+      "trigger_delay_ignored": {
+        "pearl_relative": 0.04747283297454086,
+        "height_um": 0.0003986672923894652,
+        "count": 6,
+        "expected_count": 4,
+        "vortex_error_um": null
+      }
+    },
+    "redraws": {
+      "reference": [
+        {
+          "pearl_relative": 1.7187633959858672e-05,
+          "height_um": 0.0014663380599766462,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.016278190777649693
+        },
+        {
+          "pearl_relative": 0.0009865149350204439,
+          "height_um": 0.0016998048115963726,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.023233147642057958
+        },
+        {
+          "pearl_relative": 0.0007666001280772772,
+          "height_um": 0.0002410720131398314,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.013857703470170181
+        },
+        {
+          "pearl_relative": 0.0011348485821178755,
+          "height_um": 0.0006209109646082567,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.019236100804929285
+        },
+        {
+          "pearl_relative": 0.00016870231609145137,
+          "height_um": 0.0009755642031876732,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.019448098549587015
+        }
+      ],
+      "independent": [
+        {
+          "pearl_relative": 0.0002492851306270527,
+          "height_um": 0.0015709117290430008,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.058251960169159754
+        },
+        {
+          "pearl_relative": 0.0076468931985466115,
+          "height_um": 0.0015782379259556834,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.07681286131723386
+        },
+        {
+          "pearl_relative": 0.0031583326453317184,
+          "height_um": 0.00027744567369536455,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.06768490590314741
+        },
+        {
+          "pearl_relative": 0.0027479830459962162,
+          "height_um": 0.00067347108492255,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.15769405857286753
+        },
+        {
+          "pearl_relative": 0.00020689193963474573,
+          "height_um": 0.0010614776202011456,
+          "count": 4,
+          "expected_count": 4,
+          "vortex_error_um": 0.07246844752516952
+        }
+      ]
+    }
+  },
+  "FL-35": {
+    "reference": {
+      "pearl_relative": 0.0008607151287840509,
+      "height_um": 0.004821671949021944,
+      "count": 5,
+      "expected_count": 5,
+      "vortex_error_um": 0.043359241944886426
+    },
+    "independent": {
+      "pearl_relative": 0.001864485377678804,
+      "height_um": 0.004222999015548012,
+      "count": 5,
+      "expected_count": 5,
+      "vortex_error_um": 0.09604239765130923
+    },
+    "controls": {
+      "no_wrap_correction": {
+        "pearl_relative": 0.3648666455266605,
+        "height_um": 0.004821671949021944,
+        "count": 9,
+        "expected_count": 5,
+        "vortex_error_um": null
+      },
+      "report_window_only": {
+        "pearl_relative": 0.045721851679096925,
+        "height_um": 0.004821671949021944,
+        "count": 11,
+        "expected_count": 5,
+        "vortex_error_um": null
+      },
+      "point_pickup": {
+        "pearl_relative": 0.042219590803470375,
+        "height_um": 0.004821671949021944,
+        "count": 7,
+        "expected_count": 5,
+        "vortex_error_um": null
+      },
+      "stage_taken_as_commanded": {
+        "pearl_relative": 0.05100753894397503,
+        "height_um": 0.1821639914311839,
+        "count": 5,
+        "expected_count": 5,
+        "vortex_error_um": 0.08243752816858431
+      },
+      "approach_pearl_reported": {
+        "pearl_relative": 0.12915814363599865,
+        "height_um": 0.004821671949021944,
+        "count": 7,
+        "expected_count": 5,
+        "vortex_error_um": null
+      },
+      "trigger_delay_ignored": {
+        "pearl_relative": 0.024773205634612605,
+        "height_um": 0.004821671949021944,
+        "count": 8,
+        "expected_count": 5,
+        "vortex_error_um": null
+      }
+    },
+    "redraws": {
+      "reference": [
+        {
+          "pearl_relative": 0.0012257555261756536,
+          "height_um": 0.010766600680180538,
+          "count": 5,
+          "expected_count": 5,
+          "vortex_error_um": 0.01673519679450838
+        },
+        {
+          "pearl_relative": 0.0008624279676510138,
+          "height_um": 0.003850587659136373,
+          "count": 5,
+          "expected_count": 5,
+          "vortex_error_um": 0.033805287188751865
+        },
+        {
+          "pearl_relative": 0.0008908798861704259,
+          "height_um": 0.004023279602589636,
+          "count": 5,
+          "expected_count": 5,
+          "vortex_error_um": 0.024388099881284594
+        },
+        {
+          "pearl_relative": 0.000458982447016143,
+          "height_um": 0.008103983856714958,
+          "count": 5,
+          "expected_count": 5,
+          "vortex_error_um": 0.025423269657941994
+        },
+        {
+          "pearl_relative": 0.0008741013935434916,
+          "height_um": 0.0033475937273874656,
+          "count": 5,
+          "expected_count": 5,
+          "vortex_error_um": 0.044523510490869556
+        }
+      ],
+      "independent": [
+        {
+          "pearl_relative": 0.008084164435633312,
+          "height_um": 0.010628665018595829,
+          "count": 5,
+          "expected_count": 5,
+          "vortex_error_um": 0.07263058653088797
+        },
+        {
+          "pearl_relative": 0.006986738320329811,
+          "height_um": 0.0036866022372006313,
+          "count": 5,
+          "expected_count": 5,
+          "vortex_error_um": 0.11381004570344593
+        },
+        {
+          "pearl_relative": 0.0021132074070204787,
+          "height_um": 0.0022864627496161916,
+          "count": 5,
+          "expected_count": 5,
+          "vortex_error_um": 0.07932462942206263
+        },
+        {
+          "pearl_relative": 0.007091572983479177,
+          "height_um": 0.007108647333624596,
+          "count": 5,
+          "expected_count": 5,
+          "vortex_error_um": 0.09730371567346638
+        },
+        {
+          "pearl_relative": 0.003511236175640642,
+          "height_um": 0.003511409667226406,
+          "count": 5,
+          "expected_count": 5,
+          "vortex_error_um": 0.05640401917406984
+        }
+      ]
+    }
+  }
+}

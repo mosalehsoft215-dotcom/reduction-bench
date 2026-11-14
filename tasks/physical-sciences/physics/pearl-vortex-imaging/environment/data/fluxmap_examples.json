@@ -1,0 +1,54 @@
+{
+  "FL-03": {
+    "pearl_um": 24.0,
+    "zero_lift_um": 2.55,
+    "vortices": [
+      {
+        "x_um": -17.7,
+        "y_um": -15.2,
+        "winding": 1
+      },
+      {
+        "x_um": 13.2,
+        "y_um": -12.3,
+        "winding": 1
+      },
+      {
+        "x_um": -6.4,
+        "y_um": 16.1,
+        "winding": 1
+      },
+      {
+        "x_um": 20.6,
+        "y_um": 14.4,
+        "winding": 1
+      }
+    ]
+  },
+  "FL-08": {
+    "pearl_um": 38.0,
+    "zero_lift_um": 3.1,
+    "vortices": [
+      {
+        "x_um": -20.6,
+        "y_um": 0.7,
+        "winding": 1
+      },
+      {
+        "x_um": -4.4,
+        "y_um": -18.2,
+        "winding": 1
+      },
+      {
+        "x_um": 13.1,
+        "y_um": 12.4,
+        "winding": -1
+      },
+      {
+        "x_um": 20.6,
+        "y_um": -8.5,
+        "winding": 1
+      }
+    ]
+  }
+}

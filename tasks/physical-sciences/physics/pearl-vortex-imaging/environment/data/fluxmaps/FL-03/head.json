@@ -1,0 +1,27 @@
+{
+  "pickup_radius_um": 2.45,
+  "drive_radius_um": 8.2,
+  "reference_screen_offset_um": 0.052,
+  "flux_sigma_phi0": 0.00011,
+  "approach_sigma_pH": 0.0005,
+  "reported_bounds_um": [
+    -26.0,
+    26.0,
+    -24.0,
+    24.0
+  ],
+  "search_bounds_um": [
+    -38.0,
+    38.0,
+    -33.0,
+    33.0
+  ],
+  "height_bounds_um": [
+    1.6,
+    5.8
+  ],
+  "pearl_bounds_um": [
+    7.0,
+    95.0
+  ]
+}

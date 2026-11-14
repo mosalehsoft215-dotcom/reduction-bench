@@ -1,0 +1,7 @@
+without a reduction: largest group of held-back campaigns one value satisfies, per figure
+maser_offset_e15: 1 of 5 (cmp-31)
+maser_drift_e16_per_day: 3 of 5 (cmp-31, cmp-32, cmp-33)
+collision_shift_hd_e15: 4 of 5 (cmp-31, cmp-32, cmp-34, cmp-35)
+zeeman_shift_e15: 1 of 5 (cmp-31)
+copying cmp-11: meets no held-back campaign
+copying cmp-12: meets no held-back campaign

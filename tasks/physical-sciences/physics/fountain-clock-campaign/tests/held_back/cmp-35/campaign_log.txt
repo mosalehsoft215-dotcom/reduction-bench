@@ -1,0 +1,3 @@
+61573.00  campaign CMP-35 started; C-field current 4.200 mA; Zeeman map taken before the first block
+61573.00  tube temperatures are campaign means of the five wall sensors
+61603.00  campaign closed

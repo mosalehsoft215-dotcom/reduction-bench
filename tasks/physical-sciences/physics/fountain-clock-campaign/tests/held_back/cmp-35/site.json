@@ -1,0 +1,9 @@
+{
+ "campaign": "CMP-35",
+ "reference_mjd": 61603.0,
+ "mark_orthometric_height_m": 76.32,
+ "cavity_above_mark_m": 1.205,
+ "clock_apex_above_cavity_m": 0.32,
+ "local_g_m_s2": 9.8126,
+ "fountain_cycle_s": 1.6
+}

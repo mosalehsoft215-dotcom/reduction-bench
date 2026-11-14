@@ -1,0 +1,4 @@
+61484.00  campaign CMP-33 started; C-field current 4.200 mA; Zeeman map taken before the first block
+61484.00  tube temperatures are campaign means of the five wall sensors
+61497.40  detection photodiode replaced after a failure; detection chain otherwise left as it was
+61514.00  campaign closed

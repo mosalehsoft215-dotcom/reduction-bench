@@ -1,0 +1,14 @@
+{
+ "cmp-11": {
+  "maser_offset_e15": 4.183,
+  "maser_drift_e16_per_day": 1.37,
+  "collision_shift_hd_e15": -3.86,
+  "zeeman_shift_e15": 46.389
+ },
+ "cmp-12": {
+  "maser_offset_e15": -1.942,
+  "maser_drift_e16_per_day": 0.88,
+  "collision_shift_hd_e15": -2.708,
+  "zeeman_shift_e15": 59.987
+ }
+}

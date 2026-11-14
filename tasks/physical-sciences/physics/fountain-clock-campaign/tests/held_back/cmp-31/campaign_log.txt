@@ -1,0 +1,4 @@
+61397.00  campaign CMP-31 started; C-field current 4.200 mA; Zeeman map taken before the first block
+61397.00  tube temperatures are campaign means of the five wall sensors
+61405.30  C-field current set to 4.263 mA after the servo retune
+61427.00  campaign closed

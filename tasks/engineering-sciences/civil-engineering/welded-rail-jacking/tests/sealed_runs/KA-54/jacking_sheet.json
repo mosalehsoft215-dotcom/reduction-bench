@@ -1,0 +1,14 @@
+{
+ "run": "KA-54",
+ "site": "km 64.889",
+ "rail_profile": "54E1",
+ "load_cell": {
+  "serial": "LC-8041",
+  "factor_N_per_mV": 417.4
+ },
+ "web_probe_C": [
+  36.21,
+  36.13,
+  35.86
+ ]
+}

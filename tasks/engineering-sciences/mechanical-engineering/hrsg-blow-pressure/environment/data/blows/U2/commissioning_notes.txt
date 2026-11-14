@@ -1,0 +1,13 @@
+HRSG 2, Red Sea coast cogeneration plant, HP circuit - steam blowing of the HP circuit after chemical cleaning
+
+Trial blows 2-3 June, continuous blowing to atmosphere through the temporary pipe and silencer.
+Gas turbine held at the blowing load (29 MW) for every trial.
+Attemperator spray control valve closed (manual, 0 %) during every trial.
+Feedwater control in manual during the blows; continuous blowdown in service.
+Two calibrated test thermocouples fitted in the SH1 outlet test pockets for the trials.
+A clamp-on ultrasonic flow meter fitted on the HP feed line for the trials.
+No target plates fitted during the trials.
+
+Trial 1: drum pressure held near 22 bar abs for 12 min; record at 10 s from the start of steady blowing (trial 1 in trial_blows.csv).
+Trial 2: drum pressure held near 27 bar abs for 12 min; record at 10 s from the start of steady blowing (trial 2 in trial_blows.csv).
+Trial 3: drum pressure held near 32 bar abs for 12 min; record at 10 s from the start of steady blowing (trial 3 in trial_blows.csv).

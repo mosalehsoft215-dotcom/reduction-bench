@@ -1,0 +1,164 @@
+{
+ "source": "the circuits the trial-blow records were generated from (authoring/blowgen)",
+ "units": {
+  "U1": {
+   "k1": 4100.0,
+   "k2": 3500.0,
+   "k3": 2000.0,
+   "k4": 5600.0,
+   "C": 0.047,
+   "UA1": 60.0,
+   "UA2": 150.0,
+   "gas_flow_kg_s": 130.0,
+   "gas_cp_kJ_kgK": 1.13,
+   "gas_in_C": 500.0,
+   "passing_spray_kg_s": 0.0,
+   "feed_temperature_C": 158.0,
+   "feed_over_drum_bar": 21.0,
+   "mcr": {
+    "SH1": {
+     "flow_kg_s": 71.9,
+     "inlet": [
+      134.2,
+      null
+     ],
+     "outlet": [
+      130.6,
+      447.0
+     ]
+    },
+    "SH2": {
+     "flow_kg_s": 74.6,
+     "inlet": [
+      130.6,
+      418.0
+     ],
+     "outlet": [
+      127.1,
+      566.0
+     ]
+    },
+    "MS": {
+     "flow_kg_s": 74.6,
+     "inlet": [
+      127.1,
+      566.0
+     ],
+     "outlet": [
+      122.8,
+      563.0
+     ]
+    }
+   },
+   "drum_design_pressure_bar": 155.0,
+   "least_drum_pressure_bar": 50.710985,
+   "drum_steam_flow_at_least_kg_s": 56.725034
+  },
+  "U2": {
+   "k1": 7600.0,
+   "k2": 6900.0,
+   "k3": 1700.0,
+   "k4": 5200.0,
+   "C": 0.05,
+   "UA1": 64.0,
+   "UA2": 160.0,
+   "gas_flow_kg_s": 118.0,
+   "gas_cp_kJ_kgK": 1.12,
+   "gas_in_C": 515.0,
+   "passing_spray_kg_s": 0.0,
+   "feed_temperature_C": 146.0,
+   "feed_over_drum_bar": 21.0,
+   "mcr": {
+    "SH1": {
+     "flow_kg_s": 66.1,
+     "inlet": [
+      128.7,
+      null
+     ],
+     "outlet": [
+      124.9,
+      431.0
+     ]
+    },
+    "SH2": {
+     "flow_kg_s": 68.3,
+     "inlet": [
+      124.9,
+      404.0
+     ],
+     "outlet": [
+      121.6,
+      541.0
+     ]
+    },
+    "MS": {
+     "flow_kg_s": 68.3,
+     "inlet": [
+      121.6,
+      541.0
+     ],
+     "outlet": [
+      118.0,
+      538.0
+     ]
+    }
+   },
+   "drum_design_pressure_bar": 155.0,
+   "least_drum_pressure_bar": 56.456785,
+   "drum_steam_flow_at_least_kg_s": 54.200033
+  },
+  "U3": {
+   "k1": 3500.0,
+   "k2": 3100.0,
+   "k3": 2400.0,
+   "k4": 6100.0,
+   "C": 0.048,
+   "UA1": 55.0,
+   "UA2": 170.0,
+   "gas_flow_kg_s": 140.0,
+   "gas_cp_kJ_kgK": 1.14,
+   "gas_in_C": 530.0,
+   "passing_spray_kg_s": 2.6,
+   "feed_temperature_C": 163.0,
+   "feed_over_drum_bar": 21.0,
+   "mcr": {
+    "SH1": {
+     "flow_kg_s": 78.4,
+     "inlet": [
+      138.9,
+      null
+     ],
+     "outlet": [
+      135.2,
+      488.0
+     ]
+    },
+    "SH2": {
+     "flow_kg_s": 81.2,
+     "inlet": [
+      135.2,
+      398.0
+     ],
+     "outlet": [
+      131.4,
+      536.0
+     ]
+    },
+    "MS": {
+     "flow_kg_s": 81.2,
+     "inlet": [
+      131.4,
+      536.0
+     ],
+     "outlet": [
+      126.6,
+      533.0
+     ]
+    }
+   },
+   "drum_design_pressure_bar": 155.0,
+   "least_drum_pressure_bar": 67.253028,
+   "drum_steam_flow_at_least_kg_s": 76.448805
+  }
+ }
+}

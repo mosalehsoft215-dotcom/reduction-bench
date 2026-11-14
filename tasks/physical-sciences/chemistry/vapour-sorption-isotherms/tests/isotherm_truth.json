@@ -1,0 +1,22 @@
+{
+ "DS-31": {
+  "monolayer_water_pct": 3.56,
+  "water_at_75rh_pct": 9.166
+ },
+ "DS-32": {
+  "monolayer_water_pct": 4.63,
+  "water_at_75rh_pct": 10.879
+ },
+ "DS-33": {
+  "monolayer_water_pct": 3.18,
+  "water_at_75rh_pct": 8.961
+ },
+ "DS-34": {
+  "monolayer_water_pct": 5.17,
+  "water_at_75rh_pct": 13.011
+ },
+ "DS-35": {
+  "monolayer_water_pct": 4.42,
+  "water_at_75rh_pct": 11.846
+ }
+}

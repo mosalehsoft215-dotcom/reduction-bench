@@ -1,0 +1,66 @@
+{
+ "shipped": {
+  "DS-04": {
+   "reference": 0.015,
+   "second": 0.011
+  },
+  "DS-09": {
+   "reference": 0.014,
+   "second": 0.014
+  },
+  "DS-31": {
+   "reference": 0.019,
+   "second": 0.022
+  },
+  "DS-32": {
+   "reference": 0.17,
+   "second": 0.025
+  },
+  "DS-33": {
+   "reference": 0.618,
+   "second": 0.618
+  },
+  "DS-34": {
+   "reference": 0.037,
+   "second": 0.122
+  },
+  "DS-35": {
+   "reference": 0.014,
+   "second": 0.01
+  }
+ },
+ "routes": {
+  "full model of the log, apparent-mass excursions kept in the fit": {
+   "DS-04": 0.02,
+   "DS-09": 0.01,
+   "DS-31": 0.34,
+   "DS-32": 3.03,
+   "DS-33": 1.2,
+   "DS-34": 2.89,
+   "DS-35": 0.44
+  },
+  "each step's last minutes as its equilibrium, no solvent term": {
+   "DS-04": 0.1,
+   "DS-09": 0.15,
+   "DS-31": 15.56,
+   "DS-32": 4.93,
+   "DS-33": 21.03,
+   "DS-34": 5.41,
+   "DS-35": 12.3
+  },
+  "two-pool fit of the log without a solvent term": {
+   "DS-04": 0.02,
+   "DS-09": 0.01,
+   "DS-31": 0.34,
+   "DS-32": 4.57,
+   "DS-33": 1.2,
+   "DS-34": 4.73,
+   "DS-35": 0.44
+  }
+ },
+ "redraws": {
+  "reference": 0.658,
+  "second": 0.658
+ },
+ "worked_copy_passes": 0
+}

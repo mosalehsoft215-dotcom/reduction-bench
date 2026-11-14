@@ -1,0 +1,10 @@
+{
+ "DS-04": {
+  "monolayer_water_pct": 4.12,
+  "water_at_75rh_pct": 9.989
+ },
+ "DS-09": {
+  "monolayer_water_pct": 2.87,
+  "water_at_75rh_pct": 7.68
+ }
+}

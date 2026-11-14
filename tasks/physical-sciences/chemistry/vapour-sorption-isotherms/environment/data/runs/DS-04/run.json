@@ -1,0 +1,14 @@
+{
+ "run": "DS-04",
+ "date": "2026-02-11",
+ "material": "microcrystalline cellulose",
+ "temperature_c": 25.0,
+ "loaded_mass_mg": 11.7966,
+ "criterion_pct_per_min": 0.002,
+ "criterion_window_min": 10,
+ "minimum_step_min": 30,
+ "maximum_step_min": {
+  "drying": 600,
+  "sorption": 360
+ }
+}

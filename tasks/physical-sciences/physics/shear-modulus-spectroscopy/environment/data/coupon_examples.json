@@ -1,0 +1,14 @@
+{
+  "UC-06": {
+    "fast_storage_mpa": 5126.452557286509,
+    "fast_loss_mpa": 119.42863234309078,
+    "slow_storage_mpa": 3435.5440805474623,
+    "slow_loss_mpa": 86.43599810430808
+  },
+  "UC-11": {
+    "fast_storage_mpa": 5060.201685699811,
+    "fast_loss_mpa": 99.77581598734331,
+    "slow_storage_mpa": 3331.843386627014,
+    "slow_loss_mpa": 70.38157936789987
+  }
+}

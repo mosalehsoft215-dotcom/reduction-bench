@@ -1,0 +1,38 @@
+{
+  "density_kg_m3": 1260,
+  "thickness_mm": [
+    21.7,
+    28.8,
+    34.0,
+    44.6
+  ],
+  "sample_interval_us": 0.05,
+  "reference_frequency_mhz": 1.2,
+  "useful_band_mhz": [
+    0.86,
+    1.54
+  ],
+  "direct_gate_us": [
+    [
+      7.161,
+      22.926
+    ],
+    [
+      9.504,
+      28.464
+    ],
+    [
+      11.22,
+      32.52
+    ],
+    [
+      14.718,
+      40.788
+    ]
+  ],
+  "phase_slowness_bounds_us_per_mm": [
+    0.39,
+    0.72
+  ],
+  "transducer_radius_mm": 6.35
+}

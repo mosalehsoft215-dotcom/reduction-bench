@@ -1,0 +1,32 @@
+{
+  "UC-21": {
+    "fast_storage_mpa": 5537.426834412519,
+    "fast_loss_mpa": 49.27051268019107,
+    "slow_storage_mpa": 3836.4201636215753,
+    "slow_loss_mpa": 78.1516495684332
+  },
+  "UC-22": {
+    "fast_storage_mpa": 5230.7020218741445,
+    "fast_loss_mpa": 60.100281942789344,
+    "slow_storage_mpa": 3836.4277250852565,
+    "slow_loss_mpa": 60.73417614122227
+  },
+  "UC-23": {
+    "fast_storage_mpa": 5433.866564451222,
+    "fast_loss_mpa": 60.0592455286827,
+    "slow_storage_mpa": 2996.2450049390995,
+    "slow_loss_mpa": 67.31873928556864
+  },
+  "UC-24": {
+    "fast_storage_mpa": 5005.269209811156,
+    "fast_loss_mpa": 101.16757952737703,
+    "slow_storage_mpa": 4821.093779342623,
+    "slow_loss_mpa": 43.02707578898585
+  },
+  "UC-25": {
+    "fast_storage_mpa": 4001.8629357281184,
+    "fast_loss_mpa": 23.118750701106695,
+    "slow_storage_mpa": 2883.8103108190503,
+    "slow_loss_mpa": 55.40242823093996
+  }
+}

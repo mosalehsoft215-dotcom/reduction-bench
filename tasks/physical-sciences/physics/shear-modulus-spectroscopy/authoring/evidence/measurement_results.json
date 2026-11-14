@@ -1,0 +1,446 @@
+{
+  "UC-06": {
+    "reference": {
+      "fast_storage_mpa": 0.0008585279826093621,
+      "fast_loss_mpa": 0.009583111451635004,
+      "slow_storage_mpa": 0.0005188536564689391,
+      "slow_loss_mpa": 0.022562335476733475
+    },
+    "independent": {
+      "fast_storage_mpa": 0.0008919843026348555,
+      "fast_loss_mpa": 0.007259512301730868,
+      "slow_storage_mpa": 0.0011050569857469958,
+      "slow_loss_mpa": 0.030529102713392858
+    },
+    "controls": {
+      "no_gate": {
+        "fast_storage_mpa": 0.0023734288607505745,
+        "fast_loss_mpa": 0.05471661585599123,
+        "slow_storage_mpa": 6.0069344876012565e-05,
+        "slow_loss_mpa": 0.03858742872139646
+      },
+      "no_lift_off": {
+        "fast_storage_mpa": 0.0036348925200287616,
+        "fast_loss_mpa": 0.04688747565715727,
+        "slow_storage_mpa": 0.0014949312313605745,
+        "slow_loss_mpa": 0.015204202756224916
+      },
+      "no_pilot": {
+        "fast_storage_mpa": 0.0008585279826093621,
+        "fast_loss_mpa": 0.009583111451635004,
+        "slow_storage_mpa": 0.0005188536564689391,
+        "slow_loss_mpa": 0.022562335476733475
+      },
+      "sort_per_bin": {
+        "fast_storage_mpa": 0.0008585279826093621,
+        "fast_loss_mpa": 0.009583111451635004,
+        "slow_storage_mpa": 0.0005188536564689391,
+        "slow_loss_mpa": 0.022562335476733475
+      },
+      "one_baseline": {
+        "fast_storage_mpa": 17.615423253800625,
+        "fast_loss_mpa": 6.127065881158317,
+        "slow_storage_mpa": 5.451542875777701,
+        "slow_loss_mpa": 2.0816337996302265
+      },
+      "no_beam_spreading": {
+        "fast_storage_mpa": 0.02298556516666661,
+        "fast_loss_mpa": 0.162781000212305,
+        "slow_storage_mpa": 0.015490384436245286,
+        "slow_loss_mpa": 0.08574336148381805
+      },
+      "films_taken_common": {
+        "fast_storage_mpa": 4.64389314484374e-05,
+        "fast_loss_mpa": 0.0005360463499100762,
+        "slow_storage_mpa": 1.8480785390906362e-05,
+        "slow_loss_mpa": 0.0007629260090310138
+      }
+    },
+    "redraw_max": {
+      "reference": 0.11850699551398207,
+      "independent": 0.07311474167951415
+    }
+  },
+  "UC-11": {
+    "reference": {
+      "fast_storage_mpa": 0.001937818297070848,
+      "fast_loss_mpa": 0.012572351692829997,
+      "slow_storage_mpa": 0.0002988759710239227,
+      "slow_loss_mpa": 0.16312219898982722
+    },
+    "independent": {
+      "fast_storage_mpa": 0.0007445634777466145,
+      "fast_loss_mpa": 0.00025356194553275796,
+      "slow_storage_mpa": 0.0016895237904342628,
+      "slow_loss_mpa": 0.046026187379473914
+    },
+    "controls": {
+      "no_gate": {
+        "fast_storage_mpa": 0.0011824831431287801,
+        "fast_loss_mpa": 0.016716535115205804,
+        "slow_storage_mpa": 0.0012453731011034346,
+        "slow_loss_mpa": 0.17799610218267778
+      },
+      "no_lift_off": {
+        "fast_storage_mpa": 0.013005537172154174,
+        "fast_loss_mpa": 0.20195947417892732,
+        "slow_storage_mpa": 0.0052365243271938295,
+        "slow_loss_mpa": 0.18195358975260367
+      },
+      "no_pilot": {
+        "fast_storage_mpa": 0.001937818297070848,
+        "fast_loss_mpa": 0.012572351692829997,
+        "slow_storage_mpa": 0.0002988759710239227,
+        "slow_loss_mpa": 0.16312219898982722
+      },
+      "sort_per_bin": {
+        "fast_storage_mpa": 0.001937818297070848,
+        "fast_loss_mpa": 0.012572351692829997,
+        "slow_storage_mpa": 0.0002988759710239227,
+        "slow_loss_mpa": 0.16312219898982722
+      },
+      "one_baseline": {
+        "fast_storage_mpa": 9.880031503453669,
+        "fast_loss_mpa": 3.5491154093187705,
+        "slow_storage_mpa": 15.300115234976882,
+        "slow_loss_mpa": 6.047220886485764
+      },
+      "no_beam_spreading": {
+        "fast_storage_mpa": 0.02173104860124416,
+        "fast_loss_mpa": 0.1776954760831284,
+        "slow_storage_mpa": 0.013814832487946127,
+        "slow_loss_mpa": 0.046020320892522136
+      },
+      "films_taken_common": {
+        "fast_storage_mpa": 5.2742259544954116e-05,
+        "fast_loss_mpa": 0.0007673529900276144,
+        "slow_storage_mpa": 0.0001017694499635032,
+        "slow_loss_mpa": 0.00015168049544896553
+      }
+    },
+    "redraw_max": {
+      "reference": 0.09235079790724059,
+      "independent": 0.08184720989223848
+    }
+  },
+  "UC-21": {
+    "reference": {
+      "fast_storage_mpa": 1.4790082418040622e-06,
+      "fast_loss_mpa": 0.0005720264266003324,
+      "slow_storage_mpa": 0.0008862830143415342,
+      "slow_loss_mpa": 0.039836931814827656
+    },
+    "independent": {
+      "fast_storage_mpa": 0.0005819313603883103,
+      "fast_loss_mpa": 0.034105953258012356,
+      "slow_storage_mpa": 0.0013724135481988735,
+      "slow_loss_mpa": 0.017582709003993724
+    },
+    "controls": {
+      "no_gate": {
+        "fast_storage_mpa": 0.0025773355355251937,
+        "fast_loss_mpa": 0.8987796663849468,
+        "slow_storage_mpa": 0.001606624388365378,
+        "slow_loss_mpa": 0.09815567564642007
+      },
+      "no_lift_off": {
+        "fast_storage_mpa": 0.0001988053809724259,
+        "fast_loss_mpa": 0.11685770886853963,
+        "slow_storage_mpa": 0.007520453472239138,
+        "slow_loss_mpa": 0.18409006507082254
+      },
+      "no_pilot": {
+        "fast_storage_mpa": 1.4790082418040622e-06,
+        "fast_loss_mpa": 0.0005720264266003324,
+        "slow_storage_mpa": 0.0008862830143415342,
+        "slow_loss_mpa": 0.039836931814827656
+      },
+      "sort_per_bin": {
+        "fast_storage_mpa": 1.4790082418040622e-06,
+        "fast_loss_mpa": 0.0005720264266003324,
+        "slow_storage_mpa": 0.0008862830143415342,
+        "slow_loss_mpa": 0.039836931814827656
+      },
+      "one_baseline": {
+        "fast_storage_mpa": 17.942538598117906,
+        "fast_loss_mpa": 10.678470057623368,
+        "slow_storage_mpa": 2.5136810039588564,
+        "slow_loss_mpa": 1.4975027410468098
+      },
+      "no_beam_spreading": {
+        "fast_storage_mpa": 0.28018707631529693,
+        "fast_loss_mpa": 6.3010856061654135,
+        "slow_storage_mpa": 0.24608081853114694,
+        "slow_loss_mpa": 1.1456799523341519
+      },
+      "films_taken_common": {
+        "fast_storage_mpa": 3.591317889695511,
+        "fast_loss_mpa": 7.5959135503217485,
+        "slow_storage_mpa": 2.9936234182009525,
+        "slow_loss_mpa": 3.6039884158853215
+      }
+    },
+    "redraw_max": {
+      "reference": 0.13449632284377827,
+      "independent": 0.049307290388933556
+    }
+  },
+  "UC-22": {
+    "reference": {
+      "fast_storage_mpa": 0.0005099578430867169,
+      "fast_loss_mpa": 0.01281616922759558,
+      "slow_storage_mpa": 0.0027091641731535887,
+      "slow_loss_mpa": 0.03919950042425106
+    },
+    "independent": {
+      "fast_storage_mpa": 0.0005654993606496461,
+      "fast_loss_mpa": 0.008170424834230694,
+      "slow_storage_mpa": 0.0003515790918913927,
+      "slow_loss_mpa": 0.034907307594683745
+    },
+    "controls": {
+      "no_gate": {
+        "fast_storage_mpa": 0.0008938148534124817,
+        "fast_loss_mpa": 0.028104124351802096,
+        "slow_storage_mpa": 0.0023653367396736513,
+        "slow_loss_mpa": 0.027443465538371885
+      },
+      "no_lift_off": {
+        "fast_storage_mpa": 9.90126369679667,
+        "fast_loss_mpa": 6.750394152845533,
+        "slow_storage_mpa": 0.4694450765035422,
+        "slow_loss_mpa": 1.0148808866857781
+      },
+      "no_pilot": {
+        "fast_storage_mpa": 0.0005099578430867169,
+        "fast_loss_mpa": 0.01281616922759558,
+        "slow_storage_mpa": 0.0027091641731535887,
+        "slow_loss_mpa": 0.03919950042425106
+      },
+      "sort_per_bin": {
+        "fast_storage_mpa": 0.0005099578430867169,
+        "fast_loss_mpa": 0.01281616922759558,
+        "slow_storage_mpa": 0.0027091641731535887,
+        "slow_loss_mpa": 0.03919950042425106
+      },
+      "one_baseline": {
+        "fast_storage_mpa": 4.560991275405035,
+        "fast_loss_mpa": 6.658169670355389,
+        "slow_storage_mpa": 15.453095264791758,
+        "slow_loss_mpa": 0.26637679801533126
+      },
+      "no_beam_spreading": {
+        "fast_storage_mpa": 0.20885886854145794,
+        "fast_loss_mpa": 4.749530804136086,
+        "slow_storage_mpa": 0.17005078247576874,
+        "slow_loss_mpa": 4.033034593219273
+      },
+      "films_taken_common": {
+        "fast_storage_mpa": 3.1180227097945767,
+        "fast_loss_mpa": 5.594639002627379,
+        "slow_storage_mpa": 2.661772447381831,
+        "slow_loss_mpa": 3.1898632244849123
+      }
+    },
+    "redraw_max": {
+      "reference": 0.16970922763294705,
+      "independent": 0.23430203900720778
+    }
+  },
+  "UC-23": {
+    "reference": {
+      "fast_storage_mpa": 0.0005619549963882994,
+      "fast_loss_mpa": 0.010193067391917054,
+      "slow_storage_mpa": 0.010697548480420593,
+      "slow_loss_mpa": 0.09307589773995817
+    },
+    "independent": {
+      "fast_storage_mpa": 2.9781487557537883e-05,
+      "fast_loss_mpa": 0.03332483972312561,
+      "slow_storage_mpa": 0.004421114131103465,
+      "slow_loss_mpa": 0.08605697322101406
+    },
+    "controls": {
+      "no_gate": {
+        "fast_storage_mpa": 0.003973484683883477,
+        "fast_loss_mpa": 0.21943331781487663,
+        "slow_storage_mpa": 0.0102646324597148,
+        "slow_loss_mpa": 0.12319377038577106
+      },
+      "no_lift_off": {
+        "fast_storage_mpa": 0.00014794178149202253,
+        "fast_loss_mpa": 0.29334732991171586,
+        "slow_storage_mpa": 0.2225338968104988,
+        "slow_loss_mpa": 1.4142102950592705
+      },
+      "no_pilot": {
+        "fast_storage_mpa": 1.1775608602500487,
+        "fast_loss_mpa": 9.7206901897861,
+        "slow_storage_mpa": 24.76613727278836,
+        "slow_loss_mpa": 8.89085920111154
+      },
+      "sort_per_bin": {
+        "fast_storage_mpa": 0.0005619549963882994,
+        "fast_loss_mpa": 0.010193067391917054,
+        "slow_storage_mpa": 0.010697548480420593,
+        "slow_loss_mpa": 0.09307589773995817
+      },
+      "one_baseline": {
+        "fast_storage_mpa": 21.2415184458127,
+        "fast_loss_mpa": 2.937761333313027,
+        "slow_storage_mpa": 12.571037426358538,
+        "slow_loss_mpa": 8.508222190751788
+      },
+      "no_beam_spreading": {
+        "fast_storage_mpa": 0.32090545792960634,
+        "fast_loss_mpa": 4.729889625535914,
+        "slow_storage_mpa": 0.21167332938082745,
+        "slow_loss_mpa": 0.06039883666274874
+      },
+      "films_taken_common": {
+        "fast_storage_mpa": 3.4348695021035955,
+        "fast_loss_mpa": 5.880820773451057,
+        "slow_storage_mpa": 2.5237685985386227,
+        "slow_loss_mpa": 1.6144067657017147
+      }
+    },
+    "redraw_max": {
+      "reference": 0.5205964257553468,
+      "independent": 0.20825242072078737
+    }
+  },
+  "UC-24": {
+    "reference": {
+      "fast_storage_mpa": 0.010460988228529663,
+      "fast_loss_mpa": 0.2556774014376503,
+      "slow_storage_mpa": 0.0005212053831045912,
+      "slow_loss_mpa": 0.02029853560501227
+    },
+    "independent": {
+      "fast_storage_mpa": 0.0025558094753759994,
+      "fast_loss_mpa": 0.1778463654056095,
+      "slow_storage_mpa": 0.0019125575751788304,
+      "slow_loss_mpa": 0.047417023650782784
+    },
+    "controls": {
+      "no_gate": {
+        "fast_storage_mpa": 0.011350203057987803,
+        "fast_loss_mpa": 0.27664027796968826,
+        "slow_storage_mpa": 0.0024181925389961854,
+        "slow_loss_mpa": 0.057548202386766466
+      },
+      "no_lift_off": {
+        "fast_storage_mpa": 0.1003814902390469,
+        "fast_loss_mpa": 6.510399255781304,
+        "slow_storage_mpa": 0.09159110939688613,
+        "slow_loss_mpa": 1.3182329612562198
+      },
+      "no_pilot": {
+        "fast_storage_mpa": 0.29672956730748545,
+        "fast_loss_mpa": 7.124365214379771,
+        "slow_storage_mpa": 13.19842992695266,
+        "slow_loss_mpa": 1.908704773908763
+      },
+      "sort_per_bin": {
+        "fast_storage_mpa": 1.5623776032441583,
+        "fast_loss_mpa": 6.645987598576532,
+        "slow_storage_mpa": 0.39796402251925933,
+        "slow_loss_mpa": 7.71022189374746
+      },
+      "one_baseline": {
+        "fast_storage_mpa": 7.330370870569114,
+        "fast_loss_mpa": 0.39621075795741034,
+        "slow_storage_mpa": 5.5875202445123895,
+        "slow_loss_mpa": 5.226448547340457
+      },
+      "no_beam_spreading": {
+        "fast_storage_mpa": 0.16296853467836492,
+        "fast_loss_mpa": 4.280299133899312,
+        "slow_storage_mpa": 0.14998715874267415,
+        "slow_loss_mpa": 9.351111784848854
+      },
+      "films_taken_common": {
+        "fast_storage_mpa": 2.622408094879229,
+        "fast_loss_mpa": 3.83016385133295,
+        "slow_storage_mpa": 2.577030527959264,
+        "slow_loss_mpa": 7.262355460071516
+      }
+    },
+    "redraw_max": {
+      "reference": 0.31629496903719895,
+      "independent": 0.5694533262621759
+    }
+  },
+  "UC-25": {
+    "reference": {
+      "fast_storage_mpa": 0.0002549785143024508,
+      "fast_loss_mpa": 0.0023296204775147267,
+      "slow_storage_mpa": 0.0006371377791432783,
+      "slow_loss_mpa": 0.015450872272902243
+    },
+    "independent": {
+      "fast_storage_mpa": 0.00018081100077912046,
+      "fast_loss_mpa": 0.04887907764579887,
+      "slow_storage_mpa": 0.002194953821040476,
+      "slow_loss_mpa": 0.037153616477980655
+    },
+    "controls": {
+      "no_gate": {
+        "fast_storage_mpa": 0.005453962334378559,
+        "fast_loss_mpa": 1.2104646372346466,
+        "slow_storage_mpa": 0.0016330259546097163,
+        "slow_loss_mpa": 0.03947600697713124
+      },
+      "no_lift_off": {
+        "fast_storage_mpa": 0.20468034687648462,
+        "fast_loss_mpa": 30.59913869129581,
+        "slow_storage_mpa": 9.010565710291285,
+        "slow_loss_mpa": 9.5679600843026
+      },
+      "no_pilot": {
+        "fast_storage_mpa": 15.330107869006822,
+        "fast_loss_mpa": 39.211108441320896,
+        "slow_storage_mpa": 3.3535698261539055,
+        "slow_loss_mpa": 1.0677070137040299
+      },
+      "sort_per_bin": {
+        "fast_storage_mpa": 0.0002549785143024508,
+        "fast_loss_mpa": 0.0023296204775147267,
+        "slow_storage_mpa": 0.0006371377791432783,
+        "slow_loss_mpa": 0.015450872272902243
+      },
+      "one_baseline": {
+        "fast_storage_mpa": 1.8805446234055445,
+        "fast_loss_mpa": 38.37391024917949,
+        "slow_storage_mpa": 27.973646842144998,
+        "slow_loss_mpa": 14.232822732594904
+      },
+      "no_beam_spreading": {
+        "fast_storage_mpa": 0.28354702190579084,
+        "fast_loss_mpa": 3.087520162322925,
+        "slow_storage_mpa": 0.20259292381823446,
+        "slow_loss_mpa": 0.059946375324258325
+      },
+      "films_taken_common": {
+        "fast_storage_mpa": 3.4804678403334233,
+        "fast_loss_mpa": 12.080760829753876,
+        "slow_storage_mpa": 2.963379456707586,
+        "slow_loss_mpa": 3.952685750839062
+      }
+    },
+    "redraw_max": {
+      "reference": 0.08519502813414774,
+      "independent": 0.061406961565853756
+    }
+  },
+  "worked_copy": {
+    "UC-06": 0,
+    "UC-11": 0
+  },
+  "constant_max": {
+    "fast_storage_mpa": 2,
+    "fast_loss_mpa": 2,
+    "slow_storage_mpa": 2,
+    "slow_loss_mpa": 2
+  }
+}

@@ -1,0 +1,22 @@
+{
+ "RS-51": {
+  "tension_pre_kn": 800.0,
+  "tension_post_kn": 690.0
+ },
+ "RS-53": {
+  "tension_pre_kn": 1090.0,
+  "tension_post_kn": 940.0
+ },
+ "RS-54": {
+  "tension_pre_kn": 3370.0,
+  "tension_post_kn": 2900.0
+ },
+ "RS-55": {
+  "tension_pre_kn": 470.0,
+  "tension_post_kn": 545.0
+ },
+ "RS-56": {
+  "tension_pre_kn": 960.0,
+  "tension_post_kn": 1100.0
+ }
+}

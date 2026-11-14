@@ -1,0 +1,10 @@
+{
+ "RS-03": {
+  "tension_pre_kn": 4870.0,
+  "tension_post_kn": 5115.0
+ },
+ "RS-18": {
+  "tension_pre_kn": 4130.0,
+  "tension_post_kn": 3905.0
+ }
+}

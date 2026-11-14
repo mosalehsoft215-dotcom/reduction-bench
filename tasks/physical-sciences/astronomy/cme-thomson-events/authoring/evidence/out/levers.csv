@@ -1,0 +1,8 @@
+default,target,W-1,W-2,H-1,H-2,H-3,H-4,H-5,target frame-mass scatter (reference / default),target centroid-line rms (reference / default)
+sum of positive excess only,H-1,0.94,0.69,6.96,1.31,0.71,1.30,0.93,0.006 / 0.056,0.011 / 0.049
+frames taken at their logged exposure (no gain check),H-2,0.18,0.13,0.10,95.36,0.34,0.25,0.21,0.008 / 0.073,0.018 / 0.283
+frames before the ejection as the base,H-3,0.37,0.19,0.24,0.42,25.00,0.55,0.28,0.003 / nan,0.010 / 0.000
+no stray-light pedestal removal,H-4,0.22,0.14,0.16,0.20,0.32,3.89,0.31,0.006 / 0.121,0.015 / 0.128
+whole image summed,H-5,0.80,0.75,1.60,1.32,0.55,1.79,5.68,0.006 / 0.022,0.006 / 0.047
+replica A: whole-image signed sums, logged exposure, pre-event base, no pedestal,all,0.24,0.40,0.97,966.30,25.00,146.67,7.49,,
+replica B: positive excess inside the ejection's sector, otherwise correct,all,0.94,0.69,6.96,1.31,0.71,1.30,0.93,,

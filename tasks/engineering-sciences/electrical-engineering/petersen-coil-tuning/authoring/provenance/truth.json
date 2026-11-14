@@ -1,0 +1,51 @@
+{
+ "north_2026-09-22": {
+  "capacitive_current_A": 157.94023533333333,
+  "coil_current_A": 159.82862142348816,
+  "detuning_percent": -17.157367173072526,
+  "active_current_A": 6.5976233483116715,
+  "neutral_displacement_V": 68.95662504616078
+ },
+ "east_2026-08-03": {
+  "capacitive_current_A": 133.9601833333333,
+  "coil_current_A": 117.9831067301496,
+  "detuning_percent": 11.92673539676183,
+  "active_current_A": 4.632779182373139,
+  "neutral_displacement_V": 76.26978649995588
+ },
+ "h1": {
+  "capacitive_current_A": 162.53877166666666,
+  "coil_current_A": 151.9478276782744,
+  "detuning_percent": -0.9284283350574914,
+  "active_current_A": 6.653576486465126,
+  "neutral_displacement_V": 758.5131151681751
+ },
+ "h2": {
+  "capacitive_current_A": 195.6591063333333,
+  "coil_current_A": 195.86826466259993,
+  "detuning_percent": -7.262201384615996,
+  "active_current_A": 9.603642894071605,
+  "neutral_displacement_V": 77.87568102561767
+ },
+ "h3": {
+  "capacitive_current_A": 149.74063999999998,
+  "coil_current_A": 120.98199698658279,
+  "detuning_percent": 12.193512070882829,
+  "active_current_A": 5.329818591491165,
+  "neutral_displacement_V": 98.30623571814894
+ },
+ "h4": {
+  "capacitive_current_A": 191.929462,
+  "coil_current_A": 170.93209335480557,
+  "detuning_percent": -0.5744982262314547,
+  "active_current_A": 8.174967128662944,
+  "neutral_displacement_V": 614.4374241624973
+ },
+ "h5": {
+  "capacitive_current_A": 146.19052100000002,
+  "coil_current_A": 142.96140571983767,
+  "detuning_percent": -11.540341059347925,
+  "active_current_A": 5.894934342367352,
+  "neutral_displacement_V": 286.81757005599115
+ }
+}

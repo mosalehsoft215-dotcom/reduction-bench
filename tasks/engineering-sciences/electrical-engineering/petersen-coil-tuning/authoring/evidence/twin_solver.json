@@ -1,0 +1,289 @@
+{
+ "east_2026-08-03": {
+  "result": {
+   "capacitive_current_A": {
+    "value": 133.95591028728188,
+    "error": -0.003189788148316719,
+    "error_over_bound": 0.03189788148316719
+   },
+   "coil_current_A": {
+    "value": 117.98204363483069,
+    "error": -0.0009010572346923595,
+    "error_over_bound": 0.01802114469384719
+   },
+   "detuning_percent": {
+    "value": 11.9247195724277,
+    "error": -0.0020158243341299453,
+    "error_over_bound": 0.05039560835324863
+   },
+   "active_current_A": {
+    "value": 4.6347021522743574,
+    "error": 0.04150791189303504,
+    "error_over_bound": 0.051884889866293804
+   },
+   "neutral_displacement_V": {
+    "value": 76.16610268470404,
+    "error": -0.1359434974318452,
+    "error_over_bound": 0.226572495719742
+   }
+  },
+  "worst": 0.226572495719742,
+  "details": {
+   "frequency_hz": 50.10999990964567,
+   "oscillation_hz": 51.97921743732286,
+   "decay_per_s": 5.880541874101569,
+   "coil_H": 0.30520674405291,
+   "resistor_ohm": null,
+   "fit_rms_counts": [
+    5.897068402822622,
+    6.0362275223399475
+   ]
+  }
+ },
+ "h1": {
+  "result": {
+   "capacitive_current_A": {
+    "value": 162.54547721359165,
+    "error": 0.004125506090790765,
+    "error_over_bound": 0.04125506090790765
+   },
+   "coil_current_A": {
+    "value": 151.95427395975182,
+    "error": 0.0042424308237309916,
+    "error_over_bound": 0.08484861647461983
+   },
+   "detuning_percent": {
+    "value": -0.9282305309409135,
+    "error": 0.00019780411657799313,
+    "error_over_bound": 0.004945102914449828
+   },
+   "active_current_A": {
+    "value": 6.657189436405518,
+    "error": 0.05430087033253539,
+    "error_over_bound": 0.06787608791566924
+   },
+   "neutral_displacement_V": {
+    "value": 758.2641837518265,
+    "error": -0.0328183404308513,
+    "error_over_bound": 0.05469723405141884
+   }
+  },
+  "worst": 0.08484861647461983,
+  "details": {
+   "frequency_hz": 49.930000362076264,
+   "oscillation_hz": 54.98312072947954,
+   "decay_per_s": 16.08683351860563,
+   "coil_H": 0.23400206156034353,
+   "resistor_ohm": 1289.1237317731227,
+   "fit_rms_counts": [
+    6.056832466481436,
+    5.970062551493794
+   ]
+  }
+ },
+ "h2": {
+  "result": {
+   "capacitive_current_A": {
+    "value": 195.64804666133338,
+    "error": -0.005652520962196039,
+    "error_over_bound": 0.05652520962196039
+   },
+   "coil_current_A": {
+    "value": 195.85817180959606,
+    "error": -0.00515287814555343,
+    "error_over_bound": 0.1030575629110686
+   },
+   "detuning_percent": {
+    "value": -7.263106067631941,
+    "error": -0.0009046830159453734,
+    "error_over_bound": 0.022617075398634334
+   },
+   "active_current_A": {
+    "value": 9.606819430213342,
+    "error": 0.03307636671598946,
+    "error_over_bound": 0.04134545839498682
+   },
+   "neutral_displacement_V": {
+    "value": 77.87653175385921,
+    "error": 0.0010924183651894737,
+    "error_over_bound": 0.0018206972753157895
+   }
+  },
+  "worst": 0.1030575629110686,
+  "details": {
+   "frequency_hz": 50.04999985411408,
+   "oscillation_hz": 53.57901312761986,
+   "decay_per_s": 14.156194212972734,
+   "coil_H": 0.1810642106928977,
+   "resistor_ohm": 1352.4110390732485,
+   "fit_rms_counts": [
+    6.057320819859284,
+    5.974442960831161
+   ]
+  }
+ },
+ "h3": {
+  "result": {
+   "capacitive_current_A": {
+    "value": 149.73506827363315,
+    "error": -0.0037209179597708086,
+    "error_over_bound": 0.037209179597708086
+   },
+   "coil_current_A": {
+    "value": 120.97985595501488,
+    "error": -0.0017697108836256525,
+    "error_over_bound": 0.03539421767251305
+   },
+   "detuning_percent": {
+    "value": 12.191674621777846,
+    "error": -0.0018374491049826247,
+    "error_over_bound": 0.04593622762456562
+   },
+   "active_current_A": {
+    "value": 5.331332876314708,
+    "error": 0.028411564062613692,
+    "error_over_bound": 0.035514455078267115
+   },
+   "neutral_displacement_V": {
+    "value": 98.31355543405739,
+    "error": 0.007445830729846392,
+    "error_over_bound": 0.01240971788307732
+   }
+  },
+  "worst": 0.04593622762456562,
+  "details": {
+   "frequency_hz": 49.880001175323464,
+   "oscillation_hz": 46.35324184233087,
+   "decay_per_s": 5.977651867961181,
+   "coil_H": 0.2968711400286596,
+   "resistor_ohm": null,
+   "fit_rms_counts": [
+    5.987611148982924,
+    6.026415936337036
+   ]
+  }
+ },
+ "h4": {
+  "result": {
+   "capacitive_current_A": {
+    "value": 191.8712263688979,
+    "error": -0.03034220514935848,
+    "error_over_bound": 0.3034220514935848
+   },
+   "coil_current_A": {
+    "value": 170.86442625794842,
+    "error": -0.03958712230633932,
+    "error_over_bound": 0.7917424461267863
+   },
+   "detuning_percent": {
+    "value": -0.5697570760029933,
+    "error": 0.004741150228461444,
+    "error_over_bound": 0.1185287557115361
+   },
+   "active_current_A": {
+    "value": 8.15993874702366,
+    "error": -0.18383415373736112,
+    "error_over_bound": 0.2297926921717014
+   },
+   "neutral_displacement_V": {
+    "value": 614.5496729559583,
+    "error": 0.01826854762532193,
+    "error_over_bound": 0.03044757937553655
+   }
+  },
+  "worst": 0.7917424461267863,
+  "details": {
+   "frequency_hz": 49.999998138835544,
+   "oscillation_hz": 54.08581321350417,
+   "decay_per_s": 14.58479500260901,
+   "coil_H": 0.20797236111669393,
+   "resistor_ohm": 1270.9355955371577,
+   "fit_rms_counts": [
+    6.022804646378319,
+    6.001686316209888
+   ]
+  }
+ },
+ "h5": {
+  "result": {
+   "capacitive_current_A": {
+    "value": 146.1827058057757,
+    "error": -0.005345896690744922,
+    "error_over_bound": 0.053458966907449224
+   },
+   "coil_current_A": {
+    "value": 142.95628570219733,
+    "error": -0.0035813985002186577,
+    "error_over_bound": 0.07162797000437315
+   },
+   "detuning_percent": {
+    "value": -11.542801731170966,
+    "error": -0.002460671823040883,
+    "error_over_bound": 0.061516795576022076
+   },
+   "active_current_A": {
+    "value": 5.882408881714479,
+    "error": -0.21247837423483684,
+    "error_over_bound": 0.26559796779354605
+   },
+   "neutral_displacement_V": {
+    "value": 286.75968147112695,
+    "error": -0.020183067882806327,
+    "error_over_bound": 0.03363844647134388
+   }
+  },
+  "worst": 0.26559796779354605,
+  "details": {
+   "frequency_hz": 50.170002521000924,
+   "oscillation_hz": 56.725061554345444,
+   "decay_per_s": 15.86648266857328,
+   "coil_H": 0.24950566466466478,
+   "resistor_ohm": 1371.436569006815,
+   "fit_rms_counts": [
+    6.103858861477789,
+    5.957105681713944
+   ]
+  }
+ },
+ "north_2026-09-22": {
+  "result": {
+   "capacitive_current_A": {
+    "value": 157.93923288316384,
+    "error": -0.0006347022133867952,
+    "error_over_bound": 0.006347022133867952
+   },
+   "coil_current_A": {
+    "value": 159.82794066776557,
+    "error": -0.0004259285455443518,
+    "error_over_bound": 0.008518570910887036
+   },
+   "detuning_percent": {
+    "value": -17.1576797543699,
+    "error": -0.0003125812973756581,
+    "error_over_bound": 0.007814532434391452
+   },
+   "active_current_A": {
+    "value": 6.5994089182264535,
+    "error": 0.02706383527091294,
+    "error_over_bound": 0.033829794088641174
+   },
+   "neutral_displacement_V": {
+    "value": 69.07517450131444,
+    "error": 0.17191887664789185,
+    "error_over_bound": 0.28653146107981975
+   }
+  },
+  "worst": 0.28653146107981975,
+  "details": {
+   "frequency_hz": 49.82000052616652,
+   "oscillation_hz": 57.22576255887946,
+   "decay_per_s": 14.81754182892446,
+   "coil_H": 0.22260755264684495,
+   "resistor_ohm": 1386.6096704663128,
+   "fit_rms_counts": [
+    5.922379334928546,
+    5.891830217210181
+   ]
+  }
+ }
+}

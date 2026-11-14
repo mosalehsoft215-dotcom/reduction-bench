@@ -1,0 +1,13 @@
+route,east_2026-08-03,h1,h2,h3,h4,h5,north_2026-09-22,events_outside,worst
+as documented (reference),0.11,0.16,0.14,0.20,0.03,0.34,0.27,0,0.34
+test reading of the tripped feeder taken as balanced (its unbalance current left in),1.21,0.55,0.99,0.67,2.32,2.38,2.30,4,2.38
+auxiliary resistor at its nameplate value,0.11,4.37,2.11,0.20,4.88,6.30,6.83,5,6.83
+auxiliary resistor left out of the ring-down,0.11,160.37,103.61,0.20,123.46,171.40,147.20,5,171.40
+clipped coil-current samples kept,0.11,25.75,21.81,0.20,48.18,39.14,17.56,5,48.18
+recorder inputs taken as simultaneous,0.96,0.57,24.77,2.68,8.66,0.33,0.27,3,24.77
+recorder inputs taken as adjacent slots,0.11,0.15,0.77,1.79,0.03,0.33,0.27,1,1.79
+core-balance CT errors ignored,10.48,16.27,4.67,0.54,12.26,5.27,10.30,6,16.27
+changes since the test ignored,0.11,65.94,24.80,0.20,26.04,27.98,42.21,5,65.94
+faulted feeder not added back,499.73,507.31,194.01,139.87,416.93,436.61,352.38,7,507.31
+measuring winding taken at its nameplate ratio (bolted-fault check not made),0.11,0.16,24.77,0.20,30.37,0.34,0.27,2,30.37
+current input board taken as in step with the voltage boards,0.11,5.96,13.77,3.85,10.89,11.83,0.27,5,13.77

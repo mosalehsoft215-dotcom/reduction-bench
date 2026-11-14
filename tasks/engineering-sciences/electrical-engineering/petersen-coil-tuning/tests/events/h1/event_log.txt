@@ -1,0 +1,13 @@
+SS RIVERSIDE 20KV - station event recorder, extract of 14 Jul 2026 (1 ms resolution, GPS time)
+
+time           bay         signal                    state
+18:22:40.905   20kV BB     U0>                       START
+18:22:40.905   DFR-2       RECORD                    TRIGGERED
+18:22:40.919   F5          67Ns                      START FORWARD
+18:22:41.940   ASC1        RESISTOR CONTACTOR        CLOSED
+18:22:42.420   F5          67Ns                      TRIP
+18:22:42.457   F5          Q0                        OPEN
+18:22:42.541   20kV BB     U0>                       RESET
+18:22:42.544   F5          67Ns                      RESET
+18:22:42.563   F5          LOCKOUT                   SET
+18:22:43.405   ASC1        RESISTOR CONTACTOR        OPEN

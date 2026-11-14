@@ -1,0 +1,13 @@
+SS HILLTOP 20KV - station event recorder, extract of 02 Jun 2026 (1 ms resolution, GPS time)
+
+time           bay         signal                    state
+03:15:09.660   20kV BB     U0>                       START
+03:15:09.660   DFR-2       RECORD                    TRIGGERED
+03:15:09.674   F8          67Ns                      START FORWARD
+03:15:10.695   ASC1        RESISTOR CONTACTOR        CLOSED
+03:15:10.875   F8          67Ns                      TRIP
+03:15:10.912   F8          Q0                        OPEN
+03:15:11.006   20kV BB     U0>                       RESET
+03:15:11.009   F8          67Ns                      RESET
+03:15:11.028   F8          LOCKOUT                   SET
+03:15:12.160   ASC1        RESISTOR CONTACTOR        OPEN

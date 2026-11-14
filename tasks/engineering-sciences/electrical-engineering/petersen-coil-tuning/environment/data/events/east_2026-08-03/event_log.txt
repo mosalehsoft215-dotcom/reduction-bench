@@ -1,0 +1,11 @@
+SS EAST 20KV - station event recorder, extract of 03 Aug 2026 (1 ms resolution, GPS time)
+
+time           bay         signal                    state
+09:41:52.374   20kV BB     U0>                       START
+09:41:52.374   DFR-2       RECORD                    TRIGGERED
+09:41:52.388   F3          67Ns                      START FORWARD
+09:41:53.189   F3          67Ns                      TRIP
+09:41:53.226   F3          Q0                        OPEN
+09:41:53.436   20kV BB     U0>                       RESET
+09:41:53.439   F3          67Ns                      RESET
+09:41:53.458   F3          LOCKOUT                   SET

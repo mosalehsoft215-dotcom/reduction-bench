@@ -1,0 +1,13 @@
+SS NORTH 20KV - station event recorder, extract of 22 Sep 2026 (1 ms resolution, GPS time)
+
+time           bay         signal                    state
+14:03:07.012   20kV BB     U0>                       START
+14:03:07.012   DFR-2       RECORD                    TRIGGERED
+14:03:07.026   F7          67Ns                      START FORWARD
+14:03:08.047   ASC1        RESISTOR CONTACTOR        CLOSED
+14:03:08.227   F7          67Ns                      TRIP
+14:03:08.264   F7          Q0                        OPEN
+14:03:08.347   20kV BB     U0>                       RESET
+14:03:08.350   F7          67Ns                      RESET
+14:03:08.369   F7          LOCKOUT                   SET
+14:03:09.512   ASC1        RESISTOR CONTACTOR        OPEN

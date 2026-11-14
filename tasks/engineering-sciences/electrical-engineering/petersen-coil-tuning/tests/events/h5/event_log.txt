@@ -1,0 +1,13 @@
+SS GREENWAY 20KV - station event recorder, extract of 29 Aug 2026 (1 ms resolution, GPS time)
+
+time           bay         signal                    state
+16:05:47.093   20kV BB     U0>                       START
+16:05:47.093   DFR-2       RECORD                    TRIGGERED
+16:05:47.107   F4          67Ns                      START FORWARD
+16:05:48.128   ASC1        RESISTOR CONTACTOR        CLOSED
+16:05:48.308   F4          67Ns                      TRIP
+16:05:48.345   F4          Q0                        OPEN
+16:05:48.434   20kV BB     U0>                       RESET
+16:05:48.437   F4          67Ns                      RESET
+16:05:48.456   F4          LOCKOUT                   SET
+16:05:49.593   ASC1        RESISTOR CONTACTOR        OPEN

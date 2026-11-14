@@ -1,0 +1,11 @@
+SS MARSH LANE 20KV - station event recorder, extract of 01 Oct 2026 (1 ms resolution, GPS time)
+
+time           bay         signal                    state
+11:58:33.218   20kV BB     U0>                       START
+11:58:33.218   DFR-2       RECORD                    TRIGGERED
+11:58:33.232   F2          67Ns                      START FORWARD
+11:58:33.833   F2          67Ns                      TRIP
+11:58:33.870   F2          Q0                        OPEN
+11:58:34.064   20kV BB     U0>                       RESET
+11:58:34.067   F2          67Ns                      RESET
+11:58:34.086   F2          LOCKOUT                   SET

@@ -1,0 +1,13 @@
+SS QUARRY 20KV - station event recorder, extract of 20 May 2026 (1 ms resolution, GPS time)
+
+time           bay         signal                    state
+22:47:01.551   20kV BB     U0>                       START
+22:47:01.551   DFR-2       RECORD                    TRIGGERED
+22:47:01.565   F6          67Ns                      START FORWARD
+22:47:02.286   ASC1        RESISTOR CONTACTOR        CLOSED
+22:47:02.566   F6          67Ns                      TRIP
+22:47:02.603   F6          Q0                        OPEN
+22:47:02.690   20kV BB     U0>                       RESET
+22:47:02.693   F6          67Ns                      RESET
+22:47:02.712   F6          LOCKOUT                   SET
+22:47:04.051   ASC1        RESISTOR CONTACTOR        OPEN

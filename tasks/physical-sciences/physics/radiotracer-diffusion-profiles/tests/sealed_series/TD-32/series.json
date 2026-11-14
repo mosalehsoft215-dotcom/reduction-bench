@@ -1,0 +1,10 @@
+{
+ "series": "TD-32",
+ "date": "2026-05-04",
+ "tracer": "Zn-65",
+ "half_life_d": 243.93,
+ "density_g_cm3": 8.53,
+ "specimen_area_cm2": 0.5,
+ "grain_size_um": 3.6,
+ "background_cps": 0.35
+}

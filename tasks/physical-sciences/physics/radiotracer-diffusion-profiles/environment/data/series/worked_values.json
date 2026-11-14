@@ -1,0 +1,10 @@
+{
+ "TD-04": {
+  "activation_energy_kj_mol": 187.4,
+  "log10_diffusivity_1200k": -14.862
+ },
+ "TD-09": {
+  "activation_energy_kj_mol": 231.9,
+  "log10_diffusivity_1200k": -15.153
+ }
+}

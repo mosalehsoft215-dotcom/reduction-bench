@@ -1,0 +1,10 @@
+{
+ "series": "TD-31",
+ "date": "2026-04-06",
+ "tracer": "Co-57",
+ "half_life_d": 271.74,
+ "density_g_cm3": 8.9,
+ "specimen_area_cm2": 0.5,
+ "grain_size_um": 780,
+ "background_cps": 0.35
+}

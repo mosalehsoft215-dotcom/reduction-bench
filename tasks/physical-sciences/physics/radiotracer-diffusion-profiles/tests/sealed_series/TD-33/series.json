@@ -1,0 +1,10 @@
+{
+ "series": "TD-33",
+ "date": "2026-06-01",
+ "tracer": "Fe-59",
+ "half_life_d": 44.5,
+ "density_g_cm3": 7.95,
+ "specimen_area_cm2": 0.5,
+ "grain_size_um": 4.4,
+ "background_cps": 0.35
+}

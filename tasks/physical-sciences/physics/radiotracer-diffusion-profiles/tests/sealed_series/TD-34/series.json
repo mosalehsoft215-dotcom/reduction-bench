@@ -1,0 +1,10 @@
+{
+ "series": "TD-34",
+ "date": "2026-07-06",
+ "tracer": "Cr-51",
+ "half_life_d": 27.7,
+ "density_g_cm3": 7.92,
+ "specimen_area_cm2": 0.5,
+ "grain_size_um": 3.1,
+ "background_cps": 0.35
+}

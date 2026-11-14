@@ -1,0 +1,3 @@
+2026-02-02 00:00  Receiver antenna cables replaced; range calibration carried over.
+2026-02-02 00:00  Record starts; radar in routine operation.
+2026-02-07 00:00  Record ends.

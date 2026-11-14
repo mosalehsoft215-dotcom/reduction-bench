@@ -1,0 +1,10 @@
+210 redrawn stations (30 per station); largest |error| in bounds
+reference_worst_of_13: 0.84 (H2 draw 23)
+second_route_worst_of_13: 1.01 (H1 draw 21)
+P1: reference_worst_of_13 0.65  second_route_worst_of_13 0.68
+P2: reference_worst_of_13 0.50  second_route_worst_of_13 0.58
+H1: reference_worst_of_13 0.58  second_route_worst_of_13 1.01
+H2: reference_worst_of_13 0.84  second_route_worst_of_13 0.93
+H3: reference_worst_of_13 0.65  second_route_worst_of_13 0.84
+H4: reference_worst_of_13 0.47  second_route_worst_of_13 0.91
+H5: reference_worst_of_13 0.54  second_route_worst_of_13 0.57

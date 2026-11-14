@@ -1,0 +1,10 @@
+worst of the thirteen figures in tolerance units (winds 1.5 m/s, tide amplitudes 2.0 m/s, T 4.0 K); the figure is named when above 1
+reading | stn-11 | stn-12 | stn-31 | stn-32 | stn-33 | stn-34 | stn-35
+reference | 0.2 | 0.5 | 0.2 | 0.5 | 0.5 | 0.2 | 0.5
+absolute temperature route only | 0.2 | 0.5 | 0.2 | 0.5 | 2.6 (temperature_90km_k) | 0.2 | 0.5
+gradient temperature route only | 0.4 | 0.5 | 0.5 | 0.5 | 0.6 | 5.8 (temperature_90km_k) | 0.8
+mean of the two temperature routes | 0.2 | 0.5 | 0.2 | 0.5 | 1.5 (temperature_90km_k) | 2.9 (temperature_90km_k) | 0.5
+heights from the ranges as recorded | 0.2 | 0.5 | 6.6 (temperature_90km_k) | 0.5 | 0.5 | 0.2 | 0.5
+analysis pressure taken at 90 km geometric whatever its surface | 0.2 | 0.5 | 0.2 | 5.1 (temperature_90km_k) | 0.5 | 0.2 | 0.5
+winds fitted without tides (fails the examples) | 9.2 (zonal_tide_amplitude_90km_m_s/diurnal) | 13.1 (zonal_tide_amplitude_90km_m_s/diurnal) | 10.3 (zonal_tide_amplitude_90km_m_s/diurnal) | 17.1 (zonal_tide_amplitude_90km_m_s/diurnal) | 10.7 (zonal_tide_amplitude_90km_m_s/semidiurnal) | 11.6 (zonal_tide_amplitude_90km_m_s/diurnal) | 9.4 (zonal_tide_amplitude_90km_m_s/semidiurnal)
+every echo used for diffusion (no overdense cut) | 0.2 | 0.6 | 0.3 | 0.5 | 0.5 | 0.2 | 3.3 (temperature_90km_k)

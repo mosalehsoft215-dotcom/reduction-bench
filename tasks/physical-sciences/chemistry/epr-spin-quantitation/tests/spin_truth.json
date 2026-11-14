@@ -1,0 +1,28 @@
+{
+ "limits_percent": {
+  "cu_uM": 2.5,
+  "nitroxide_uM": 1.5
+ },
+ "sessions": {
+  "h1": {
+   "cu_uM": 136.4,
+   "nitroxide_uM": 214.6
+  },
+  "h2": {
+   "cu_uM": 54.4,
+   "nitroxide_uM": 70.4
+  },
+  "h3": {
+   "cu_uM": 172.9,
+   "nitroxide_uM": 283.6
+  },
+  "h4": {
+   "cu_uM": 192.3,
+   "nitroxide_uM": 185.1
+  },
+  "h5": {
+   "cu_uM": 369.9,
+   "nitroxide_uM": 128.6
+  }
+ }
+}

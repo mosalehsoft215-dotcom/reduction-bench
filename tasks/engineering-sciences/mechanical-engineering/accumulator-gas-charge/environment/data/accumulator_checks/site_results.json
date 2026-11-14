@@ -1,0 +1,10 @@
+{
+ "PA-02": {
+  "n2_precharge_bar": 92.4,
+  "gas_volume_litres": 19.41
+ },
+ "PA-11": {
+  "n2_precharge_bar": 118.7,
+  "gas_volume_litres": 31.27
+ }
+}

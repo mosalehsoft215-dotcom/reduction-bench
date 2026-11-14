@@ -1,0 +1,19 @@
+{
+ "unit": "PA-02",
+ "type": "piston accumulator",
+ "nominal_gas_volume_L": 19.1,
+ "rated_precharge_bar": 90,
+ "meter": {
+  "type": "gear meter",
+  "k_factor_pulses_per_L": 451.2
+ },
+ "prover_check": {
+  "vessel_L": 2.0,
+  "pulses": [
+   901,
+   900,
+   903
+  ]
+ },
+ "ambient_C": 21.4
+}

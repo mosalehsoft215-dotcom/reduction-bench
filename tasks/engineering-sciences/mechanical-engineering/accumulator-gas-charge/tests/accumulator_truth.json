@@ -1,0 +1,22 @@
+{
+ "PA-61": {
+  "n2_precharge_bar": 71.3,
+  "gas_volume_litres": 9.62
+ },
+ "PA-62": {
+  "n2_precharge_bar": 136.2,
+  "gas_volume_litres": 48.73
+ },
+ "PA-63": {
+  "n2_precharge_bar": 104.9,
+  "gas_volume_litres": 38.86
+ },
+ "PA-64": {
+  "n2_precharge_bar": 83.6,
+  "gas_volume_litres": 24.18
+ },
+ "PA-65": {
+  "n2_precharge_bar": 127.4,
+  "gas_volume_litres": 15.74
+ }
+}

@@ -1,0 +1,6 @@
+PA-61: margin 84.81 bounds (closest: worked PA-02)
+PA-62: margin 29.86 bounds (closest: worked PA-11)
+PA-63: margin 16.28 bounds (closest: worked PA-11)
+PA-64: margin 16.44 bounds (closest: worked PA-02)
+PA-65: margin 27.47 bounds (closest: worked PA-02)
+OK: no baseline passes a case

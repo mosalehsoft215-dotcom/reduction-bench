@@ -1,0 +1,6 @@
+GS-63: margin 4.83 bounds (closest: worked GS-14)
+GS-52: margin 2.49 bounds (closest: worked GS-37)
+GS-71: margin 5.71 bounds (closest: sealed mean)
+GS-58: margin 2.87 bounds (closest: worked GS-14)
+GS-66: margin 3.71 bounds (closest: worked GS-37)
+OK: no baseline passes a case

@@ -1,0 +1,16 @@
+{
+ "vehicle": "GS-66",
+ "mass_kg": 1980.0,
+ "rotating_mass_kg": 59.0,
+ "pulse_logger": {
+  "teeth": 48,
+  "circ_setting_m": 2.055,
+  "hz": 10
+ },
+ "gnss_hz": 1,
+ "track": {
+  "span_m": 4450.0,
+  "bearing_deg": 90,
+  "origin": "west marker"
+ }
+}

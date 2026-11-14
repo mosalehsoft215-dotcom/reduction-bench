@@ -1,0 +1,10 @@
+{
+ "GS-14": {
+  "f0_target_N": 153.7,
+  "f2_target_N_per_kmh2": 0.03287
+ },
+ "GS-37": {
+  "f0_target_N": 218.3,
+  "f2_target_N_per_kmh2": 0.04571
+ }
+}

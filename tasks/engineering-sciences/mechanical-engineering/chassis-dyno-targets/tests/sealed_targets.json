@@ -1,0 +1,22 @@
+{
+ "GS-63": {
+  "f0_target_N": 123.8,
+  "f2_target_N_per_kmh2": 0.03119
+ },
+ "GS-52": {
+  "f0_target_N": 249.3,
+  "f2_target_N_per_kmh2": 0.04347
+ },
+ "GS-71": {
+  "f0_target_N": 137.6,
+  "f2_target_N_per_kmh2": 0.04136
+ },
+ "GS-58": {
+  "f0_target_N": 179.4,
+  "f2_target_N_per_kmh2": 0.03168
+ },
+ "GS-66": {
+  "f0_target_N": 194.2,
+  "f2_target_N_per_kmh2": 0.05143
+ }
+}

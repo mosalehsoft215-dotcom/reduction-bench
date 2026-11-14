@@ -1,0 +1,12 @@
+{
+ "NE-21": {
+  "zimm_viscosity_mpa_s": 1.437,
+  "stretch_exponent": 0.664,
+  "incoherent_fraction_at_reference": 0.14198
+ },
+ "NE-22": {
+  "zimm_viscosity_mpa_s": 1.218,
+  "stretch_exponent": 0.703,
+  "incoherent_fraction_at_reference": 0.11798
+ }
+}

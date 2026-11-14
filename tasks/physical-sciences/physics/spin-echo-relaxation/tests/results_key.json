@@ -1,0 +1,27 @@
+{
+ "NE-41": {
+  "zimm_viscosity_mpa_s": 2.214,
+  "stretch_exponent": 0.574,
+  "incoherent_fraction_at_reference": 0.18298
+ },
+ "NE-42": {
+  "zimm_viscosity_mpa_s": 0.743,
+  "stretch_exponent": 0.682,
+  "incoherent_fraction_at_reference": 0.10698
+ },
+ "NE-43": {
+  "zimm_viscosity_mpa_s": 2.306,
+  "stretch_exponent": 0.618,
+  "incoherent_fraction_at_reference": 0.25098
+ },
+ "NE-44": {
+  "zimm_viscosity_mpa_s": 0.664,
+  "stretch_exponent": 0.781,
+  "incoherent_fraction_at_reference": 0.13698
+ },
+ "NE-45": {
+  "zimm_viscosity_mpa_s": 2.437,
+  "stretch_exponent": 0.655,
+  "incoherent_fraction_at_reference": 0.20897
+ }
+}

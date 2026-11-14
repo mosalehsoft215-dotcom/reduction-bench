@@ -1,0 +1,5 @@
+NE-41  h-PEG 12k in D2O / d8-glycerol 70:30, 25.0 C
+sample, solvent and graphite standard measured at the same settings
+echo groups of 13 phase-coil points; flipper on/off for every setting
+reactor at 20.0 MW and cold source stable throughout; selector at the 8 A setting
+closed-beam counts taken at the end

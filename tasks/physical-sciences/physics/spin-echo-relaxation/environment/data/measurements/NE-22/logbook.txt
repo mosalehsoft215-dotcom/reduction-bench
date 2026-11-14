@@ -1,0 +1,5 @@
+NE-22  h-PEO 35k in D2O, 35.0 C
+sample, solvent and graphite standard measured at the same settings
+echo groups of 13 phase-coil points; flipper on/off for every setting
+reactor at 20.0 MW and cold source stable throughout; selector at the 8 A setting
+closed-beam counts taken at the end

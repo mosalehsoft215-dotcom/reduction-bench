@@ -1,0 +1,13 @@
+minute,event,value
+0,set_point,150 MW +40 Mvar
+20,vt_spot,dc=0.06388;h300=1.45110
+40,set_point,300 MW +60 Mvar
+60,vt_spot,dc=0.13228;h300=1.62763
+80,set_point,450 MW +90 Mvar
+100,vt_spot,dc=0.19746;h300=1.93283
+120,set_point,520 MW +120 Mvar
+140,vt_spot,dc=0.22729;h300=1.99271
+160,set_point,520 MW -30 Mvar
+180,vt_spot,dc=0.22519;h300=1.75243
+200,set_point,300 MW +0 Mvar
+220,vt_spot,dc=0.12967;h300=1.58395

@@ -1,0 +1,4 @@
+{
+  "grounding_module": "in_circuit",
+  "lp_steam": "main steam flow less LP bypass flow (FT-MS - FT-LPB)"
+}

@@ -1,0 +1,26 @@
+{
+  "unit": "GT-ST 11 generator, 520 MVA, 19 kV, static excitation",
+  "shaft_resistance_ohm": 0.004,
+  "grounding_module_resistor_ohm": 3.0,
+  "healthy_values": {
+    "grounding_brush_ohm": 1.2,
+    "de_bearing_film_ohm": 8000.0,
+    "de_bearing_film_capacitance_f": 3e-08,
+    "nde_insulation_ohm": 250000.0,
+    "nde_insulation_capacitance_f": 8e-09
+  },
+  "field_to_body_capacitance_f": 3e-07,
+  "commissioning_survey": {
+    "axial_emf_h1_v_per_ka_stator": 0.045,
+    "axial_emf_h3_v_per_ka_field": 0.12
+  },
+  "electrostatic_charge_a_per_kg_s_lp_steam": 1.2e-05,
+  "nde_monitor_input": {
+    "resistance_ohm": 1000000.0,
+    "capacitance_f": 2e-09
+  },
+  "de_monitor_input": {
+    "resistance_ohm": 1000000.0,
+    "capacitance_f": 2e-09
+  }
+}

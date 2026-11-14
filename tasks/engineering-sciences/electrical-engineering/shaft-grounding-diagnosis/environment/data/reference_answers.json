@@ -1,0 +1,10 @@
+{
+  "E1": {
+    "degraded_element": "grounding_brush",
+    "resistance_ohm": 63.4
+  },
+  "E2": {
+    "degraded_element": "nde_insulation",
+    "resistance_ohm": 27.8
+  }
+}

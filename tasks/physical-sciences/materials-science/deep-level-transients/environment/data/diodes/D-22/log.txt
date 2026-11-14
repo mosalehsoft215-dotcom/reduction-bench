@@ -1,0 +1,3 @@
+01  wafer E-121, epi 8 um
+02  C-V at 300 K; scan 100-340 K
+03  bias and capture series as usual

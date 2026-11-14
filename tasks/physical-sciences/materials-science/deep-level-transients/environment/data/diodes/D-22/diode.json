@@ -1,0 +1,48 @@
+{
+ "diode": "D-22",
+ "structure": "Au Schottky dot on n-type Si epitaxial layer, n+ Si substrate, back contact",
+ "dot_diameter_mm": 1.0,
+ "area_cm2": 0.007854,
+ "meter": {
+  "frequency_hz": 1000000.0,
+  "reports": "parallel capacitance C_pF and conductance G_uS"
+ },
+ "scan": {
+  "reverse_bias_v": -5.0,
+  "pulse_v": 0.0,
+  "pulse_width_s": 0.001,
+  "period_s": 2.5,
+  "transients_averaged": 64,
+  "temperatures_k": "100 to 340 in 2.5 K steps"
+ },
+ "bias_series": {
+  "reverse_biases_v": [
+   -2.0,
+   -5.0,
+   -10.0
+  ],
+  "pulse_v": 0.0,
+  "pulse_width_s": 0.001,
+  "period_s": 2.5
+ },
+ "capture_series": {
+  "reverse_bias_v": -5.0,
+  "pulse_v": 0.0,
+  "pulse_widths_s": [
+   5e-09,
+   1.077e-08,
+   2.321e-08,
+   5e-08,
+   1.077e-07,
+   2.321e-07,
+   5e-07,
+   1.077e-06,
+   2.321e-06,
+   5e-06,
+   1.077e-05,
+   2.321e-05,
+   5e-05
+  ],
+  "period_s": 2.5
+ }
+}

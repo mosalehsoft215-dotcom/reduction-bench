@@ -1,0 +1,6 @@
+diode | closest constant (allowances) | grid answers inside of 3696
+D-31 | D-21 10.9 | 0
+D-32 | D-21 36.8 | 0
+D-33 | D-21 24.3 | 0
+D-34 | D-21 14.1 | 0
+D-35 | D-21 15.3 | 0

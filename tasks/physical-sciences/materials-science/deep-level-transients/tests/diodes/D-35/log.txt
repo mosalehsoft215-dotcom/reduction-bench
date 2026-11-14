@@ -1,0 +1,3 @@
+01  wafer E-157, epi grown in two runs in the old reactor
+02  C-V at 300 K; scan 100-340 K
+03  bias and capture series as usual

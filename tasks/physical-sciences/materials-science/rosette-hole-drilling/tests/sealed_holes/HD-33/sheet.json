@@ -1,0 +1,10 @@
+{
+ "hole": "HD-33",
+ "material": "AZ31B magnesium sheet",
+ "youngs_modulus_gpa": 45.0,
+ "poisson_ratio": 0.35,
+ "thermal_expansion_ppm_per_k": 26.0,
+ "rosette": "three-gauge foil rosette, gauges at 0, 135 and 90 degrees, S-T-C 06",
+ "cutter_diameter_mm": 1.8,
+ "hole_diameter_measured_mm": 1.97
+}

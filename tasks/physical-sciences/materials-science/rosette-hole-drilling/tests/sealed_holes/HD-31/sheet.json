@@ -1,0 +1,10 @@
+{
+ "hole": "HD-31",
+ "material": "7075-T6 aluminium plate",
+ "youngs_modulus_gpa": 71.7,
+ "poisson_ratio": 0.33,
+ "thermal_expansion_ppm_per_k": 23.4,
+ "rosette": "three-gauge foil rosette, gauges at 0, 135 and 90 degrees, S-T-C 06",
+ "cutter_diameter_mm": 1.8,
+ "hole_diameter_measured_mm": 1.8
+}

@@ -1,0 +1,10 @@
+{
+ "hole": "HD-35",
+ "material": "S690 high-strength steel",
+ "youngs_modulus_gpa": 207.0,
+ "poisson_ratio": 0.3,
+ "thermal_expansion_ppm_per_k": 12.3,
+ "rosette": "three-gauge foil rosette, gauges at 0, 135 and 90 degrees, S-T-C 06",
+ "cutter_diameter_mm": 1.6,
+ "hole_diameter_measured_mm": 1.78
+}

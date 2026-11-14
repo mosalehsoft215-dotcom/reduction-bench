@@ -1,0 +1,66 @@
+{
+ "shipped": {
+  "HD-04": {
+   "reference": 0.018,
+   "second": 0.003
+  },
+  "HD-09": {
+   "reference": 0.012,
+   "second": 0.004
+  },
+  "HD-31": {
+   "reference": 0.011,
+   "second": 0.011
+  },
+  "HD-32": {
+   "reference": 0.009,
+   "second": 0.005
+  },
+  "HD-33": {
+   "reference": 0.013,
+   "second": 0.006
+  },
+  "HD-34": {
+   "reference": 0.015,
+   "second": 0.009
+  },
+  "HD-35": {
+   "reference": 0.005,
+   "second": 0.004
+  }
+ },
+ "routes": {
+  "apparent strain ignored": {
+   "HD-04": 0.05,
+   "HD-09": 0.18,
+   "HD-31": 4.07,
+   "HD-32": 0.72,
+   "HD-33": 5.2,
+   "HD-34": 12.87,
+   "HD-35": 0.18
+  },
+  "cutter diameter instead of the measured hole": {
+   "HD-04": 0.39,
+   "HD-09": 0.01,
+   "HD-31": 0.01,
+   "HD-32": 8.39,
+   "HD-33": 6.58,
+   "HD-34": 0.01,
+   "HD-35": 7.92
+  },
+  "both": {
+   "HD-04": 0.33,
+   "HD-09": 0.18,
+   "HD-31": 4.07,
+   "HD-32": 7.49,
+   "HD-33": 12.81,
+   "HD-34": 12.87,
+   "HD-35": 7.7
+  }
+ },
+ "worked_copy_passes": 0,
+ "redraws": {
+  "reference": 0.049,
+  "second": 0.021
+ }
+}

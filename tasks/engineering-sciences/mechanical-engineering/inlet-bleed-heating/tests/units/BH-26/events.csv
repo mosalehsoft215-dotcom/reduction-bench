@@ -1,0 +1,13 @@
+time,event,item
+2026-02-10 05:20:00,test_start,
+2026-02-10 05:20:00,point_start,P0
+2026-02-10 05:39:59,point_end,P0
+2026-02-10 05:40:00,point_start,A
+2026-02-10 05:59:59,point_end,A
+2026-02-10 06:00:00,point_start,C
+2026-02-10 06:19:59,point_end,C
+2026-02-10 06:20:00,point_start,D
+2026-02-10 06:39:59,point_end,D
+2026-02-10 06:40:00,point_start,B
+2026-02-10 06:59:59,point_end,B
+2026-02-10 06:59:59,test_end,

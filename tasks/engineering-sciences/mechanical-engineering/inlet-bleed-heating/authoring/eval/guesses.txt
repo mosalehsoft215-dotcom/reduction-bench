@@ -1,0 +1,7 @@
+14400 guess pairs tried; units passed by any guess: ['BH-23', 'BH-26', 'BH-28', 'BH-30']
+BH-23 [(3.75, 9.0)]
+BH-26 [(4.75, 4.909)]
+BH-28 [(5.75, 6.75), (5.692, 6.75)]
+BH-30 [(4.127, 10.0)]
+one guess pair passing all five: none
+rule-based guesses (49 rules, each applied to every unit): most units passed by one rule = 0

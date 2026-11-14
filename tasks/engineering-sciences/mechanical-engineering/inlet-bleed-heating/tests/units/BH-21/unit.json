@@ -1,0 +1,118 @@
+{
+ "unit": "BH-21",
+ "compressor": {
+  "inlet_guide_vanes": "IGV_DEG",
+  "discharge": "CPD_BARG and CTD_C"
+ },
+ "bellmouth": {
+  "area_m2": 2.46,
+  "flow_coefficient": 0.991,
+  "dp": "BM_DP_MBAR",
+  "filter_house_loss": "FILTER_DP_MBAR"
+ },
+ "flow_element": {
+  "type": "classical venturi, machined convergent",
+  "pipe_bore_mm": 254.5,
+  "throat_mm": 124.0,
+  "discharge_coefficient": 0.985,
+  "transmitters": [
+   "FE_DP_1_MBAR",
+   "FE_DP_2_MBAR"
+  ],
+  "upstream_pressure": "FE_P_BARG",
+  "upstream_temperature": "FE_T_C"
+ },
+ "bleed_valve": {
+  "tag": "FV-1",
+  "position": "FV_POS_PCT",
+  "flow_table": {
+   "basis": "kg/s at 10.0 bar abs and 600 K upstream, choked",
+   "origin": "characterised on site against the flow element",
+   "points": [
+    [
+     0,
+     0.0
+    ],
+    [
+     10,
+     0.349
+    ],
+    [
+     20,
+     0.861
+    ],
+    [
+     30,
+     1.459
+    ],
+    [
+     40,
+     2.122
+    ],
+    [
+     50,
+     2.839
+    ],
+    [
+     60,
+     3.618
+    ],
+    [
+     70,
+     4.394
+    ],
+    [
+     80,
+     5.192
+    ],
+    [
+     90,
+     6.012
+    ],
+    [
+     100,
+     6.969
+    ]
+   ]
+  }
+ },
+ "block_valve": {
+  "tag": "BV-1",
+  "position": "manual, upstream of the flow element"
+ },
+ "bleed_line": {
+  "from": "flow element",
+  "to": "inlet manifold",
+  "insulated": true
+ },
+ "bellmouth_grid": {
+  "elements": [
+   "CTI_01_C",
+   "CTI_02_C",
+   "CTI_03_C",
+   "CTI_04_C",
+   "CTI_05_C",
+   "CTI_06_C",
+   "CTI_07_C",
+   "CTI_08_C",
+   "CTI_09_C",
+   "CTI_10_C",
+   "CTI_11_C",
+   "CTI_12_C"
+  ],
+  "layout": "centroids of 12 equal-area sectors of the bellmouth annulus",
+  "order": "clockwise from top, outer ring 01-06, inner ring 07-12"
+ },
+ "ambient": {
+  "elements": [
+   "AMB_1_C",
+   "AMB_2_C",
+   "AMB_3_C",
+   "AMB_4_C"
+  ],
+  "where": "filter-house face"
+ },
+ "inlet_manifold": {
+  "where": "inlet duct downstream of the filters, upstream of the silencer"
+ }
+}

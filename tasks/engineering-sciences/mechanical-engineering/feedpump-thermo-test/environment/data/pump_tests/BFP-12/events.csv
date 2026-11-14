@@ -1,0 +1,15 @@
+t_s,event,value
+1500,warm-up check start,2.40
+2400,warm-up check end,
+2400,warm-up check start,5.10
+3300,warm-up check end,
+3900,steady start,1
+4710,steady end,1
+5040,steady start,2
+5850,steady end,2
+6180,steady start,3
+6990,steady end,3
+7320,steady start,4
+8130,steady end,4
+8460,steady start,5
+9270,steady end,5

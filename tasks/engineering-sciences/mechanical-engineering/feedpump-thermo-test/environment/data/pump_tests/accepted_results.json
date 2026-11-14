@@ -1,0 +1,10 @@
+{
+ "BFP-11": {
+  "efficiency_pct_at_guarantee": 82.102,
+  "head_m_at_guarantee": 1618.2032
+ },
+ "BFP-12": {
+  "efficiency_pct_at_guarantee": 81.452,
+  "head_m_at_guarantee": 1664.4
+ }
+}

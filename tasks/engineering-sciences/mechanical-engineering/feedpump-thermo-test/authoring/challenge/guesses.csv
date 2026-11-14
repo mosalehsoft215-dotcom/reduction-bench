@@ -1,0 +1,32 @@
+key,guess,value,pumps_within_limit,which
+efficiency_pct_at_guarantee,example BFP-11,82.1020,0,
+efficiency_pct_at_guarantee,example BFP-12,81.4520,0,
+efficiency_pct_at_guarantee,mean of the examples,81.7770,0,
+efficiency_pct_at_guarantee,round 75,75.0000,0,
+efficiency_pct_at_guarantee,round 76,76.0000,0,
+efficiency_pct_at_guarantee,round 77,77.0000,0,
+efficiency_pct_at_guarantee,round 78,78.0000,0,
+efficiency_pct_at_guarantee,round 79,79.0000,2,BFP-32 BFP-34
+efficiency_pct_at_guarantee,round 80,80.0000,0,
+efficiency_pct_at_guarantee,round 81,81.0000,1,BFP-35
+efficiency_pct_at_guarantee,round 82,82.0000,0,
+efficiency_pct_at_guarantee,round 83,83.0000,1,BFP-33
+efficiency_pct_at_guarantee,round 84,84.0000,1,BFP-31
+efficiency_pct_at_guarantee,round 85,85.0000,0,
+efficiency_pct_at_guarantee,round 86,86.0000,0,
+efficiency_pct_at_guarantee,round 87,87.0000,0,
+efficiency_pct_at_guarantee,round 88,88.0000,0,
+head_m_at_guarantee,example BFP-11,1618.2032,0,
+head_m_at_guarantee,example BFP-12,1664.4000,0,
+head_m_at_guarantee,mean of the examples,1641.3016,0,
+head_m_at_guarantee,round 1400,1400.0000,0,
+head_m_at_guarantee,round 1450,1450.0000,0,
+head_m_at_guarantee,round 1500,1500.0000,0,
+head_m_at_guarantee,round 1550,1550.0000,0,
+head_m_at_guarantee,round 1600,1600.0000,0,
+head_m_at_guarantee,round 1650,1650.0000,0,
+head_m_at_guarantee,round 1700,1700.0000,0,
+head_m_at_guarantee,round 1750,1750.0000,0,
+head_m_at_guarantee,round 1800,1800.0000,0,
+head_m_at_guarantee,round 1850,1850.0000,0,
+head_m_at_guarantee,round 1900,1900.0000,0,

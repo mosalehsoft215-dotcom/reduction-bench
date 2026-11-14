@@ -1,0 +1,40 @@
+{
+  "carboy": "NF-26",
+  "date": "2026-09-09",
+  "excitation": {
+    "wavelength_nm": 532.0,
+    "radius_um_in_cell": 47.9,
+    "shutter": "piezo",
+    "pick_off": "photodiode after the shutter, column pump_V"
+  },
+  "probe": {
+    "wavelength_nm": 632.8,
+    "waist_radius_um": 62.0,
+    "waist_position_mm": 0.0,
+    "cell_position_mm": 34.6
+  },
+  "meter": "thermopile head in front of the cell; meter_mW in exposures.csv",
+  "clock": "t_ms = 0 is the moment the shutter was told to open",
+  "fluids": {
+    "NF-26": {
+      "role": "carboy",
+      "base_fluid": "ethylene glycol",
+      "particles": "Cu nanowires, 0.09 vol %",
+      "density_kg_per_m3": 1127.4,
+      "specific_heat_J_per_kg_K": 2376.0
+    },
+    "RW-3": {
+      "role": "reference",
+      "base_fluid": "water",
+      "certified_alpha_per_cm": 0.01047,
+      "certified_on": "2026-02-17"
+    },
+    "RE-5": {
+      "role": "reference",
+      "base_fluid": "ethanol",
+      "certified_alpha_per_cm": 0.008916,
+      "certified_on": "2026-02-17"
+    }
+  },
+  "photometer": "photometer.csv: decadic absorbance per cm of the reference liquids, read the same morning in a 10 cm cell"
+}

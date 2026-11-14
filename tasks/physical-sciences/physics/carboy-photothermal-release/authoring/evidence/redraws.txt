@@ -1,0 +1,2 @@
+reference: shipped worst 0.081 (NF-07 0.04, NF-11 0.01, NF-21 0.01, NF-26 0.08, NF-33 0.02, NF-38 0.02, NF-44 0.02); 42 redrawn reductions worst 0.159, all inside: True
+second solver: shipped worst 0.282 (NF-07 0.20, NF-11 0.26, NF-21 0.25, NF-26 0.25, NF-33 0.12, NF-38 0.24, NF-44 0.28); 42 redrawn reductions worst 0.313, all inside: True

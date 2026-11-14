@@ -1,0 +1,10 @@
+{
+  "NF-07": {
+    "absorption_per_m": 0.4187,
+    "conductivity_w_per_m_k": 0.169015
+  },
+  "NF-11": {
+    "absorption_per_m": 0.6832,
+    "conductivity_w_per_m_k": 0.251453
+  }
+}

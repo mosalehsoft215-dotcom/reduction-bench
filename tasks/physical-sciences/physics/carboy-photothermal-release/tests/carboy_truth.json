@@ -1,0 +1,22 @@
+{
+  "NF-21": {
+    "absorption_per_m": 33.12,
+    "conductivity_w_per_m_k": 0.182916
+  },
+  "NF-26": {
+    "absorption_per_m": 0.5219,
+    "conductivity_w_per_m_k": 0.26729
+  },
+  "NF-33": {
+    "absorption_per_m": 0.3617,
+    "conductivity_w_per_m_k": 0.184078
+  },
+  "NF-38": {
+    "absorption_per_m": 0.4793,
+    "conductivity_w_per_m_k": 0.17518
+  },
+  "NF-44": {
+    "absorption_per_m": 2.147,
+    "conductivity_w_per_m_k": 0.273122
+  }
+}

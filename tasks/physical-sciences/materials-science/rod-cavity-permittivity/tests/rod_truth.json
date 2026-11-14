@@ -1,0 +1,22 @@
+{
+ "MW-31": {
+  "eps_real": 6.1,
+  "loss_tangent": 0.0026
+ },
+ "MW-32": {
+  "eps_real": 12.5,
+  "loss_tangent": 0.0006
+ },
+ "MW-33": {
+  "eps_real": 4.4,
+  "loss_tangent": 0.0035
+ },
+ "MW-34": {
+  "eps_real": 8.2,
+  "loss_tangent": 0.0012
+ },
+ "MW-35": {
+  "eps_real": 16.0,
+  "loss_tangent": 0.0005
+ }
+}

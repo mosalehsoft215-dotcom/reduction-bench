@@ -1,0 +1,10 @@
+{
+ "MW-04": {
+  "eps_real": 4.62,
+  "loss_tangent": 0.0036
+ },
+ "MW-09": {
+  "eps_real": 6.15,
+  "loss_tangent": 0.0019
+ }
+}

@@ -1,0 +1,9 @@
+sweep,rod,insertion,mode
+empty_TM010.csv,none,empty,TM010
+empty_TM020.csv,none,empty,TM020
+insertion1_TM010.csv,in,insertion1,TM010
+insertion1_TM020.csv,in,insertion1,TM020
+insertion2_TM010.csv,in,insertion2,TM010
+insertion2_TM020.csv,in,insertion2,TM020
+insertion3_TM010.csv,in,insertion3,TM010
+insertion3_TM020.csv,in,insertion3,TM020

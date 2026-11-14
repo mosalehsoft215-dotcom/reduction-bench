@@ -1,0 +1,14 @@
+{
+  "OT-11": {
+    "stiffness_per_watt_pn_nm_w": 0.262,
+    "reference_stiffness_pn_nm": 0.05476,
+    "reference_sensitivity_nm_v": 121.0,
+    "bead_radius_nm": 497.0
+  },
+  "OT-12": {
+    "stiffness_per_watt_pn_nm_w": 0.183,
+    "reference_stiffness_pn_nm": 0.03989,
+    "reference_sensitivity_nm_v": 86.0,
+    "bead_radius_nm": 398.0
+  }
+}

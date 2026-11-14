@@ -1,0 +1,7 @@
+answers without any calibration: largest group of sealed sessions one shared value would satisfy
+stiffness_per_watt_pn_nm_w: 1 of 5 (OT-31)
+reference_stiffness_pn_nm: 2 of 5 (OT-32, OT-33)
+reference_sensitivity_nm_v: 1 of 5 (OT-31)
+bead_radius_nm: 1 of 5 (OT-31)
+copying OT-11: satisfies no sealed session
+copying OT-12: satisfies no sealed session

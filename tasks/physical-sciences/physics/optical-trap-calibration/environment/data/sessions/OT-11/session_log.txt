@@ -1,0 +1,4 @@
+09:00 session OT-11 opened; trap laser warm since 08:15
+09:02 power meter readings after the objective taken (power_meter.csv)
+09:06 bead trapped, contact with the coverslip found, stage travel zeroed
+10:24 session closed

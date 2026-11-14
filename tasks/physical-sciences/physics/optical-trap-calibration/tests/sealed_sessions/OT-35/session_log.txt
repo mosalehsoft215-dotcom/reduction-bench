@@ -1,0 +1,5 @@
+09:00 session OT-35 opened; trap laser warm since 08:15
+09:02 power meter readings after the objective taken (power_meter.csv)
+09:06 bead trapped, contact with the coverslip found, stage travel zeroed
+09:43 sum channel saturating at high power; x channel recorded without sum normalisation from here on
+10:24 session closed

@@ -1,0 +1,32 @@
+{
+  "OT-31": {
+    "stiffness_per_watt_pn_nm_w": 0.352,
+    "reference_stiffness_pn_nm": 0.07392,
+    "reference_sensitivity_nm_v": 230.56,
+    "bead_radius_nm": 757.0
+  },
+  "OT-32": {
+    "stiffness_per_watt_pn_nm_w": 0.214,
+    "reference_stiffness_pn_nm": 0.04494,
+    "reference_sensitivity_nm_v": 243.0,
+    "bead_radius_nm": 1012.0
+  },
+  "OT-33": {
+    "stiffness_per_watt_pn_nm_w": 0.298,
+    "reference_stiffness_pn_nm": 0.04506,
+    "reference_sensitivity_nm_v": 112.0,
+    "bead_radius_nm": 511.0
+  },
+  "OT-34": {
+    "stiffness_per_watt_pn_nm_w": 0.148,
+    "reference_stiffness_pn_nm": 0.03108,
+    "reference_sensitivity_nm_v": 83.75,
+    "bead_radius_nm": 357.54
+  },
+  "OT-35": {
+    "stiffness_per_watt_pn_nm_w": 0.405,
+    "reference_stiffness_pn_nm": 0.08505,
+    "reference_sensitivity_nm_v": 215.7143,
+    "bead_radius_nm": 642.0
+  }
+}

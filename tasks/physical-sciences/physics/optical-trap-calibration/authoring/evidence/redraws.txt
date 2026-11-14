@@ -1,0 +1,15 @@
+largest relative error (%) in 20 noise redraws per session: per watt, reference stiffness, sensitivity, radius
+reference P1: 2.60 3.57 1.17 2.26
+reference P2: 3.90 4.14 2.00 3.54
+reference H1: 2.89 3.41 2.32 1.96
+reference H2: 2.89 3.33 1.16 2.64
+reference H3: 4.97 3.98 1.57 3.13
+reference H4: 3.19 5.20 2.76 5.55
+reference H5: 1.79 2.56 1.27 1.69
+second P1: 2.59 3.38 1.08 2.15
+second P2: 3.52 4.09 1.95 3.45
+second H1: 2.30 2.85 1.88 1.79
+second H2: 3.10 3.84 1.05 4.59
+second H3: 5.12 3.89 1.61 3.23
+second H4: 3.15 4.96 2.84 5.68
+second H5: 1.74 2.63 1.37 1.65

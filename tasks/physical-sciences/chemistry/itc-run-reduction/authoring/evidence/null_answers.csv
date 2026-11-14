@@ -1,0 +1,6 @@
+run,named_candidates,named_passing,round_pairs,round_passing,grid_pairs,grid_passing,random_pass_chance
+h1,6,0,312,0,481601,45,9.53e-05
+h2,6,0,312,0,481601,85,1.83e-04
+h3,6,0,312,0,481601,35,6.71e-05
+h4,6,0,312,0,481601,35,7.93e-05
+h5,6,0,312,0,481601,35,8.56e-05

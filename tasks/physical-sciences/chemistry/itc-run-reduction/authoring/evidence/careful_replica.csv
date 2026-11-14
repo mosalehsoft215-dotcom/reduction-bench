@@ -1,0 +1,8 @@
+reading,run,kd_um_err_pct,dh_kj_per_mol_err_pct,allowances,passes,chi2,repaired
+careful replica,T0914,-0.54,-0.2,0.12,True,10.9,False
+careful replica,T1022,-1.42,-0.14,0.24,True,20.9,False
+careful replica,h1,0.5,-0.16,0.1,True,9.0,False
+careful replica,h2,-1.2,-3.07,1.92,False,23.0,False
+careful replica,h3,2.6,1.03,0.64,True,537.6,True
+careful replica,h4,-1.29,1.63,1.02,False,89.2,False
+careful replica,h5,-40.69,-9.16,6.78,False,1965.5,True

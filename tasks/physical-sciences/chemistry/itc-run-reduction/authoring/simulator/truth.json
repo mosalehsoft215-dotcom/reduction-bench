@@ -1,0 +1,30 @@
+{
+  "T0914": {
+    "kd_um": 2.37,
+    "dh_kj_per_mol": -38.6
+  },
+  "T1022": {
+    "kd_um": 0.61,
+    "dh_kj_per_mol": -21.9
+  },
+  "h1": {
+    "kd_um": 1.83,
+    "dh_kj_per_mol": -27.4
+  },
+  "h2": {
+    "kd_um": 0.78,
+    "dh_kj_per_mol": -52.7
+  },
+  "h3": {
+    "kd_um": 12.9,
+    "dh_kj_per_mol": -19.3
+  },
+  "h4": {
+    "kd_um": 1.38,
+    "dh_kj_per_mol": 22.8
+  },
+  "h5": {
+    "kd_um": 5.37,
+    "dh_kj_per_mol": -24.6
+  }
+}

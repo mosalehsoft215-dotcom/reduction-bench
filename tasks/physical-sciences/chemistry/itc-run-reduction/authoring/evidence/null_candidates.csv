@@ -1,0 +1,31 @@
+run,candidate,kd_um,dh_kj_per_mol,passes
+h1,public T0914,2.3649,-38.562,False
+h1,public T1022,0.6075,-21.878,False
+h1,public mean,1.4862,-30.22,False
+h1,"public geometric-mean Kd, mean dH",1.1986,-30.22,False
+h1,"Kd of T0914, dH of T1022",2.3649,-21.878,False
+h1,"Kd of T1022, dH of T0914",0.6075,-38.562,False
+h2,public T0914,2.3649,-38.562,False
+h2,public T1022,0.6075,-21.878,False
+h2,public mean,1.4862,-30.22,False
+h2,"public geometric-mean Kd, mean dH",1.1986,-30.22,False
+h2,"Kd of T0914, dH of T1022",2.3649,-21.878,False
+h2,"Kd of T1022, dH of T0914",0.6075,-38.562,False
+h3,public T0914,2.3649,-38.562,False
+h3,public T1022,0.6075,-21.878,False
+h3,public mean,1.4862,-30.22,False
+h3,"public geometric-mean Kd, mean dH",1.1986,-30.22,False
+h3,"Kd of T0914, dH of T1022",2.3649,-21.878,False
+h3,"Kd of T1022, dH of T0914",0.6075,-38.562,False
+h4,public T0914,2.3649,-38.562,False
+h4,public T1022,0.6075,-21.878,False
+h4,public mean,1.4862,-30.22,False
+h4,"public geometric-mean Kd, mean dH",1.1986,-30.22,False
+h4,"Kd of T0914, dH of T1022",2.3649,-21.878,False
+h4,"Kd of T1022, dH of T0914",0.6075,-38.562,False
+h5,public T0914,2.3649,-38.562,False
+h5,public T1022,0.6075,-21.878,False
+h5,public mean,1.4862,-30.22,False
+h5,"public geometric-mean Kd, mean dH",1.1986,-30.22,False
+h5,"Kd of T0914, dH of T1022",2.3649,-21.878,False
+h5,"Kd of T1022, dH of T0914",0.6075,-38.562,False

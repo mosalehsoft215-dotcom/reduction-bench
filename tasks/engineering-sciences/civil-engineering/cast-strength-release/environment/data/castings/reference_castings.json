@@ -1,0 +1,10 @@
+{
+ "CW-04": {
+  "time_to_10mpa_h": 21.98,
+  "strength_at_release_mpa": 13.94
+ },
+ "CW-19": {
+  "time_to_10mpa_h": 27.69,
+  "strength_at_release_mpa": 12.12
+ }
+}

@@ -1,0 +1,9 @@
+{
+ "casting": "CW-52",
+ "element": "core wall lift",
+ "mix": "C-74",
+ "cast_at": "2026-10-21 11:15",
+ "release_at": "2026-10-24 03:15",
+ "fresh_concrete_C": 10.2,
+ "logger_interval_min": 15
+}

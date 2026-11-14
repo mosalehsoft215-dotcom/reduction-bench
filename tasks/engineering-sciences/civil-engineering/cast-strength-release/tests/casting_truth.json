@@ -1,0 +1,22 @@
+{
+ "CW-52": {
+  "time_to_10mpa_h": 34.42,
+  "strength_at_release_mpa": 16.11
+ },
+ "CW-53": {
+  "time_to_10mpa_h": 16.46,
+  "strength_at_release_mpa": 12.71
+ },
+ "CW-54": {
+  "time_to_10mpa_h": 51.93,
+  "strength_at_release_mpa": 10.83
+ },
+ "CW-55": {
+  "time_to_10mpa_h": 7.88,
+  "strength_at_release_mpa": 23.84
+ },
+ "CW-56": {
+  "time_to_10mpa_h": 11.48,
+  "strength_at_release_mpa": 20.05
+ }
+}

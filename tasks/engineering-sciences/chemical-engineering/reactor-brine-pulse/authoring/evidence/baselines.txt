@@ -1,0 +1,6 @@
+K-302: margin 23.59 bounds (closest: worked K-216)
+K-317: margin 16.66 bounds (closest: worked K-251)
+K-329: margin 26.07 bounds (closest: worked K-216)
+K-344: margin 6.68 bounds (closest: sealed mean (2 s.f.))
+K-358: margin 14.29 bounds (closest: sealed median)
+OK: no baseline passes a case

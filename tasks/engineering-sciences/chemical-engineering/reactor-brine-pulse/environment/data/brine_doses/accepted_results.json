@@ -1,0 +1,10 @@
+{
+  "K-216": {
+    "swept_volume_m3": 16.86,
+    "mixing_stages": 4.441
+  },
+  "K-251": {
+    "swept_volume_m3": 64.45,
+    "mixing_stages": 2.303
+  }
+}

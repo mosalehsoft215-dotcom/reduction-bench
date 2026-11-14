@@ -1,0 +1,22 @@
+{
+  "K-302": {
+    "swept_volume_m3": 26.09,
+    "mixing_stages": 4.375
+  },
+  "K-317": {
+    "swept_volume_m3": 85.92,
+    "mixing_stages": 2.6
+  },
+  "K-329": {
+    "swept_volume_m3": 12.98,
+    "mixing_stages": 1.732
+  },
+  "K-344": {
+    "swept_volume_m3": 47.79,
+    "mixing_stages": 4.658
+  },
+  "K-358": {
+    "swept_volume_m3": 41.07,
+    "mixing_stages": 1.4
+  }
+}

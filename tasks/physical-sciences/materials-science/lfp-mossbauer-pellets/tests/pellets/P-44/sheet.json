@@ -1,0 +1,8 @@
+{
+ "pellet": "P-44",
+ "material": "chemically delithiated LiFePO4 (Li_xFePO4) powder mixed with boron nitride",
+ "pellet_diameter_mm": 13.0,
+ "pellet_mass_mg": 15.94,
+ "iron_mass_percent": 28.31,
+ "drive": "constant acceleration, folded to 512 channels; same drive settings for every run of this pellet"
+}

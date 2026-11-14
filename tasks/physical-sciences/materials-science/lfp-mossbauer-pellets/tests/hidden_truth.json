@@ -1,0 +1,27 @@
+{
+ "P-41": {
+  "fe3_fraction": 0.364,
+  "is_fe2_mm_s": 1.2252,
+  "qs_fe2_mm_s": 2.9667
+ },
+ "P-42": {
+  "fe3_fraction": 0.627,
+  "is_fe2_mm_s": 1.2194,
+  "qs_fe2_mm_s": 2.9512
+ },
+ "P-43": {
+  "fe3_fraction": 0.183,
+  "is_fe2_mm_s": 1.2269,
+  "qs_fe2_mm_s": 2.9702
+ },
+ "P-44": {
+  "fe3_fraction": 0.518,
+  "is_fe2_mm_s": 1.2178,
+  "qs_fe2_mm_s": 2.9433
+ },
+ "P-45": {
+  "fe3_fraction": 0.806,
+  "is_fe2_mm_s": 1.2241,
+  "qs_fe2_mm_s": 2.9619
+ }
+}

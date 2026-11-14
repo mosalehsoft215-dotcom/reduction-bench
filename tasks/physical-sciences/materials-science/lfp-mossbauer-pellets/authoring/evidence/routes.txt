@@ -1,0 +1,70 @@
+reference                                                          P-03  worst   0.19 (fe3_fraction)  fe3=0.19 is=0.04 qs=0.00
+reference                                                          P-08  worst   0.19 (qs_fe2_mm_s)  fe3=0.07 is=0.07 qs=0.19
+reference                                                          P-41  worst   0.19 (is_fe2_mm_s)  fe3=0.11 is=0.19 qs=0.01
+reference                                                          P-42  worst   0.17 (is_fe2_mm_s)  fe3=0.00 is=0.17 qs=0.05
+reference                                                          P-43  worst   0.03 (is_fe2_mm_s)  fe3=0.01 is=0.03 qs=0.03
+reference                                                          P-44  worst   0.21 (fe3_fraction)  fe3=0.21 is=0.13 qs=0.07
+reference                                                          P-45  worst   0.10 (qs_fe2_mm_s)  fe3=0.09 is=0.03 qs=0.10
+thin absorber (Lorentzian lines), Debye per site                   P-03  worst   0.70 (is_fe2_mm_s)  fe3=0.08 is=0.70 qs=0.18
+thin absorber (Lorentzian lines), Debye per site                   P-08  worst   0.65 (is_fe2_mm_s)  fe3=0.36 is=0.65 qs=0.05
+thin absorber (Lorentzian lines), Debye per site                   P-41  worst   5.49 (fe3_fraction)  fe3=5.49 is=5.10 qs=1.64
+thin absorber (Lorentzian lines), Debye per site                   P-42  worst   4.65 (fe3_fraction)  fe3=4.65 is=3.26 qs=1.52
+thin absorber (Lorentzian lines), Debye per site                   P-43  worst  11.09 (fe3_fraction)  fe3=11.09 is=3.09 qs=0.53
+thin absorber (Lorentzian lines), Debye per site                   P-44  worst   1.35 (is_fe2_mm_s)  fe3=1.26 is=1.35 qs=0.73
+thin absorber (Lorentzian lines), Debye per site                   P-45  worst  14.07 (fe3_fraction)  fe3=14.07 is=6.85 qs=2.22
+transmission integral, one recoil-free fraction for both sites     P-03  worst   0.29 (fe3_fraction)  fe3=0.29 is=0.00 qs=0.05
+transmission integral, one recoil-free fraction for both sites     P-08  worst   0.14 (qs_fe2_mm_s)  fe3=0.02 is=0.02 qs=0.14
+transmission integral, one recoil-free fraction for both sites     P-41  worst   4.33 (fe3_fraction)  fe3=4.33 is=0.33 qs=0.08
+transmission integral, one recoil-free fraction for both sites     P-42  worst   4.26 (fe3_fraction)  fe3=4.26 is=0.46 qs=0.22
+transmission integral, one recoil-free fraction for both sites     P-43  worst   0.31 (fe3_fraction)  fe3=0.31 is=0.04 qs=0.04
+transmission integral, one recoil-free fraction for both sites     P-44  worst   5.83 (fe3_fraction)  fe3=5.83 is=0.17 qs=0.21
+transmission integral, one recoil-free fraction for both sites     P-45  worst   3.07 (fe3_fraction)  fe3=3.07 is=0.90 qs=0.47
+transmission integral, 295 K run alone, one recoil-free fraction   P-03  worst   0.30 (fe3_fraction)  fe3=0.30 is=0.03 qs=0.02
+transmission integral, 295 K run alone, one recoil-free fraction   P-08  worst   0.19 (qs_fe2_mm_s)  fe3=0.03 is=0.13 qs=0.19
+transmission integral, 295 K run alone, one recoil-free fraction   P-41  worst   6.74 (fe3_fraction)  fe3=6.74 is=0.09 qs=0.09
+transmission integral, 295 K run alone, one recoil-free fraction   P-42  worst   5.40 (fe3_fraction)  fe3=5.40 is=0.23 qs=0.09
+transmission integral, 295 K run alone, one recoil-free fraction   P-43  worst   0.47 (fe3_fraction)  fe3=0.47 is=0.02 qs=0.02
+transmission integral, 295 K run alone, one recoil-free fraction   P-44  worst   7.82 (fe3_fraction)  fe3=7.82 is=0.07 qs=0.12
+transmission integral, 295 K run alone, one recoil-free fraction   P-45  worst   4.26 (fe3_fraction)  fe3=4.26 is=0.16 qs=0.04
+transmission integral, Fe3+ share from the 80 K run alone (one recoil-free fraction), hyperfine at 295 K P-03  worst   0.28 (fe3_fraction)  fe3=0.28 is=0.03 qs=0.02
+transmission integral, Fe3+ share from the 80 K run alone (one recoil-free fraction), hyperfine at 295 K P-08  worst   0.19 (qs_fe2_mm_s)  fe3=0.04 is=0.13 qs=0.19
+transmission integral, Fe3+ share from the 80 K run alone (one recoil-free fraction), hyperfine at 295 K P-41  worst   2.97 (fe3_fraction)  fe3=2.97 is=0.09 qs=0.09
+transmission integral, Fe3+ share from the 80 K run alone (one recoil-free fraction), hyperfine at 295 K P-42  worst   2.64 (fe3_fraction)  fe3=2.64 is=0.23 qs=0.09
+transmission integral, Fe3+ share from the 80 K run alone (one recoil-free fraction), hyperfine at 295 K P-43  worst   0.16 (fe3_fraction)  fe3=0.16 is=0.02 qs=0.02
+transmission integral, Fe3+ share from the 80 K run alone (one recoil-free fraction), hyperfine at 295 K P-44  worst   3.75 (fe3_fraction)  fe3=3.75 is=0.07 qs=0.12
+transmission integral, Fe3+ share from the 80 K run alone (one recoil-free fraction), hyperfine at 295 K P-45  worst   2.17 (fe3_fraction)  fe3=2.17 is=0.16 qs=0.04
+velocity scale linear in channel (foil fitted without the cubic terms) P-03  worst   0.54 (is_fe2_mm_s)  fe3=0.20 is=0.54 qs=0.31
+velocity scale linear in channel (foil fitted without the cubic terms) P-08  worst   1.41 (is_fe2_mm_s)  fe3=0.07 is=1.41 qs=0.16
+velocity scale linear in channel (foil fitted without the cubic terms) P-41  worst   0.58 (is_fe2_mm_s)  fe3=0.02 is=0.58 qs=0.03
+velocity scale linear in channel (foil fitted without the cubic terms) P-42  worst   0.35 (qs_fe2_mm_s)  fe3=0.09 is=0.09 qs=0.35
+velocity scale linear in channel (foil fitted without the cubic terms) P-43  worst   0.46 (is_fe2_mm_s)  fe3=0.00 is=0.46 qs=0.32
+velocity scale linear in channel (foil fitted without the cubic terms) P-44  worst   0.25 (fe3_fraction)  fe3=0.25 is=0.01 qs=0.01
+velocity scale linear in channel (foil fitted without the cubic terms) P-45  worst   1.23 (is_fe2_mm_s)  fe3=0.07 is=1.23 qs=0.44
+analyser dead time ignored (counts taken as recorded)              P-03  worst   0.18 (fe3_fraction)  fe3=0.18 is=0.08 qs=0.02
+analyser dead time ignored (counts taken as recorded)              P-08  worst   0.21 (qs_fe2_mm_s)  fe3=0.04 is=0.06 qs=0.21
+analyser dead time ignored (counts taken as recorded)              P-41  worst   0.40 (is_fe2_mm_s)  fe3=0.17 is=0.40 qs=0.19
+analyser dead time ignored (counts taken as recorded)              P-42  worst   0.60 (fe3_fraction)  fe3=0.60 is=0.42 qs=0.16
+analyser dead time ignored (counts taken as recorded)              P-43  worst   0.39 (fe3_fraction)  fe3=0.39 is=0.19 qs=0.02
+analyser dead time ignored (counts taken as recorded)              P-44  worst   0.29 (qs_fe2_mm_s)  fe3=0.03 is=0.01 qs=0.29
+analyser dead time ignored (counts taken as recorded)              P-45  worst   8.27 (fe3_fraction)  fe3=8.27 is=2.20 qs=0.43
+cold run taken at the stage sensor reading (80 K), shifts free per run P-03  worst   0.18 (fe3_fraction)  fe3=0.18 is=0.08 qs=0.01
+cold run taken at the stage sensor reading (80 K), shifts free per run P-08  worst   0.21 (qs_fe2_mm_s)  fe3=0.13 is=0.16 qs=0.21
+cold run taken at the stage sensor reading (80 K), shifts free per run P-41  worst   1.56 (fe3_fraction)  fe3=1.56 is=0.45 qs=0.52
+cold run taken at the stage sensor reading (80 K), shifts free per run P-42  worst   1.02 (is_fe2_mm_s)  fe3=0.35 is=1.02 qs=0.91
+cold run taken at the stage sensor reading (80 K), shifts free per run P-43  worst   0.82 (fe3_fraction)  fe3=0.82 is=0.10 qs=0.07
+cold run taken at the stage sensor reading (80 K), shifts free per run P-44  worst   1.46 (is_fe2_mm_s)  fe3=1.16 is=1.46 qs=1.00
+cold run taken at the stage sensor reading (80 K), shifts free per run P-45  worst   6.49 (is_fe2_mm_s)  fe3=0.09 is=6.49 qs=5.35
+thin absorber, 295 K run alone, one recoil-free fraction           P-03  worst   0.38 (is_fe2_mm_s)  fe3=0.30 is=0.38 qs=0.26
+thin absorber, 295 K run alone, one recoil-free fraction           P-08  worst   0.37 (is_fe2_mm_s)  fe3=0.02 is=0.37 qs=0.21
+thin absorber, 295 K run alone, one recoil-free fraction           P-41  worst   6.78 (fe3_fraction)  fe3=6.78 is=2.31 qs=1.73
+thin absorber, 295 K run alone, one recoil-free fraction           P-42  worst   5.11 (fe3_fraction)  fe3=5.11 is=2.38 qs=1.86
+thin absorber, 295 K run alone, one recoil-free fraction           P-43  worst   1.18 (is_fe2_mm_s)  fe3=0.90 is=1.18 qs=0.97
+thin absorber, 295 K run alone, one recoil-free fraction           P-44  worst   7.73 (fe3_fraction)  fe3=7.73 is=0.83 qs=0.86
+thin absorber, 295 K run alone, one recoil-free fraction           P-45  worst   4.80 (is_fe2_mm_s)  fe3=3.58 is=4.80 qs=3.76
+thin absorber, Fe3+ share from the 80 K run alone (one recoil-free fraction), hyperfine at 295 K P-03  worst   0.38 (is_fe2_mm_s)  fe3=0.31 is=0.38 qs=0.26
+thin absorber, Fe3+ share from the 80 K run alone (one recoil-free fraction), hyperfine at 295 K P-08  worst   0.37 (is_fe2_mm_s)  fe3=0.01 is=0.37 qs=0.21
+thin absorber, Fe3+ share from the 80 K run alone (one recoil-free fraction), hyperfine at 295 K P-41  worst   3.12 (fe3_fraction)  fe3=3.12 is=2.31 qs=1.73
+thin absorber, Fe3+ share from the 80 K run alone (one recoil-free fraction), hyperfine at 295 K P-42  worst   2.38 (is_fe2_mm_s)  fe3=2.28 is=2.38 qs=1.86
+thin absorber, Fe3+ share from the 80 K run alone (one recoil-free fraction), hyperfine at 295 K P-43  worst   1.18 (is_fe2_mm_s)  fe3=0.65 is=1.18 qs=0.97
+thin absorber, Fe3+ share from the 80 K run alone (one recoil-free fraction), hyperfine at 295 K P-44  worst   3.67 (fe3_fraction)  fe3=3.67 is=0.83 qs=0.86
+thin absorber, Fe3+ share from the 80 K run alone (one recoil-free fraction), hyperfine at 295 K P-45  worst   4.80 (is_fe2_mm_s)  fe3=1.41 is=4.80 qs=3.76

@@ -1,0 +1,43 @@
+{
+  "mission": "SIRA-2",
+  "record": {
+    "first_hour_utc": "2026-05-01 00:00",
+    "last_hour_utc": "2031-05-01 05:00"
+  },
+  "reference_period": {
+    "first_hour_utc": "2026-09-24 02:00",
+    "last_hour_utc": "2027-04-12 01:00"
+  },
+  "late_period": {
+    "first_hour_utc": "2030-07-05 06:00",
+    "last_hour_utc": "2031-05-01 05:00"
+  },
+  "radiometers": {
+    "A": {
+      "role": "primary",
+      "package": "main radiometer package",
+      "exposure": "shutter cycling every hour",
+      "temperature_coefficient_per_K": 0.00022,
+      "cavity_paint_lot": "L-07"
+    },
+    "B": {
+      "role": "backup",
+      "package": "main radiometer package",
+      "exposure": "15 min a day from 12:00 UTC",
+      "temperature_coefficient_per_K": 0.00024,
+      "cavity_paint_lot": "L-07"
+    },
+    "C": {
+      "role": "tertiary",
+      "package": "tertiary unit",
+      "exposure": "5 min on the 15th of each month from 14:00 UTC",
+      "temperature_coefficient_per_K": 0.00019,
+      "cavity_paint_lot": "L-07"
+    }
+  },
+  "temperature_coefficients_from": "flight-model thermal-vacuum test",
+  "heat_sink_reference_c": 20.0,
+  "heat_sink_control": "one controller (redundant A-side and B-side) for the main package and the tertiary unit",
+  "characterisation": "C against the cryogenic reference radiometer before launch; A and B against C in the same campaign. Readings are reported with these characterisations applied.",
+  "notes": []
+}

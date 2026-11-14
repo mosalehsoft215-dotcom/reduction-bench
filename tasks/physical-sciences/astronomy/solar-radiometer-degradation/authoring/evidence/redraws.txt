@@ -1,0 +1,12 @@
+210 redrawn missions, 30 of each
+reference tsi_ref_w_m2: largest 0.54 of the bound (H3 copy 13)
+reference tsi_change_w_m2: largest 0.60 of the bound (H5 copy 11)
+independent tsi_ref_w_m2: largest 0.57 of the bound (H3 copy 13)
+independent tsi_change_w_m2: largest 0.76 of the bound (H5 copy 11)
+M1: reference 0.25 / 0.33, independent 0.21 / 0.33
+M2: reference 0.30 / 0.31, independent 0.25 / 0.53
+H1: reference 0.25 / 0.46, independent 0.23 / 0.43
+H2: reference 0.35 / 0.32, independent 0.20 / 0.48
+H3: reference 0.54 / 0.40, independent 0.57 / 0.37
+H4: reference 0.36 / 0.43, independent 0.23 / 0.48
+H5: reference 0.33 / 0.60, independent 0.17 / 0.76

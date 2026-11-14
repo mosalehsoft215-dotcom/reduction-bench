@@ -1,0 +1,4 @@
+2026-11-01 00:00  First light: A, B and C exposed continuously for commissioning.
+2026-11-01 06:00  Commissioning complete; nominal exposure schedules start.
+2028-03-26 23:00  Underflight comparison: rocket radiometer traceable to the cryogenic reference measured 1361.84 W/m2 at 1 AU during this hour (standard uncertainty 0.06 W/m2).
+2030-06-08 12:00  Underflight comparison: rocket radiometer traceable to the cryogenic reference measured 1361.32 W/m2 at 1 AU during this hour (standard uncertainty 0.06 W/m2).

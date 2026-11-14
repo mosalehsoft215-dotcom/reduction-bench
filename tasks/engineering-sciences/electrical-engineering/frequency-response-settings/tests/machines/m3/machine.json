@@ -1,0 +1,27 @@
+{
+  "machine": "GT-35",
+  "rated_mw": 255.0,
+  "rated_mva": 300.0,
+  "f_nominal_hz": 50.0,
+  "poles": 2,
+  "setup": {
+    "revenue_meter": "generator terminals",
+    "shaft_rpm_from": "governor",
+    "bus_frequency": "recorded",
+    "load_set_mw_is": "governor reference",
+    "plant_load_controller": "off",
+    "test_set_connection": "governor test input"
+  },
+  "columns": {
+    "t_s": "seconds since the start of the trend",
+    "bus_hz": "bus frequency transducer on the 400 kV busbar VT, Hz",
+    "shaft_rpm": "turbine shaft speed, rpm (setup.shaft_rpm_from says whose record)",
+    "injected_mhz": "frequency deviation the test set sends, mHz",
+    "gen_mw_1": "generator MW transducer 1 (generator VT and CT)",
+    "gen_mw_2": "generator MW transducer 2 (generator VT and CT)",
+    "load_set_mw": "load signal, MW (setup.load_set_mw_is says which)",
+    "exhaust_degc": "exhaust temperature, control average, degC",
+    "exhaust_limit_degc": "exhaust temperature control limit at the present conditions, degC",
+    "meter_mwh": "revenue meter energy register, MWh (own metering VT and CT, class 0.2S; setup.revenue_meter says where)"
+  }
+}

@@ -1,0 +1,3 @@
+PFR test of GT-34.
+Test set on the spare analog input.
+Dispatch reported a generation loss on the system during the test.

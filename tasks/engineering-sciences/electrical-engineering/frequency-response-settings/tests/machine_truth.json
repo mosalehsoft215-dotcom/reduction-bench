@@ -1,0 +1,22 @@
+{
+ "m1": {
+  "droop_percent": 5.21,
+  "deadband_millihertz": 18.3
+ },
+ "m2": {
+  "droop_percent": 4.86,
+  "deadband_millihertz": 23.4
+ },
+ "m3": {
+  "droop_percent": 3.36,
+  "deadband_millihertz": 27.6
+ },
+ "m4": {
+  "droop_percent": 4.29,
+  "deadband_millihertz": 12.6
+ },
+ "m5": {
+  "droop_percent": 5.71,
+  "deadband_millihertz": 16.9
+ }
+}

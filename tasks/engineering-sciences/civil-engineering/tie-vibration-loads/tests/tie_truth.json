@@ -1,0 +1,22 @@
+{
+ "TR-71": {
+  "load_pre_kn": 523.4,
+  "load_post_kn": 611.8
+ },
+ "TR-72": {
+  "load_pre_kn": 1077.3,
+  "load_post_kn": 1286.5
+ },
+ "TR-73": {
+  "load_pre_kn": 1183.6,
+  "load_post_kn": 1012.9
+ },
+ "TR-74": {
+  "load_pre_kn": 512.6,
+  "load_post_kn": 589.3
+ },
+ "TR-75": {
+  "load_pre_kn": 557.9,
+  "load_post_kn": 486.4
+ }
+}

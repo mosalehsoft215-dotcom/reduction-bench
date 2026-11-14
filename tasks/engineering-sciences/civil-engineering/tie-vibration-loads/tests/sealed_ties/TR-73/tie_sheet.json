@@ -1,0 +1,35 @@
+{
+ "tie": "TR-73",
+ "roof": "exhibition hall",
+ "make_up": {
+  "kind": "solid round steel bar",
+  "bar_diameter_mm": 100.0,
+  "ends": "threaded through steel anchor blocks welded to the roof truss and to the edge girder, one nut at each block"
+ },
+ "working_point_length_m": 9.9,
+ "unit_mass_kg_per_m": 61.654,
+ "young_modulus_mpa": 210000.0,
+ "steel_area_mm2": 7854.0,
+ "chord_slope_deg": 90.0,
+ "clear_length_m": 9.4,
+ "pickups": {
+  "metres_above_lower_block_face": {
+   "a_lo_mg": 0.51,
+   "a_mid_mg": 1.33,
+   "a_hi_mg": 8.96
+  },
+  "axis": "horizontal, all three in one vertical plane"
+ },
+ "samples_per_second": 128,
+ "files": {
+  "pre": "vib_pre.csv",
+  "post": "vib_post.csv"
+ },
+ "steel_temperature_c": {
+  "pre": 17.5,
+  "post": 15.2
+ },
+ "retensioning": {
+  "worked": "anchor nut at the lower block"
+ }
+}

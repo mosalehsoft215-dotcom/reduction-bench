@@ -1,0 +1,513 @@
+{
+ "allowance": 0.03,
+ "shipped": {
+  "TR-11": {
+   "reference": 0.348,
+   "second": 0.07,
+   "frequencies_only": 0.348,
+   "held_ends": 0.348,
+   "screened_route": 0.558,
+   "ladder_as_sheet": 0.017,
+   "ladder_consensus": 0.017,
+   "taut_string": 0.045,
+   "sag_or_sheet": 0.017
+  },
+  "TR-26": {
+   "reference": 0.148,
+   "second": 0.072,
+   "frequencies_only": 0.148,
+   "held_ends": 0.148,
+   "screened_route": 0.364,
+   "ladder_as_sheet": 0.05,
+   "ladder_consensus": 0.05,
+   "taut_string": 0.051,
+   "sag_or_sheet": 0.05
+  },
+  "TR-29": {
+   "reference": 0.457,
+   "second": 0.095,
+   "frequencies_only": 0.457,
+   "held_ends": 0.457,
+   "screened_route": 0.275,
+   "ladder_as_sheet": 3.588,
+   "ladder_consensus": 3.588,
+   "taut_string": 3.564,
+   "sag_or_sheet": 0.387
+  },
+  "TR-38": {
+   "reference": 0.061,
+   "second": 0.089,
+   "frequencies_only": 0.093,
+   "held_ends": 0.094,
+   "screened_route": 0.094,
+   "ladder_as_sheet": 0.094,
+   "ladder_consensus": 0.094,
+   "taut_string": 160.822,
+   "sag_or_sheet": 0.061
+  },
+  "TR-71": {
+   "reference": 0.143,
+   "second": 0.106,
+   "frequencies_only": 3.399,
+   "held_ends": 659.786,
+   "screened_route": 659.786,
+   "ladder_as_sheet": 659.786,
+   "ladder_consensus": 659.786,
+   "taut_string": 216.144,
+   "sag_or_sheet": 0.143
+  },
+  "TR-72": {
+   "reference": 0.065,
+   "second": 0.408,
+   "frequencies_only": 0.065,
+   "held_ends": 0.065,
+   "screened_route": 17.842,
+   "ladder_as_sheet": 4.328,
+   "ladder_consensus": 4.328,
+   "taut_string": 4.319,
+   "sag_or_sheet": 0.056
+  },
+  "TR-73": {
+   "reference": 0.163,
+   "second": 0.169,
+   "frequencies_only": 2.8,
+   "held_ends": 611.841,
+   "screened_route": 611.841,
+   "ladder_as_sheet": 611.841,
+   "ladder_consensus": 560.812,
+   "taut_string": 134.797,
+   "sag_or_sheet": 0.163
+  },
+  "TR-74": {
+   "reference": 0.247,
+   "second": 0.092,
+   "frequencies_only": 0.247,
+   "held_ends": 0.247,
+   "screened_route": 5.678,
+   "ladder_as_sheet": 5.675,
+   "ladder_consensus": 5.675,
+   "taut_string": 5.689,
+   "sag_or_sheet": 5.675
+  },
+  "TR-75": {
+   "reference": 0.017,
+   "second": 0.064,
+   "frequencies_only": 0.017,
+   "held_ends": 0.017,
+   "screened_route": 6.178,
+   "ladder_as_sheet": 4.148,
+   "ladder_consensus": 4.148,
+   "taut_string": 4.158,
+   "sag_or_sheet": 4.148
+  }
+ },
+ "redraws": {
+  "1": {
+   "TR-11": {
+    "reference": 0.59,
+    "second": 0.38,
+    "frequencies_only": 0.59,
+    "held_ends": 0.59
+   },
+   "TR-26": {
+    "reference": 0.034,
+    "second": 0.039,
+    "frequencies_only": 0.034,
+    "held_ends": 0.034
+   },
+   "TR-29": {
+    "reference": 0.134,
+    "second": 0.003,
+    "frequencies_only": 0.134,
+    "held_ends": 0.134
+   },
+   "TR-38": {
+    "reference": 0.05,
+    "second": 0.1,
+    "frequencies_only": 0.049,
+    "held_ends": 0.021
+   },
+   "TR-71": {
+    "reference": 0.14,
+    "second": 0.217,
+    "frequencies_only": 1.681,
+    "held_ends": 658.404
+   },
+   "TR-72": {
+    "reference": 0.568,
+    "second": 0.214,
+    "frequencies_only": 0.568,
+    "held_ends": 0.568
+   },
+   "TR-73": {
+    "reference": 0.154,
+    "second": 0.117,
+    "frequencies_only": 2.138,
+    "held_ends": 1581.991
+   },
+   "TR-74": {
+    "reference": 0.122,
+    "second": 0.214,
+    "frequencies_only": 0.122,
+    "held_ends": 0.122
+   },
+   "TR-75": {
+    "reference": 0.232,
+    "second": 0.323,
+    "frequencies_only": 0.232,
+    "held_ends": 0.232
+   }
+  },
+  "2": {
+   "TR-11": {
+    "reference": 0.121,
+    "second": 0.29,
+    "frequencies_only": 0.121,
+    "held_ends": 0.121
+   },
+   "TR-26": {
+    "reference": 0.375,
+    "second": 0.335,
+    "frequencies_only": 0.375,
+    "held_ends": 0.375
+   },
+   "TR-29": {
+    "reference": 0.1,
+    "second": 0.03,
+    "frequencies_only": 0.1,
+    "held_ends": 0.1
+   },
+   "TR-38": {
+    "reference": 0.131,
+    "second": 0.187,
+    "frequencies_only": 0.158,
+    "held_ends": 0.099
+   },
+   "TR-71": {
+    "reference": 0.209,
+    "second": 0.155,
+    "frequencies_only": 0.218,
+    "held_ends": 155.441
+   },
+   "TR-72": {
+    "reference": 0.208,
+    "second": 0.042,
+    "frequencies_only": 0.208,
+    "held_ends": 0.208
+   },
+   "TR-73": {
+    "reference": 0.175,
+    "second": 0.138,
+    "frequencies_only": 2.869,
+    "held_ends": 607.939
+   },
+   "TR-74": {
+    "reference": 0.046,
+    "second": 0.052,
+    "frequencies_only": 0.046,
+    "held_ends": 0.046
+   },
+   "TR-75": {
+    "reference": 0.569,
+    "second": 0.019,
+    "frequencies_only": 0.569,
+    "held_ends": 0.569
+   }
+  },
+  "3": {
+   "TR-11": {
+    "reference": 0.395,
+    "second": 0.253,
+    "frequencies_only": 0.395,
+    "held_ends": 0.395
+   },
+   "TR-26": {
+    "reference": 0.01,
+    "second": 0.078,
+    "frequencies_only": 0.01,
+    "held_ends": 0.01
+   },
+   "TR-29": {
+    "reference": 0.026,
+    "second": 0.142,
+    "frequencies_only": 0.026,
+    "held_ends": 0.026
+   },
+   "TR-38": {
+    "reference": 0.065,
+    "second": 0.047,
+    "frequencies_only": 0.065,
+    "held_ends": 0.041
+   },
+   "TR-71": {
+    "reference": 0.185,
+    "second": 0.103,
+    "frequencies_only": 0.655,
+    "held_ends": 661.666
+   },
+   "TR-72": {
+    "reference": 0.368,
+    "second": 0.323,
+    "frequencies_only": 0.368,
+    "held_ends": 0.368
+   },
+   "TR-73": {
+    "reference": 0.039,
+    "second": 0.103,
+    "frequencies_only": 2.814,
+    "held_ends": 609.341
+   },
+   "TR-74": {
+    "reference": 0.156,
+    "second": 0.155,
+    "frequencies_only": 0.156,
+    "held_ends": 0.156
+   },
+   "TR-75": {
+    "reference": 0.072,
+    "second": 0.098,
+    "frequencies_only": 0.072,
+    "held_ends": 0.072
+   }
+  },
+  "4": {
+   "TR-11": {
+    "reference": 0.175,
+    "second": 0.073,
+    "frequencies_only": 0.175
+   },
+   "TR-26": {
+    "reference": 0.438,
+    "second": 0.105,
+    "frequencies_only": 0.438
+   },
+   "TR-29": {
+    "reference": 0.563,
+    "second": 0.481,
+    "frequencies_only": 0.563
+   },
+   "TR-38": {
+    "reference": 0.077,
+    "second": 0.04,
+    "frequencies_only": 0.184
+   },
+   "TR-71": {
+    "reference": 0.211,
+    "second": 0.242,
+    "frequencies_only": 3.364
+   },
+   "TR-72": {
+    "reference": 0.504,
+    "second": 0.004,
+    "frequencies_only": 0.504
+   },
+   "TR-73": {
+    "reference": 0.063,
+    "second": 0.051,
+    "frequencies_only": 3.015
+   },
+   "TR-74": {
+    "reference": 0.372,
+    "second": 0.038,
+    "frequencies_only": 0.372
+   },
+   "TR-75": {
+    "reference": 0.07,
+    "second": 0.029,
+    "frequencies_only": 0.07
+   }
+  },
+  "5": {
+   "TR-11": {
+    "reference": 0.442,
+    "second": 0.141,
+    "frequencies_only": 0.442
+   },
+   "TR-26": {
+    "reference": 0.141,
+    "second": 0.072,
+    "frequencies_only": 0.141
+   },
+   "TR-29": {
+    "reference": 0.275,
+    "second": 0.182,
+    "frequencies_only": 0.275
+   },
+   "TR-38": {
+    "reference": 0.095,
+    "second": 0.157,
+    "frequencies_only": 0.092
+   },
+   "TR-71": {
+    "reference": 0.121,
+    "second": 0.031,
+    "frequencies_only": 1.211
+   },
+   "TR-72": {
+    "reference": 0.187,
+    "second": 0.234,
+    "frequencies_only": 0.187
+   },
+   "TR-73": {
+    "reference": 0.044,
+    "second": 0.058,
+    "frequencies_only": 2.939
+   },
+   "TR-74": {
+    "reference": 0.156,
+    "second": 0.226,
+    "frequencies_only": 0.156
+   },
+   "TR-75": {
+    "reference": 0.136,
+    "second": 0.215,
+    "frequencies_only": 0.136
+   }
+  },
+  "6": {
+   "TR-11": {
+    "reference": 0.295,
+    "second": 0.131,
+    "frequencies_only": 0.295
+   },
+   "TR-26": {
+    "reference": 0.105,
+    "second": 0.26,
+    "frequencies_only": 0.105
+   },
+   "TR-29": {
+    "reference": 0.116,
+    "second": 0.453,
+    "frequencies_only": 0.116
+   },
+   "TR-38": {
+    "reference": 0.054,
+    "second": 0.024,
+    "frequencies_only": 0.054
+   },
+   "TR-71": {
+    "reference": 0.058,
+    "second": 0.052,
+    "frequencies_only": 2.866
+   },
+   "TR-72": {
+    "reference": 0.116,
+    "second": 0.035,
+    "frequencies_only": 0.116
+   },
+   "TR-73": {
+    "reference": 0.205,
+    "second": 0.348,
+    "frequencies_only": 0.736
+   },
+   "TR-74": {
+    "reference": 0.564,
+    "second": 0.042,
+    "frequencies_only": 0.564
+   },
+   "TR-75": {
+    "reference": 0.536,
+    "second": 0.258,
+    "frequencies_only": 0.536
+   }
+  },
+  "7": {
+   "TR-11": {
+    "reference": 0.327,
+    "second": 0.019,
+    "frequencies_only": 0.327
+   },
+   "TR-26": {
+    "reference": 0.194,
+    "second": 0.055,
+    "frequencies_only": 0.194
+   },
+   "TR-29": {
+    "reference": 0.745,
+    "second": 0.583,
+    "frequencies_only": 0.745
+   },
+   "TR-38": {
+    "reference": 0.008,
+    "second": 0.053,
+    "frequencies_only": 0.065
+   },
+   "TR-71": {
+    "reference": 0.183,
+    "second": 0.183,
+    "frequencies_only": 0.266
+   },
+   "TR-72": {
+    "reference": 0.129,
+    "second": 0.168,
+    "frequencies_only": 0.129
+   },
+   "TR-73": {
+    "reference": 0.156,
+    "second": 0.062,
+    "frequencies_only": 0.277
+   },
+   "TR-74": {
+    "reference": 0.517,
+    "second": 0.034,
+    "frequencies_only": 0.517
+   },
+   "TR-75": {
+    "reference": 0.211,
+    "second": 0.127,
+    "frequencies_only": 0.211
+   }
+  },
+  "8": {
+   "TR-11": {
+    "reference": 0.725,
+    "second": 0.062,
+    "frequencies_only": 0.725
+   },
+   "TR-26": {
+    "reference": 0.514,
+    "second": 0.016,
+    "frequencies_only": 0.514
+   },
+   "TR-29": {
+    "reference": 0.42,
+    "second": 0.018,
+    "frequencies_only": 0.42
+   },
+   "TR-38": {
+    "reference": 0.036,
+    "second": 0.04,
+    "frequencies_only": 0.036
+   },
+   "TR-71": {
+    "reference": 0.048,
+    "second": 0.086,
+    "frequencies_only": 1.105
+   },
+   "TR-72": {
+    "reference": 0.057,
+    "second": 0.011,
+    "frequencies_only": 0.057
+   },
+   "TR-73": {
+    "reference": 0.18,
+    "second": 0.055,
+    "frequencies_only": 1.316
+   },
+   "TR-74": {
+    "reference": 0.131,
+    "second": 0.003,
+    "frequencies_only": 0.131
+   },
+   "TR-75": {
+    "reference": 0.183,
+    "second": 0.264,
+    "frequencies_only": 0.183
+   }
+  }
+ },
+ "worst_over_redraws": {
+  "reference": 0.745,
+  "second": 0.583
+ }
+}

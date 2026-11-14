@@ -1,0 +1,18 @@
+{
+ "TR-11": {
+  "load_pre_kn": 4566.3,
+  "load_post_kn": 5063.8
+ },
+ "TR-26": {
+  "load_pre_kn": 4012.7,
+  "load_post_kn": 3617.4
+ },
+ "TR-38": {
+  "load_pre_kn": 573.8,
+  "load_post_kn": 652.6
+ },
+ "TR-29": {
+  "load_pre_kn": 1203.6,
+  "load_post_kn": 1371.9
+ }
+}

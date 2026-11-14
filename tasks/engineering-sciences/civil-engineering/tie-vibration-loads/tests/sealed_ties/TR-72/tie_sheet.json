@@ -1,0 +1,32 @@
+{
+ "tie": "TR-72",
+ "roof": "stadium bowl canopy",
+ "make_up": {
+  "kind": "parallel-strand backstay",
+  "strand_count": 37,
+  "strand": "15.7 mm seven-wire, 150 mm2",
+  "ends": "wedge anchor heads at the mast head and at the ground anchor block"
+ },
+ "working_point_length_m": 214.0,
+ "unit_mass_kg_per_m": 49.2,
+ "young_modulus_mpa": 195000.0,
+ "steel_area_mm2": 5550.0,
+ "chord_slope_deg": 24.0,
+ "pickup": {
+  "metres_above_lower_working_point": 18.19,
+  "axis": "normal to the chord, in the vertical plane of the tie"
+ },
+ "samples_per_second": 20,
+ "files": {
+  "pre": "vib_pre.csv",
+  "post": "vib_post.csv"
+ },
+ "steel_temperature_c": {
+  "pre": 6.5,
+  "post": 15.0
+ },
+ "retensioning": {
+  "worked": "shim pack at the ground anchor",
+  "shim_change_mm": 90.1
+ }
+}

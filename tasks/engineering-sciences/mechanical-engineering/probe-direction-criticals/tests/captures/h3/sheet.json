@@ -1,0 +1,16 @@
+{
+  "unit": "G-43",
+  "rated_speed_rpm": 3000,
+  "rotation": "counter-clockwise viewed from the driver",
+  "keyphasor": "single notch in the shaft; zero of the 1X phase",
+  "speed": "keyphasor pulse rate, as counted by the online monitoring system",
+  "probes": {
+    "de_x": "DE bearing, X: top, vertical",
+    "de_y": "DE bearing, Y: horizontal, right-hand side looking from the driver",
+    "nde_x": "NDE bearing, X: top, vertical",
+    "nde_y": "NDE bearing, Y: horizontal, right-hand side looking from the driver"
+  },
+  "supports": "sleeve bearings in pedestals bolted to a steel frame, stiffer vertically than horizontally",
+  "probe_type": "proximity probe systems, 7.87 V/mm; gap voltage healthy from -8 to -12 V",
+  "data": "1X vectors (um pk-pk, deg lag) tracked by the plant's online monitoring system"
+}

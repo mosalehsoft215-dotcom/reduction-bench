@@ -1,0 +1,16 @@
+{
+  "unit": "T-11",
+  "rated_speed_rpm": 3000,
+  "rotation": "clockwise viewed from the driver",
+  "keyphasor": "single notch in the shaft; zero of the 1X phase",
+  "speed": "keyphasor pulse rate, as counted by the online monitoring system",
+  "probes": {
+    "de_x": "DE bearing, X: 45 deg left of top, looking from the driver",
+    "de_y": "DE bearing, Y: 45 deg right of top, looking from the driver",
+    "nde_x": "NDE bearing, X: 45 deg left of top, looking from the driver",
+    "nde_y": "NDE bearing, Y: 45 deg right of top, looking from the driver"
+  },
+  "supports": "tilting-pad journal bearings in pedestals cast into the concrete block",
+  "probe_type": "proximity probe systems, 7.87 V/mm; gap voltage healthy from -8 to -12 V",
+  "data": "1X vectors (um pk-pk, deg lag) tracked by the plant's online monitoring system"
+}

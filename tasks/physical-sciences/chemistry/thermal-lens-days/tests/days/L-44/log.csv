@@ -1,0 +1,4 @@
+t_s,event,item,text
+0,NOTE,,"lasers on, 45 min warm-up"
+3300,FILL,RE-5,"cell of 1 cm path filled and placed"
+4380,FILL,TL-186,"cell of 0.2 cm path filled and placed"

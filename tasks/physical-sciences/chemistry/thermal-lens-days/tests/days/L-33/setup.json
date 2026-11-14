@@ -1,0 +1,32 @@
+{
+  "day": "L-33",
+  "date": "2026-09-23",
+  "excitation": {
+    "wavelength_nm": 532.0,
+    "waist_radius_um_at_sample": 50.3,
+    "shutter": "mechanical",
+    "pump_photodiode": "pick-off photodiode, column pump_V"
+  },
+  "probe": {
+    "wavelength_nm": 632.8,
+    "waist_radius_um": 59.7,
+    "waist_position_mm": 0.0,
+    "sample_position_mm": 33.4
+  },
+  "power_meter": "thermopile head in front of the cell; pump_meter_mW in runs.csv",
+  "time_zero": "t_ms = 0 is the shutter-open command",
+  "liquids": {
+    "TL-171": {
+      "role": "sample",
+      "solvent": "ethanol",
+      "note": "dilute dye solution; k and dn/dT are those of its solvent"
+    },
+    "RW-3": {
+      "role": "reference",
+      "solvent": "water",
+      "certified_alpha_per_cm": 0.01047,
+      "certified_on": "2026-02-17"
+    }
+  },
+  "spectrophotometer": "absorbance.csv: decadic absorbance per cm of the reference liquids, measured the same morning in a 10 cm cell"
+}

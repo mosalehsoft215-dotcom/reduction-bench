@@ -1,0 +1,22 @@
+{
+  "L-21": {
+    "alpha_per_cm": 0.3483,
+    "diffusivity_mm2_per_s": 0.092239
+  },
+  "L-26": {
+    "alpha_per_cm": 0.005219,
+    "diffusivity_mm2_per_s": 0.09279
+  },
+  "L-33": {
+    "alpha_per_cm": 0.003617,
+    "diffusivity_mm2_per_s": 0.101609
+  },
+  "L-38": {
+    "alpha_per_cm": 0.005248,
+    "diffusivity_mm2_per_s": 0.082753
+  },
+  "L-44": {
+    "alpha_per_cm": 0.02214,
+    "diffusivity_mm2_per_s": 0.107427
+  }
+}

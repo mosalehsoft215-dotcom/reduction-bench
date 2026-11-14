@@ -1,0 +1,22 @@
+set,program,day,miss_alpha,miss_diffu,within
+shipped,reference,L-07,0.012,0.014,True
+shipped,reference,L-11,0.018,0.003,True
+shipped,reference,L-21,0.006,0.009,True
+shipped,reference,L-26,0.064,0.016,True
+shipped,reference,L-33,0.011,0.026,True
+shipped,reference,L-38,0.002,0.02,True
+shipped,reference,L-44,0.0,0.028,True
+shipped,joint solver,L-07,0.01,0.214,True
+shipped,joint solver,L-11,0.013,0.259,True
+shipped,joint solver,L-21,0.006,0.244,True
+shipped,joint solver,L-26,0.061,0.248,True
+shipped,joint solver,L-33,0.016,0.074,True
+shipped,joint solver,L-38,0.008,0.253,True
+shipped,joint solver,L-44,0.005,0.262,True
+shipped,plain reading,L-07,0.139,0.107,True
+shipped,plain reading,L-11,0.101,0.075,True
+shipped,plain reading,L-21,10.1,0.069,False
+shipped,plain reading,L-26,4.673,0.057,False
+shipped,plain reading,L-33,0.245,2.911,False
+shipped,plain reading,L-38,6.461,0.016,False
+shipped,plain reading,L-44,0.148,0.078,True

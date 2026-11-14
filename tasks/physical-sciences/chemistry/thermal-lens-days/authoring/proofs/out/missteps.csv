@@ -1,0 +1,8 @@
+step,L-07 alpha,L-07 diffu,L-11 alpha,L-11 diffu,L-21 alpha,L-21 diffu,L-26 alpha,L-26 diffu,L-33 alpha,L-33 diffu,L-38 alpha,L-38 diffu,L-44 alpha,L-44 diffu
+reference,0.01,0.01,0.02,0.0,0.01,0.01,0.06,0.02,0.01,0.03,0.0,0.02,0.0,0.03
+certificates always trusted,0.01,0.01,0.02,0.0,0.01,0.01,4.53,0.02,0.01,0.03,0.0,0.02,0.0,0.03
+cell thermometer taken as the temperature,0.05,0.01,0.02,0.0,0.0,0.01,0.03,0.02,0.01,0.03,6.61,0.02,0.0,0.03
+shutter command taken as the excitation onset,0.01,0.11,0.02,0.07,0.01,0.07,0.07,0.06,0.02,2.91,0.0,0.02,0.0,0.08
+absorbed power taken as linear in alpha,0.15,0.01,0.25,0.0,10.37,0.01,0.24,0.02,0.11,0.03,0.17,0.02,0.15,0.03
+1 cm path assumed,0.01,0.01,0.02,0.0,0.01,0.01,0.06,0.02,0.01,0.03,0.0,0.02,53.33,0.03
+every shortcut,0.18,0.11,0.25,0.07,10.37,0.07,4.33,0.06,0.1,2.91,6.75,0.02,53.36,0.08

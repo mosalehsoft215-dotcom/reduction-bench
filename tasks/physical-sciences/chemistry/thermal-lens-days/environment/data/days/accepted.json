@@ -1,0 +1,10 @@
+{
+  "L-07": {
+    "alpha_per_cm": 0.004187,
+    "diffusivity_mm2_per_s": 0.0944
+  },
+  "L-11": {
+    "alpha_per_cm": 0.006832,
+    "diffusivity_mm2_per_s": 0.096367
+  }
+}

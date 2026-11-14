@@ -1,0 +1,5 @@
+NR-42  CX-744 in acetone
+vials filled by gravimetric dosing; stirrer bars checked
+transmission baseline set to 100 % on clear solvent before the run
+short programme requested by process development (heating 6 K/min, cooling 2.5 K/min)
+run ended after cycle 20; data exported

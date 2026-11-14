@@ -1,0 +1,5 @@
+NR-44  CX-862 in acetonitrile
+vials filled by gravimetric dosing; stirrer bars checked
+transmission baseline set to 100 % on clear solvent before the run
+new septum caps (batch 24-117) fitted on all vials
+run ended after cycle 20; data exported

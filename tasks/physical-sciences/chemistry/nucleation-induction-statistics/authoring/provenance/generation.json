@@ -1,0 +1,44 @@
+{
+ "NR-21": {
+  "seed": 2101,
+  "censored": 0,
+  "before_hold": 0,
+  "vial_cycles": 640
+ },
+ "NR-22": {
+  "seed": 2201,
+  "censored": 0,
+  "before_hold": 0,
+  "vial_cycles": 640
+ },
+ "NR-41": {
+  "seed": 4101,
+  "censored": 162,
+  "before_hold": 0,
+  "vial_cycles": 640
+ },
+ "NR-42": {
+  "seed": 4201,
+  "censored": 1,
+  "before_hold": 0,
+  "vial_cycles": 640
+ },
+ "NR-43": {
+  "seed": 4301,
+  "censored": 1,
+  "before_hold": 0,
+  "vial_cycles": 640
+ },
+ "NR-44": {
+  "seed": 4401,
+  "censored": 0,
+  "before_hold": 0,
+  "vial_cycles": 640
+ },
+ "NR-45": {
+  "seed": 4501,
+  "censored": 11,
+  "before_hold": 0,
+  "vial_cycles": 640
+ }
+}

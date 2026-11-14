@@ -1,0 +1,17 @@
+20 redraws per run (reference on all, curve_match.py on 10); largest error / window per figure
+run | solver | interfacial_energy_mj_m2 | log10_kinetic_factor | rate_at_reference_m3_s | detection_delay_at_reference_s
+NR-21 | reference | 0.40 | 0.49 | 0.39 | 0.39
+NR-21 | second | 0.25 | 0.29 | 0.39 | 0.25
+NR-22 | reference | 0.72 | 0.38 | 0.34 | 0.29
+NR-22 | second | 0.31 | 0.24 | 0.42 | 0.35
+NR-41 | reference | 0.34 | 0.63 | 0.37 | 0.21
+NR-41 | second | 0.17 | 0.42 | 0.44 | 0.68
+NR-42 | reference | 0.41 | 0.46 | 0.31 | 0.09
+NR-42 | second | 0.33 | 0.42 | 0.46 | 0.35
+NR-43 | reference | 0.45 | 0.77 | 0.49 | 0.23
+NR-43 | second | 0.31 | 0.60 | 0.78 | 0.42
+NR-44 | reference | 0.48 | 0.39 | 0.34 | 0.18
+NR-44 | second | 0.64 | 0.50 | 0.31 | 0.41
+NR-45 | reference | 0.44 | 0.33 | 0.25 | 0.18
+NR-45 | second | 0.59 | 0.35 | 0.28 | 0.50
+largest over everything: reference 0.77, second 0.78

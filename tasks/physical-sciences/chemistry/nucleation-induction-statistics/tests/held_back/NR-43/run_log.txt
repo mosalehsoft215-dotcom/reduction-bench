@@ -1,0 +1,5 @@
+NR-43  CX-129 in methanol
+vials filled by gravimetric dosing; stirrer bars checked
+transmission baseline set to 100 % on clear solvent before the run
+stirrers at 1250 rpm to keep the larger crystals suspended
+run ended after cycle 20; data exported

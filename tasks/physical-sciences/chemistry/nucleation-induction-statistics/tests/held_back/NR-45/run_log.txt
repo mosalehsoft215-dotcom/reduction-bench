@@ -1,0 +1,5 @@
+NR-45  CX-415 in 1-butanol
+vials filled by gravimetric dosing; stirrer bars checked
+transmission baseline set to 100 % on clear solvent before the run
+block A vials filled to 0.3 mL only (stock of CX-415 ran short)
+run ended after cycle 20; data exported

@@ -1,0 +1,32 @@
+{
+ "NR-41": {
+  "interfacial_energy_mj_m2": 1.94,
+  "log10_kinetic_factor": 4.566,
+  "rate_at_reference_m3_s": 1096.2,
+  "detection_delay_at_reference_s": 178.977
+ },
+ "NR-42": {
+  "interfacial_energy_mj_m2": 3.31,
+  "log10_kinetic_factor": 4.352,
+  "rate_at_reference_m3_s": 6599.7,
+  "detection_delay_at_reference_s": 125.0
+ },
+ "NR-43": {
+  "interfacial_energy_mj_m2": 2.28,
+  "log10_kinetic_factor": 4.862,
+  "rate_at_reference_m3_s": 3912.2,
+  "detection_delay_at_reference_s": 152.632
+ },
+ "NR-44": {
+  "interfacial_energy_mj_m2": 2.83,
+  "log10_kinetic_factor": 3.972,
+  "rate_at_reference_m3_s": 5304.2,
+  "detection_delay_at_reference_s": 108.352
+ },
+ "NR-45": {
+  "interfacial_energy_mj_m2": 3.06,
+  "log10_kinetic_factor": 4.117,
+  "rate_at_reference_m3_s": 5861.9,
+  "detection_delay_at_reference_s": 96.544
+ }
+}

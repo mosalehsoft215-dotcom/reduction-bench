@@ -1,0 +1,2802 @@
+[
+ {
+  "run": "NR-21",
+  "redraw": 1,
+  "seed": 10020,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.62,
+   "log10_kinetic_factor": 4.213,
+   "rate_at_reference_m3_s": 4856.7,
+   "detection_delay_at_reference_s": 112.121
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.620752759143176,
+   "log10_kinetic_factor": 4.258374766204672,
+   "rate_at_reference_m3_s": 5383.565682411117,
+   "detection_delay_at_reference_s": 113.16892094944265
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.593243112763436,
+   "log10_kinetic_factor": 4.22670975530903,
+   "rate_at_reference_m3_s": 5280.745657719134,
+   "detection_delay_at_reference_s": 113.78948084650207
+  }
+ },
+ {
+  "run": "NR-22",
+  "redraw": 1,
+  "seed": 10120,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.07,
+   "log10_kinetic_factor": 3.684,
+   "rate_at_reference_m3_s": 3523.5,
+   "detection_delay_at_reference_s": 129.181
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.054745525597201,
+   "log10_kinetic_factor": 3.6646486115260295,
+   "rate_at_reference_m3_s": 3440.1444549904363,
+   "detection_delay_at_reference_s": 129.53684037107683
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.091073480178789,
+   "log10_kinetic_factor": 3.68526426791792,
+   "rate_at_reference_m3_s": 3432.7431034843858,
+   "detection_delay_at_reference_s": 129.3434977247983
+  }
+ },
+ {
+  "run": "NR-41",
+  "redraw": 1,
+  "seed": 12020,
+  "truth": {
+   "interfacial_energy_mj_m2": 1.94,
+   "log10_kinetic_factor": 4.566,
+   "rate_at_reference_m3_s": 1096.2,
+   "detection_delay_at_reference_s": 178.977
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 1.9476221379249774,
+   "log10_kinetic_factor": 4.596956886757742,
+   "rate_at_reference_m3_s": 1125.2438913419335,
+   "detection_delay_at_reference_s": 174.61443989722738
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 1.972320360809134,
+   "log10_kinetic_factor": 4.6778503417304425,
+   "rate_at_reference_m3_s": 1168.2626625804112,
+   "detection_delay_at_reference_s": 176.62263301792223
+  }
+ },
+ {
+  "run": "NR-43",
+  "redraw": 1,
+  "seed": 12220,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.28,
+   "log10_kinetic_factor": 4.862,
+   "rate_at_reference_m3_s": 3912.2,
+   "detection_delay_at_reference_s": 152.632
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.3109373414263445,
+   "log10_kinetic_factor": 4.94013891393083,
+   "rate_at_reference_m3_s": 4096.416046597925,
+   "detection_delay_at_reference_s": 151.2873476092379
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.291354752894908,
+   "log10_kinetic_factor": 4.910246941879779,
+   "rate_at_reference_m3_s": 4163.954233343928,
+   "detection_delay_at_reference_s": 153.39182713626107
+  }
+ },
+ {
+  "run": "NR-21",
+  "redraw": 2,
+  "seed": 17939,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.62,
+   "log10_kinetic_factor": 4.213,
+   "rate_at_reference_m3_s": 4856.7,
+   "detection_delay_at_reference_s": 112.121
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.630589518316146,
+   "log10_kinetic_factor": 4.241477385199186,
+   "rate_at_reference_m3_s": 5078.377332451996,
+   "detection_delay_at_reference_s": 112.83962992310119
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.657750407220719,
+   "log10_kinetic_factor": 4.290736319057714,
+   "rate_at_reference_m3_s": 5386.770913878187,
+   "detection_delay_at_reference_s": 113.59748104262076
+  }
+ },
+ {
+  "run": "NR-22",
+  "redraw": 2,
+  "seed": 18039,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.07,
+   "log10_kinetic_factor": 3.684,
+   "rate_at_reference_m3_s": 3523.5,
+   "detection_delay_at_reference_s": 129.181
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.108253336890655,
+   "log10_kinetic_factor": 3.6918753545453002,
+   "rate_at_reference_m3_s": 3402.4842469699674,
+   "detection_delay_at_reference_s": 129.1541332163619
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.1054415340885444,
+   "log10_kinetic_factor": 3.6880078267843266,
+   "rate_at_reference_m3_s": 3385.724992160254,
+   "detection_delay_at_reference_s": 129.26527789767542
+  }
+ },
+ {
+  "run": "NR-41",
+  "redraw": 2,
+  "seed": 19939,
+  "truth": {
+   "interfacial_energy_mj_m2": 1.94,
+   "log10_kinetic_factor": 4.566,
+   "rate_at_reference_m3_s": 1096.2,
+   "detection_delay_at_reference_s": 178.977
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 1.9402111790623726,
+   "log10_kinetic_factor": 4.608843880790779,
+   "rate_at_reference_m3_s": 1208.3728638981308,
+   "detection_delay_at_reference_s": 181.94738825448562
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 1.928009734073409,
+   "log10_kinetic_factor": 4.583748559704019,
+   "rate_at_reference_m3_s": 1225.1303692645163,
+   "detection_delay_at_reference_s": 183.427707602692
+  }
+ },
+ {
+  "run": "NR-43",
+  "redraw": 2,
+  "seed": 20139,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.28,
+   "log10_kinetic_factor": 4.862,
+   "rate_at_reference_m3_s": 3912.2,
+   "detection_delay_at_reference_s": 152.632
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.2627453766731436,
+   "log10_kinetic_factor": 4.886468373140351,
+   "rate_at_reference_m3_s": 4452.955481878214,
+   "detection_delay_at_reference_s": 154.3800450571506
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.2747899959606674,
+   "log10_kinetic_factor": 4.905335390694004,
+   "rate_at_reference_m3_s": 4419.748226038634,
+   "detection_delay_at_reference_s": 158.39084419867672
+  }
+ },
+ {
+  "run": "NR-21",
+  "redraw": 3,
+  "seed": 25858,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.62,
+   "log10_kinetic_factor": 4.213,
+   "rate_at_reference_m3_s": 4856.7,
+   "detection_delay_at_reference_s": 112.121
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.578033320402431,
+   "log10_kinetic_factor": 4.178004717992563,
+   "rate_at_reference_m3_s": 4860.231096178695,
+   "detection_delay_at_reference_s": 114.82703218023026
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.582550789082369,
+   "log10_kinetic_factor": 4.179984539880666,
+   "rate_at_reference_m3_s": 4840.499142794276,
+   "detection_delay_at_reference_s": 115.5037335582359
+  }
+ },
+ {
+  "run": "NR-22",
+  "redraw": 3,
+  "seed": 25958,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.07,
+   "log10_kinetic_factor": 3.684,
+   "rate_at_reference_m3_s": 3523.5,
+   "detection_delay_at_reference_s": 129.181
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.0611524137514547,
+   "log10_kinetic_factor": 3.707700050191062,
+   "rate_at_reference_m3_s": 3766.0153109324115,
+   "detection_delay_at_reference_s": 130.50761248841374
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.085457683913154,
+   "log10_kinetic_factor": 3.7261621915507193,
+   "rate_at_reference_m3_s": 3801.195218047917,
+   "detection_delay_at_reference_s": 130.53096635956283
+  }
+ },
+ {
+  "run": "NR-41",
+  "redraw": 3,
+  "seed": 27858,
+  "truth": {
+   "interfacial_energy_mj_m2": 1.94,
+   "log10_kinetic_factor": 4.566,
+   "rate_at_reference_m3_s": 1096.2,
+   "detection_delay_at_reference_s": 178.977
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 1.9498313656821729,
+   "log10_kinetic_factor": 4.626630078687918,
+   "rate_at_reference_m3_s": 1189.0707067353906,
+   "detection_delay_at_reference_s": 183.4461538166526
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 1.9471611884505338,
+   "log10_kinetic_factor": 4.634644136887299,
+   "rate_at_reference_m3_s": 1230.62040435599,
+   "detection_delay_at_reference_s": 189.10004731065726
+  }
+ },
+ {
+  "run": "NR-43",
+  "redraw": 3,
+  "seed": 28058,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.28,
+   "log10_kinetic_factor": 4.862,
+   "rate_at_reference_m3_s": 3912.2,
+   "detection_delay_at_reference_s": 152.632
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.247147076435275,
+   "log10_kinetic_factor": 4.781127762528773,
+   "rate_at_reference_m3_s": 3729.094690443628,
+   "detection_delay_at_reference_s": 148.91539827200572
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.2324640620855485,
+   "log10_kinetic_factor": 4.745642408879045,
+   "rate_at_reference_m3_s": 3650.874343385211,
+   "detection_delay_at_reference_s": 149.48203067303757
+  }
+ },
+ {
+  "run": "NR-21",
+  "redraw": 4,
+  "seed": 33777,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.62,
+   "log10_kinetic_factor": 4.213,
+   "rate_at_reference_m3_s": 4856.7,
+   "detection_delay_at_reference_s": 112.121
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.5634588007843546,
+   "log10_kinetic_factor": 4.1561509839615125,
+   "rate_at_reference_m3_s": 4751.17932447139,
+   "detection_delay_at_reference_s": 113.5651799889987
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.5489202813583782,
+   "log10_kinetic_factor": 4.135888557078869,
+   "rate_at_reference_m3_s": 4659.855377213998,
+   "detection_delay_at_reference_s": 112.45590283622701
+  }
+ },
+ {
+  "run": "NR-22",
+  "redraw": 4,
+  "seed": 33877,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.07,
+   "log10_kinetic_factor": 3.684,
+   "rate_at_reference_m3_s": 3523.5,
+   "detection_delay_at_reference_s": 129.181
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.058317727400869,
+   "log10_kinetic_factor": 3.6738231870409197,
+   "rate_at_reference_m3_s": 3496.7574198326743,
+   "detection_delay_at_reference_s": 127.78361513421646
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.0631330524149294,
+   "log10_kinetic_factor": 3.663353822786915,
+   "rate_at_reference_m3_s": 3391.353589350715,
+   "detection_delay_at_reference_s": 129.767648305419
+  }
+ },
+ {
+  "run": "NR-41",
+  "redraw": 4,
+  "seed": 35777,
+  "truth": {
+   "interfacial_energy_mj_m2": 1.94,
+   "log10_kinetic_factor": 4.566,
+   "rate_at_reference_m3_s": 1096.2,
+   "detection_delay_at_reference_s": 178.977
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 1.9375216191918694,
+   "log10_kinetic_factor": 4.566015973119989,
+   "rate_at_reference_m3_s": 1112.3897589709477,
+   "detection_delay_at_reference_s": 180.71039867125995
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 1.9525508915692789,
+   "log10_kinetic_factor": 4.608285770093452,
+   "rate_at_reference_m3_s": 1121.537950718996,
+   "detection_delay_at_reference_s": 185.11402259128351
+  }
+ },
+ {
+  "run": "NR-43",
+  "redraw": 4,
+  "seed": 35977,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.28,
+   "log10_kinetic_factor": 4.862,
+   "rate_at_reference_m3_s": 3912.2,
+   "detection_delay_at_reference_s": 152.632
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.2840705201065825,
+   "log10_kinetic_factor": 4.874364282098354,
+   "rate_at_reference_m3_s": 3955.704245977298,
+   "detection_delay_at_reference_s": 154.62258004792707
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.3284062001323815,
+   "log10_kinetic_factor": 4.971488779097946,
+   "rate_at_reference_m3_s": 4075.864166048628,
+   "detection_delay_at_reference_s": 160.38159126434664
+  }
+ },
+ {
+  "run": "NR-21",
+  "redraw": 5,
+  "seed": 41696,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.62,
+   "log10_kinetic_factor": 4.213,
+   "rate_at_reference_m3_s": 4856.7,
+   "detection_delay_at_reference_s": 112.121
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.5504376439440097,
+   "log10_kinetic_factor": 4.13213185882376,
+   "rate_at_reference_m3_s": 4606.668789933935,
+   "detection_delay_at_reference_s": 113.34217614193594
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.5932933631329544,
+   "log10_kinetic_factor": 4.174419355636558,
+   "rate_at_reference_m3_s": 4681.259918547737,
+   "detection_delay_at_reference_s": 114.32817814376357
+  }
+ },
+ {
+  "run": "NR-22",
+  "redraw": 5,
+  "seed": 41796,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.07,
+   "log10_kinetic_factor": 3.684,
+   "rate_at_reference_m3_s": 3523.5,
+   "detection_delay_at_reference_s": 129.181
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.0406261026063546,
+   "log10_kinetic_factor": 3.6500810064389118,
+   "rate_at_reference_m3_s": 3389.865247816675,
+   "detection_delay_at_reference_s": 129.39492085042184
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.0332019329313926,
+   "log10_kinetic_factor": 3.6328441901433224,
+   "rate_at_reference_m3_s": 3290.0171753930067,
+   "detection_delay_at_reference_s": 130.70112951089584
+  }
+ },
+ {
+  "run": "NR-41",
+  "redraw": 5,
+  "seed": 43696,
+  "truth": {
+   "interfacial_energy_mj_m2": 1.94,
+   "log10_kinetic_factor": 4.566,
+   "rate_at_reference_m3_s": 1096.2,
+   "detection_delay_at_reference_s": 178.977
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 1.9438787143289913,
+   "log10_kinetic_factor": 4.589343168427771,
+   "rate_at_reference_m3_s": 1130.5307884247777,
+   "detection_delay_at_reference_s": 179.8045238702846
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 1.959323139028404,
+   "log10_kinetic_factor": 4.620484390339032,
+   "rate_at_reference_m3_s": 1107.5732314969152,
+   "detection_delay_at_reference_s": 177.53209104670844
+  }
+ },
+ {
+  "run": "NR-43",
+  "redraw": 5,
+  "seed": 43896,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.28,
+   "log10_kinetic_factor": 4.862,
+   "rate_at_reference_m3_s": 3912.2,
+   "detection_delay_at_reference_s": 152.632
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.331847203584587,
+   "log10_kinetic_factor": 4.969179839873949,
+   "rate_at_reference_m3_s": 3992.5059154567884,
+   "detection_delay_at_reference_s": 155.02031497481937
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.3558249882873477,
+   "log10_kinetic_factor": 5.023326995848909,
+   "rate_at_reference_m3_s": 4058.816616596763,
+   "detection_delay_at_reference_s": 159.7913288558047
+  }
+ },
+ {
+  "run": "NR-21",
+  "redraw": 6,
+  "seed": 49615,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.62,
+   "log10_kinetic_factor": 4.213,
+   "rate_at_reference_m3_s": 4856.7,
+   "detection_delay_at_reference_s": 112.121
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.5964021022284394,
+   "log10_kinetic_factor": 4.185424903262754,
+   "rate_at_reference_m3_s": 4772.664194204582,
+   "detection_delay_at_reference_s": 111.17991168385379
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.5645391120831746,
+   "log10_kinetic_factor": 4.156973289798201,
+   "rate_at_reference_m3_s": 4750.496954628244,
+   "detection_delay_at_reference_s": 113.25553972374219
+  }
+ },
+ {
+  "run": "NR-22",
+  "redraw": 6,
+  "seed": 49715,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.07,
+   "log10_kinetic_factor": 3.684,
+   "rate_at_reference_m3_s": 3523.5,
+   "detection_delay_at_reference_s": 129.181
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.0570028272437715,
+   "log10_kinetic_factor": 3.6789732937589297,
+   "rate_at_reference_m3_s": 3544.7385073424907,
+   "detection_delay_at_reference_s": 133.7105872962126
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.1404233131038266,
+   "log10_kinetic_factor": 3.7456663739132163,
+   "rate_at_reference_m3_s": 3677.4280798413183,
+   "detection_delay_at_reference_s": 134.572965100092
+  }
+ },
+ {
+  "run": "NR-41",
+  "redraw": 6,
+  "seed": 51615,
+  "truth": {
+   "interfacial_energy_mj_m2": 1.94,
+   "log10_kinetic_factor": 4.566,
+   "rate_at_reference_m3_s": 1096.2,
+   "detection_delay_at_reference_s": 178.977
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 1.8920686537836189,
+   "log10_kinetic_factor": 4.453244918741336,
+   "rate_at_reference_m3_s": 1114.1850222141447,
+   "detection_delay_at_reference_s": 177.20606146638778
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 1.9077266179076908,
+   "log10_kinetic_factor": 4.497641709769892,
+   "rate_at_reference_m3_s": 1129.4633384746369,
+   "detection_delay_at_reference_s": 172.5112475643721
+  }
+ },
+ {
+  "run": "NR-43",
+  "redraw": 6,
+  "seed": 51815,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.28,
+   "log10_kinetic_factor": 4.862,
+   "rate_at_reference_m3_s": 3912.2,
+   "detection_delay_at_reference_s": 152.632
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.2013511598608706,
+   "log10_kinetic_factor": 4.749906478793168,
+   "rate_at_reference_m3_s": 4180.353882725093,
+   "detection_delay_at_reference_s": 152.0378694676239
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.209455799210222,
+   "log10_kinetic_factor": 4.754261490710142,
+   "rate_at_reference_m3_s": 4087.944877895059,
+   "detection_delay_at_reference_s": 152.75074250525478
+  }
+ },
+ {
+  "run": "NR-21",
+  "redraw": 7,
+  "seed": 57534,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.62,
+   "log10_kinetic_factor": 4.213,
+   "rate_at_reference_m3_s": 4856.7,
+   "detection_delay_at_reference_s": 112.121
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.5534998576880237,
+   "log10_kinetic_factor": 4.139241361680926,
+   "rate_at_reference_m3_s": 4655.992501042149,
+   "detection_delay_at_reference_s": 110.97507103484872
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.5662023818208577,
+   "log10_kinetic_factor": 4.142367939155076,
+   "rate_at_reference_m3_s": 4578.994873505221,
+   "detection_delay_at_reference_s": 111.25577610313873
+  }
+ },
+ {
+  "run": "NR-22",
+  "redraw": 7,
+  "seed": 57634,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.07,
+   "log10_kinetic_factor": 3.684,
+   "rate_at_reference_m3_s": 3523.5,
+   "detection_delay_at_reference_s": 129.181
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.0463131981837006,
+   "log10_kinetic_factor": 3.683283857681116,
+   "rate_at_reference_m3_s": 3631.6729439735445,
+   "detection_delay_at_reference_s": 129.26414404864497
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.0898494224789115,
+   "log10_kinetic_factor": 3.7081412298210084,
+   "rate_at_reference_m3_s": 3624.5721572013676,
+   "detection_delay_at_reference_s": 130.68422942147023
+  }
+ },
+ {
+  "run": "NR-41",
+  "redraw": 7,
+  "seed": 59534,
+  "truth": {
+   "interfacial_energy_mj_m2": 1.94,
+   "log10_kinetic_factor": 4.566,
+   "rate_at_reference_m3_s": 1096.2,
+   "detection_delay_at_reference_s": 178.977
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 1.9194705647546124,
+   "log10_kinetic_factor": 4.532626284463938,
+   "rate_at_reference_m3_s": 1144.3960875685616,
+   "detection_delay_at_reference_s": 177.638100963473
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 1.9327623503962594,
+   "log10_kinetic_factor": 4.556634604351666,
+   "rate_at_reference_m3_s": 1119.4641935236039,
+   "detection_delay_at_reference_s": 170.30222566124928
+  }
+ },
+ {
+  "run": "NR-43",
+  "redraw": 7,
+  "seed": 59734,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.28,
+   "log10_kinetic_factor": 4.862,
+   "rate_at_reference_m3_s": 3912.2,
+   "detection_delay_at_reference_s": 152.632
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.3549997826121944,
+   "log10_kinetic_factor": 4.988686900333172,
+   "rate_at_reference_m3_s": 3761.7733846357296,
+   "detection_delay_at_reference_s": 152.10945934057
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.3585297718725946,
+   "log10_kinetic_factor": 5.00839317329404,
+   "rate_at_reference_m3_s": 3873.504947457274,
+   "detection_delay_at_reference_s": 152.9424501671988
+  }
+ },
+ {
+  "run": "NR-21",
+  "redraw": 8,
+  "seed": 65453,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.62,
+   "log10_kinetic_factor": 4.213,
+   "rate_at_reference_m3_s": 4856.7,
+   "detection_delay_at_reference_s": 112.121
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.6285055360063216,
+   "log10_kinetic_factor": 4.202254616113604,
+   "rate_at_reference_m3_s": 4659.047927838237,
+   "detection_delay_at_reference_s": 110.7793025533295
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.6017825820564062,
+   "log10_kinetic_factor": 4.177152313708698,
+   "rate_at_reference_m3_s": 4634.049696140546,
+   "detection_delay_at_reference_s": 112.20198058291741
+  }
+ },
+ {
+  "run": "NR-22",
+  "redraw": 8,
+  "seed": 65553,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.07,
+   "log10_kinetic_factor": 3.684,
+   "rate_at_reference_m3_s": 3523.5,
+   "detection_delay_at_reference_s": 129.181
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.0718500747561075,
+   "log10_kinetic_factor": 3.677074386522285,
+   "rate_at_reference_m3_s": 3458.991620355849,
+   "detection_delay_at_reference_s": 130.31552053486973
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.0496797065454446,
+   "log10_kinetic_factor": 3.66780798266754,
+   "rate_at_reference_m3_s": 3488.8435020755915,
+   "detection_delay_at_reference_s": 131.32749670900984
+  }
+ },
+ {
+  "run": "NR-41",
+  "redraw": 8,
+  "seed": 67453,
+  "truth": {
+   "interfacial_energy_mj_m2": 1.94,
+   "log10_kinetic_factor": 4.566,
+   "rate_at_reference_m3_s": 1096.2,
+   "detection_delay_at_reference_s": 178.977
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 1.9230459961102513,
+   "log10_kinetic_factor": 4.516762085591564,
+   "rate_at_reference_m3_s": 1080.7526643017254,
+   "detection_delay_at_reference_s": 183.17052788323286
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 1.906361306578272,
+   "log10_kinetic_factor": 4.507335340451611,
+   "rate_at_reference_m3_s": 1163.9826663092206,
+   "detection_delay_at_reference_s": 193.47497638198004
+  }
+ },
+ {
+  "run": "NR-43",
+  "redraw": 8,
+  "seed": 67653,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.28,
+   "log10_kinetic_factor": 4.862,
+   "rate_at_reference_m3_s": 3912.2,
+   "detection_delay_at_reference_s": 152.632
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.2613089394835804,
+   "log10_kinetic_factor": 4.801671760889726,
+   "rate_at_reference_m3_s": 3685.3085164118484,
+   "detection_delay_at_reference_s": 151.93495667014207
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.307712884641897,
+   "log10_kinetic_factor": 4.895487288188188,
+   "rate_at_reference_m3_s": 3748.7558945222545,
+   "detection_delay_at_reference_s": 154.36432365915726
+  }
+ },
+ {
+  "run": "NR-21",
+  "redraw": 9,
+  "seed": 73372,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.62,
+   "log10_kinetic_factor": 4.213,
+   "rate_at_reference_m3_s": 4856.7,
+   "detection_delay_at_reference_s": 112.121
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.6133362273062173,
+   "log10_kinetic_factor": 4.194526951601485,
+   "rate_at_reference_m3_s": 4715.7375481805875,
+   "detection_delay_at_reference_s": 111.94788271726922
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.613057221222772,
+   "log10_kinetic_factor": 4.181249096134664,
+   "rate_at_reference_m3_s": 4576.243300208845,
+   "detection_delay_at_reference_s": 113.50969131567611
+  }
+ },
+ {
+  "run": "NR-22",
+  "redraw": 9,
+  "seed": 73472,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.07,
+   "log10_kinetic_factor": 3.684,
+   "rate_at_reference_m3_s": 3523.5,
+   "detection_delay_at_reference_s": 129.181
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.1022248511351576,
+   "log10_kinetic_factor": 3.743319950549686,
+   "rate_at_reference_m3_s": 3863.0414046461365,
+   "detection_delay_at_reference_s": 129.347252854123
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.0996402188859364,
+   "log10_kinetic_factor": 3.7498827752516775,
+   "rate_at_reference_m3_s": 3936.109572720355,
+   "detection_delay_at_reference_s": 132.73563509392383
+  }
+ },
+ {
+  "run": "NR-41",
+  "redraw": 9,
+  "seed": 75372,
+  "truth": {
+   "interfacial_energy_mj_m2": 1.94,
+   "log10_kinetic_factor": 4.566,
+   "rate_at_reference_m3_s": 1096.2,
+   "detection_delay_at_reference_s": 178.977
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 1.9275849192104897,
+   "log10_kinetic_factor": 4.5216433026709515,
+   "rate_at_reference_m3_s": 1064.5154817237567,
+   "detection_delay_at_reference_s": 176.02370690934947
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 1.90747391387013,
+   "log10_kinetic_factor": 4.484186198008733,
+   "rate_at_reference_m3_s": 1096.586083955231,
+   "detection_delay_at_reference_s": 179.22279354436589
+  }
+ },
+ {
+  "run": "NR-43",
+  "redraw": 9,
+  "seed": 75572,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.28,
+   "log10_kinetic_factor": 4.862,
+   "rate_at_reference_m3_s": 3912.2,
+   "detection_delay_at_reference_s": 152.632
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.299661947204562,
+   "log10_kinetic_factor": 4.897000338354032,
+   "rate_at_reference_m3_s": 3896.2151895919123,
+   "detection_delay_at_reference_s": 154.62904872327158
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.2598332954578755,
+   "log10_kinetic_factor": 4.81635354861307,
+   "rate_at_reference_m3_s": 3835.710759044,
+   "detection_delay_at_reference_s": 155.179540458548
+  }
+ },
+ {
+  "run": "NR-21",
+  "redraw": 10,
+  "seed": 81291,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.62,
+   "log10_kinetic_factor": 4.213,
+   "rate_at_reference_m3_s": 4856.7,
+   "detection_delay_at_reference_s": 112.121
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.690289294433877,
+   "log10_kinetic_factor": 4.28977221965573,
+   "rate_at_reference_m3_s": 5027.841351684689,
+   "detection_delay_at_reference_s": 113.02242185882359
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.6609298454434445,
+   "log10_kinetic_factor": 4.2597063660934396,
+   "rate_at_reference_m3_s": 4983.077320326439,
+   "detection_delay_at_reference_s": 114.61765564386485
+  }
+ },
+ {
+  "run": "NR-22",
+  "redraw": 10,
+  "seed": 81391,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.07,
+   "log10_kinetic_factor": 3.684,
+   "rate_at_reference_m3_s": 3523.5,
+   "detection_delay_at_reference_s": 129.181
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 1.9730037231691016,
+   "log10_kinetic_factor": 3.62812972630729,
+   "rate_at_reference_m3_s": 3514.2474472258004,
+   "detection_delay_at_reference_s": 127.15767864611463
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.002424904545674,
+   "log10_kinetic_factor": 3.6467150050806163,
+   "rate_at_reference_m3_s": 3534.835704182411,
+   "detection_delay_at_reference_s": 131.20152463038852
+  }
+ },
+ {
+  "run": "NR-41",
+  "redraw": 10,
+  "seed": 83291,
+  "truth": {
+   "interfacial_energy_mj_m2": 1.94,
+   "log10_kinetic_factor": 4.566,
+   "rate_at_reference_m3_s": 1096.2,
+   "detection_delay_at_reference_s": 178.977
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 1.9623682645705252,
+   "log10_kinetic_factor": 4.6322950517610115,
+   "rate_at_reference_m3_s": 1117.4070489650344,
+   "detection_delay_at_reference_s": 177.65165357314189
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 1.9757321437432824,
+   "log10_kinetic_factor": 4.6801014576743185,
+   "rate_at_reference_m3_s": 1150.1105115937723,
+   "detection_delay_at_reference_s": 182.20238829691476
+  }
+ },
+ {
+  "run": "NR-43",
+  "redraw": 10,
+  "seed": 83491,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.28,
+   "log10_kinetic_factor": 4.862,
+   "rate_at_reference_m3_s": 3912.2,
+   "detection_delay_at_reference_s": 152.632
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.325827732190991,
+   "log10_kinetic_factor": 5.003910499301269,
+   "rate_at_reference_m3_s": 4442.454603164804,
+   "detection_delay_at_reference_s": 153.52763363928773
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.247053052523394,
+   "log10_kinetic_factor": 4.88771756151071,
+   "rate_at_reference_m3_s": 4768.289182285432,
+   "detection_delay_at_reference_s": 154.2542186956315
+  }
+ },
+ {
+  "run": "NR-21",
+  "redraw": 11,
+  "seed": 89210,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.62,
+   "log10_kinetic_factor": 4.213,
+   "rate_at_reference_m3_s": 4856.7,
+   "detection_delay_at_reference_s": 112.121
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.6613042771415043,
+   "log10_kinetic_factor": 4.26246857273197,
+   "rate_at_reference_m3_s": 5011.059228473463,
+   "detection_delay_at_reference_s": 113.11757908995442
+  }
+ },
+ {
+  "run": "NR-22",
+  "redraw": 11,
+  "seed": 89310,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.07,
+   "log10_kinetic_factor": 3.684,
+   "rate_at_reference_m3_s": 3523.5,
+   "detection_delay_at_reference_s": 129.181
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.017963025114468,
+   "log10_kinetic_factor": 3.6630272422336025,
+   "rate_at_reference_m3_s": 3597.602782493005,
+   "detection_delay_at_reference_s": 129.0111527999049
+  }
+ },
+ {
+  "run": "NR-41",
+  "redraw": 11,
+  "seed": 91210,
+  "truth": {
+   "interfacial_energy_mj_m2": 1.94,
+   "log10_kinetic_factor": 4.566,
+   "rate_at_reference_m3_s": 1096.2,
+   "detection_delay_at_reference_s": 178.977
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 1.9728476970692763,
+   "log10_kinetic_factor": 4.653318143710153,
+   "rate_at_reference_m3_s": 1100.5536796257202,
+   "detection_delay_at_reference_s": 176.08500608180321
+  }
+ },
+ {
+  "run": "NR-43",
+  "redraw": 11,
+  "seed": 91410,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.28,
+   "log10_kinetic_factor": 4.862,
+   "rate_at_reference_m3_s": 3912.2,
+   "detection_delay_at_reference_s": 152.632
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.3094042001670063,
+   "log10_kinetic_factor": 4.911570371508749,
+   "rate_at_reference_m3_s": 3861.4867482231425,
+   "detection_delay_at_reference_s": 156.8800508137721
+  }
+ },
+ {
+  "run": "NR-21",
+  "redraw": 12,
+  "seed": 97129,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.62,
+   "log10_kinetic_factor": 4.213,
+   "rate_at_reference_m3_s": 4856.7,
+   "detection_delay_at_reference_s": 112.121
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.5827844683527332,
+   "log10_kinetic_factor": 4.1983430264747845,
+   "rate_at_reference_m3_s": 5047.246013029289,
+   "detection_delay_at_reference_s": 112.66394829584145
+  }
+ },
+ {
+  "run": "NR-22",
+  "redraw": 12,
+  "seed": 97229,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.07,
+   "log10_kinetic_factor": 3.684,
+   "rate_at_reference_m3_s": 3523.5,
+   "detection_delay_at_reference_s": 129.181
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 1.972175657219167,
+   "log10_kinetic_factor": 3.5968690275894346,
+   "rate_at_reference_m3_s": 3273.5310830782037,
+   "detection_delay_at_reference_s": 129.2656563851463
+  }
+ },
+ {
+  "run": "NR-41",
+  "redraw": 12,
+  "seed": 99129,
+  "truth": {
+   "interfacial_energy_mj_m2": 1.94,
+   "log10_kinetic_factor": 4.566,
+   "rate_at_reference_m3_s": 1096.2,
+   "detection_delay_at_reference_s": 178.977
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 1.9967270582009802,
+   "log10_kinetic_factor": 4.695313003529453,
+   "rate_at_reference_m3_s": 1046.0602354139191,
+   "detection_delay_at_reference_s": 179.3366015261501
+  }
+ },
+ {
+  "run": "NR-43",
+  "redraw": 12,
+  "seed": 99329,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.28,
+   "log10_kinetic_factor": 4.862,
+   "rate_at_reference_m3_s": 3912.2,
+   "detection_delay_at_reference_s": 152.632
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.2458205141597496,
+   "log10_kinetic_factor": 4.8007476289178,
+   "rate_at_reference_m3_s": 3922.93989568845,
+   "detection_delay_at_reference_s": 152.04594519787761
+  }
+ },
+ {
+  "run": "NR-21",
+  "redraw": 13,
+  "seed": 105048,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.62,
+   "log10_kinetic_factor": 4.213,
+   "rate_at_reference_m3_s": 4856.7,
+   "detection_delay_at_reference_s": 112.121
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.733948177259744,
+   "log10_kinetic_factor": 4.344433411300172,
+   "rate_at_reference_m3_s": 5200.424448274605,
+   "detection_delay_at_reference_s": 114.50797412620234
+  }
+ },
+ {
+  "run": "NR-22",
+  "redraw": 13,
+  "seed": 105148,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.07,
+   "log10_kinetic_factor": 3.684,
+   "rate_at_reference_m3_s": 3523.5,
+   "detection_delay_at_reference_s": 129.181
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.2336966666021074,
+   "log10_kinetic_factor": 3.7853553210933715,
+   "rate_at_reference_m3_s": 3496.4746148884356,
+   "detection_delay_at_reference_s": 131.99096368162398
+  }
+ },
+ {
+  "run": "NR-41",
+  "redraw": 13,
+  "seed": 107048,
+  "truth": {
+   "interfacial_energy_mj_m2": 1.94,
+   "log10_kinetic_factor": 4.566,
+   "rate_at_reference_m3_s": 1096.2,
+   "detection_delay_at_reference_s": 178.977
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 1.926661083884209,
+   "log10_kinetic_factor": 4.531870657730341,
+   "rate_at_reference_m3_s": 1095.7597295258315,
+   "detection_delay_at_reference_s": 179.88563558885306
+  }
+ },
+ {
+  "run": "NR-43",
+  "redraw": 13,
+  "seed": 107248,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.28,
+   "log10_kinetic_factor": 4.862,
+   "rate_at_reference_m3_s": 3912.2,
+   "detection_delay_at_reference_s": 152.632
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.3112153718315596,
+   "log10_kinetic_factor": 4.919609096054273,
+   "rate_at_reference_m3_s": 3902.5139868103597,
+   "detection_delay_at_reference_s": 153.49196031416696
+  }
+ },
+ {
+  "run": "NR-21",
+  "redraw": 14,
+  "seed": 112967,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.62,
+   "log10_kinetic_factor": 4.213,
+   "rate_at_reference_m3_s": 4856.7,
+   "detection_delay_at_reference_s": 112.121
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.641334336361863,
+   "log10_kinetic_factor": 4.2109855832383545,
+   "rate_at_reference_m3_s": 4633.7563458703835,
+   "detection_delay_at_reference_s": 113.17351793628713
+  }
+ },
+ {
+  "run": "NR-22",
+  "redraw": 14,
+  "seed": 113067,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.07,
+   "log10_kinetic_factor": 3.684,
+   "rate_at_reference_m3_s": 3523.5,
+   "detection_delay_at_reference_s": 129.181
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.0139075151808563,
+   "log10_kinetic_factor": 3.664000914151166,
+   "rate_at_reference_m3_s": 3624.6181709385023,
+   "detection_delay_at_reference_s": 129.20927135718193
+  }
+ },
+ {
+  "run": "NR-41",
+  "redraw": 14,
+  "seed": 114967,
+  "truth": {
+   "interfacial_energy_mj_m2": 1.94,
+   "log10_kinetic_factor": 4.566,
+   "rate_at_reference_m3_s": 1096.2,
+   "detection_delay_at_reference_s": 178.977
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 1.985003358216963,
+   "log10_kinetic_factor": 4.669622818110094,
+   "rate_at_reference_m3_s": 1060.4849042511207,
+   "detection_delay_at_reference_s": 176.37851322223435
+  }
+ },
+ {
+  "run": "NR-43",
+  "redraw": 14,
+  "seed": 115167,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.28,
+   "log10_kinetic_factor": 4.862,
+   "rate_at_reference_m3_s": 3912.2,
+   "detection_delay_at_reference_s": 152.632
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.285652420316304,
+   "log10_kinetic_factor": 4.8722288206190365,
+   "rate_at_reference_m3_s": 3909.688138888759,
+   "detection_delay_at_reference_s": 153.7685371674647
+  }
+ },
+ {
+  "run": "NR-21",
+  "redraw": 15,
+  "seed": 120886,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.62,
+   "log10_kinetic_factor": 4.213,
+   "rate_at_reference_m3_s": 4856.7,
+   "detection_delay_at_reference_s": 112.121
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.5512711230447227,
+   "log10_kinetic_factor": 4.148162976255519,
+   "rate_at_reference_m3_s": 4772.4626357784,
+   "detection_delay_at_reference_s": 112.36976584127532
+  }
+ },
+ {
+  "run": "NR-22",
+  "redraw": 15,
+  "seed": 120986,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.07,
+   "log10_kinetic_factor": 3.684,
+   "rate_at_reference_m3_s": 3523.5,
+   "detection_delay_at_reference_s": 129.181
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.0469028877474043,
+   "log10_kinetic_factor": 3.6636067643078993,
+   "rate_at_reference_m3_s": 3468.076287133346,
+   "detection_delay_at_reference_s": 129.04926035082133
+  }
+ },
+ {
+  "run": "NR-41",
+  "redraw": 15,
+  "seed": 122886,
+  "truth": {
+   "interfacial_energy_mj_m2": 1.94,
+   "log10_kinetic_factor": 4.566,
+   "rate_at_reference_m3_s": 1096.2,
+   "detection_delay_at_reference_s": 178.977
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 1.8726883396732066,
+   "log10_kinetic_factor": 4.395727021178798,
+   "rate_at_reference_m3_s": 1086.9146779889068,
+   "detection_delay_at_reference_s": 178.03773076840753
+  }
+ },
+ {
+  "run": "NR-43",
+  "redraw": 15,
+  "seed": 123086,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.28,
+   "log10_kinetic_factor": 4.862,
+   "rate_at_reference_m3_s": 3912.2,
+   "detection_delay_at_reference_s": 152.632
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.3209384800358914,
+   "log10_kinetic_factor": 4.938171241447941,
+   "rate_at_reference_m3_s": 3902.109436433498,
+   "detection_delay_at_reference_s": 155.22236400906675
+  }
+ },
+ {
+  "run": "NR-21",
+  "redraw": 16,
+  "seed": 128805,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.62,
+   "log10_kinetic_factor": 4.213,
+   "rate_at_reference_m3_s": 4856.7,
+   "detection_delay_at_reference_s": 112.121
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.6156280646097305,
+   "log10_kinetic_factor": 4.219650230482374,
+   "rate_at_reference_m3_s": 4974.179453639559,
+   "detection_delay_at_reference_s": 111.95795044927125
+  }
+ },
+ {
+  "run": "NR-22",
+  "redraw": 16,
+  "seed": 128905,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.07,
+   "log10_kinetic_factor": 3.684,
+   "rate_at_reference_m3_s": 3523.5,
+   "detection_delay_at_reference_s": 129.181
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.1699068157042,
+   "log10_kinetic_factor": 3.7438270919314514,
+   "rate_at_reference_m3_s": 3505.894090770251,
+   "detection_delay_at_reference_s": 129.334987352374
+  }
+ },
+ {
+  "run": "NR-41",
+  "redraw": 16,
+  "seed": 130805,
+  "truth": {
+   "interfacial_energy_mj_m2": 1.94,
+   "log10_kinetic_factor": 4.566,
+   "rate_at_reference_m3_s": 1096.2,
+   "detection_delay_at_reference_s": 178.977
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 1.916095546152464,
+   "log10_kinetic_factor": 4.534918061818595,
+   "rate_at_reference_m3_s": 1173.0584512362595,
+   "detection_delay_at_reference_s": 180.1564220353923
+  }
+ },
+ {
+  "run": "NR-43",
+  "redraw": 16,
+  "seed": 131005,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.28,
+   "log10_kinetic_factor": 4.862,
+   "rate_at_reference_m3_s": 3912.2,
+   "detection_delay_at_reference_s": 152.632
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.29977145260903,
+   "log10_kinetic_factor": 4.887905398900636,
+   "rate_at_reference_m3_s": 3813.6548479513535,
+   "detection_delay_at_reference_s": 154.84081308402492
+  }
+ },
+ {
+  "run": "NR-21",
+  "redraw": 17,
+  "seed": 136724,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.62,
+   "log10_kinetic_factor": 4.213,
+   "rate_at_reference_m3_s": 4856.7,
+   "detection_delay_at_reference_s": 112.121
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.5841241612922485,
+   "log10_kinetic_factor": 4.193104448449114,
+   "rate_at_reference_m3_s": 4973.957695432716,
+   "detection_delay_at_reference_s": 111.76321291929209
+  }
+ },
+ {
+  "run": "NR-22",
+  "redraw": 17,
+  "seed": 136824,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.07,
+   "log10_kinetic_factor": 3.684,
+   "rate_at_reference_m3_s": 3523.5,
+   "detection_delay_at_reference_s": 129.181
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.178207995145574,
+   "log10_kinetic_factor": 3.7628242485710057,
+   "rate_at_reference_m3_s": 3617.255727000856,
+   "detection_delay_at_reference_s": 130.65347270658592
+  }
+ },
+ {
+  "run": "NR-41",
+  "redraw": 17,
+  "seed": 138724,
+  "truth": {
+   "interfacial_energy_mj_m2": 1.94,
+   "log10_kinetic_factor": 4.566,
+   "rate_at_reference_m3_s": 1096.2,
+   "detection_delay_at_reference_s": 178.977
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 1.9661247556466435,
+   "log10_kinetic_factor": 4.6124411213666825,
+   "rate_at_reference_m3_s": 1043.4926035490137,
+   "detection_delay_at_reference_s": 181.05037772576628
+  }
+ },
+ {
+  "run": "NR-43",
+  "redraw": 17,
+  "seed": 138924,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.28,
+   "log10_kinetic_factor": 4.862,
+   "rate_at_reference_m3_s": 3912.2,
+   "detection_delay_at_reference_s": 152.632
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.190316200696478,
+   "log10_kinetic_factor": 4.683575725540726,
+   "rate_at_reference_m3_s": 3748.5574346417798,
+   "detection_delay_at_reference_s": 151.55538875280277
+  }
+ },
+ {
+  "run": "NR-21",
+  "redraw": 18,
+  "seed": 144643,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.62,
+   "log10_kinetic_factor": 4.213,
+   "rate_at_reference_m3_s": 4856.7,
+   "detection_delay_at_reference_s": 112.121
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.700698157198031,
+   "log10_kinetic_factor": 4.26796101238257,
+   "rate_at_reference_m3_s": 4678.963287418687,
+   "detection_delay_at_reference_s": 111.96029815840427
+  }
+ },
+ {
+  "run": "NR-22",
+  "redraw": 18,
+  "seed": 144743,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.07,
+   "log10_kinetic_factor": 3.684,
+   "rate_at_reference_m3_s": 3523.5,
+   "detection_delay_at_reference_s": 129.181
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.0963683023451267,
+   "log10_kinetic_factor": 3.683689251044769,
+   "rate_at_reference_m3_s": 3395.1729544859154,
+   "detection_delay_at_reference_s": 130.69323470087554
+  }
+ },
+ {
+  "run": "NR-41",
+  "redraw": 18,
+  "seed": 146643,
+  "truth": {
+   "interfacial_energy_mj_m2": 1.94,
+   "log10_kinetic_factor": 4.566,
+   "rate_at_reference_m3_s": 1096.2,
+   "detection_delay_at_reference_s": 178.977
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 1.967339996366832,
+   "log10_kinetic_factor": 4.6520697198337775,
+   "rate_at_reference_m3_s": 1134.7952692108454,
+   "detection_delay_at_reference_s": 177.0740801877468
+  }
+ },
+ {
+  "run": "NR-43",
+  "redraw": 18,
+  "seed": 146843,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.28,
+   "log10_kinetic_factor": 4.862,
+   "rate_at_reference_m3_s": 3912.2,
+   "detection_delay_at_reference_s": 152.632
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.283468892490138,
+   "log10_kinetic_factor": 4.898178410441219,
+   "rate_at_reference_m3_s": 4189.453574696366,
+   "detection_delay_at_reference_s": 152.95578938184642
+  }
+ },
+ {
+  "run": "NR-21",
+  "redraw": 19,
+  "seed": 152562,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.62,
+   "log10_kinetic_factor": 4.213,
+   "rate_at_reference_m3_s": 4856.7,
+   "detection_delay_at_reference_s": 112.121
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.6681289447841023,
+   "log10_kinetic_factor": 4.25908695644521,
+   "rate_at_reference_m3_s": 4903.558810809137,
+   "detection_delay_at_reference_s": 117.42602838325102
+  }
+ },
+ {
+  "run": "NR-22",
+  "redraw": 19,
+  "seed": 152662,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.07,
+   "log10_kinetic_factor": 3.684,
+   "rate_at_reference_m3_s": 3523.5,
+   "detection_delay_at_reference_s": 129.181
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.0338710709044383,
+   "log10_kinetic_factor": 3.651889842772382,
+   "rate_at_reference_m3_s": 3434.4864523366423,
+   "detection_delay_at_reference_s": 128.68884843047275
+  }
+ },
+ {
+  "run": "NR-41",
+  "redraw": 19,
+  "seed": 154562,
+  "truth": {
+   "interfacial_energy_mj_m2": 1.94,
+   "log10_kinetic_factor": 4.566,
+   "rate_at_reference_m3_s": 1096.2,
+   "detection_delay_at_reference_s": 178.977
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 1.8680404093244598,
+   "log10_kinetic_factor": 4.431382293241375,
+   "rate_at_reference_m3_s": 1210.3788655171468,
+   "detection_delay_at_reference_s": 181.75483545985617
+  }
+ },
+ {
+  "run": "NR-43",
+  "redraw": 19,
+  "seed": 154762,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.28,
+   "log10_kinetic_factor": 4.862,
+   "rate_at_reference_m3_s": 3912.2,
+   "detection_delay_at_reference_s": 152.632
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.1664945966638194,
+   "log10_kinetic_factor": 4.655082029198023,
+   "rate_at_reference_m3_s": 3852.1202097644546,
+   "detection_delay_at_reference_s": 151.5793172508358
+  }
+ },
+ {
+  "run": "NR-21",
+  "redraw": 20,
+  "seed": 160481,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.62,
+   "log10_kinetic_factor": 4.213,
+   "rate_at_reference_m3_s": 4856.7,
+   "detection_delay_at_reference_s": 112.121
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.575079361992466,
+   "log10_kinetic_factor": 4.19012195604065,
+   "rate_at_reference_m3_s": 5025.93600832106,
+   "detection_delay_at_reference_s": 111.85432712867679
+  }
+ },
+ {
+  "run": "NR-22",
+  "redraw": 20,
+  "seed": 160581,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.07,
+   "log10_kinetic_factor": 3.684,
+   "rate_at_reference_m3_s": 3523.5,
+   "detection_delay_at_reference_s": 129.181
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.088787615309307,
+   "log10_kinetic_factor": 3.7043291791978437,
+   "rate_at_reference_m3_s": 3598.1941797768445,
+   "detection_delay_at_reference_s": 130.16597072498934
+  }
+ },
+ {
+  "run": "NR-41",
+  "redraw": 20,
+  "seed": 162481,
+  "truth": {
+   "interfacial_energy_mj_m2": 1.94,
+   "log10_kinetic_factor": 4.566,
+   "rate_at_reference_m3_s": 1096.2,
+   "detection_delay_at_reference_s": 178.977
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 1.9442890092797036,
+   "log10_kinetic_factor": 4.575267941421803,
+   "rate_at_reference_m3_s": 1091.8207867620154,
+   "detection_delay_at_reference_s": 181.50037569919232
+  }
+ },
+ {
+  "run": "NR-43",
+  "redraw": 20,
+  "seed": 162681,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.28,
+   "log10_kinetic_factor": 4.862,
+   "rate_at_reference_m3_s": 3912.2,
+   "detection_delay_at_reference_s": 152.632
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.2779280322578,
+   "log10_kinetic_factor": 4.875999283371916,
+   "rate_at_reference_m3_s": 4076.245690554219,
+   "detection_delay_at_reference_s": 152.36125004245469
+  }
+ },
+ {
+  "run": "NR-42",
+  "redraw": 1,
+  "seed": 12120,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.31,
+   "log10_kinetic_factor": 4.352,
+   "rate_at_reference_m3_s": 6599.7,
+   "detection_delay_at_reference_s": 125.0
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 3.285878553856511,
+   "log10_kinetic_factor": 4.308327471564104,
+   "rate_at_reference_m3_s": 6201.2397411283655,
+   "detection_delay_at_reference_s": 124.20414578477667
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 3.274671302009215,
+   "log10_kinetic_factor": 4.309070232021754,
+   "rate_at_reference_m3_s": 6322.119261634698,
+   "detection_delay_at_reference_s": 125.4385607348635
+  }
+ },
+ {
+  "run": "NR-44",
+  "redraw": 1,
+  "seed": 12320,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.83,
+   "log10_kinetic_factor": 3.972,
+   "rate_at_reference_m3_s": 5304.2,
+   "detection_delay_at_reference_s": 108.352
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.711687830566093,
+   "log10_kinetic_factor": 3.9048507746899537,
+   "rate_at_reference_m3_s": 5252.333699069277,
+   "detection_delay_at_reference_s": 108.58554150191637
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.728845521655978,
+   "log10_kinetic_factor": 3.9167171464976076,
+   "rate_at_reference_m3_s": 5289.697807034861,
+   "detection_delay_at_reference_s": 111.45113932461199
+  }
+ },
+ {
+  "run": "NR-45",
+  "redraw": 1,
+  "seed": 12420,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.06,
+   "log10_kinetic_factor": 4.117,
+   "rate_at_reference_m3_s": 5861.9,
+   "detection_delay_at_reference_s": 96.544
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.969285164882003,
+   "log10_kinetic_factor": 4.087046702692709,
+   "rate_at_reference_m3_s": 6180.833358272032,
+   "detection_delay_at_reference_s": 96.45426996800443
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.96005730725821,
+   "log10_kinetic_factor": 4.09131036957923,
+   "rate_at_reference_m3_s": 6317.146536400752,
+   "detection_delay_at_reference_s": 97.91163810577176
+  }
+ },
+ {
+  "run": "NR-42",
+  "redraw": 2,
+  "seed": 20039,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.31,
+   "log10_kinetic_factor": 4.352,
+   "rate_at_reference_m3_s": 6599.7,
+   "detection_delay_at_reference_s": 125.0
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 3.351059201612581,
+   "log10_kinetic_factor": 4.371043884909213,
+   "rate_at_reference_m3_s": 6452.242383191205,
+   "detection_delay_at_reference_s": 124.84806659048937
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 3.3352880172850554,
+   "log10_kinetic_factor": 4.3587268605928156,
+   "rate_at_reference_m3_s": 6435.217163949172,
+   "detection_delay_at_reference_s": 125.90089211802376
+  }
+ },
+ {
+  "run": "NR-44",
+  "redraw": 2,
+  "seed": 20239,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.83,
+   "log10_kinetic_factor": 3.972,
+   "rate_at_reference_m3_s": 5304.2,
+   "detection_delay_at_reference_s": 108.352
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.7746790065166906,
+   "log10_kinetic_factor": 3.927969231389244,
+   "rate_at_reference_m3_s": 5136.4226648371705,
+   "detection_delay_at_reference_s": 107.06370134207688
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.8122581433810288,
+   "log10_kinetic_factor": 3.9439112495858777,
+   "rate_at_reference_m3_s": 5085.169633391987,
+   "detection_delay_at_reference_s": 109.13814123327921
+  }
+ },
+ {
+  "run": "NR-45",
+  "redraw": 2,
+  "seed": 20339,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.06,
+   "log10_kinetic_factor": 4.117,
+   "rate_at_reference_m3_s": 5861.9,
+   "detection_delay_at_reference_s": 96.544
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 3.177671089170866,
+   "log10_kinetic_factor": 4.194186399614696,
+   "rate_at_reference_m3_s": 5911.316454063003,
+   "detection_delay_at_reference_s": 96.39180179429898
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 3.176795494193773,
+   "log10_kinetic_factor": 4.18488103923006,
+   "rate_at_reference_m3_s": 5793.575386251743,
+   "detection_delay_at_reference_s": 97.15711285829308
+  }
+ },
+ {
+  "run": "NR-42",
+  "redraw": 3,
+  "seed": 27958,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.31,
+   "log10_kinetic_factor": 4.352,
+   "rate_at_reference_m3_s": 6599.7,
+   "detection_delay_at_reference_s": 125.0
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 3.259609012589427,
+   "log10_kinetic_factor": 4.277462264900048,
+   "rate_at_reference_m3_s": 6017.866020378864,
+   "detection_delay_at_reference_s": 125.3644406184302
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 3.230175283543347,
+   "log10_kinetic_factor": 4.238560105811142,
+   "rate_at_reference_m3_s": 5756.765798357408,
+   "detection_delay_at_reference_s": 126.08912107563967
+  }
+ },
+ {
+  "run": "NR-44",
+  "redraw": 3,
+  "seed": 28158,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.83,
+   "log10_kinetic_factor": 3.972,
+   "rate_at_reference_m3_s": 5304.2,
+   "detection_delay_at_reference_s": 108.352
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.8498653369983473,
+   "log10_kinetic_factor": 3.9677031775718063,
+   "rate_at_reference_m3_s": 5119.582073165821,
+   "detection_delay_at_reference_s": 108.84809013590954
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.8365872779896177,
+   "log10_kinetic_factor": 3.952449465424236,
+   "rate_at_reference_m3_s": 5028.173314904194,
+   "detection_delay_at_reference_s": 108.69512508971606
+  }
+ },
+ {
+  "run": "NR-45",
+  "redraw": 3,
+  "seed": 28258,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.06,
+   "log10_kinetic_factor": 4.117,
+   "rate_at_reference_m3_s": 5861.9,
+   "detection_delay_at_reference_s": 96.544
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.9253338736499916,
+   "log10_kinetic_factor": 4.042587791228785,
+   "rate_at_reference_m3_s": 5903.568580725862,
+   "detection_delay_at_reference_s": 98.24453912231449
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.8617395714050815,
+   "log10_kinetic_factor": 4.022770086535017,
+   "rate_at_reference_m3_s": 6102.426563521847,
+   "detection_delay_at_reference_s": 102.33691607850378
+  }
+ },
+ {
+  "run": "NR-42",
+  "redraw": 4,
+  "seed": 35877,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.31,
+   "log10_kinetic_factor": 4.352,
+   "rate_at_reference_m3_s": 6599.7,
+   "detection_delay_at_reference_s": 125.0
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 3.3672756004141284,
+   "log10_kinetic_factor": 4.398042916407318,
+   "rate_at_reference_m3_s": 6685.204292595694,
+   "detection_delay_at_reference_s": 125.45150772443951
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 3.325469832008357,
+   "log10_kinetic_factor": 4.378099139338394,
+   "rate_at_reference_m3_s": 6836.531947512496,
+   "detection_delay_at_reference_s": 130.2927186698668
+  }
+ },
+ {
+  "run": "NR-44",
+  "redraw": 4,
+  "seed": 36077,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.83,
+   "log10_kinetic_factor": 3.972,
+   "rate_at_reference_m3_s": 5304.2,
+   "detection_delay_at_reference_s": 108.352
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.8403135913482354,
+   "log10_kinetic_factor": 3.9412370862016313,
+   "rate_at_reference_m3_s": 4876.630900841156,
+   "detection_delay_at_reference_s": 108.96876740578014
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.842232234968162,
+   "log10_kinetic_factor": 3.939077793434114,
+   "rate_at_reference_m3_s": 4840.4811788722645,
+   "detection_delay_at_reference_s": 110.61316655248739
+  }
+ },
+ {
+  "run": "NR-45",
+  "redraw": 4,
+  "seed": 36177,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.06,
+   "log10_kinetic_factor": 4.117,
+   "rate_at_reference_m3_s": 5861.9,
+   "detection_delay_at_reference_s": 96.544
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.9517002612951386,
+   "log10_kinetic_factor": 4.036720284286453,
+   "rate_at_reference_m3_s": 5631.466291884897,
+   "detection_delay_at_reference_s": 96.12801846055339
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.9321930699066376,
+   "log10_kinetic_factor": 4.025376485065025,
+   "rate_at_reference_m3_s": 5625.015235854735,
+   "detection_delay_at_reference_s": 97.20839807493213
+  }
+ },
+ {
+  "run": "NR-42",
+  "redraw": 5,
+  "seed": 43796,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.31,
+   "log10_kinetic_factor": 4.352,
+   "rate_at_reference_m3_s": 6599.7,
+   "detection_delay_at_reference_s": 125.0
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 3.457760089128483,
+   "log10_kinetic_factor": 4.477302200494504,
+   "rate_at_reference_m3_s": 6880.194669182716,
+   "detection_delay_at_reference_s": 125.23607977950527
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 3.4218843604789493,
+   "log10_kinetic_factor": 4.4300877411608495,
+   "rate_at_reference_m3_s": 6565.757933139058,
+   "detection_delay_at_reference_s": 124.77952128417266
+  }
+ },
+ {
+  "run": "NR-44",
+  "redraw": 5,
+  "seed": 43996,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.83,
+   "log10_kinetic_factor": 3.972,
+   "rate_at_reference_m3_s": 5304.2,
+   "detection_delay_at_reference_s": 108.352
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.735946834330024,
+   "log10_kinetic_factor": 3.9124038030966406,
+   "rate_at_reference_m3_s": 5193.353355986298,
+   "detection_delay_at_reference_s": 108.44037282501485
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.8424519309710368,
+   "log10_kinetic_factor": 3.9706149861875835,
+   "rate_at_reference_m3_s": 5203.587709403058,
+   "detection_delay_at_reference_s": 109.08055924607369
+  }
+ },
+ {
+  "run": "NR-45",
+  "redraw": 5,
+  "seed": 44096,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.06,
+   "log10_kinetic_factor": 4.117,
+   "rate_at_reference_m3_s": 5861.9,
+   "detection_delay_at_reference_s": 96.544
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.9616318289684234,
+   "log10_kinetic_factor": 4.059562327674211,
+   "rate_at_reference_m3_s": 5859.845885595384,
+   "detection_delay_at_reference_s": 96.64061775917479
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 3.0480467136096077,
+   "log10_kinetic_factor": 4.130138217029796,
+   "rate_at_reference_m3_s": 6142.368061111314,
+   "detection_delay_at_reference_s": 97.48582721741377
+  }
+ },
+ {
+  "run": "NR-42",
+  "redraw": 6,
+  "seed": 51715,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.31,
+   "log10_kinetic_factor": 4.352,
+   "rate_at_reference_m3_s": 6599.7,
+   "detection_delay_at_reference_s": 125.0
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 3.317937728681547,
+   "log10_kinetic_factor": 4.370549307624922,
+   "rate_at_reference_m3_s": 6800.676902957958,
+   "detection_delay_at_reference_s": 124.08742244420418
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 3.289377521698557,
+   "log10_kinetic_factor": 4.322530185976556,
+   "rate_at_reference_m3_s": 6372.133137661261,
+   "detection_delay_at_reference_s": 123.7028519268234
+  }
+ },
+ {
+  "run": "NR-44",
+  "redraw": 6,
+  "seed": 51915,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.83,
+   "log10_kinetic_factor": 3.972,
+   "rate_at_reference_m3_s": 5304.2,
+   "detection_delay_at_reference_s": 108.352
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.6799333320995613,
+   "log10_kinetic_factor": 3.8670877641032133,
+   "rate_at_reference_m3_s": 4995.308523610811,
+   "detection_delay_at_reference_s": 110.29742672375792
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.6310999550761034,
+   "log10_kinetic_factor": 3.8376551383233277,
+   "rate_at_reference_m3_s": 4931.343209154022,
+   "detection_delay_at_reference_s": 110.79547036019405
+  }
+ },
+ {
+  "run": "NR-45",
+  "redraw": 6,
+  "seed": 52015,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.06,
+   "log10_kinetic_factor": 4.117,
+   "rate_at_reference_m3_s": 5861.9,
+   "detection_delay_at_reference_s": 96.544
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.9617411517117325,
+   "log10_kinetic_factor": 4.028483605365208,
+   "rate_at_reference_m3_s": 5454.38601239749,
+   "detection_delay_at_reference_s": 97.183861250125
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 3.105538230232866,
+   "log10_kinetic_factor": 4.134206327114924,
+   "rate_at_reference_m3_s": 5720.58279961186,
+   "detection_delay_at_reference_s": 97.82333306559103
+  }
+ },
+ {
+  "run": "NR-42",
+  "redraw": 7,
+  "seed": 59634,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.31,
+   "log10_kinetic_factor": 4.352,
+   "rate_at_reference_m3_s": 6599.7,
+   "detection_delay_at_reference_s": 125.0
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 3.1931897237459097,
+   "log10_kinetic_factor": 4.237107676932274,
+   "rate_at_reference_m3_s": 6065.973458384668,
+   "detection_delay_at_reference_s": 124.84760049309621
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 3.292931686837757,
+   "log10_kinetic_factor": 4.299628733504146,
+   "rate_at_reference_m3_s": 6010.9617604425275,
+   "detection_delay_at_reference_s": 123.910621348873
+  }
+ },
+ {
+  "run": "NR-44",
+  "redraw": 7,
+  "seed": 59834,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.83,
+   "log10_kinetic_factor": 3.972,
+   "rate_at_reference_m3_s": 5304.2,
+   "detection_delay_at_reference_s": 108.352
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.8941024181624004,
+   "log10_kinetic_factor": 4.02153442629893,
+   "rate_at_reference_m3_s": 5467.7695330092265,
+   "detection_delay_at_reference_s": 110.72814578345032
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.956253566664623,
+   "log10_kinetic_factor": 4.06354329061854,
+   "rate_at_reference_m3_s": 5533.614228705807,
+   "detection_delay_at_reference_s": 113.73239526094065
+  }
+ },
+ {
+  "run": "NR-45",
+  "redraw": 7,
+  "seed": 59934,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.06,
+   "log10_kinetic_factor": 4.117,
+   "rate_at_reference_m3_s": 5861.9,
+   "detection_delay_at_reference_s": 96.544
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 3.1831474881183097,
+   "log10_kinetic_factor": 4.197919569485294,
+   "rate_at_reference_m3_s": 5913.6945904611,
+   "detection_delay_at_reference_s": 98.41405348988903
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 3.180247389179548,
+   "log10_kinetic_factor": 4.207366864947963,
+   "rate_at_reference_m3_s": 6070.048448902739,
+   "detection_delay_at_reference_s": 100.20695591433778
+  }
+ },
+ {
+  "run": "NR-42",
+  "redraw": 8,
+  "seed": 67553,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.31,
+   "log10_kinetic_factor": 4.352,
+   "rate_at_reference_m3_s": 6599.7,
+   "detection_delay_at_reference_s": 125.0
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 3.2961074528545162,
+   "log10_kinetic_factor": 4.333329164589673,
+   "rate_at_reference_m3_s": 6463.388033006942,
+   "detection_delay_at_reference_s": 125.69032425146465
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 3.3049594885263187,
+   "log10_kinetic_factor": 4.339641898805468,
+   "rate_at_reference_m3_s": 6466.401006335764,
+   "detection_delay_at_reference_s": 126.3331895136574
+  }
+ },
+ {
+  "run": "NR-44",
+  "redraw": 8,
+  "seed": 67753,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.83,
+   "log10_kinetic_factor": 3.972,
+   "rate_at_reference_m3_s": 5304.2,
+   "detection_delay_at_reference_s": 108.352
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.9276391994721407,
+   "log10_kinetic_factor": 4.03901446685167,
+   "rate_at_reference_m3_s": 5440.28684785607,
+   "detection_delay_at_reference_s": 109.7759618348823
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.9258595246722767,
+   "log10_kinetic_factor": 4.016306381559088,
+   "rate_at_reference_m3_s": 5175.697110101881,
+   "detection_delay_at_reference_s": 110.9807329388715
+  }
+ },
+ {
+  "run": "NR-45",
+  "redraw": 8,
+  "seed": 67853,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.06,
+   "log10_kinetic_factor": 4.117,
+   "rate_at_reference_m3_s": 5861.9,
+   "detection_delay_at_reference_s": 96.544
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 3.139141133617601,
+   "log10_kinetic_factor": 4.181038810923893,
+   "rate_at_reference_m3_s": 6070.548396788792,
+   "detection_delay_at_reference_s": 98.58733524430342
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 3.1365464962869174,
+   "log10_kinetic_factor": 4.1642554330847315,
+   "rate_at_reference_m3_s": 5862.538126137669,
+   "detection_delay_at_reference_s": 97.69846647555497
+  }
+ },
+ {
+  "run": "NR-42",
+  "redraw": 9,
+  "seed": 75472,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.31,
+   "log10_kinetic_factor": 4.352,
+   "rate_at_reference_m3_s": 6599.7,
+   "detection_delay_at_reference_s": 125.0
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 3.3629312233156843,
+   "log10_kinetic_factor": 4.396320694507186,
+   "rate_at_reference_m3_s": 6706.713478721174,
+   "detection_delay_at_reference_s": 126.1109727175244
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 3.4308232301819763,
+   "log10_kinetic_factor": 4.4453190572732195,
+   "rate_at_reference_m3_s": 6696.787378344553,
+   "detection_delay_at_reference_s": 125.89705506137831
+  }
+ },
+ {
+  "run": "NR-44",
+  "redraw": 9,
+  "seed": 75672,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.83,
+   "log10_kinetic_factor": 3.972,
+   "rate_at_reference_m3_s": 5304.2,
+   "detection_delay_at_reference_s": 108.352
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.8791975822488007,
+   "log10_kinetic_factor": 3.9960339450597657,
+   "rate_at_reference_m3_s": 5259.035161347758,
+   "detection_delay_at_reference_s": 109.4509509700261
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.9427264553965826,
+   "log10_kinetic_factor": 4.019029348471639,
+   "rate_at_reference_m3_s": 5089.089155907441,
+   "detection_delay_at_reference_s": 109.73135870181679
+  }
+ },
+ {
+  "run": "NR-45",
+  "redraw": 9,
+  "seed": 75772,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.06,
+   "log10_kinetic_factor": 4.117,
+   "rate_at_reference_m3_s": 5861.9,
+   "detection_delay_at_reference_s": 96.544
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 3.037223540694237,
+   "log10_kinetic_factor": 4.096895404818563,
+   "rate_at_reference_m3_s": 5774.703112581046,
+   "detection_delay_at_reference_s": 98.19144446149245
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.9932969460448082,
+   "log10_kinetic_factor": 4.0590778654818935,
+   "rate_at_reference_m3_s": 5615.237463967301,
+   "detection_delay_at_reference_s": 98.62307737470188
+  }
+ },
+ {
+  "run": "NR-42",
+  "redraw": 10,
+  "seed": 83391,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.31,
+   "log10_kinetic_factor": 4.352,
+   "rate_at_reference_m3_s": 6599.7,
+   "detection_delay_at_reference_s": 125.0
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 3.3065081226833914,
+   "log10_kinetic_factor": 4.360072793609414,
+   "rate_at_reference_m3_s": 6761.159410234135,
+   "detection_delay_at_reference_s": 123.6839456660215
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 3.280700516618305,
+   "log10_kinetic_factor": 4.340789242838367,
+   "rate_at_reference_m3_s": 6737.16689120234,
+   "detection_delay_at_reference_s": 126.12587956586012
+  }
+ },
+ {
+  "run": "NR-44",
+  "redraw": 10,
+  "seed": 83591,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.83,
+   "log10_kinetic_factor": 3.972,
+   "rate_at_reference_m3_s": 5304.2,
+   "detection_delay_at_reference_s": 108.352
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.9196538361290107,
+   "log10_kinetic_factor": 4.05064351774127,
+   "rate_at_reference_m3_s": 5649.047231088631,
+   "detection_delay_at_reference_s": 109.19078135322196
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 2.9059180040658763,
+   "log10_kinetic_factor": 4.044413495820536,
+   "rate_at_reference_m3_s": 5672.9821638970725,
+   "detection_delay_at_reference_s": 110.96868257267478
+  }
+ },
+ {
+  "run": "NR-45",
+  "redraw": 10,
+  "seed": 83691,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.06,
+   "log10_kinetic_factor": 4.117,
+   "rate_at_reference_m3_s": 5861.9,
+   "detection_delay_at_reference_s": 96.544
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.9774731853985235,
+   "log10_kinetic_factor": 4.041088123634202,
+   "rate_at_reference_m3_s": 5500.955392380871,
+   "detection_delay_at_reference_s": 97.08913534107043
+  },
+  "second": {
+   "interfacial_energy_mj_m2": 3.000357727728975,
+   "log10_kinetic_factor": 4.057610757149913,
+   "rate_at_reference_m3_s": 5544.053307244766,
+   "detection_delay_at_reference_s": 99.30446359669156
+  }
+ },
+ {
+  "run": "NR-42",
+  "redraw": 11,
+  "seed": 91310,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.31,
+   "log10_kinetic_factor": 4.352,
+   "rate_at_reference_m3_s": 6599.7,
+   "detection_delay_at_reference_s": 125.0
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 3.3704746635600253,
+   "log10_kinetic_factor": 4.40729760680607,
+   "rate_at_reference_m3_s": 6793.111602115986,
+   "detection_delay_at_reference_s": 125.18390093054357
+  }
+ },
+ {
+  "run": "NR-44",
+  "redraw": 11,
+  "seed": 91510,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.83,
+   "log10_kinetic_factor": 3.972,
+   "rate_at_reference_m3_s": 5304.2,
+   "detection_delay_at_reference_s": 108.352
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.7905841102118125,
+   "log10_kinetic_factor": 3.9670127726415934,
+   "rate_at_reference_m3_s": 5510.363195443593,
+   "detection_delay_at_reference_s": 108.33488426027878
+  }
+ },
+ {
+  "run": "NR-45",
+  "redraw": 11,
+  "seed": 91610,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.06,
+   "log10_kinetic_factor": 4.117,
+   "rate_at_reference_m3_s": 5861.9,
+   "detection_delay_at_reference_s": 96.544
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 3.0861494958431797,
+   "log10_kinetic_factor": 4.139894389703459,
+   "rate_at_reference_m3_s": 5957.524447345521,
+   "detection_delay_at_reference_s": 96.39521831560182
+  }
+ },
+ {
+  "run": "NR-42",
+  "redraw": 12,
+  "seed": 99229,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.31,
+   "log10_kinetic_factor": 4.352,
+   "rate_at_reference_m3_s": 6599.7,
+   "detection_delay_at_reference_s": 125.0
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 3.3754142405514065,
+   "log10_kinetic_factor": 4.376120612270746,
+   "rate_at_reference_m3_s": 6270.913974992014,
+   "detection_delay_at_reference_s": 124.72375210694852
+  }
+ },
+ {
+  "run": "NR-44",
+  "redraw": 12,
+  "seed": 99429,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.83,
+   "log10_kinetic_factor": 3.972,
+   "rate_at_reference_m3_s": 5304.2,
+   "detection_delay_at_reference_s": 108.352
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.932155668474335,
+   "log10_kinetic_factor": 4.036892367943406,
+   "rate_at_reference_m3_s": 5380.420250398395,
+   "detection_delay_at_reference_s": 109.54210003411171
+  }
+ },
+ {
+  "run": "NR-45",
+  "redraw": 12,
+  "seed": 99529,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.06,
+   "log10_kinetic_factor": 4.117,
+   "rate_at_reference_m3_s": 5861.9,
+   "detection_delay_at_reference_s": 96.544
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 3.208201545982681,
+   "log10_kinetic_factor": 4.187508559629503,
+   "rate_at_reference_m3_s": 5559.1881468098645,
+   "detection_delay_at_reference_s": 96.23057124620266
+  }
+ },
+ {
+  "run": "NR-42",
+  "redraw": 13,
+  "seed": 107148,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.31,
+   "log10_kinetic_factor": 4.352,
+   "rate_at_reference_m3_s": 6599.7,
+   "detection_delay_at_reference_s": 125.0
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 3.368404899462998,
+   "log10_kinetic_factor": 4.3905829027037475,
+   "rate_at_reference_m3_s": 6559.081493730484,
+   "detection_delay_at_reference_s": 124.38934807150562
+  }
+ },
+ {
+  "run": "NR-44",
+  "redraw": 13,
+  "seed": 107348,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.83,
+   "log10_kinetic_factor": 3.972,
+   "rate_at_reference_m3_s": 5304.2,
+   "detection_delay_at_reference_s": 108.352
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.8111134057819815,
+   "log10_kinetic_factor": 4.001492934727343,
+   "rate_at_reference_m3_s": 5814.51518964265,
+   "detection_delay_at_reference_s": 109.59775469212249
+  }
+ },
+ {
+  "run": "NR-45",
+  "redraw": 13,
+  "seed": 107448,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.06,
+   "log10_kinetic_factor": 4.117,
+   "rate_at_reference_m3_s": 5861.9,
+   "detection_delay_at_reference_s": 96.544
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 3.1269375007648197,
+   "log10_kinetic_factor": 4.171375351361402,
+   "rate_at_reference_m3_s": 6043.099802901786,
+   "detection_delay_at_reference_s": 98.06321275426707
+  }
+ },
+ {
+  "run": "NR-42",
+  "redraw": 14,
+  "seed": 115067,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.31,
+   "log10_kinetic_factor": 4.352,
+   "rate_at_reference_m3_s": 6599.7,
+   "detection_delay_at_reference_s": 125.0
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 3.266303163490539,
+   "log10_kinetic_factor": 4.32947409173162,
+   "rate_at_reference_m3_s": 6713.332577796239,
+   "detection_delay_at_reference_s": 124.61130994152694
+  }
+ },
+ {
+  "run": "NR-44",
+  "redraw": 14,
+  "seed": 115267,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.83,
+   "log10_kinetic_factor": 3.972,
+   "rate_at_reference_m3_s": 5304.2,
+   "detection_delay_at_reference_s": 108.352
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.743139895352351,
+   "log10_kinetic_factor": 3.9106423549369227,
+   "rate_at_reference_m3_s": 5128.022199564372,
+   "detection_delay_at_reference_s": 108.1834844686094
+  }
+ },
+ {
+  "run": "NR-45",
+  "redraw": 14,
+  "seed": 115367,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.06,
+   "log10_kinetic_factor": 4.117,
+   "rate_at_reference_m3_s": 5861.9,
+   "detection_delay_at_reference_s": 96.544
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 3.1161256318816872,
+   "log10_kinetic_factor": 4.151873167376423,
+   "rate_at_reference_m3_s": 5868.4752772850725,
+   "detection_delay_at_reference_s": 96.12768966624459
+  }
+ },
+ {
+  "run": "NR-42",
+  "redraw": 15,
+  "seed": 122986,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.31,
+   "log10_kinetic_factor": 4.352,
+   "rate_at_reference_m3_s": 6599.7,
+   "detection_delay_at_reference_s": 125.0
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 3.215180074980335,
+   "log10_kinetic_factor": 4.284416577536883,
+   "rate_at_reference_m3_s": 6544.904005066698,
+   "detection_delay_at_reference_s": 125.01183051599996
+  }
+ },
+ {
+  "run": "NR-44",
+  "redraw": 15,
+  "seed": 123186,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.83,
+   "log10_kinetic_factor": 3.972,
+   "rate_at_reference_m3_s": 5304.2,
+   "detection_delay_at_reference_s": 108.352
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.916114047059167,
+   "log10_kinetic_factor": 4.020197867543807,
+   "rate_at_reference_m3_s": 5291.947677816894,
+   "detection_delay_at_reference_s": 110.18648163999826
+  }
+ },
+ {
+  "run": "NR-45",
+  "redraw": 15,
+  "seed": 123286,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.06,
+   "log10_kinetic_factor": 4.117,
+   "rate_at_reference_m3_s": 5861.9,
+   "detection_delay_at_reference_s": 96.544
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.991592239047344,
+   "log10_kinetic_factor": 4.103133012827025,
+   "rate_at_reference_m3_s": 6228.793119224781,
+   "detection_delay_at_reference_s": 98.50050557068515
+  }
+ },
+ {
+  "run": "NR-42",
+  "redraw": 16,
+  "seed": 130905,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.31,
+   "log10_kinetic_factor": 4.352,
+   "rate_at_reference_m3_s": 6599.7,
+   "detection_delay_at_reference_s": 125.0
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 3.3118514839787516,
+   "log10_kinetic_factor": 4.3626686034008,
+   "rate_at_reference_m3_s": 6743.870979663404,
+   "detection_delay_at_reference_s": 125.17425507763782
+  }
+ },
+ {
+  "run": "NR-44",
+  "redraw": 16,
+  "seed": 131105,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.83,
+   "log10_kinetic_factor": 3.972,
+   "rate_at_reference_m3_s": 5304.2,
+   "detection_delay_at_reference_s": 108.352
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.7953641254591455,
+   "log10_kinetic_factor": 3.932910646771825,
+   "rate_at_reference_m3_s": 5064.041529157268,
+   "detection_delay_at_reference_s": 106.9296219487585
+  }
+ },
+ {
+  "run": "NR-45",
+  "redraw": 16,
+  "seed": 131205,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.06,
+   "log10_kinetic_factor": 4.117,
+   "rate_at_reference_m3_s": 5861.9,
+   "detection_delay_at_reference_s": 96.544
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.955641384086035,
+   "log10_kinetic_factor": 4.081453401225704,
+   "rate_at_reference_m3_s": 6210.775717624386,
+   "detection_delay_at_reference_s": 96.79808528105134
+  }
+ },
+ {
+  "run": "NR-42",
+  "redraw": 17,
+  "seed": 138824,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.31,
+   "log10_kinetic_factor": 4.352,
+   "rate_at_reference_m3_s": 6599.7,
+   "detection_delay_at_reference_s": 125.0
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 3.2191985134856536,
+   "log10_kinetic_factor": 4.309326756277647,
+   "rate_at_reference_m3_s": 6889.345357578647,
+   "detection_delay_at_reference_s": 125.51137198936277
+  }
+ },
+ {
+  "run": "NR-44",
+  "redraw": 17,
+  "seed": 139024,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.83,
+   "log10_kinetic_factor": 3.972,
+   "rate_at_reference_m3_s": 5304.2,
+   "detection_delay_at_reference_s": 108.352
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.7317626565529407,
+   "log10_kinetic_factor": 3.90243693414703,
+   "rate_at_reference_m3_s": 5100.884749585068,
+   "detection_delay_at_reference_s": 109.11556909265279
+  }
+ },
+ {
+  "run": "NR-45",
+  "redraw": 17,
+  "seed": 139124,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.06,
+   "log10_kinetic_factor": 4.117,
+   "rate_at_reference_m3_s": 5861.9,
+   "detection_delay_at_reference_s": 96.544
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 3.1164277278727575,
+   "log10_kinetic_factor": 4.159508718735375,
+   "rate_at_reference_m3_s": 5969.973038984845,
+   "detection_delay_at_reference_s": 96.36025857949038
+  }
+ },
+ {
+  "run": "NR-42",
+  "redraw": 18,
+  "seed": 146743,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.31,
+   "log10_kinetic_factor": 4.352,
+   "rate_at_reference_m3_s": 6599.7,
+   "detection_delay_at_reference_s": 125.0
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 3.3954218563405747,
+   "log10_kinetic_factor": 4.415718238186349,
+   "rate_at_reference_m3_s": 6643.518992200123,
+   "detection_delay_at_reference_s": 124.6417588143877
+  }
+ },
+ {
+  "run": "NR-44",
+  "redraw": 18,
+  "seed": 146943,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.83,
+   "log10_kinetic_factor": 3.972,
+   "rate_at_reference_m3_s": 5304.2,
+   "detection_delay_at_reference_s": 108.352
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.816514669140326,
+   "log10_kinetic_factor": 3.958492079212555,
+   "rate_at_reference_m3_s": 5230.614400737573,
+   "detection_delay_at_reference_s": 108.48999235428614
+  }
+ },
+ {
+  "run": "NR-45",
+  "redraw": 18,
+  "seed": 147043,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.06,
+   "log10_kinetic_factor": 4.117,
+   "rate_at_reference_m3_s": 5861.9,
+   "detection_delay_at_reference_s": 96.544
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 3.085247115818512,
+   "log10_kinetic_factor": 4.151046584928135,
+   "rate_at_reference_m3_s": 6120.261512943378,
+   "detection_delay_at_reference_s": 97.65896459029449
+  }
+ },
+ {
+  "run": "NR-42",
+  "redraw": 19,
+  "seed": 154662,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.31,
+   "log10_kinetic_factor": 4.352,
+   "rate_at_reference_m3_s": 6599.7,
+   "detection_delay_at_reference_s": 125.0
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 3.283075804692482,
+   "log10_kinetic_factor": 4.295136620938164,
+   "rate_at_reference_m3_s": 6042.317714479637,
+   "detection_delay_at_reference_s": 124.88466892386671
+  }
+ },
+ {
+  "run": "NR-44",
+  "redraw": 19,
+  "seed": 154862,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.83,
+   "log10_kinetic_factor": 3.972,
+   "rate_at_reference_m3_s": 5304.2,
+   "detection_delay_at_reference_s": 108.352
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.8721825765470945,
+   "log10_kinetic_factor": 3.9908667344346886,
+   "rate_at_reference_m3_s": 5245.1038675301825,
+   "detection_delay_at_reference_s": 107.87038337000399
+  }
+ },
+ {
+  "run": "NR-45",
+  "redraw": 19,
+  "seed": 154962,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.06,
+   "log10_kinetic_factor": 4.117,
+   "rate_at_reference_m3_s": 5861.9,
+   "detection_delay_at_reference_s": 96.544
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 3.0166190281891527,
+   "log10_kinetic_factor": 4.111062355905731,
+   "rate_at_reference_m3_s": 6135.134527856497,
+   "detection_delay_at_reference_s": 97.87737730668293
+  }
+ },
+ {
+  "run": "NR-42",
+  "redraw": 20,
+  "seed": 162581,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.31,
+   "log10_kinetic_factor": 4.352,
+   "rate_at_reference_m3_s": 6599.7,
+   "detection_delay_at_reference_s": 125.0
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 3.2579236537316976,
+   "log10_kinetic_factor": 4.284928510283233,
+   "rate_at_reference_m3_s": 6138.225813258719,
+   "detection_delay_at_reference_s": 124.49504579825546
+  }
+ },
+ {
+  "run": "NR-44",
+  "redraw": 20,
+  "seed": 162781,
+  "truth": {
+   "interfacial_energy_mj_m2": 2.83,
+   "log10_kinetic_factor": 3.972,
+   "rate_at_reference_m3_s": 5304.2,
+   "detection_delay_at_reference_s": 108.352
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 2.748479592265908,
+   "log10_kinetic_factor": 3.9165052271649388,
+   "rate_at_reference_m3_s": 5164.476330201926,
+   "detection_delay_at_reference_s": 107.68391870339312
+  }
+ },
+ {
+  "run": "NR-45",
+  "redraw": 20,
+  "seed": 162881,
+  "truth": {
+   "interfacial_energy_mj_m2": 3.06,
+   "log10_kinetic_factor": 4.117,
+   "rate_at_reference_m3_s": 5861.9,
+   "detection_delay_at_reference_s": 96.544
+  },
+  "reference": {
+   "interfacial_energy_mj_m2": 3.080076081765657,
+   "log10_kinetic_factor": 4.113830544302939,
+   "rate_at_reference_m3_s": 5658.621426026082,
+   "detection_delay_at_reference_s": 97.28505878285834
+  }
+ }
+]

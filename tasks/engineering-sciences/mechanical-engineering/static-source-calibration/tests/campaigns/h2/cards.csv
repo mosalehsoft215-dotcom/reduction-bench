@@ -1,0 +1,10 @@
+card,method,ias_kt,pressure_altitude_ft,heading_deg,flap_deg
+F01,tower fly-by,150,,98.0,0
+F02,tower fly-by,175,,98.0,0
+F03,tower fly-by,200,,98.0,0
+F04,tower fly-by,120,,98.0,15
+F05,tower fly-by,135,,98.0,15
+A06,level acceleration,140-230,25000,100.0,0
+A07,level acceleration,140-230,25000,280.0,0
+A08,level acceleration,140-230,20000,100.0,0
+A09,level acceleration,140-230,20000,280.0,0

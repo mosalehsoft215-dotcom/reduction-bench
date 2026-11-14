@@ -1,0 +1,21 @@
+card,method,ias_kt,pressure_altitude_ft,heading_deg,flap_deg
+F01,tower fly-by,100,,124.0,25
+F02,tower fly-by,110,,124.0,25
+F03,tower fly-by,120,,124.0,25
+F04,tower fly-by,130,,124.0,25
+F05,tower fly-by,155,,124.0,0
+F06,tower fly-by,180,,124.0,0
+L07-1,"four-leg GPS run, leg 1",140,6000,19,0
+L07-2,"four-leg GPS run, leg 2",140,6000,111,0
+L07-3,"four-leg GPS run, leg 3",140,6000,197,0
+L07-4,"four-leg GPS run, leg 4",140,6000,290,0
+L08-1,"four-leg GPS run, leg 1",175,6000,70,0
+L08-2,"four-leg GPS run, leg 2",175,6000,162,0
+L08-3,"four-leg GPS run, leg 3",175,6000,252,0
+L08-4,"four-leg GPS run, leg 4",175,6000,337,0
+L09-1,"four-leg GPS run, leg 1",210,6000,42,0
+L09-2,"four-leg GPS run, leg 2",210,6000,139,0
+L09-3,"four-leg GPS run, leg 3",210,6000,226,0
+L09-4,"four-leg GPS run, leg 4",210,6000,317,0
+A10,level acceleration,140-235,18000,125.0,0
+A11,level deceleration,235-140,18000,305.0,0

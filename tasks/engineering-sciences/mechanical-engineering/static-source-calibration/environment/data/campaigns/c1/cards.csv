@@ -1,0 +1,47 @@
+card,method,ias_kt,pressure_altitude_ft,heading_deg,flap_deg
+F01,tower fly-by,105,,63.0,30
+F02,tower fly-by,115,,63.0,30
+F03,tower fly-by,125,,63.0,30
+F04,tower fly-by,135,,63.0,30
+F05,tower fly-by,150,,63.0,0
+F06,tower fly-by,170,,63.0,0
+F07,tower fly-by,190,,63.0,0
+F08,tower fly-by,210,,63.0,0
+L09-1,"four-leg GPS run, leg 1",140,5000,20,0
+L09-2,"four-leg GPS run, leg 2",140,5000,109,0
+L09-3,"four-leg GPS run, leg 3",140,5000,202,0
+L09-4,"four-leg GPS run, leg 4",140,5000,290,0
+L10-1,"four-leg GPS run, leg 1",170,5000,35,0
+L10-2,"four-leg GPS run, leg 2",170,5000,123,0
+L10-3,"four-leg GPS run, leg 3",170,5000,210,0
+L10-4,"four-leg GPS run, leg 4",170,5000,305,0
+L11-1,"four-leg GPS run, leg 1",200,5000,12,0
+L11-2,"four-leg GPS run, leg 2",200,5000,98,0
+L11-3,"four-leg GPS run, leg 3",200,5000,190,0
+L11-4,"four-leg GPS run, leg 4",200,5000,281,0
+L12-1,"four-leg GPS run, leg 1",230,5000,51,0
+L12-2,"four-leg GPS run, leg 2",230,5000,140,0
+L12-3,"four-leg GPS run, leg 3",230,5000,230,0
+L12-4,"four-leg GPS run, leg 4",230,5000,321,0
+L13-1,"four-leg GPS run, leg 1",125,5000,16,15
+L13-2,"four-leg GPS run, leg 2",125,5000,108,15
+L13-3,"four-leg GPS run, leg 3",125,5000,199,15
+L13-4,"four-leg GPS run, leg 4",125,5000,284,15
+L14-1,"four-leg GPS run, leg 1",150,5000,37,15
+L14-2,"four-leg GPS run, leg 2",150,5000,129,15
+L14-3,"four-leg GPS run, leg 3",150,5000,222,15
+L14-4,"four-leg GPS run, leg 4",150,5000,308,15
+L15-1,"four-leg GPS run, leg 1",150,12000,29,0
+L15-2,"four-leg GPS run, leg 2",150,12000,113,0
+L15-3,"four-leg GPS run, leg 3",150,12000,204,0
+L15-4,"four-leg GPS run, leg 4",150,12000,293,0
+L16-1,"four-leg GPS run, leg 1",190,12000,7,0
+L16-2,"four-leg GPS run, leg 2",190,12000,94,0
+L16-3,"four-leg GPS run, leg 3",190,12000,184,0
+L16-4,"four-leg GPS run, leg 4",190,12000,274,0
+L17-1,"four-leg GPS run, leg 1",230,12000,48,0
+L17-2,"four-leg GPS run, leg 2",230,12000,134,0
+L17-3,"four-leg GPS run, leg 3",230,12000,225,0
+L17-4,"four-leg GPS run, leg 4",230,12000,315,0
+A18,level acceleration,150-250,8000,60.0,0
+A19,level deceleration,250-150,8000,240.0,0

@@ -1,0 +1,47 @@
+card,method,ias_kt,pressure_altitude_ft,heading_deg,flap_deg
+F01,tower fly-by,118,,81.0,39
+F02,tower fly-by,126,,81.0,39
+F03,tower fly-by,134,,81.0,39
+F04,tower fly-by,142,,81.0,39
+F05,tower fly-by,150,,81.0,39
+F06,tower fly-by,180,,81.0,0
+F07,tower fly-by,210,,81.0,0
+F08,tower fly-by,240,,81.0,0
+L09-1,"four-leg GPS run, leg 1",160,8000,30,20
+L09-2,"four-leg GPS run, leg 2",160,8000,121,20
+L09-3,"four-leg GPS run, leg 3",160,8000,211,20
+L09-4,"four-leg GPS run, leg 4",160,8000,301,20
+L10-1,"four-leg GPS run, leg 1",185,8000,68,20
+L10-2,"four-leg GPS run, leg 2",185,8000,164,20
+L10-3,"four-leg GPS run, leg 3",185,8000,254,20
+L10-4,"four-leg GPS run, leg 4",185,8000,340,20
+L11-1,"four-leg GPS run, leg 1",190,41000,19,0
+L11-2,"four-leg GPS run, leg 2",190,41000,111,0
+L11-3,"four-leg GPS run, leg 3",190,41000,201,0
+L11-4,"four-leg GPS run, leg 4",190,41000,295,0
+L12-1,"four-leg GPS run, leg 1",210,41000,64,0
+L12-2,"four-leg GPS run, leg 2",210,41000,155,0
+L12-3,"four-leg GPS run, leg 3",210,41000,246,0
+L12-4,"four-leg GPS run, leg 4",210,41000,337,0
+L13-1,"four-leg GPS run, leg 1",230,41000,42,0
+L13-2,"four-leg GPS run, leg 2",230,41000,132,0
+L13-3,"four-leg GPS run, leg 3",230,41000,219,0
+L13-4,"four-leg GPS run, leg 4",230,41000,311,0
+L14-1,"four-leg GPS run, leg 1",170,45000,11,0
+L14-2,"four-leg GPS run, leg 2",170,45000,99,0
+L14-3,"four-leg GPS run, leg 3",170,45000,185,0
+L14-4,"four-leg GPS run, leg 4",170,45000,280,0
+L15-1,"four-leg GPS run, leg 1",185,45000,55,0
+L15-2,"four-leg GPS run, leg 2",185,45000,146,0
+L15-3,"four-leg GPS run, leg 3",185,45000,234,0
+L15-4,"four-leg GPS run, leg 4",185,45000,322,0
+L16-1,"four-leg GPS run, leg 1",200,45000,34,0
+L16-2,"four-leg GPS run, leg 2",200,45000,129,0
+L16-3,"four-leg GPS run, leg 3",200,45000,216,0
+L16-4,"four-leg GPS run, leg 4",200,45000,304,0
+L17-1,"four-leg GPS run, leg 1",215,45000,82,0
+L17-2,"four-leg GPS run, leg 2",215,45000,171,0
+L17-3,"four-leg GPS run, leg 3",215,45000,259,0
+L17-4,"four-leg GPS run, leg 4",215,45000,351,0
+A18,level acceleration,200-290,30000,70.0,0
+A19,level deceleration,290-200,30000,250.0,0

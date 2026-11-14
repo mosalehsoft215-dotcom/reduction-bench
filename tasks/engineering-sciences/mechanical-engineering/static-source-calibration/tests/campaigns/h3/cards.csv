@@ -1,0 +1,37 @@
+card,method,ias_kt,pressure_altitude_ft,heading_deg,flap_deg
+F01,tower fly-by,104,,176.0,30
+F02,tower fly-by,110,,176.0,30
+F03,tower fly-by,116,,176.0,30
+F04,tower fly-by,122,,176.0,30
+F05,tower fly-by,128,,176.0,30
+F06,tower fly-by,134,,176.0,30
+F07,tower fly-by,155,,176.0,0
+F08,tower fly-by,180,,176.0,0
+L09-1,"four-leg GPS run, leg 1",140,7000,24,0
+L09-2,"four-leg GPS run, leg 2",140,7000,115,0
+L09-3,"four-leg GPS run, leg 3",140,7000,207,0
+L09-4,"four-leg GPS run, leg 4",140,7000,295,0
+L10-1,"four-leg GPS run, leg 1",170,7000,69,0
+L10-2,"four-leg GPS run, leg 2",170,7000,160,0
+L10-3,"four-leg GPS run, leg 3",170,7000,247,0
+L10-4,"four-leg GPS run, leg 4",170,7000,340,0
+L11-1,"four-leg GPS run, leg 1",205,7000,38,0
+L11-2,"four-leg GPS run, leg 2",205,7000,128,0
+L11-3,"four-leg GPS run, leg 3",205,7000,220,0
+L11-4,"four-leg GPS run, leg 4",205,7000,309,0
+L12-1,"four-leg GPS run, leg 1",140,16000,59,0
+L12-2,"four-leg GPS run, leg 2",140,16000,151,0
+L12-3,"four-leg GPS run, leg 3",140,16000,241,0
+L12-4,"four-leg GPS run, leg 4",140,16000,329,0
+L13-1,"four-leg GPS run, leg 1",155,16000,8,0
+L13-2,"four-leg GPS run, leg 2",155,16000,101,0
+L13-3,"four-leg GPS run, leg 3",155,16000,190,0
+L13-4,"four-leg GPS run, leg 4",155,16000,279,0
+L14-1,"four-leg GPS run, leg 1",190,16000,55,0
+L14-2,"four-leg GPS run, leg 2",190,16000,146,0
+L14-3,"four-leg GPS run, leg 3",190,16000,236,0
+L14-4,"four-leg GPS run, leg 4",190,16000,325,0
+L15-1,"four-leg GPS run, leg 1",225,16000,27,0
+L15-2,"four-leg GPS run, leg 2",225,16000,121,0
+L15-3,"four-leg GPS run, leg 3",225,16000,211,0
+L15-4,"four-leg GPS run, leg 4",225,16000,300,0

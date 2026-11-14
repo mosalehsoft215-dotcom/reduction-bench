@@ -1,0 +1,3 @@
+20 noise trials of each of the seven runs; largest error in bounds (delta13C / delta18O)
+reference: P1 0.11/0.76, P2 0.12/0.18, H1 0.11/0.31, H2 0.24/0.53, H3 0.36/0.38, H4 0.22/0.45, H5 0.36/0.32
+independent: P1 0.16/0.74, P2 0.17/0.31, H1 0.20/0.37, H2 0.32/0.48, H3 0.43/0.60, H4 0.28/0.45, H5 0.31/0.87

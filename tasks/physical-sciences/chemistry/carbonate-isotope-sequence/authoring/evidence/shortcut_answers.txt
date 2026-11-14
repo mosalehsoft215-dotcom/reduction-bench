@@ -1,0 +1,4 @@
+20000000 constant answer pairs: 0 clear all 5 sealed runs; best clears 1
+zero: clears 0 of 5
+NBS-19 values: clears 0 of 5
+marine carbonate (1, -1): clears 0 of 5

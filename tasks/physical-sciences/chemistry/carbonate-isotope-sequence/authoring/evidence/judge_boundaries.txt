@@ -1,0 +1,1 @@
+200 boundary answers (5 sequences x 2 keys x 2 signs x 5 offsets x 2 spellings): primary vs audit disagreements 0; decisions differing from |answer - truth| <= limit 0

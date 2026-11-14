@@ -1,0 +1,4 @@
+pos 1    sequence SEQ-31 started; linearity check of the reference gas done before position 1
+pos 1    acid bath topped up and degassed before the first position
+pos 30   reference gas bottle exchanged (new bottle on the reference side)
+pos 41   sequence finished; 41 positions acquired

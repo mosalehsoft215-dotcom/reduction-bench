@@ -1,0 +1,49 @@
+{
+  "sequence": "SEQ-34",
+  "unknown": {
+    "sample": "UNK-34"
+  },
+  "materials": {
+    "NBS-19": {
+      "mineral": "calcite",
+      "d13c_vpdb": 1.95,
+      "d18o_vpdb": -2.2,
+      "kind": "international"
+    },
+    "IAEA-603": {
+      "mineral": "calcite",
+      "d13c_vpdb": 2.46,
+      "d18o_vpdb": -2.37,
+      "kind": "international"
+    },
+    "NBS-18": {
+      "mineral": "calcite",
+      "d13c_vpdb": -5.014,
+      "d18o_vpdb": -23.01,
+      "kind": "international"
+    },
+    "IAEA-CO-9": {
+      "mineral": "calcite",
+      "d13c_vpdb": -47.32,
+      "d18o_vpdb": -15.28,
+      "kind": "international"
+    },
+    "CAL-A": {
+      "mineral": "calcite",
+      "d13c_vpdb": 2.104,
+      "d18o_vpdb": -1.873,
+      "kind": "in-house"
+    },
+    "CAL-B": {
+      "mineral": "calcite",
+      "d13c_vpdb": -9.416,
+      "d18o_vpdb": -11.338,
+      "kind": "in-house"
+    }
+  },
+  "reference_gas": {
+    "d13c_vpdb": -3.92,
+    "d18o_vpdb_co2": -8.76
+  },
+  "acid": "phosphoric acid, common bath, reaction at the logged bath temperature"
+}

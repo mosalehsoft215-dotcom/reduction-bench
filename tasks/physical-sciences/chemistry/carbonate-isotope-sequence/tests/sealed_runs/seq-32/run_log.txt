@@ -1,0 +1,3 @@
+pos 1    sequence SEQ-32 started; linearity check of the reference gas done before position 1
+pos 1    acid bath topped up and degassed before the first position
+pos 42   sequence finished; 42 positions acquired

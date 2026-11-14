@@ -1,0 +1,30 @@
+{
+ "joint": "J-33",
+ "studs": 16,
+ "thread": "M39x4",
+ "grade": "10.9, 42CrMo4 quenched and tempered",
+ "bolt_length_mm": 201.2,
+ "head_height_mm": 25.0,
+ "nut_height_mm": 31.2,
+ "clamped_stack": [
+  {
+   "part": "washer, head side",
+   "mm": 6.0
+  },
+  {
+   "part": "flange A",
+   "mm": 60.0
+  },
+  {
+   "part": "flange B",
+   "mm": 64.0
+  },
+  {
+   "part": "washer, nut side",
+   "mm": 6.0
+  }
+ ],
+ "specified_preload_kN": 470.0,
+ "tightening": "hydraulic tensioner, two passes",
+ "spare_hole_bolt": "REF, same batch, fitted hand-tight"
+}

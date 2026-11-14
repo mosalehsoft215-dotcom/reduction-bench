@@ -1,0 +1,8 @@
+{
+ "material_profile": "CrMo QT 10.9",
+ "tof_method": "first back-wall echo, threshold crossing, delay line zeroed on each stud at the unloaded reading",
+ "velocity_m_s": 5920.0,
+ "tof_temp_factor_per_K": 0.0001398,
+ "stressed_length_mm": 189.8,
+ "reference_temperature_C": 20.0
+}

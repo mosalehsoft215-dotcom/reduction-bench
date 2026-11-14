@@ -1,0 +1,18 @@
+{
+ "J-14": {
+  "mean_preload_kN": 411.4,
+  "min_residual_kN": 367.1
+ },
+ "J-27": {
+  "mean_preload_kN": 560.7,
+  "min_residual_kN": 485.8
+ },
+ "J-33": {
+  "mean_preload_kN": 465.5,
+  "min_residual_kN": 415.3
+ },
+ "J-39": {
+  "mean_preload_kN": 593.6,
+  "min_residual_kN": 524.6
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "J-51": {
+  "mean_preload_kN": 477.8,
+  "min_residual_kN": 276.1
+ },
+ "J-53": {
+  "mean_preload_kN": 651.8,
+  "min_residual_kN": 569.3
+ },
+ "J-56": {
+  "mean_preload_kN": 276.7,
+  "min_residual_kN": 234.0
+ },
+ "J-58": {
+  "mean_preload_kN": 764.7,
+  "min_residual_kN": 665.4
+ },
+ "J-62": {
+  "mean_preload_kN": 364.3,
+  "min_residual_kN": 328.1
+ }
+}

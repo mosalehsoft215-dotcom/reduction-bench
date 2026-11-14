@@ -1,0 +1,34 @@
+{
+ "joint": "J-56",
+ "studs": 12,
+ "thread": "M30x3.5",
+ "grade": "10.9, 42CrMo4 quenched and tempered",
+ "bolt_length_mm": 179.0,
+ "head_height_mm": 19.0,
+ "nut_height_mm": 24.0,
+ "clamped_stack": [
+  {
+   "part": "washer, head side",
+   "mm": 5.0
+  },
+  {
+   "part": "flange A",
+   "mm": 48.0
+  },
+  {
+   "part": "spacer sleeve",
+   "mm": 18.0
+  },
+  {
+   "part": "flange B",
+   "mm": 52.0
+  },
+  {
+   "part": "washer, nut side",
+   "mm": 5.0
+  }
+ ],
+ "specified_preload_kN": 275.0,
+ "tightening": "hydraulic tensioner, two passes",
+ "spare_hole_bolt": "REF, same batch, fitted hand-tight"
+}

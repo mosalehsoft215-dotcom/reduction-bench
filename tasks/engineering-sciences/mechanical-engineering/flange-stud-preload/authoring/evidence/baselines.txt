@@ -1,0 +1,6 @@
+J-51: margin 4.71 bounds (closest: sealed median)
+J-53: margin 5.59 bounds (closest: worked J-27)
+J-56: margin 19.47 bounds (closest: worked J-14)
+J-58: margin 10.67 bounds (closest: worked J-27)
+J-62: margin 5.17 bounds (closest: worked J-14)
+OK: no baseline passes a case

@@ -1,0 +1,30 @@
+{
+ "joint": "J-27",
+ "studs": 20,
+ "thread": "M42x4.5",
+ "grade": "10.9, 42CrMo4 quenched and tempered",
+ "bolt_length_mm": 231.6,
+ "head_height_mm": 26.0,
+ "nut_height_mm": 33.6,
+ "clamped_stack": [
+  {
+   "part": "washer, head side",
+   "mm": 8.0
+  },
+  {
+   "part": "flange A",
+   "mm": 76.0
+  },
+  {
+   "part": "flange B",
+   "mm": 70.0
+  },
+  {
+   "part": "washer, nut side",
+   "mm": 8.0
+  }
+ ],
+ "specified_preload_kN": 565.0,
+ "tightening": "hydraulic tensioner, two passes",
+ "spare_hole_bolt": "REF, same batch, fitted hand-tight"
+}

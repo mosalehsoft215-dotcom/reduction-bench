@@ -1,0 +1,20 @@
+{
+ "tape": "TP-44",
+ "grade": "RB-4",
+ "width_mm": 4.0,
+ "site": "riverside",
+ "date": "2026-10-17",
+ "taps": {
+  "inner_cm": 1.0,
+  "outer_cm": 3.0
+ },
+ "shunt": {
+  "serial": "S-3920",
+  "resistance_ohm": 0.00014588
+ },
+ "holder": {
+  "tape_height_cm": 8.0,
+  "thermometer_height_cm": 16.0
+ },
+ "programme": "staircase"
+}

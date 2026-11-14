@@ -1,0 +1,20 @@
+{
+ "tape": "TP-41",
+ "grade": "RB-4",
+ "width_mm": 4.0,
+ "site": "plateau",
+ "date": "2026-10-14",
+ "taps": {
+  "inner_cm": 1.0,
+  "outer_cm": 3.0
+ },
+ "shunt": {
+  "serial": "S-4417",
+  "resistance_ohm": 0.00019987
+ },
+ "holder": {
+  "tape_height_cm": 8.0,
+  "thermometer_height_cm": 16.0
+ },
+ "programme": "sweep"
+}

@@ -1,0 +1,83 @@
+{
+ "reference": {
+  "TP-08": 0.03,
+  "TP-15": 0.06,
+  "TP-41": 0.04,
+  "TP-42": 0.05,
+  "TP-43": 0.01,
+  "TP-44": 0.29,
+  "TP-45": 0.01
+ },
+ "pure nitrogen bath (vent oxygen ignored)": {
+  "TP-08": 0.03,
+  "TP-15": 0.06,
+  "TP-41": 3.18,
+  "TP-42": 0.05,
+  "TP-43": 0.33,
+  "TP-44": 0.29,
+  "TP-45": 3.62
+ },
+ "bath from pressure only": {
+  "TP-08": 0.02,
+  "TP-15": 0.06,
+  "TP-41": 0.04,
+  "TP-42": 6.03,
+  "TP-43": 0.01,
+  "TP-44": 3.04,
+  "TP-45": 0.01
+ },
+ "bath from the thermometers only": {
+  "TP-08": 0.03,
+  "TP-15": 0.06,
+  "TP-41": 5.16,
+  "TP-42": 0.05,
+  "TP-43": 7.11,
+  "TP-44": 0.29,
+  "TP-45": 13.25
+ },
+ "QNH used as station pressure": {
+  "TP-08": 0.03,
+  "TP-15": 0.06,
+  "TP-41": 10.82,
+  "TP-42": 0.05,
+  "TP-43": 19.3,
+  "TP-44": 0.29,
+  "TP-45": 10.18
+ },
+ "bath taken as 77.35 K": {
+  "TP-08": 0.3,
+  "TP-15": 0.06,
+  "TP-41": 10.54,
+  "TP-42": 2.87,
+  "TP-43": 19.59,
+  "TP-44": 4.82,
+  "TP-45": 10.68
+ },
+ "booked shunt resistance": {
+  "TP-08": 0.03,
+  "TP-15": 0.06,
+  "TP-41": 0.04,
+  "TP-42": 2.31,
+  "TP-43": 2.35,
+  "TP-44": 0.29,
+  "TP-45": 2.34
+ },
+ "linear offset drift per ramp": {
+  "TP-08": 0.03,
+  "TP-15": 0.07,
+  "TP-41": 0.05,
+  "TP-42": 3.46,
+  "TP-43": "fails (LinAlgError)",
+  "TP-44": 1.83,
+  "TP-45": 0.02
+ },
+ "worked-piece recipe (booked shunt, 77.35 K, linear drift)": {
+  "TP-08": 0.3,
+  "TP-15": 0.07,
+  "TP-41": 10.54,
+  "TP-42": 5.12,
+  "TP-43": "fails (LinAlgError)",
+  "TP-44": 4.86,
+  "TP-45": 8.03
+ }
+}

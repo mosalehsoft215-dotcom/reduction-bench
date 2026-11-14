@@ -1,0 +1,17 @@
+{
+  "units": {
+    "E0_vs_Fc": "V",
+    "D": "cm^2/s",
+    "k0": "cm/s",
+    "alpha": "1",
+    "kc": "1/s"
+  },
+  "source": "input parameters of authoring/provenance/generate_cv_data.py",
+  "values": {
+    "E0_vs_Fc": -1.2785,
+    "D": 8.6e-06,
+    "k0": 0.0071,
+    "alpha": 0.46,
+    "kc": 2.9
+  }
+}

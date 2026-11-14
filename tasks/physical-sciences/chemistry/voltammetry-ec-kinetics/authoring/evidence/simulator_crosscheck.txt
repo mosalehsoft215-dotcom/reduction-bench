@@ -1,0 +1,18 @@
+analyte    0.05 V/s  1901 points  difference rms 0.0075%, max 0.0133% of |i|max; file noise 0.055%
+analyte     0.1 V/s  1901 points  difference rms 0.0052%, max 0.0093% of |i|max; file noise 0.054%
+analyte     0.2 V/s  1901 points  difference rms 0.0037%, max 0.0064% of |i|max; file noise 0.051%
+analyte     0.5 V/s  1901 points  difference rms 0.0032%, max 0.0091% of |i|max; file noise 0.047%
+analyte       1 V/s  1901 points  difference rms 0.0038%, max 0.0119% of |i|max; file noise 0.042%
+analyte       2 V/s  1901 points  difference rms 0.0046%, max 0.0150% of |i|max; file noise 0.035%
+analyte       5 V/s  1901 points  difference rms 0.0054%, max 0.0191% of |i|max; file noise 0.026%
+analyte      10 V/s  1901 points  difference rms 0.0058%, max 0.0216% of |i|max; file noise 0.193%
+ferrocene  0.05 V/s  1401 points  difference rms 0.0119%, max 0.0174% of |i|max; file noise 0.173%
+ferrocene   0.1 V/s  1401 points  difference rms 0.0085%, max 0.0144% of |i|max; file noise 0.169%
+ferrocene   0.2 V/s  1401 points  difference rms 0.0067%, max 0.0157% of |i|max; file noise 0.163%
+ferrocene   0.5 V/s  1401 points  difference rms 0.0069%, max 0.0229% of |i|max; file noise 0.151%
+ferrocene     1 V/s  1401 points  difference rms 0.0087%, max 0.0300% of |i|max; file noise 0.138%
+ferrocene     2 V/s  1401 points  difference rms 0.0112%, max 0.0379% of |i|max; file noise 0.122%
+ferrocene     5 V/s  1401 points  difference rms 0.0145%, max 0.0479% of |i|max; file noise 0.096%
+ferrocene    10 V/s  1401 points  difference rms 0.0164%, max 0.0538% of |i|max; file noise 0.076%
+spike       0.1 V/s  1401 points  difference rms 0.0066%, max 0.0117% of |i|max; file noise 0.219%
+the rms difference is at most 0.22 of the noise in the same file

@@ -1,0 +1,26 @@
+no chemistry: current / (4 F D C a) at the analyte's k0 and alpha
+  (r, z) grid 97x67: max |difference| 0.288% of the limiting current (1 s)
+  (r, z) grid 150x102: max |difference| 0.129% of the limiting current (3 s)
+  (r, z) grid 212x141: max |difference| 0.071% of the limiting current (8 s)
+    E -1.050 V: spheroidal 0.00432, cylindrical 0.00432
+    E -1.120 V: spheroidal 0.05038, cylindrical 0.05037
+    E -1.170 V: spheroidal 0.20298, cylindrical 0.20293
+    E -1.200 V: spheroidal 0.36325, cylindrical 0.36316
+    E -1.230 V: spheroidal 0.53485, cylindrical 0.53471
+    E -1.270 V: spheroidal 0.71922, cylindrical 0.71900
+    E -1.330 V: spheroidal 0.87796, cylindrical 0.87764
+    E -1.450 V: spheroidal 0.97945, cylindrical 0.97904
+    E -1.750 V: spheroidal 0.99983, cylindrical 0.99912
+R <-> Z, kc 2.9 1/s, kb 0.55 1/s: current / (4 F D C a) at the analyte's k0 and alpha
+  (r, z) grid 97x67: max |difference| 0.288% of the limiting current (1 s)
+  (r, z) grid 150x102: max |difference| 0.129% of the limiting current (3 s)
+  (r, z) grid 212x141: max |difference| 0.071% of the limiting current (8 s)
+    E -1.050 V: spheroidal 0.00583, cylindrical 0.00582
+    E -1.120 V: spheroidal 0.06301, cylindrical 0.06299
+    E -1.170 V: spheroidal 0.22961, cylindrical 0.22956
+    E -1.200 V: spheroidal 0.38834, cylindrical 0.38825
+    E -1.230 V: spheroidal 0.55113, cylindrical 0.55098
+    E -1.270 V: spheroidal 0.72526, cylindrical 0.72503
+    E -1.330 V: spheroidal 0.87882, cylindrical 0.87850
+    E -1.450 V: spheroidal 0.97946, cylindrical 0.97905
+    E -1.750 V: spheroidal 0.99983, cylindrical 0.99912

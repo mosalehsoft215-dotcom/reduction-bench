@@ -1,0 +1,18 @@
+{
+  "seed": 8041026,
+  "parameters": {
+    "scale_1": 1.036,
+    "center_1_mm": 0.024,
+    "cubic_1": -0.48,
+    "quintic_1": 0.13,
+    "scale_2": 0.972,
+    "center_2_mm": -0.018,
+    "cubic_2": -0.39,
+    "quintic_2": 0.105
+  },
+  "model": "nonlinear paraxial phase sheets; independent multinomial probe bins",
+  "files": {
+    "delivery_case.json": "4ff2e23c60796d133115ad04be947ee57abf31b36a7e0578e5ee993df4b0d5d1",
+    "delivery_calibration.json": "38ba9e8a11c8205c64becceecea90665404e724b01770384cf1003d2f5f33ec8"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "model": {
+    "radius_mm": 0.6,
+    "gradient_T_per_m_per_A": 0.8,
+    "effective_length_m": 0.01
+  },
+  "parameter_order": [
+    "scale_1",
+    "center_1_mm",
+    "cubic_1",
+    "quintic_1",
+    "scale_2",
+    "center_2_mm",
+    "cubic_2",
+    "quintic_2"
+  ],
+  "parameter_bounds": [
+    [
+      0.9,
+      1.15
+    ],
+    [
+      -0.06,
+      0.06
+    ],
+    [
+      -0.65,
+      -0.2
+    ],
+    [
+      0.03,
+      0.24
+    ],
+    [
+      0.85,
+      1.1
+    ],
+    [
+      -0.06,
+      0.06
+    ],
+    [
+      -0.62,
+      -0.18
+    ],
+    [
+      0.03,
+      0.23
+    ]
+  ],
+  "likelihood_delta": 20.0
+}

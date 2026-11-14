@@ -1,0 +1,14 @@
+Structurally independent analysis (second moments at the lens entrance, deconvolved measured spectrum as weights, RK4 lens matrix, steering as a screen dispersion, model placed on the shot centroid, screen geometry in vectors with a numerical kernel)
+
+(1) forward check against the generator:
+screen from its geometry in vectors: 4.8083 um per pixel, optics 12.0007 um rms, line of light 35.3553 um in the beam's coordinate (generator: 4.8083, 12.0008, 35.3553)
+profile shape of a shot at the true beam, every 5th current: max |difference| 0.101 % of the peak
+
+(2) fit with the independent analysis (every shot with its own focusing offset):
+task data      source_size_um -0.37%  divergence_mrad -0.83%  source_distance_mm +0.44%  energy_MeV +0.07%  energy_spread_percent +1.94%  reduced chi2 1.039  dispersion -1.581 mm  focusing jitter 0.773 %  pointing 0.590 mrad  wake 1.242 T/m at mean charge
+noise draw 301 source_size_um -0.16%  divergence_mrad -0.23%  source_distance_mm +0.28%  energy_MeV -0.03%  energy_spread_percent +0.44%  reduced chi2 1.014  dispersion -1.547 mm  focusing jitter 0.599 %  pointing 0.596 mrad  wake 1.189 T/m at mean charge
+noise draw 302 source_size_um -0.23%  divergence_mrad +0.52%  source_distance_mm -0.28%  energy_MeV +0.07%  energy_spread_percent -2.10%  reduced chi2 1.035  dispersion -1.527 mm  focusing jitter 0.697 %  pointing 0.650 mrad  wake 1.314 T/m at mean charge
+noise draw 303 source_size_um -0.67%  divergence_mrad -0.56%  source_distance_mm +0.62%  energy_MeV +0.04%  energy_spread_percent +1.09%  reduced chi2 1.024  dispersion -1.548 mm  focusing jitter 0.751 %  pointing 0.624 mrad  wake 1.192 T/m at mean charge
+noise draw 304 source_size_um +0.02%  divergence_mrad -0.06%  source_distance_mm -0.10%  energy_MeV -0.00%  energy_spread_percent +1.78%  reduced chi2 1.028  dispersion -1.573 mm  focusing jitter 0.745 %  pointing 0.627 mrad  wake 1.266 T/m at mean charge
+
+largest |error| of the independent analysis: source_size_um 0.67 % (bound 3.0 %, 4.5x inside), divergence_mrad 0.83 % (bound 1.5 %, 1.8x inside), source_distance_mm 0.62 % (bound 1.5 %, 2.4x inside), energy_MeV 0.07 % (bound 0.5 %, 7.5x inside), energy_spread_percent 2.10 % (bound 4.5 %, 2.1x inside)

@@ -1,0 +1,28 @@
+{
+  "orbit_sets": [
+    {
+      "id": "three-weak",
+      "count": 2,
+      "maximum_state_difference": 4.884981308350689e-15
+    },
+    {
+      "id": "three-strong",
+      "count": 4,
+      "maximum_state_difference": 6.217248937900877e-15
+    },
+    {
+      "id": "five-strong",
+      "count": 2,
+      "maximum_state_difference": 6.428885201970047e-13
+    }
+  ],
+  "manifolds": {
+    "count": 3,
+    "maximum_parameter_difference": 7.425171588693047e-13,
+    "signed_area_relative_differences": [
+      -9.32966481848041e-10,
+      8.80087336341262e-10
+    ]
+  },
+  "runtime_sec": 154.31718411899965
+}

@@ -1,0 +1,114 @@
+{
+  "radius_mm": 0.6,
+  "between_lenses_m": 0.42,
+  "return_drift_m": 0.12,
+  "strength_ratio": 0.93,
+  "orbit_queries": [
+    {
+      "id": "three-weak",
+      "strength": 3.55,
+      "period": 3
+    },
+    {
+      "id": "three-strong",
+      "strength": 4.3,
+      "period": 3
+    },
+    {
+      "id": "five-strong",
+      "strength": 4.3,
+      "period": 5
+    }
+  ],
+  "resonance_interval": [
+    3.2,
+    3.6
+  ],
+  "twist_strength": 2.8,
+  "saddle_center": {
+    "strength_interval": [
+      3.85,
+      4.3
+    ],
+    "representative_box": [
+      [
+        -0.8,
+        -0.3
+      ],
+      [
+        -0.85,
+        -0.3
+      ]
+    ],
+    "continuation_offsets": [
+      0.002,
+      0.006,
+      0.012
+    ]
+  },
+  "manifolds": {
+    "strength": 4.3,
+    "unstable_parameter_interval": [
+      1.35,
+      3.55
+    ],
+    "stable_parameter_interval": [
+      -3.85,
+      -1.45
+    ],
+    "sample_parameters": [
+      [
+        1.4,
+        -3.8
+      ],
+      [
+        1.8,
+        -3.2
+      ],
+      [
+        2.4,
+        -2.4
+      ],
+      [
+        3.4,
+        -1.5
+      ]
+    ]
+  },
+  "survey_box": [
+    [
+      -1,
+      1
+    ],
+    [
+      -1.35,
+      1.35
+    ]
+  ],
+  "survey_box_coordinates": "dimensionless z = (x/R, u/U) from lattice_model.md; not mm or mrad",
+  "packet": {
+    "upstream_drift_m": 0.12,
+    "centroid_mm_mrad": [
+      0.04,
+      0.15
+    ],
+    "position_jitter_mm": 0.065,
+    "angle_jitter_mrad": 0.18,
+    "lobe_intersection_indices": [
+      0,
+      1
+    ],
+    "queries": [
+      {
+        "id": "capture-seven",
+        "cells": 7,
+        "checkpoint_cell": 3
+      },
+      {
+        "id": "capture-sixteen",
+        "cells": 16,
+        "checkpoint_cell": 8
+      }
+    ]
+  }
+}

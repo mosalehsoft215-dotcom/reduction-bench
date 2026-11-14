@@ -1,0 +1,92 @@
+{
+  "orbit_checks": [
+    {
+      "id": "three-weak",
+      "action_absolute_difference": 5.531328867158791e-11,
+      "multiplier_max_absolute_difference": 1.0343881307051106e-09
+    },
+    {
+      "id": "three-weak",
+      "action_absolute_difference": 6.939882696288535e-11,
+      "multiplier_max_absolute_difference": 1.0353174706434487e-09
+    },
+    {
+      "id": "three-strong",
+      "action_absolute_difference": 1.1331019456051195e-10,
+      "multiplier_max_absolute_difference": 6.546293285225602e-09
+    },
+    {
+      "id": "three-strong",
+      "action_absolute_difference": 5.906602984495635e-11,
+      "multiplier_max_absolute_difference": 2.386728259473614e-09
+    },
+    {
+      "id": "three-strong",
+      "action_absolute_difference": 6.266573371327411e-11,
+      "multiplier_max_absolute_difference": 2.7847254502333385e-09
+    },
+    {
+      "id": "three-strong",
+      "action_absolute_difference": 9.189624061711754e-11,
+      "multiplier_max_absolute_difference": 5.097543276377792e-09
+    },
+    {
+      "id": "five-strong",
+      "action_absolute_difference": 7.38116859300142e-12,
+      "multiplier_max_absolute_difference": 5.380922374342845e-10
+    },
+    {
+      "id": "five-strong",
+      "action_absolute_difference": 7.400302592941443e-12,
+      "multiplier_max_absolute_difference": 5.376041621422967e-10
+    }
+  ],
+  "jordan_checks": [
+    {
+      "step": 0.0005,
+      "critical_direction": [
+        0.7001906697620452,
+        -0.7139558991829807
+      ],
+      "shear": -1.5644996241298048,
+      "parameter_coefficient": 0.04545660796908868,
+      "quadratic_coefficient": -0.46271078841684826,
+      "relative_differences": {
+        "shear": 3.1196398930788405e-07,
+        "parameter_coefficient": 8.435393927808121e-06,
+        "quadratic_coefficient": 2.487489122016129e-06
+      }
+    },
+    {
+      "step": 0.0002,
+      "critical_direction": [
+        0.7001909306752552,
+        -0.7139556433001423
+      ],
+      "shear": -1.5644992099879285,
+      "parameter_coefficient": 0.045456930059368204,
+      "quadratic_coefficient": -0.4627117646009529,
+      "relative_differences": {
+        "shear": 4.7251873747100603e-08,
+        "parameter_coefficient": 1.349789062854434e-06,
+        "quadratic_coefficient": 3.777875527966046e-07
+      }
+    },
+    {
+      "step": 4e-05,
+      "critical_direction": [
+        0.7001909783870577,
+        -0.7139555965081966
+      ],
+      "shear": -1.5644991342624295,
+      "parameter_coefficient": 0.04545698895794664,
+      "quadratic_coefficient": -0.4627121808627191,
+      "relative_differences": {
+        "shear": 1.150517459080902e-09,
+        "parameter_coefficient": 5.4090060319644806e-08,
+        "quadratic_coefficient": 5.218256422523382e-07
+      }
+    }
+  ],
+  "runtime_sec": 0.025823894000495784
+}

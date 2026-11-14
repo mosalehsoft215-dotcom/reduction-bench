@@ -1,0 +1,20 @@
+{
+  "values": {
+    "source_size_um": 1.5143431857228953,
+    "divergence_mrad": 1.4478713060896755,
+    "source_distance_mm": 50.22200601753117,
+    "energy_MeV": 263.8757094795594,
+    "energy_spread_percent": 1.14198697378115
+  },
+  "errors_percent": {
+    "source_size_um": -0.37215883402005323,
+    "divergence_mrad": -0.8307324596112609,
+    "source_distance_mm": 0.44401203506234665,
+    "energy_MeV": 0.06663233961297088,
+    "energy_spread_percent": 1.9449182093510098
+  },
+  "reduced_chi2": 1.0386760897174203,
+  "pointing_mrad": 0.590214528530223,
+  "runtime_sec": 7426.458528757095,
+  "note": "Independent second-moment/RK4 source reduction with a Richardson-Lucy deconvolved spectrum and a dispersion of every shot's own for its pointing; task data (run alongside four noise draws)."
+}

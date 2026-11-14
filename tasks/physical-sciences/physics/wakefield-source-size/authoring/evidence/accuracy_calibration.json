@@ -1,0 +1,56 @@
+{
+  "calibration_deviance_difference": -7.958078640513122e-12,
+  "orbit_sets": [
+    {
+      "id": "three-weak",
+      "count": 2,
+      "states_max_absolute": 1.1064980043329342e-09,
+      "trace_max_absolute": 3.5731395620075546e-10
+    },
+    {
+      "id": "three-strong",
+      "count": 4,
+      "states_max_absolute": 1.0168706710000919e-09,
+      "trace_max_absolute": 5.569450900466677e-09
+    },
+    {
+      "id": "five-strong",
+      "count": 2,
+      "states_max_absolute": 6.610788010866404e-09,
+      "trace_max_absolute": 2.8959057374322583e-12
+    }
+  ],
+  "resonance_strength_absolute": 1.0820313534054549e-09,
+  "resonance_coefficient_max_absolute": 1.3777709528817184e-10,
+  "twist_relative": 1.424341071665225e-05,
+  "confidence_strength_absolute": {
+    "minimum": 4.652988820907922e-06,
+    "maximum": 4.5451798067475124e-06
+  },
+  "manifold_parameter_max_absolute": 2.751529093458771e-08,
+  "signed_area_max_relative": 1.7644988490328473e-06,
+  "packet": [
+    {
+      "id": "capture-seven",
+      "probability": 5.006208365626808e-07,
+      "independent_probability_relative": 2.982139313267851e-09,
+      "surviving_quadrature_fraction": 1.0,
+      "latent_mean_max_standardized": 4.225256328352033e-09,
+      "latent_covariance_max_standardized": 1.024338241526346e-10,
+      "checkpoint_mean_max_standardized": 5.336389034746041e-08,
+      "checkpoint_covariance_max_standardized": 6.990965077260972e-09,
+      "quadrature_probability_relative": 8.993694677883468e-12
+    },
+    {
+      "id": "capture-sixteen",
+      "probability": 5.22990171626448e-10,
+      "independent_probability_relative": 2.2377277808516283e-10,
+      "surviving_quadrature_fraction": 1.0,
+      "latent_mean_max_standardized": 2.8512243070976887e-09,
+      "latent_covariance_max_standardized": 1.362849803045359e-11,
+      "checkpoint_mean_max_standardized": 2.8659871246320376e-08,
+      "checkpoint_covariance_max_standardized": 2.6109933015624144e-09,
+      "quadrature_probability_relative": 1.227107304657693e-11
+    }
+  ]
+}

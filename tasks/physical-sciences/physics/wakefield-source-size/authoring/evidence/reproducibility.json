@@ -1,0 +1,30 @@
+{
+ "method": "Fresh deterministic regeneration in a temporary directory; no observed data were refitted or regenerated in place.",
+ "files": {
+  "focus_scan.csv": {
+   "sha256": "ece4be9d2b871868bce839d08bc289613bd508125892db17b70bb1eeb2a07a01",
+   "byte_identical": true
+  },
+  "spectrometer.csv": {
+   "sha256": "ccad2d81009343896e1c5f57c5423c20d124f21c2a3752c03e5da20886ccf77e",
+   "byte_identical": true
+  },
+  "energy_axis.csv": {
+   "sha256": "fc6fda3b08ff6f864b62fc29ed9cd6fb3fe01290c83154b56464f5f936be6de5",
+   "byte_identical": true
+  },
+  "setup.txt": {
+   "sha256": "2db6d644d3385783f9a75bcd376266382ecc72be84676ed9b1d8818a1cb8a654",
+   "byte_identical": true
+  },
+  "delivery_calibration.json": {
+   "sha256": "38ba9e8a11c8205c64becceecea90665404e724b01770384cf1003d2f5f33ec8",
+   "byte_identical": true
+  },
+  "delivery_case.json": {
+   "sha256": "4ff2e23c60796d133115ad04be947ee57abf31b36a7e0578e5ee993df4b0d5d1",
+   "byte_identical": true
+  }
+ },
+ "source_truth_equal": true
+}

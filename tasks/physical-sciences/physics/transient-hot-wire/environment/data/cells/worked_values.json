@@ -1,0 +1,10 @@
+{
+ "TW-04": {
+  "conductivity_mw_per_m_k": 118.4,
+  "volumetric_heat_capacity_mj_per_m3_k": 1.746
+ },
+ "TW-11": {
+  "conductivity_mw_per_m_k": 96.72,
+  "volumetric_heat_capacity_mj_per_m3_k": 1.583
+ }
+}

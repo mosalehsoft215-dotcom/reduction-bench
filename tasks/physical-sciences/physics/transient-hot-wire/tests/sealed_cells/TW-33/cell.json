@@ -1,0 +1,12 @@
+{
+ "cell": "TW-33",
+ "wire_radius_um": 4.0,
+ "long_wire_length_m": 0.1,
+ "short_wire_length_m": 0.04,
+ "standard_resistor_ohm": 10.0,
+ "wire_certificate": {
+  "r0_ohm_per_m_at_0c": 1989.437,
+  "A_per_k": 0.0039083,
+  "B_per_k2": -5.775e-07
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "TW-31": {
+  "conductivity_mw_per_m_k": 142.6,
+  "volumetric_heat_capacity_mj_per_m3_k": 2.084
+ },
+ "TW-32": {
+  "conductivity_mw_per_m_k": 107.9,
+  "volumetric_heat_capacity_mj_per_m3_k": 1.392
+ },
+ "TW-33": {
+  "conductivity_mw_per_m_k": 88.31,
+  "volumetric_heat_capacity_mj_per_m3_k": 1.665
+ },
+ "TW-34": {
+  "conductivity_mw_per_m_k": 131.5,
+  "volumetric_heat_capacity_mj_per_m3_k": 1.907
+ },
+ "TW-35": {
+  "conductivity_mw_per_m_k": 101.3,
+  "volumetric_heat_capacity_mj_per_m3_k": 1.478
+ }
+}

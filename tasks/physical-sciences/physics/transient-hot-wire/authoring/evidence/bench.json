@@ -1,0 +1,281 @@
+{
+ "shipped": {
+  "TW-04": {
+   "reference": {
+    "conductivity_mw_per_m_k": 0.008901030913111008,
+    "volumetric_heat_capacity_mj_per_m3_k": 0.03288582313535349
+   },
+   "second": {
+    "conductivity_mw_per_m_k": 0.07867902407523442,
+    "volumetric_heat_capacity_mj_per_m3_k": 0.1140009863979996
+   }
+  },
+  "TW-11": {
+   "reference": {
+    "conductivity_mw_per_m_k": 0.011114258015321177,
+    "volumetric_heat_capacity_mj_per_m3_k": 0.03164956179784184
+   },
+   "second": {
+    "conductivity_mw_per_m_k": 0.08999292938831616,
+    "volumetric_heat_capacity_mj_per_m3_k": 0.1420881330469026
+   }
+  },
+  "TW-31": {
+   "reference": {
+    "conductivity_mw_per_m_k": 0.006439382448375497,
+    "volumetric_heat_capacity_mj_per_m3_k": 0.054190767896045156
+   },
+   "second": {
+    "conductivity_mw_per_m_k": 0.040530400808047595,
+    "volumetric_heat_capacity_mj_per_m3_k": 0.00566847684302374
+   }
+  },
+  "TW-32": {
+   "reference": {
+    "conductivity_mw_per_m_k": 0.013907379886490823,
+    "volumetric_heat_capacity_mj_per_m3_k": 0.017360160462459584
+   },
+   "second": {
+    "conductivity_mw_per_m_k": 0.11811435708055651,
+    "volumetric_heat_capacity_mj_per_m3_k": 0.18668978020986993
+   }
+  },
+  "TW-33": {
+   "reference": {
+    "conductivity_mw_per_m_k": 0.009538185346635863,
+    "volumetric_heat_capacity_mj_per_m3_k": 0.021420561976959185
+   },
+   "second": {
+    "conductivity_mw_per_m_k": 0.06219418450750247,
+    "volumetric_heat_capacity_mj_per_m3_k": 0.07019407952989498
+   }
+  },
+  "TW-34": {
+   "reference": {
+    "conductivity_mw_per_m_k": 0.017234870800120206,
+    "volumetric_heat_capacity_mj_per_m3_k": 0.04129979509756021
+   },
+   "second": {
+    "conductivity_mw_per_m_k": 0.11715103306189079,
+    "volumetric_heat_capacity_mj_per_m3_k": 0.1713227577810228
+   }
+  },
+  "TW-35": {
+   "reference": {
+    "conductivity_mw_per_m_k": 0.0019943996712346035,
+    "volumetric_heat_capacity_mj_per_m3_k": 0.04377274015970878
+   },
+   "second": {
+    "conductivity_mw_per_m_k": 0.05992603740951896,
+    "volumetric_heat_capacity_mj_per_m3_k": 0.07424810578495755
+   }
+  }
+ },
+ "routes": {
+  "certificate slope, rise from the pre-run reading (spool change not used)": {
+   "TW-04": {
+    "conductivity_mw_per_m_k": 0.10698115562597366,
+    "volumetric_heat_capacity_mj_per_m3_k": 0.11540725235126836
+   },
+   "TW-11": {
+    "conductivity_mw_per_m_k": 0.11220501839095398,
+    "volumetric_heat_capacity_mj_per_m3_k": 0.11829789948725189
+   },
+   "TW-31": {
+    "conductivity_mw_per_m_k": 4.561476371320294,
+    "volumetric_heat_capacity_mj_per_m3_k": 1.3513787878482397
+   },
+   "TW-32": {
+    "conductivity_mw_per_m_k": 0.09713768593226924,
+    "volumetric_heat_capacity_mj_per_m3_k": 0.09176213924783072
+   },
+   "TW-33": {
+    "conductivity_mw_per_m_k": 3.561125185456704,
+    "volumetric_heat_capacity_mj_per_m3_k": 1.1145159133039984
+   },
+   "TW-34": {
+    "conductivity_mw_per_m_k": 5.127583816793901,
+    "volumetric_heat_capacity_mj_per_m3_k": 1.5106312768029095
+   },
+   "TW-35": {
+    "conductivity_mw_per_m_k": 0.14063908958807936,
+    "volumetric_heat_capacity_mj_per_m3_k": 0.14820982240911218
+   }
+  },
+  "source setting taken as the current (standard resistor not used)": {
+   "TW-04": {
+    "conductivity_mw_per_m_k": 0.00871978345584612,
+    "volumetric_heat_capacity_mj_per_m3_k": 0.032837729148416095
+   },
+   "TW-11": {
+    "conductivity_mw_per_m_k": 0.008097043955501704,
+    "volumetric_heat_capacity_mj_per_m3_k": 0.030837654304133322
+   },
+   "TW-31": {
+    "conductivity_mw_per_m_k": 0.002545438765544361,
+    "volumetric_heat_capacity_mj_per_m3_k": 0.053188226660094706
+   },
+   "TW-32": {
+    "conductivity_mw_per_m_k": 4.813193515392333,
+    "volumetric_heat_capacity_mj_per_m3_k": 1.3198462695301116
+   },
+   "TW-33": {
+    "conductivity_mw_per_m_k": 0.004594692748627338,
+    "volumetric_heat_capacity_mj_per_m3_k": 0.020113307133351466
+   },
+   "TW-34": {
+    "conductivity_mw_per_m_k": 3.6051863158991004,
+    "volumetric_heat_capacity_mj_per_m3_k": 0.932793748591787
+   },
+   "TW-35": {
+    "conductivity_mw_per_m_k": 5.677595435268357,
+    "volumetric_heat_capacity_mj_per_m3_k": 1.4658101260860867
+   }
+  },
+  "line source without the wire's heat capacity": {
+   "TW-04": {
+    "conductivity_mw_per_m_k": 0.4055239601995053,
+    "volumetric_heat_capacity_mj_per_m3_k": 0.7627872249178602
+   },
+   "TW-11": {
+    "conductivity_mw_per_m_k": 0.5952908395980838,
+    "volumetric_heat_capacity_mj_per_m3_k": 1.1277520820548559
+   },
+   "TW-31": {
+    "conductivity_mw_per_m_k": 0.10874211244311649,
+    "volumetric_heat_capacity_mj_per_m3_k": 0.16878407147290497
+   },
+   "TW-32": {
+    "conductivity_mw_per_m_k": 1.0308382447457687,
+    "volumetric_heat_capacity_mj_per_m3_k": 1.9426426495242732
+   },
+   "TW-33": {
+    "conductivity_mw_per_m_k": 0.40470434672712496,
+    "volumetric_heat_capacity_mj_per_m3_k": 0.7901719533818241
+   },
+   "TW-34": {
+    "conductivity_mw_per_m_k": 0.3808354990942453,
+    "volumetric_heat_capacity_mj_per_m3_k": 0.6591673471523118
+   },
+   "TW-35": {
+    "conductivity_mw_per_m_k": 0.5424592851681176,
+    "volumetric_heat_capacity_mj_per_m3_k": 1.0702719025689977
+   }
+  },
+  "long wire alone (end losses not cancelled)": {
+   "TW-04": {
+    "conductivity_mw_per_m_k": 4.487874341122078,
+    "volumetric_heat_capacity_mj_per_m3_k": 1.2096579744319325
+   },
+   "TW-11": {
+    "conductivity_mw_per_m_k": 4.479730385522274,
+    "volumetric_heat_capacity_mj_per_m3_k": 1.226399644487941
+   },
+   "TW-31": {
+    "conductivity_mw_per_m_k": 1.579672932671361,
+    "volumetric_heat_capacity_mj_per_m3_k": 0.37734573181571474
+   },
+   "TW-32": {
+    "conductivity_mw_per_m_k": 1.4626156662259415,
+    "volumetric_heat_capacity_mj_per_m3_k": 0.40586724985605116
+   },
+   "TW-33": {
+    "conductivity_mw_per_m_k": 14.299115646038452,
+    "volumetric_heat_capacity_mj_per_m3_k": 3.9554692393014568
+   },
+   "TW-34": {
+    "conductivity_mw_per_m_k": 9.878711708817889,
+    "volumetric_heat_capacity_mj_per_m3_k": 2.7025593212469223
+   },
+   "TW-35": {
+    "conductivity_mw_per_m_k": 7.104104632602626,
+    "volumetric_heat_capacity_mj_per_m3_k": 1.9479437112241982
+   }
+  },
+  "both of: certificate slope, source setting": {
+   "TW-04": {
+    "conductivity_mw_per_m_k": 0.1071626656760305,
+    "volumetric_heat_capacity_mj_per_m3_k": 0.11535931973046809
+   },
+   "TW-11": {
+    "conductivity_mw_per_m_k": 0.11522429295975911,
+    "volumetric_heat_capacity_mj_per_m3_k": 0.11748761986484779
+   },
+   "TW-31": {
+    "conductivity_mw_per_m_k": 4.557671429001564,
+    "volumetric_heat_capacity_mj_per_m3_k": 1.3504016220126591
+   },
+   "TW-32": {
+    "conductivity_mw_per_m_k": 4.926936394239734,
+    "volumetric_heat_capacity_mj_per_m3_k": 1.2434513857972673
+   },
+   "TW-33": {
+    "conductivity_mw_per_m_k": 3.556271824072721,
+    "volumetric_heat_capacity_mj_per_m3_k": 1.1132347520635966
+   },
+   "TW-34": {
+    "conductivity_mw_per_m_k": 1.5985676760933654,
+    "volumetric_heat_capacity_mj_per_m3_k": 0.5635732742146238
+   },
+   "TW-35": {
+    "conductivity_mw_per_m_k": 5.824293987806772,
+    "volumetric_heat_capacity_mj_per_m3_k": 1.358215720821787
+   }
+  },
+  "long wire alone and no wire capacity, factors calibrated on the worked cells": {
+   "TW-04": {
+    "conductivity_mw_per_m_k": 0.09471901519355619,
+    "volumetric_heat_capacity_mj_per_m3_k": 0.17989259003681757
+   },
+   "TW-11": {
+    "conductivity_mw_per_m_k": 0.09462938317372771,
+    "volumetric_heat_capacity_mj_per_m3_k": 0.18119642581059248
+   },
+   "TW-31": {
+    "conductivity_mw_per_m_k": 2.48718614571517,
+    "volumetric_heat_capacity_mj_per_m3_k": 1.4907465932328334
+   },
+   "TW-32": {
+    "conductivity_mw_per_m_k": 3.491708562175666,
+    "volumetric_heat_capacity_mj_per_m3_k": 0.19136158009731563
+   },
+   "TW-33": {
+    "conductivity_mw_per_m_k": 9.754563006265204,
+    "volumetric_heat_capacity_mj_per_m3_k": 2.388415040727654
+   },
+   "TW-34": {
+    "conductivity_mw_per_m_k": 5.458698700950659,
+    "volumetric_heat_capacity_mj_per_m3_k": 1.075525299717306
+   },
+   "TW-35": {
+    "conductivity_mw_per_m_k": 2.5261968189051576,
+    "volumetric_heat_capacity_mj_per_m3_k": 0.8179059651206799
+   }
+  }
+ },
+ "redraws": {
+  "reference": {
+   "TW-04": 0.07119205777468274,
+   "TW-11": 0.04304751081802283,
+   "TW-31": 0.06056660632119404,
+   "TW-32": 0.047354352337330985,
+   "TW-33": 0.04579082183623906,
+   "TW-34": 0.09241487886205157,
+   "TW-35": 0.046343174389723574
+  },
+  "second": {
+   "TW-04": 0.13738187540677238,
+   "TW-11": 0.1493712496773547,
+   "TW-31": 0.03912759292229451,
+   "TW-32": 0.20278514538928372,
+   "TW-33": 0.09658018676228508,
+   "TW-34": 0.22069138344187333,
+   "TW-35": 0.11065258243618814
+  }
+ },
+ "worked_copy_passes": {
+  "TW-04": 0,
+  "TW-11": 0
+ },
+ "closest_two_sealed_conductivities_pct": 6.515301085883518
+}

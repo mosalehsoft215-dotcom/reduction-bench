@@ -1,0 +1,6 @@
+SF-101                 passes: none
+SF-102                 passes: none
+mean of the examples   passes: none
+250 s / 1700 m/s       passes: none
+260 s / 1750 m/s       passes: none
+270 s / 1800 m/s       passes: none

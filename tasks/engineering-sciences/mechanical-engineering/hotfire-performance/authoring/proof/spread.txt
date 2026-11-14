@@ -1,0 +1,17 @@
+30 noise draws per firing; largest deviation, isp % / c* %
+independent HF-21   +0.335 / -0.216
+independent HF-22   +0.264 / -0.267
+independent HF-23   +0.272 / +0.268
+independent HF-24   -0.264 / +0.247
+independent HF-25   +0.423 / +0.365
+independent SF-101  +0.350 / +0.334
+independent SF-102  +0.310 / +0.307
+reference   HF-21   -0.316 / -0.216
+reference   HF-22   +0.283 / +0.265
+reference   HF-23   -0.348 / +0.307
+reference   HF-24   -0.345 / -0.299
+reference   HF-25   +0.425 / +0.375
+reference   SF-101  +0.346 / +0.328
+reference   SF-102  +0.277 / +0.272
+reference overall: isp 0.425 %, c* 0.375 %
+independent overall: isp 0.423 %, c* 0.365 %

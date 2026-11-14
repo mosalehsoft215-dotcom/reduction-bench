@@ -1,0 +1,9 @@
+time_s,system,event
+0.00,record,start
+22.00,tanks,pressurisation start
+58.00,engine,ignition command
+58.60,engine,mainstage
+58.60,engine,throttle 100 %
+81.00,engine,shutdown command
+103.00,tanks,vent open
+129.98,record,end

@@ -1,0 +1,22 @@
+{
+ "test": "UJ-33",
+ "location": "km 89.322",
+ "section": "54E1",
+ "alignment": {
+  "gauge_mm": 1436.3,
+  "cant_mm": 113,
+  "gradient_permille": 1.4,
+  "vertical_radius_m": -3600.0
+ },
+ "fastenings_undone_m": 11.4,
+ "sleeper_spacing_m": 0.6,
+ "load_cell": {
+  "serial": "LC-4049",
+  "factor_N_per_mV": 417.4
+ },
+ "probe_temperatures_C": [
+  6.24,
+  6.51,
+  6.44
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "60E1": {
+  "area_cm2": 76.7,
+  "second_moment_cm4": 3038.3,
+  "mass_kg_per_m": 60.21,
+  "height_mm": 172.0,
+  "neutral_axis_above_foot_mm": 80.9,
+  "head_width_mm": 72.0
+ },
+ "54E1": {
+  "area_cm2": 69.77,
+  "second_moment_cm4": 2337.9,
+  "mass_kg_per_m": 54.77,
+  "height_mm": 159.0,
+  "neutral_axis_above_foot_mm": 74.9,
+  "head_width_mm": 70.0
+ },
+ "49E1": {
+  "area_cm2": 62.92,
+  "second_moment_cm4": 1816.0,
+  "mass_kg_per_m": 49.39,
+  "height_mm": 149.0,
+  "neutral_axis_above_foot_mm": 70.2,
+  "head_width_mm": 67.0
+ }
+}

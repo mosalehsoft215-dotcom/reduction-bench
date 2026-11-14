@@ -1,0 +1,22 @@
+{
+ "test": "UJ-12",
+ "location": "km 29.181",
+ "section": "54E1",
+ "alignment": {
+  "gauge_mm": 1435.9,
+  "cant_mm": 116,
+  "gradient_permille": -2.9,
+  "vertical_radius_m": null
+ },
+ "fastenings_undone_m": 32.0,
+ "sleeper_spacing_m": 0.6,
+ "load_cell": {
+  "serial": "LC-7137",
+  "factor_N_per_mV": 398.3
+ },
+ "probe_temperatures_C": [
+  14.6,
+  14.5,
+  14.79
+ ]
+}

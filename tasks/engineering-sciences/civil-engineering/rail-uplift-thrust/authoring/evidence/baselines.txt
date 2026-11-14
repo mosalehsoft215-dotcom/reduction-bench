@@ -1,0 +1,14 @@
+UJ-31: margin 6.27 bounds (closest: worked UJ-07)
+UJ-32: margin 6.00 bounds (closest: worked UJ-07)
+UJ-33: margin 3.03 bounds (closest: worked UJ-12)
+UJ-34: margin 6.13 bounds (closest: worked UJ-07)
+UJ-35: margin 4.73 bounds (closest: worked UJ-12)
+OK: no baseline passes a case
+
+sheet and copy nulls (misses in limits; must stay >= 2 on every sealed test)
+UJ-31: closest null 'UJ-07 thrust copied' misses by 2.97 limits
+UJ-32: closest null 'design norm 21 C' misses by 2.50 limits
+UJ-33: closest null 'design norm 21 C' misses by 2.07 limits
+UJ-34: closest null 'UJ-07 thrust copied' misses by 3.40 limits
+UJ-35: closest null 'UJ-12 thrust copied' misses by 3.22 limits
+smallest null miss over all sealed tests: 2.07 limits

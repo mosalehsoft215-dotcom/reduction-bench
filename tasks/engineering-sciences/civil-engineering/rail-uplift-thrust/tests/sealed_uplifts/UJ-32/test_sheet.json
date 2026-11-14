@@ -1,0 +1,22 @@
+{
+ "test": "UJ-32",
+ "location": "km 55.738",
+ "section": "60E1",
+ "alignment": {
+  "gauge_mm": 1435.2,
+  "cant_mm": 102,
+  "gradient_permille": 4.4,
+  "vertical_radius_m": 4200.0
+ },
+ "fastenings_undone_m": 15.6,
+ "sleeper_spacing_m": 0.6,
+ "load_cell": {
+  "serial": "LC-4532",
+  "factor_N_per_mV": 401.2
+ },
+ "probe_temperatures_C": [
+  33.73,
+  34.04,
+  34.0
+ ]
+}

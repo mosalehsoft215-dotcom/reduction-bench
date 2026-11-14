@@ -1,0 +1,22 @@
+{
+ "test": "UJ-35",
+ "location": "km 92.443",
+ "section": "60E1",
+ "alignment": {
+  "gauge_mm": 1436.8,
+  "cant_mm": 99,
+  "gradient_permille": 4.2,
+  "vertical_radius_m": 2800.0
+ },
+ "fastenings_undone_m": 30.0,
+ "sleeper_spacing_m": 0.6,
+ "load_cell": {
+  "serial": "LC-5906",
+  "factor_N_per_mV": 396.5
+ },
+ "probe_temperatures_C": [
+  4.09,
+  4.09,
+  3.77
+ ]
+}

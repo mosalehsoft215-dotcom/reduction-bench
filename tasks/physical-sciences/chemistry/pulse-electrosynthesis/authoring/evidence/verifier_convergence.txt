@@ -1,0 +1,41 @@
+max |difference| from the truth (stretched n=320, r=1.015): charge bins; outcomes
+fast_transfer / reference A (seconds: uniform80 2.3, stretched80 3.4, truth 5.1)
+   uniform 1280 (check of the truth)    bins 3.32e-07   outcomes 5.83e-06
+   submitted uniform 80                 bins 2.89e-05   outcomes 2.37e-04
+   verifier stretched 80, r=1.06        bins 4.87e-06   outcomes 8.52e-05
+   stretched 160, r=1.03                bins 9.93e-07   outcomes 1.75e-05
+fast_transfer / reference B (seconds: uniform80 2.1, stretched80 3.3, truth 4.5)
+   uniform 1280 (check of the truth)    bins 6.89e-07   outcomes 5.11e-06
+   submitted uniform 80                 bins 7.42e-05   outcomes 2.89e-04
+   verifier stretched 80, r=1.06        bins 1.43e-05   outcomes 7.11e-05
+   stretched 160, r=1.03                bins 2.90e-06   outcomes 1.46e-05
+fast_transfer / steps 0.5 ms before bin edges (seconds: uniform80 3.6, stretched80 4.7, truth 6.5)
+   uniform 1280 (check of the truth)    bins 1.31e-06   outcomes 1.29e-05
+   submitted uniform 80                 bins 1.67e-04   outcomes 3.69e-04
+   verifier stretched 80, r=1.06        bins 1.36e-05   outcomes 1.76e-04
+   stretched 160, r=1.03                bins 2.76e-06   outcomes 3.62e-05
+fast_transfer / steps 0.5 ms after bin edges (seconds: uniform80 4.6, stretched80 12.6, truth 7.0)
+   uniform 1280 (check of the truth)    bins 1.01e-06   outcomes 1.29e-05
+   submitted uniform 80                 bins 7.12e-05   outcomes 3.69e-04
+   verifier stretched 80, r=1.06        bins 1.33e-05   outcomes 1.76e-04
+   stretched 160, r=1.03                bins 2.70e-06   outcomes 3.62e-05
+slow_transport / reference A (seconds: uniform80 2.0, stretched80 3.5, truth 4.9)
+   uniform 1280 (check of the truth)    bins 7.78e-07   outcomes 7.47e-06
+   submitted uniform 80                 bins 1.47e-04   outcomes 6.71e-04
+   verifier stretched 80, r=1.06        bins 6.68e-06   outcomes 9.77e-05
+   stretched 160, r=1.03                bins 1.36e-06   outcomes 2.01e-05
+slow_transport / reference B (seconds: uniform80 2.1, stretched80 3.6, truth 5.4)
+   uniform 1280 (check of the truth)    bins 4.77e-07   outcomes 7.06e-06
+   submitted uniform 80                 bins 9.93e-05   outcomes 6.49e-04
+   verifier stretched 80, r=1.06        bins 7.10e-06   outcomes 9.53e-05
+   stretched 160, r=1.03                bins 1.43e-06   outcomes 1.95e-05
+slow_transport / steps 0.5 ms before bin edges (seconds: uniform80 2.2, stretched80 5.8, truth 7.7)
+   uniform 1280 (check of the truth)    bins 9.40e-07   outcomes 1.07e-05
+   submitted uniform 80                 bins 1.41e-04   outcomes 1.16e-03
+   verifier stretched 80, r=1.06        bins 7.09e-06   outcomes 1.34e-04
+   stretched 160, r=1.03                bins 1.45e-06   outcomes 2.75e-05
+slow_transport / steps 0.5 ms after bin edges (seconds: uniform80 2.5, stretched80 4.4, truth 6.5)
+   uniform 1280 (check of the truth)    bins 6.91e-07   outcomes 1.07e-05
+   submitted uniform 80                 bins 9.63e-05   outcomes 1.16e-03
+   verifier stretched 80, r=1.06        bins 7.27e-06   outcomes 1.34e-04
+   stretched 160, r=1.03                bins 1.49e-06   outcomes 2.75e-05

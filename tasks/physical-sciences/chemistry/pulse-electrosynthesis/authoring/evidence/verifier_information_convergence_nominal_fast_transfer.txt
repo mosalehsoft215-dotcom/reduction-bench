@@ -1,0 +1,6 @@
+nominal n=80: lambda_min 13.1906, scaled H error vs n=320 1.78e-04, bins 9.6e-06, outcomes 9.8e-05, 156 s
+nominal n=160: lambda_min 13.1920, scaled H error vs n=320 3.47e-05, bins 2.0e-06, outcomes 2.0e-05, 214 s
+nominal n=320: lambda_min 13.1924, scaled H error vs n=320 0.00e+00, bins 0.0e+00, outcomes 0.0e+00, 165 s
+fast_transfer n=80: lambda_min 19.3682, scaled H error vs n=320 2.97e-04, bins 1.4e-05, outcomes 8.5e-05, 112 s
+fast_transfer n=160: lambda_min 19.3728, scaled H error vs n=320 5.80e-05, bins 2.9e-06, outcomes 1.7e-05, 162 s
+fast_transfer n=320: lambda_min 19.3739, scaled H error vs n=320 0.00e+00, bins 0.0e+00, outcomes 0.0e+00, 153 s

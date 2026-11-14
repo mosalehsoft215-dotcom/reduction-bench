@@ -1,0 +1,15 @@
+[177.4s] iteration 10 information=15.098628 constraint=-0.2908
+[316.8s] iteration 20 information=9.179978 constraint=-0.1285
+/usr/local/lib/python3.12/site-packages/scipy/optimize/_slsqp_py.py:435: RuntimeWarning: Values in x were outside bounds during a minimize step, clipping to bounds
+[451.1s] iteration 30 information=12.618308 constraint=-0.08544
+[604.8s] iteration 40 information=8.819665 constraint=-0.001515
+[770.4s] iteration 50 information=8.907873 constraint=-0.0001777
+  fx = wrapped_fun(x)
+[967.5s] iteration 60 information=8.926306 constraint=-8.651e-06
+[1133.9s] iteration 70 information=8.921947 constraint=-0.005193
+[1279.2s] iteration 80 information=9.060424 constraint=-0.0001363
+[1429.3s] iteration 90 information=9.068180 constraint=-3.529e-07
+[1582.1s] iteration 100 information=9.069129 constraint=-1.968e-06
+[1589.2s] stage 0: Iteration limit reached; all information [11.373534716396822, 9.069128904389025, 15.746665782197514, 13.842020954662239, 9.67014666044668]
+[2060.3s] stage 1: Optimization terminated successfully; all information [12.539323155389653, 9.906965845674899, 17.917956892199193, 14.684234626777869, 10.570768621918063]
+[2130.6s] final worst information=10.1235376; min yield=0.2464287; max charge=0.6957880

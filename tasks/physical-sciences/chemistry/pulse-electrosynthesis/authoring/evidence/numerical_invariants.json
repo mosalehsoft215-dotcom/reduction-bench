@@ -1,0 +1,11 @@
+{
+  "equivalent_subdivision_outcomes": 4.757027549651127e-10,
+  "equivalent_subdivision_bins": 3.652225744055215e-11,
+  "split_zero_flux": true,
+  "bdf_zero_flux": true,
+  "experiment_exchange_information_error": 2.842170943040401e-14,
+  "dense_covariance_vs_whitened_projection": 2.3163693185779266e-12,
+  "halved_log_sensitivity_step_max_difference": 1.0684580072084504e-07,
+  "mass_residual": 2.02171612784241e-13,
+  "charge_bin_sum_residual": 0.0
+}

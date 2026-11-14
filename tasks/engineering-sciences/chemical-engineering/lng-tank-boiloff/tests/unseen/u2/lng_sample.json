@@ -1,0 +1,12 @@
+{
+  "taken": "2026-06-18 06:30",
+  "point": "tank bottom-fill line, liquid",
+  "method": "ISO 6974 lab GC",
+  "mol_percent": {
+    "N2": 0.137,
+    "CH4": 90.411,
+    "C2H6": 7.305,
+    "C3H8": 1.7,
+    "nC4H10": 0.447
+  }
+}

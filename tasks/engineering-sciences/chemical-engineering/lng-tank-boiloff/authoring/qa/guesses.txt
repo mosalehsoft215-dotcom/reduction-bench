@@ -1,0 +1,6 @@
+TK-A result            keys inside: {'u1': [], 'u2': [], 'u3': [], 'u4': [], 'u5': []}  tanks passed: none
+TK-B result            keys inside: {'u1': [], 'u2': [], 'u3': [], 'u4': [], 'u5': []}  tanks passed: none
+mean of the examples   keys inside: {'u1': [], 'u2': [], 'u3': [], 'u4': [], 'u5': []}  tanks passed: none
+80 t / 200 kW          keys inside: {'u1': [], 'u2': [], 'u3': [], 'u4': [], 'u5': []}  tanks passed: none
+100 t / 250 kW         keys inside: {'u1': [], 'u2': ['heat_in_kw'], 'u3': [], 'u4': [], 'u5': []}  tanks passed: none
+60 t / 150 kW          keys inside: {'u1': [], 'u2': [], 'u3': [], 'u4': [], 'u5': []}  tanks passed: none

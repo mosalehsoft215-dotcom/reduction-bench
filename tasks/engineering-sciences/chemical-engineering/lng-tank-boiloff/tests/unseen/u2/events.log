@@ -1,0 +1,8 @@
+2026-06-18 06:30 | SAMPLE | LNG | taken | file=lng_sample.json
+2026-06-18 06:55 | COMPRESSOR | K-401 | stop | reason=meter zero check
+2026-06-18 07:10 | CHECK | FT-201 | zero | flow=none | reading_m3h=0.0
+2026-06-18 07:12 | COMPRESSOR | K-401 | start
+2026-06-18 09:00 | WINDOW | open
+2026-06-19 02:00 | COMPRESSOR | K-401 | trip | reason=high bearing temperature
+2026-06-19 02:50 | COMPRESSOR | K-401 | start
+2026-06-20 09:00 | WINDOW | close

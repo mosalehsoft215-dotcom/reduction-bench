@@ -1,0 +1,8 @@
+2026-11-03 06:30 | SAMPLE | LNG | taken | file=lng_sample.json
+2026-11-03 06:55 | COMPRESSOR | K-401 | stop | reason=meter zero check
+2026-11-03 07:10 | CHECK | FT-201 | zero | flow=none | reading_m3h=0.0
+2026-11-03 07:12 | COMPRESSOR | K-401 | start
+2026-11-03 09:00 | WINDOW | open
+2026-11-03 20:00 | PUMP | P-301 | start | mode=recirculation to the same tank
+2026-11-04 04:00 | PUMP | P-301 | stop
+2026-11-05 09:00 | WINDOW | close

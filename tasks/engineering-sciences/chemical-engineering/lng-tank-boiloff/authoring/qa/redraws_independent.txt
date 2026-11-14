@@ -1,0 +1,15 @@
+TK-A  bog_t       worst -0.03 (seed 28)  mean +0.00
+TK-A  heat_in_kw  worst +0.48 (seed 9)  mean +0.02
+TK-B  bog_t       worst -0.03 (seed 11)  mean -0.00
+TK-B  heat_in_kw  worst -0.53 (seed 2)  mean -0.02
+u1    bog_t       worst +0.46 (seed 8)  mean +0.03
+u1    heat_in_kw  worst -0.41 (seed 2)  mean +0.02
+u2    bog_t       worst +0.04 (seed 12)  mean +0.00
+u2    heat_in_kw  worst +0.37 (seed 19)  mean -0.02
+u3    bog_t       worst +0.02 (seed 1)  mean +0.00
+u3    heat_in_kw  worst -0.57 (seed 3)  mean -0.01
+u4    bog_t       worst +0.04 (seed 24)  mean -0.00
+u4    heat_in_kw  worst +0.39 (seed 30)  mean -0.04
+u5    bog_t       worst -0.03 (seed 20)  mean +0.00
+u5    heat_in_kw  worst +0.50 (seed 11)  mean +0.00
+OVERALL worst 0.565

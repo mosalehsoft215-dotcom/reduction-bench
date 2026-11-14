@@ -1,0 +1,10 @@
+{
+ "W-07": {
+  "conversion_gain": 1.9814,
+  "area_coeff_a00": -2.362e-06
+ },
+ "W-12": {
+  "conversion_gain": 1.4527,
+  "area_coeff_a00": -3.861e-06
+ }
+}

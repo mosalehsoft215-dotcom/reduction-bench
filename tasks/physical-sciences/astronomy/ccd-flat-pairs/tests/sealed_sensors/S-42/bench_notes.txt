@@ -1,0 +1,1 @@
+Sensor S-42, flat-pair run at 173 K, 550 nm. 26 levels in shuffled order, two flats per level, four zero frames at the end. Electrometer on autorange. Run completed without interruption.

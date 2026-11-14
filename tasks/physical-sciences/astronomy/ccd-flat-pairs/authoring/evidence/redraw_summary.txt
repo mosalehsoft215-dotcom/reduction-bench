@@ -1,0 +1,2 @@
+reference: worst fraction of an allowance over 160 draws 0.69
+second: worst fraction of an allowance over 160 draws 0.79

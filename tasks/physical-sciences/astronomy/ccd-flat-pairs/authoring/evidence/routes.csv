@@ -1,0 +1,73 @@
+route,sensor,gain_err,a00_err,gain_frac,a00_frac,holds
+reference,S-41,-0.00045,-0.0204,0.04,0.17,1
+reference,S-42,0.0027,-0.0223,0.23,0.19,1
+reference,S-43,0.00098,-0.0226,0.08,0.19,1
+reference,S-44,0.00139,-0.0316,0.12,0.26,1
+reference,S-45,-0.00298,0.002,0.25,0.02,1
+reference,S-46,-0.00024,-0.0058,0.02,0.05,1
+reference,W-07,0.00018,-0.0254,0.02,0.21,1
+reference,W-12,0.0006,-0.0237,0.05,0.2,1
+monitor not used,S-41,-0.01064,0.2818,0.89,2.35,0
+monitor not used,S-42,0.00262,-0.0216,0.22,0.18,1
+monitor not used,S-43,0.00055,-0.0162,0.05,0.14,1
+monitor not used,S-44,0.00165,-0.0338,0.14,0.28,1
+monitor not used,S-45,-0.00278,0.0,0.23,0.0,1
+monitor not used,S-46,0.00018,-0.0088,0.02,0.07,1
+monitor not used,W-07,0.00052,-0.03,0.04,0.25,1
+monitor not used,W-12,0.00033,-0.0203,0.03,0.17,1
+monitor ranges joined,S-41,-0.00013,-0.0229,0.01,0.19,1
+monitor ranges joined,S-42,-0.05377,0.3902,4.48,3.25,0
+monitor ranges joined,S-43,0.00163,-0.0274,0.14,0.23,1
+monitor ranges joined,S-44,0.0015,-0.0318,0.12,0.26,1
+monitor ranges joined,S-45,-0.00254,-0.0015,0.21,0.01,1
+monitor ranges joined,S-46,-0.00036,-0.0048,0.03,0.04,1
+monitor ranges joined,W-07,0.00037,-0.0271,0.03,0.23,1
+monitor ranges joined,W-12,0.00073,-0.0246,0.06,0.2,1
+difference used whole,S-41,-0.00056,-0.02,0.05,0.17,1
+difference used whole,S-42,0.00264,-0.0222,0.22,0.18,1
+difference used whole,S-43,-0.07454,0.6875,6.21,5.73,0
+difference used whole,S-44,0.00127,-0.0312,0.11,0.26,1
+difference used whole,S-45,-0.00303,0.0018,0.25,0.02,1
+difference used whole,S-46,-0.00033,-0.0057,0.03,0.05,1
+difference used whole,W-07,0.00013,-0.0254,0.01,0.21,1
+difference used whole,W-12,0.0005,-0.0234,0.04,0.2,1
+overscan trail not used,S-41,-0.00045,-0.0204,0.04,0.17,1
+overscan trail not used,S-42,0.0027,-0.0223,0.23,0.19,1
+overscan trail not used,S-43,0.00098,-0.0226,0.08,0.19,1
+overscan trail not used,S-44,0.00139,-0.0316,0.12,0.26,1
+overscan trail not used,S-45,0.02078,-0.0165,1.73,0.14,0
+overscan trail not used,S-46,-0.00024,-0.0058,0.02,0.05,1
+overscan trail not used,W-07,0.00018,-0.0254,0.02,0.21,1
+overscan trail not used,W-12,0.0006,-0.0237,0.05,0.2,1
+row start not checked,S-41,-0.00045,-0.0204,0.04,0.17,1
+row start not checked,S-42,0.0027,-0.0223,0.23,0.19,1
+row start not checked,S-43,0.00098,-0.0226,0.08,0.19,1
+row start not checked,S-44,0.02393,-0.0477,1.99,0.4,0
+row start not checked,S-45,-0.00298,0.002,0.25,0.02,1
+row start not checked,S-46,-0.00024,-0.0058,0.02,0.05,1
+row start not checked,W-07,0.00018,-0.0254,0.02,0.21,1
+row start not checked,W-12,0.0006,-0.0237,0.05,0.2,1
+row start taken as trailing,S-41,-0.00045,-0.0204,0.04,0.17,1
+row start taken as trailing,S-42,0.0027,-0.0223,0.23,0.19,1
+row start taken as trailing,S-43,0.00098,-0.0226,0.08,0.19,1
+row start taken as trailing,S-44,0.00139,-0.0316,0.12,0.26,1
+row start taken as trailing,S-45,-0.00298,0.002,0.25,0.02,1
+row start taken as trailing,S-46,-0.02352,0.0138,1.96,0.12,0
+row start taken as trailing,W-07,0.00018,-0.0254,0.02,0.21,1
+row start taken as trailing,W-12,0.0006,-0.0237,0.05,0.2,1
+fit up to the variance peak,S-41,-0.00045,-0.0204,0.04,0.17,1
+fit up to the variance peak,S-42,0.0027,-0.0223,0.23,0.19,1
+fit up to the variance peak,S-43,0.00098,-0.0226,0.08,0.19,1
+fit up to the variance peak,S-44,0.00139,-0.0316,0.12,0.26,1
+fit up to the variance peak,S-45,-0.00298,0.002,0.25,0.02,1
+fit up to the variance peak,S-46,-0.00024,-0.0058,0.02,0.05,1
+fit up to the variance peak,W-07,0.00018,-0.0254,0.02,0.21,1
+fit up to the variance peak,W-12,0.0006,-0.0237,0.05,0.2,1
+"a00 alone, exponential form",S-41,0.00057,-0.0491,0.05,0.41,1
+"a00 alone, exponential form",S-42,0.00388,-0.0562,0.32,0.47,1
+"a00 alone, exponential form",S-43,0.0022,-0.0546,0.18,0.46,1
+"a00 alone, exponential form",S-44,0.00289,-0.0677,0.24,0.56,1
+"a00 alone, exponential form",S-45,-0.00182,-0.0296,0.15,0.25,1
+"a00 alone, exponential form",S-46,0.00088,-0.0366,0.07,0.31,1
+"a00 alone, exponential form",W-07,0.00113,-0.0533,0.09,0.44,1
+"a00 alone, exponential form",W-12,0.00203,-0.0577,0.17,0.48,1

@@ -1,0 +1,26 @@
+{
+ "S-41": {
+  "conversion_gain": 2.2108,
+  "area_coeff_a00": -2.117e-06
+ },
+ "S-42": {
+  "conversion_gain": 1.5236,
+  "area_coeff_a00": -3.583e-06
+ },
+ "S-43": {
+  "conversion_gain": 1.8693,
+  "area_coeff_a00": -2.712e-06
+ },
+ "S-44": {
+  "conversion_gain": 1.3911,
+  "area_coeff_a00": -4.176e-06
+ },
+ "S-45": {
+  "conversion_gain": 2.0397,
+  "area_coeff_a00": -2.431e-06
+ },
+ "S-46": {
+  "conversion_gain": 1.6619,
+  "area_coeff_a00": -3.118e-06
+ }
+}

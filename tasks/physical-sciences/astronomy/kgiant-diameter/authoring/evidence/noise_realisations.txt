@@ -1,0 +1,24 @@
+errors: position angles in degrees, the other keys in percent of the truth; largest chi-square per point of the nights
+seed 201: diameter_mas +0.001  flux_ratio_percent -0.065  position_angle_deg_2024 +0.000  position_angle_deg_2025 +0.000  position_angle_deg_2026 -0.000  separation_mas_2024 +0.000  separation_mas_2025 +0.001  separation_mas_2026 -0.001  chi-square per point 0.993
+seed 202: diameter_mas +0.000  flux_ratio_percent +0.010  position_angle_deg_2024 +0.000  position_angle_deg_2025 +0.000  position_angle_deg_2026 -0.000  separation_mas_2024 +0.000  separation_mas_2025 +0.000  separation_mas_2026 +0.001  chi-square per point 1.034
+seed 203: diameter_mas +0.001  flux_ratio_percent +0.111  position_angle_deg_2024 +0.000  position_angle_deg_2025 +0.000  position_angle_deg_2026 +0.000  separation_mas_2024 +0.001  separation_mas_2025 -0.000  separation_mas_2026 +0.000  chi-square per point 0.998
+seed 204: diameter_mas +0.000  flux_ratio_percent -0.084  position_angle_deg_2024 -0.000  position_angle_deg_2025 +0.000  position_angle_deg_2026 +0.000  separation_mas_2024 +0.000  separation_mas_2025 +0.000  separation_mas_2026 -0.000  chi-square per point 1.035
+seed 205: diameter_mas -0.002  flux_ratio_percent +0.117  position_angle_deg_2024 -0.000  position_angle_deg_2025 +0.000  position_angle_deg_2026 -0.000  separation_mas_2024 +0.001  separation_mas_2025 +0.001  separation_mas_2026 +0.000  chi-square per point 1.013
+seed 206: diameter_mas -0.003  flux_ratio_percent +0.010  position_angle_deg_2024 -0.000  position_angle_deg_2025 +0.000  position_angle_deg_2026 -0.000  separation_mas_2024 +0.000  separation_mas_2025 +0.000  separation_mas_2026 -0.001  chi-square per point 1.028
+seed 207: diameter_mas -0.001  flux_ratio_percent +0.049  position_angle_deg_2024 +0.000  position_angle_deg_2025 -0.000  position_angle_deg_2026 +0.000  separation_mas_2024 +0.001  separation_mas_2025 +0.001  separation_mas_2026 +0.000  chi-square per point 1.020
+seed 208: diameter_mas -0.004  flux_ratio_percent +0.021  position_angle_deg_2024 -0.000  position_angle_deg_2025 +0.000  position_angle_deg_2026 -0.000  separation_mas_2024 -0.000  separation_mas_2025 -0.000  separation_mas_2026 +0.001  chi-square per point 1.027
+seed 209: diameter_mas -0.002  flux_ratio_percent -0.029  position_angle_deg_2024 -0.000  position_angle_deg_2025 -0.000  position_angle_deg_2026 -0.000  separation_mas_2024 -0.000  separation_mas_2025 -0.000  separation_mas_2026 -0.000  chi-square per point 1.001
+seed 210: diameter_mas +0.002  flux_ratio_percent -0.101  position_angle_deg_2024 -0.000  position_angle_deg_2025 -0.000  position_angle_deg_2026 -0.000  separation_mas_2024 +0.000  separation_mas_2025 +0.001  separation_mas_2026 -0.000  chi-square per point 1.030
+seed 211: diameter_mas -0.002  flux_ratio_percent +0.080  position_angle_deg_2024 +0.000  position_angle_deg_2025 +0.000  position_angle_deg_2026 +0.000  separation_mas_2024 +0.000  separation_mas_2025 +0.001  separation_mas_2026 +0.000  chi-square per point 1.020
+seed 212: diameter_mas -0.005  flux_ratio_percent -0.116  position_angle_deg_2024 +0.000  position_angle_deg_2025 +0.000  position_angle_deg_2026 +0.000  separation_mas_2024 -0.001  separation_mas_2025 -0.000  separation_mas_2026 -0.000  chi-square per point 1.021
+seed 213: diameter_mas -0.003  flux_ratio_percent +0.037  position_angle_deg_2024 -0.000  position_angle_deg_2025 -0.000  position_angle_deg_2026 -0.000  separation_mas_2024 +0.000  separation_mas_2025 +0.000  separation_mas_2026 +0.000  chi-square per point 1.036
+seed 214: diameter_mas +0.002  flux_ratio_percent -0.142  position_angle_deg_2024 -0.000  position_angle_deg_2025 -0.000  position_angle_deg_2026 +0.000  separation_mas_2024 +0.000  separation_mas_2025 +0.001  separation_mas_2026 +0.001  chi-square per point 1.005
+seed 215: diameter_mas +0.002  flux_ratio_percent +0.023  position_angle_deg_2024 +0.000  position_angle_deg_2025 -0.001  position_angle_deg_2026 +0.000  separation_mas_2024 +0.000  separation_mas_2025 -0.001  separation_mas_2026 -0.000  chi-square per point 1.025
+max |error| diameter_mas: 0.005
+max |error| flux_ratio_percent: 0.142
+max |error| position_angle_deg_2024: 0.000
+max |error| position_angle_deg_2025: 0.001
+max |error| position_angle_deg_2026: 0.000
+max |error| separation_mas_2024: 0.001
+max |error| separation_mas_2025: 0.001
+max |error| separation_mas_2026: 0.001

@@ -1,0 +1,758 @@
+[
+ {
+  "label": "DEF",
+  "route": "reference",
+  "errors": {
+   "diameter_mas": -0.0019724458676484424,
+   "separation_mas": -0.0005888219510086223,
+   "position_angle_deg": -0.0003121575306579416,
+   "flux_ratio_percent": -0.04192892314455188
+  },
+  "inside": true,
+  "values": {
+   "diameter_mas": 1.0436794135824794,
+   "separation_mas": 146.20913908342544,
+   "position_angle_deg": 214.86968784246935,
+   "flux_ratio_percent": 4.228226406550986,
+   "position_angle_of_date_deg": 214.69560780364
+  },
+  "chi2": 7688.449077823504
+ },
+ {
+  "label": "DEF",
+  "route": "reference with 24 instants per observation and 20 wavenumbers per channel",
+  "errors": {
+   "diameter_mas": -0.0019724439920709713,
+   "separation_mas": -0.0005888219510086223,
+   "position_angle_deg": -0.0003121575306579416,
+   "flux_ratio_percent": -0.041929054892908546
+  },
+  "inside": true,
+  "values": {
+   "diameter_mas": 1.0436794136020549,
+   "separation_mas": 146.20913908342544,
+   "position_angle_deg": 214.86968784246935,
+   "flux_ratio_percent": 4.228226400978031,
+   "position_angle_of_date_deg": 214.6956078036491
+  },
+  "chi2": 7688.44907782363
+ },
+ {
+  "label": "DEF",
+  "route": "calibrator limb-darkening coefficients 0.05 lower than the table",
+  "errors": {
+   "diameter_mas": 0.14924787931815953,
+   "separation_mas": -0.0006210734040612564,
+   "position_angle_deg": -0.0003074242206935196,
+   "flux_ratio_percent": 0.041667667887446136
+  },
+  "inside": true,
+  "values": {
+   "diameter_mas": 1.0452577001164436,
+   "separation_mas": 146.20909192857593,
+   "position_angle_deg": 214.8696925757793,
+   "flux_ratio_percent": 4.23176254235164,
+   "position_angle_of_date_deg": 214.6956125398193
+  },
+  "chi2": 7712.879431887932
+ },
+ {
+  "label": "DEF",
+  "route": "calibrator limb-darkening coefficients 0.05 higher than the table",
+  "errors": {
+   "diameter_mas": -0.15892932338409382,
+   "separation_mas": -0.0005559961613332831,
+   "position_angle_deg": -0.00031692873167799007,
+   "flux_ratio_percent": -0.13072781116879595
+  },
+  "inside": true,
+  "values": {
+   "diameter_mas": 1.0420412546518403,
+   "separation_mas": 146.20918707801252,
+   "position_angle_deg": 214.86968307126833,
+   "flux_ratio_percent": 4.22447021358756,
+   "position_angle_of_date_deg": 214.6956030342507
+  },
+  "chi2": 7716.896141697962
+ },
+ {
+  "label": "DEF",
+  "route": "refraction at the middle of each observation only",
+  "errors": {
+   "diameter_mas": -0.001964210399985067,
+   "separation_mas": -0.0005644524544434759,
+   "position_angle_deg": -0.0002524623180590879,
+   "flux_ratio_percent": -0.041313735402348506
+  },
+  "inside": true,
+  "values": {
+   "diameter_mas": 1.0436794995360554,
+   "separation_mas": 146.20917471406636,
+   "position_angle_deg": 214.86974753768195,
+   "flux_ratio_percent": 4.228252428992481,
+   "position_angle_of_date_deg": 214.69566749547337
+  },
+  "chi2": 7688.833246469485
+ },
+ {
+  "label": "DEF",
+  "route": "refraction of dry air at the site pressure and temperature",
+  "errors": {
+   "diameter_mas": -0.001995211130101371,
+   "separation_mas": -0.0005886388809606125,
+   "position_angle_deg": -0.00031195991195431816,
+   "flux_ratio_percent": -0.056134246044492464
+  },
+  "inside": true,
+  "values": {
+   "diameter_mas": 1.0436791759814352,
+   "separation_mas": 146.20913935109215,
+   "position_angle_deg": 214.86968804008805,
+   "flux_ratio_percent": 4.227625521392318,
+   "position_angle_of_date_deg": 214.6956079978298
+  },
+  "chi2": 7688.449226401698
+ },
+ {
+  "label": "DEF",
+  "route": "refractivity from the Birch and Downs update of Edlen's formula instead of Ciddor's",
+  "errors": {
+   "diameter_mas": -0.001997071424497676,
+   "separation_mas": -0.0005886100698404562,
+   "position_angle_deg": -0.0003119440704324461,
+   "flux_ratio_percent": -0.05745906510884469
+  },
+  "inside": true,
+  "values": {
+   "diameter_mas": 1.0436791565655426,
+   "separation_mas": 146.2091393932169,
+   "position_angle_deg": 214.86968805592957,
+   "flux_ratio_percent": 4.227569481545896,
+   "position_angle_of_date_deg": 214.69560801636612
+  },
+  "chi2": 7688.451636037934
+ },
+ {
+  "label": "DEF",
+  "route": "refraction of a plane-parallel atmosphere (Snell's law) instead of Stone's formula",
+  "errors": {
+   "diameter_mas": -0.0019714865353459565,
+   "separation_mas": -0.0005891149162939868,
+   "position_angle_deg": -0.0003123905722759446,
+   "flux_ratio_percent": -0.03896026346393855
+  },
+  "inside": true,
+  "values": {
+   "diameter_mas": 1.0436794235950306,
+   "separation_mas": 146.2091386550809,
+   "position_angle_deg": 214.86968760942773,
+   "flux_ratio_percent": 4.228351980855476,
+   "position_angle_of_date_deg": 214.69560757268485
+  },
+  "chi2": 7688.4253865171195
+ },
+ {
+  "label": "ALT",
+  "route": "refraction left out (both stars where the fibre axis puts them at 2.2 um, at every wavelength)",
+  "errors": {
+   "diameter_mas": -0.007798854165597113,
+   "separation_mas": -0.00044337332169019916,
+   "position_angle_deg": -0.00026436709617883025,
+   "flux_ratio_percent": -2.2578695941082194
+  },
+  "inside": false,
+  "values": {
+   "diameter_mas": 1.0436186033590737,
+   "separation_mas": 146.20935174386636,
+   "position_angle_deg": 214.86973563290383,
+   "flux_ratio_percent": 4.1344921161692225,
+   "position_angle_of_date_deg": 214.69565559517147
+  },
+  "chi2": 8493.94178825773
+ },
+ {
+  "label": "ALT",
+  "route": "refraction with the fibre axis on the giant's image at 1.65 um instead of 2.2 um",
+  "errors": {
+   "diameter_mas": -0.004716218171774145,
+   "separation_mas": -0.00040180809640633086,
+   "position_angle_deg": -0.0002508313271789575,
+   "flux_ratio_percent": -6.194235825221894
+  },
+  "inside": false,
+  "values": {
+   "diameter_mas": 1.0436507768309413,
+   "separation_mas": 146.20941251638226,
+   "position_angle_deg": 214.86974916867283,
+   "flux_ratio_percent": 3.967983824593114,
+   "position_angle_of_date_deg": 214.69566913009305
+  },
+  "chi2": 8272.759628047197
+ },
+ {
+  "label": "ALT",
+  "route": "refraction of a standard sea-level atmosphere (1013.25 hPa, 15 C, dry) instead of the site's weather",
+  "errors": {
+   "diameter_mas": 0.000317298937435595,
+   "separation_mas": -0.0006049853146228301,
+   "position_angle_deg": -0.00033205609898345756,
+   "flux_ratio_percent": 1.2814650686475249
+  },
+  "inside": true,
+  "values": {
+   "diameter_mas": 1.04370331164901,
+   "separation_mas": 146.2091154509715,
+   "position_angle_deg": 214.86966794390102,
+   "flux_ratio_percent": 4.28420597240379,
+   "position_angle_of_date_deg": 214.69558790839332
+  },
+  "chi2": 7737.999594301551
+ },
+ {
+  "label": "ALT",
+  "route": "refraction with the images moved away from the zenith (sign of the displacement reversed)",
+  "errors": {
+   "diameter_mas": -0.010424614317672276,
+   "separation_mas": -0.00030702702343843313,
+   "position_angle_deg": -0.0003224158489274487,
+   "flux_ratio_percent": -11.894919917801838
+  },
+  "inside": false,
+  "values": {
+   "diameter_mas": 1.0435911983003665,
+   "separation_mas": 146.20955109578904,
+   "position_angle_deg": 214.86967758415108,
+   "flux_ratio_percent": 3.7268448874769824,
+   "position_angle_of_date_deg": 214.69559754443733
+  },
+  "chi2": 11164.094782095888
+ },
+ {
+  "label": "ALT",
+  "route": "refraction with the parallactic angle of the wrong sign (east and west exchanged)",
+  "errors": {
+   "diameter_mas": 0.016864705281727232,
+   "separation_mas": 0.00020969917282620543,
+   "position_angle_deg": -0.00024777850538271196,
+   "flux_ratio_percent": -15.302078950616306
+  },
+  "inside": false,
+  "values": {
+   "diameter_mas": 1.0438760169290255,
+   "separation_mas": 146.2103066011606,
+   "position_angle_deg": 214.86975222149462,
+   "flux_ratio_percent": 3.5827220603889307,
+   "position_angle_of_date_deg": 214.69567218126366
+  },
+  "chi2": 21003.593148356642
+ },
+ {
+  "label": "ALT",
+  "route": "refraction moving the companion only (giant kept on the fibre axis at every wavelength)",
+  "errors": {
+   "diameter_mas": 0.0013030065160624105,
+   "separation_mas": -0.0007154116030694269,
+   "position_angle_deg": -0.0002953893539370256,
+   "flux_ratio_percent": 1.3884387015824728
+  },
+  "inside": true,
+  "values": {
+   "diameter_mas": 1.0437135994790083,
+   "separation_mas": 146.20895399669516,
+   "position_angle_deg": 214.86970461064607,
+   "flux_ratio_percent": 4.288730957076939,
+   "position_angle_of_date_deg": 214.6956245752181
+  },
+  "chi2": 8167.833894966763
+ },
+ {
+  "label": "ALT",
+  "route": "fibres centred on the giant's K-band image (centroid of the K-band blend ignored)",
+  "errors": {
+   "diameter_mas": -0.0004174680615642856,
+   "separation_mas": -0.0005446388159469073,
+   "position_angle_deg": -0.00030974062534028235,
+   "flux_ratio_percent": 4.0367169576019934
+  },
+  "inside": false,
+  "values": {
+   "diameter_mas": 1.0436956428858415,
+   "separation_mas": 146.20920368358722,
+   "position_angle_deg": 214.86969025937466,
+   "flux_ratio_percent": 4.400753127306564,
+   "position_angle_of_date_deg": 214.69561022019823
+  },
+  "chi2": 7708.471996988839
+ },
+ {
+  "label": "ALT",
+  "route": "K-band centroid computed with the H-band flux ratio instead of the K-band one",
+  "errors": {
+   "diameter_mas": -0.00160846785153268,
+   "separation_mas": -0.0005783792848657043,
+   "position_angle_deg": -0.00031156065853110704,
+   "flux_ratio_percent": 0.9237784429735774
+  },
+  "inside": true,
+  "values": {
+   "diameter_mas": 1.0436832124210336,
+   "separation_mas": 146.2091543516476,
+   "position_angle_deg": 214.86968843934147,
+   "flux_ratio_percent": 4.269075828137782,
+   "position_angle_of_date_deg": 214.69560839534836
+  },
+  "chi2": 7690.5158070682955
+ },
+ {
+  "label": "ALT",
+  "route": "refraction left out, one flux ratio per observation, their weighted mean reported",
+  "errors": {
+   "diameter_mas": -0.007798854165597113,
+   "separation_mas": -0.00044337332169019916,
+   "position_angle_deg": -0.00026436709617883025,
+   "flux_ratio_percent": -2.2665542134386873
+  },
+  "inside": false,
+  "values": {
+   "diameter_mas": 1.0436186033590737,
+   "separation_mas": 146.20935174386636,
+   "position_angle_deg": 214.86973563290383,
+   "flux_ratio_percent": 4.134124756771544,
+   "position_angle_of_date_deg": 214.69565559517147
+  },
+  "chi2": 8493.94178825773,
+  "per_observation_percent": [
+   3.983,
+   4.0017,
+   4.0224,
+   4.0498,
+   4.031,
+   4.1106,
+   4.1435,
+   4.1485,
+   4.2103,
+   4.2443,
+   4.3139,
+   4.3454
+  ]
+ },
+ {
+  "label": "ALT",
+  "route": "refraction left out, flux ratio with a straight-line slope in wavelength, value at 1.65 um reported",
+  "errors": {
+   "diameter_mas": -0.0027382300227141165,
+   "separation_mas": -0.000281246911926214,
+   "position_angle_deg": -0.00023477475508570933,
+   "flux_ratio_percent": -2.781699090644074
+  },
+  "inside": false,
+  "values": {
+   "diameter_mas": 1.043671421093253,
+   "separation_mas": 146.20958878889007,
+   "position_angle_deg": 214.86976522524492,
+   "flux_ratio_percent": 4.112334128465756,
+   "position_angle_of_date_deg": 214.69568519039228
+  },
+  "chi2": 8272.528891492779,
+  "slope_per_0_15_um": 0.0316420648612261
+ },
+ {
+  "label": "ALT",
+  "route": "calibrators as uniform discs of their listed (limb-darkened) diameters",
+  "errors": {
+   "diameter_mas": 0.9404158586606037,
+   "separation_mas": -0.0008004877789735687,
+   "position_angle_deg": -0.0002801259995521832,
+   "flux_ratio_percent": 0.4464958744051728
+  },
+  "inside": false,
+  "values": {
+   "diameter_mas": 1.0535151203168407,
+   "separation_mas": 146.20882960681837,
+   "position_angle_deg": 214.86971987400045,
+   "flux_ratio_percent": 4.248886775487339,
+   "position_angle_of_date_deg": 214.6956398385654
+  },
+  "chi2": 8678.581313985625
+ },
+ {
+  "label": "ALT",
+  "route": "calibrators taken as unresolved (squared visibility 1)",
+  "errors": {
+   "diameter_mas": -11.79095677588463,
+   "separation_mas": -1.2261474533935224,
+   "position_angle_deg": -2.3988769267871817,
+   "flux_ratio_percent": -93.59568773650048
+  },
+  "inside": false,
+  "values": {
+   "diameter_mas": 0.9206377841300921,
+   "separation_mas": 144.41724980839334,
+   "position_angle_deg": 212.47112307321282,
+   "flux_ratio_percent": 0.2709024087460299,
+   "position_angle_of_date_deg": 212.29704303627875
+  },
+  "chi2": 571921.0697374514
+ },
+ {
+  "label": "ALT",
+  "route": "position angle left on the equinox of the date (no precession to J2000)",
+  "errors": {
+   "diameter_mas": -0.0019724458676484424,
+   "separation_mas": -0.0005888072559856461,
+   "position_angle_deg": -0.17439219636000303,
+   "flux_ratio_percent": -0.04192892314455188
+  },
+  "inside": false,
+  "values": {
+   "diameter_mas": 1.0436794135824794,
+   "separation_mas": 146.20913910491103,
+   "position_angle_deg": 214.69560780364,
+   "flux_ratio_percent": 4.228226406550986,
+   "position_angle_of_date_deg": 214.69560780364
+  },
+  "chi2": 7688.449077823504
+ },
+ {
+  "label": "ALT",
+  "route": "calibrators as uniform discs of the listed diameters and no precession",
+  "errors": {
+   "diameter_mas": 0.9404158586606037,
+   "separation_mas": -0.0008004771902214713,
+   "position_angle_deg": -0.1743601614346062,
+   "flux_ratio_percent": 0.4464958744051728
+  },
+  "inside": false,
+  "values": {
+   "diameter_mas": 1.0535151203168407,
+   "separation_mas": 146.2088296223002,
+   "position_angle_deg": 214.6956398385654,
+   "flux_ratio_percent": 4.248886775487339,
+   "position_angle_of_date_deg": 214.6956398385654
+  },
+  "chi2": 8678.581313985625
+ },
+ {
+  "label": "ALT",
+  "route": "both calibrators used, interpolated between the two of each target observation (B carries over-resolved flux)",
+  "errors": {
+   "diameter_mas": -0.3729912089716514,
+   "separation_mas": -0.000452162861297456,
+   "position_angle_deg": -0.0005280615967535596,
+   "flux_ratio_percent": -10.117050600088373
+  },
+  "inside": false,
+  "values": {
+   "diameter_mas": 1.039807090751963,
+   "separation_mas": 146.2093388926805,
+   "position_angle_deg": 214.86947193840325,
+   "flux_ratio_percent": 3.8020487596162624,
+   "position_angle_of_date_deg": 214.6953919039699
+  },
+  "chi2": 20211.71767377079
+ },
+ {
+  "label": "ALT",
+  "route": "nominal channel wavelengths (wavecal.csv not used)",
+  "errors": {
+   "diameter_mas": -0.21657026777380795,
+   "separation_mas": -0.3198496194744327,
+   "position_angle_deg": -0.00031058463579825,
+   "flux_ratio_percent": 0.15042308900521384
+  },
+  "inside": false,
+  "values": {
+   "diameter_mas": 1.0414396561152448,
+   "separation_mas": 145.74234787136643,
+   "position_angle_deg": 214.8696894153642,
+   "flux_ratio_percent": 4.236362896664921,
+   "position_angle_of_date_deg": 214.69560938201087
+  },
+  "chi2": 7703.024612225304
+ },
+ {
+  "label": "ALT",
+  "route": "the first wavelength scan for the whole night (the prism re-set after observation 4 missed)",
+  "errors": {
+   "diameter_mas": -0.0019724458676484424,
+   "separation_mas": -0.0005888219510086223,
+   "position_angle_deg": -0.0003121575306579416,
+   "flux_ratio_percent": -0.04192892314455188
+  },
+  "inside": true,
+  "values": {
+   "diameter_mas": 1.0436794135824794,
+   "separation_mas": 146.20913908342544,
+   "position_angle_deg": 214.86968784246935,
+   "flux_ratio_percent": 4.228226406550986,
+   "position_angle_of_date_deg": 214.69560780364
+  },
+  "chi2": 7688.449077823504
+ },
+ {
+  "label": "ALT",
+  "route": "the mean of the two wavelength scans for the whole night",
+  "errors": {
+   "diameter_mas": -0.0019724458676484424,
+   "separation_mas": -0.0005888219510086223,
+   "position_angle_deg": -0.0003121575306579416,
+   "flux_ratio_percent": -0.04192892314455188
+  },
+  "inside": true,
+  "values": {
+   "diameter_mas": 1.0436794135824794,
+   "separation_mas": 146.20913908342544,
+   "position_angle_deg": 214.86968784246935,
+   "flux_ratio_percent": 4.228226406550986,
+   "position_angle_of_date_deg": 214.69560780364
+  },
+  "chi2": 7688.449077823504
+ },
+ {
+  "label": "ALT",
+  "route": "calibrator A alone on every night (whichever calibrator is the faulty one)",
+  "errors": {
+   "diameter_mas": -0.0019724458676484424,
+   "separation_mas": -0.0005888219510086223,
+   "position_angle_deg": -0.0003121575306579416,
+   "flux_ratio_percent": -0.04192892314455188
+  },
+  "inside": true,
+  "values": {
+   "diameter_mas": 1.0436794135824794,
+   "separation_mas": 146.20913908342544,
+   "position_angle_deg": 214.86968784246935,
+   "flux_ratio_percent": 4.228226406550986,
+   "position_angle_of_date_deg": 214.69560780364
+  },
+  "chi2": 7688.449077823504
+ },
+ {
+  "label": "ALT",
+  "route": "nominal channel wavelengths and both calibrators interpolated",
+  "errors": {
+   "diameter_mas": -0.6030802037138572,
+   "separation_mas": -0.3197066630136858,
+   "position_angle_deg": -0.0005261034206966997,
+   "flux_ratio_percent": -9.919742954955135
+  },
+  "inside": false,
+  "values": {
+   "diameter_mas": 1.0374056519138386,
+   "separation_mas": 145.7425568880077,
+   "position_angle_deg": 214.8694738965793,
+   "flux_ratio_percent": 3.8103948730053983,
+   "position_angle_of_date_deg": 214.6953938597588
+  },
+  "chi2": 19821.21883976929
+ },
+ {
+  "label": "ALT",
+  "route": "both calibrators used, straight lines in time through A and B",
+  "errors": {
+   "diameter_mas": -0.42134271602983775,
+   "separation_mas": -0.00032078509438759895,
+   "position_angle_deg": -0.00032150856722523713,
+   "flux_ratio_percent": -9.677069322586352
+  },
+  "inside": false,
+  "values": {
+   "diameter_mas": 1.0393024460727966,
+   "separation_mas": 146.2095309801135,
+   "position_angle_deg": 214.86967849143278,
+   "flux_ratio_percent": 3.820659967654598,
+   "position_angle_of_date_deg": 214.69559845503076
+  },
+  "chi2": 22870.59831396307
+ },
+ {
+  "label": "ALT",
+  "route": "fibre coupling at 1.65 um for every channel",
+  "errors": {
+   "diameter_mas": -0.012133875574649178,
+   "separation_mas": -0.0009267110461452788,
+   "position_angle_deg": -0.0003695898570867939,
+   "flux_ratio_percent": 0.5603157427652272
+  },
+  "inside": true,
+  "values": {
+   "diameter_mas": 1.0435733587406275,
+   "separation_mas": 146.20864505577944,
+   "position_angle_deg": 214.86963041014292,
+   "flux_ratio_percent": 4.253701355918969,
+   "position_angle_of_date_deg": 214.69555037680266
+  },
+  "chi2": 8852.115866846987
+ },
+ {
+  "label": "ALT",
+  "route": "baseline at rest during an observation (no average over time)",
+  "errors": {
+   "diameter_mas": 0.4384519316269264,
+   "separation_mas": 0.00047675776071454123,
+   "position_angle_deg": -0.001518000905775807,
+   "flux_ratio_percent": -31.31872387357574
+  },
+  "inside": false,
+  "values": {
+   "diameter_mas": 1.0482761228103903,
+   "separation_mas": 146.21069706752195,
+   "position_angle_deg": 214.86848199909423,
+   "flux_ratio_percent": 2.9052179801477465,
+   "position_angle_of_date_deg": 214.69440195872207
+  },
+  "chi2": 85195.31687255463
+ },
+ {
+  "label": "ALT",
+  "route": "baseline at rest and refraction left out",
+  "errors": {
+   "diameter_mas": 0.4406251041213949,
+   "separation_mas": 0.0005914257372729992,
+   "position_angle_deg": -0.0016130093879098695,
+   "flux_ratio_percent": -33.276213486396124
+  },
+  "inside": false,
+  "values": {
+   "diameter_mas": 1.0482988042117152,
+   "separation_mas": 146.21086472357047,
+   "position_angle_deg": 214.8683869906121,
+   "flux_ratio_percent": 2.8224161695254444,
+   "position_angle_of_date_deg": 214.69430695542795
+  },
+  "chi2": 88674.0058103704
+ },
+ {
+  "label": "ALT",
+  "route": "one wavenumber per channel (no sum over the channel)",
+  "errors": {
+   "diameter_mas": 1.30060349991028,
+   "separation_mas": -1.2848740819393134,
+   "position_angle_deg": -2.364266714635278,
+   "flux_ratio_percent": -88.42385453734971
+  },
+  "inside": false,
+  "values": {
+   "diameter_mas": 1.0572743987285638,
+   "separation_mas": 144.33138560479654,
+   "position_angle_deg": 212.50573328536473,
+   "flux_ratio_percent": 0.48967095307010716,
+   "position_angle_of_date_deg": 212.33165325123707
+  },
+  "chi2": 521147.28457438527
+ },
+ {
+  "label": "ALT",
+  "route": "fibre coupling left out (flux ratio of the light in the fibres)",
+  "errors": {
+   "diameter_mas": -0.014463093495631352,
+   "separation_mas": -0.0007671052762114883,
+   "position_angle_deg": -0.0003184305513173058,
+   "flux_ratio_percent": -32.24151777036363
+  },
+  "inside": false,
+  "values": {
+   "diameter_mas": 1.0435490486931862,
+   "separation_mas": 146.20887841537566,
+   "position_angle_deg": 214.8696815694487,
+   "flux_ratio_percent": 2.866183798313619,
+   "position_angle_of_date_deg": 214.69560153511208
+  },
+  "chi2": 10539.45599244978
+ },
+ {
+  "label": "ALT",
+  "route": "fibre coupling as a Gaussian of FWHM lambda / D",
+  "errors": {
+   "diameter_mas": 0.005376783250565786,
+   "separation_mas": -0.0005067677968040307,
+   "position_angle_deg": -0.0003093509705252018,
+   "flux_ratio_percent": 15.171484531418145
+  },
+  "inside": false,
+  "values": {
+   "diameter_mas": 1.0437561174867862,
+   "separation_mas": 146.2092590548043,
+   "position_angle_deg": 214.86969064902948,
+   "flux_ratio_percent": 4.871753795678988,
+   "position_angle_of_date_deg": 214.695610611181
+  },
+  "chi2": 7965.8385414185095
+ },
+ {
+  "label": "ALT",
+  "route": "fibre coupling as the Airy pattern of the aperture",
+  "errors": {
+   "diameter_mas": 0.00510396157444859,
+   "separation_mas": -0.0005360648147156866,
+   "position_angle_deg": -0.000308851601829474,
+   "flux_ratio_percent": 11.16817872857958
+  },
+  "inside": false,
+  "values": {
+   "diameter_mas": 1.0437532700469525,
+   "separation_mas": 146.2092162196344,
+   "position_angle_deg": 214.86969114839818,
+   "flux_ratio_percent": 4.702413960218917,
+   "position_angle_of_date_deg": 214.69561110802908
+  },
+  "chi2": 7984.306295630234
+ },
+ {
+  "label": "ALT",
+  "route": "fibre coupling as the far field of the mode, aperture edge ignored",
+  "errors": {
+   "diameter_mas": 0.02101980996767061,
+   "separation_mas": -0.000375024056109563,
+   "position_angle_deg": -0.00030239385557706555,
+   "flux_ratio_percent": 42.654065045918465
+  },
+  "inside": false,
+  "values": {
+   "diameter_mas": 1.0439193837566327,
+   "separation_mas": 146.20945167732756,
+   "position_angle_deg": 214.86969760614443,
+   "flux_ratio_percent": 6.034266951442351,
+   "position_angle_of_date_deg": 214.69561756635412
+  },
+  "chi2": 9672.193272346602
+ },
+ {
+  "label": "ALT",
+  "route": "fibre coupling of the amplitude taken for that of the light (square root)",
+  "errors": {
+   "diameter_mas": -0.010233067468201629,
+   "separation_mas": -0.0006820603581925155,
+   "position_angle_deg": -0.00031600592240010883,
+   "flux_ratio_percent": -17.550785459234252
+  },
+  "inside": false,
+  "values": {
+   "diameter_mas": 1.0435931974748345,
+   "separation_mas": 146.2090027595503,
+   "position_angle_deg": 214.8696839940776,
+   "flux_ratio_percent": 3.4876017750743915,
+   "position_angle_of_date_deg": 214.69560395538517
+  },
+  "chi2": 8375.807700804377
+ },
+ {
+  "label": "ALT",
+  "route": "companion left where it was in 2012 (J2000 angle), with its 2012 brightness; diameter from a disc alone",
+  "errors": {
+   "diameter_mas": 1.4850953982911141,
+   "separation_mas": 2.5921619588263445,
+   "position_angle_deg": -3.870000000000033,
+   "flux_ratio_percent": -14.165944498794058
+  },
+  "inside": false,
+  "values": {
+   "diameter_mas": 1.0591999406719645,
+   "separation_mas": 150.0,
+   "position_angle_deg": 210.99999999999997,
+   "flux_ratio_percent": 3.6307805477010118,
+   "position_angle_of_date_deg": 210.99999999999997
+  },
+  "chi2": 249203.52239173691
+ }
+]

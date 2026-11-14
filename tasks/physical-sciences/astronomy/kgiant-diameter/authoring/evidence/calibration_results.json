@@ -1,0 +1,1055 @@
+[
+ {
+  "label": "DEF",
+  "route": "reference",
+  "values": {
+   "separation_mas_2024": 146.20913908342544,
+   "position_angle_deg_2024": 214.86968784246935,
+   "separation_mas_2025": 144.52030537874498,
+   "position_angle_deg_2025": 217.3101764452665,
+   "separation_mas_2026": 142.82974914377866,
+   "position_angle_deg_2026": 219.63991458141624,
+   "diameter_mas": 1.043695557916374,
+   "flux_ratio_percent": 4.227572989641055
+  },
+  "errors": {
+   "diameter_mas": -0.00042560923886325597,
+   "flux_ratio_percent": -0.05737613141715281,
+   "position_angle_deg_2024": -0.0003121575306579416,
+   "position_angle_deg_2025": 0.00017644526650428816,
+   "position_angle_deg_2026": -8.541858375110678e-05,
+   "separation_mas_2024": -0.0005888219510086223,
+   "separation_mas_2025": 0.0002113055251662388,
+   "separation_mas_2026": -0.00017563272516341044
+  },
+  "worst": "flux_ratio_percent",
+  "worst_over_band": 0.09562688569525468,
+  "inside": true
+ },
+ {
+  "label": "DEF",
+  "route": "reference with 24 instants per observation and 20 wavenumbers per channel",
+  "values": {
+   "separation_mas_2024": 146.20913908342544,
+   "position_angle_deg_2024": 214.86968784246935,
+   "separation_mas_2025": 144.52030537874498,
+   "position_angle_deg_2025": 217.3101764452665,
+   "separation_mas_2026": 142.82974914377866,
+   "position_angle_deg_2026": 219.63991458141624,
+   "diameter_mas": 1.0436955579126268,
+   "flux_ratio_percent": 4.227572990714255
+  },
+  "errors": {
+   "diameter_mas": -0.0004256095978982799,
+   "flux_ratio_percent": -0.05737610604599208,
+   "position_angle_deg_2024": -0.0003121575306579416,
+   "position_angle_deg_2025": 0.00017644526650428816,
+   "position_angle_deg_2026": -8.541858375110678e-05,
+   "separation_mas_2024": -0.0005888219510086223,
+   "separation_mas_2025": 0.0002113055251662388,
+   "separation_mas_2026": -0.00017563272516341044
+  },
+  "worst": "flux_ratio_percent",
+  "worst_over_band": 0.09562684340998681,
+  "inside": true
+ },
+ {
+  "label": "DEF",
+  "route": "calibrator limb-darkening coefficients 0.05 lower than the table",
+  "values": {
+   "separation_mas_2024": 146.20909192857593,
+   "position_angle_deg_2024": 214.8696925757793,
+   "separation_mas_2025": 144.52028653676592,
+   "position_angle_deg_2025": 217.31017996633975,
+   "separation_mas_2026": 142.82978235677228,
+   "position_angle_deg_2026": 219.63991151245315,
+   "diameter_mas": 1.045089470937423,
+   "flux_ratio_percent": 4.231396273273835
+  },
+  "errors": {
+   "diameter_mas": 0.13312934151796796,
+   "flux_ratio_percent": 0.033008824440527995,
+   "position_angle_deg_2024": -0.0003074242206935196,
+   "position_angle_deg_2025": 0.00017996633974348697,
+   "position_angle_deg_2026": -8.848754683299376e-05,
+   "separation_mas_2024": -0.0006210734040612564,
+   "separation_mas_2025": 0.0001982678978107444,
+   "separation_mas_2026": -0.00015237921145994093
+  },
+  "worst": "diameter_mas",
+  "worst_over_band": 0.44376447172655986,
+  "inside": true
+ },
+ {
+  "label": "DEF",
+  "route": "calibrator limb-darkening coefficients 0.05 higher than the table",
+  "values": {
+   "separation_mas_2024": 146.20918707801252,
+   "position_angle_deg_2024": 214.86968307126833,
+   "separation_mas_2025": 144.52032495884282,
+   "position_angle_deg_2025": 217.3101727839435,
+   "separation_mas_2026": 142.8297144534695,
+   "position_angle_deg_2026": 219.63991769101008,
+   "diameter_mas": 1.042248818110617,
+   "flux_ratio_percent": 4.223536151046308
+  },
+  "errors": {
+   "diameter_mas": -0.13904205129663394,
+   "flux_ratio_percent": -0.1528096679359936,
+   "position_angle_deg_2024": -0.00031692873167799007,
+   "position_angle_deg_2025": 0.00017278394349773407,
+   "position_angle_deg_2026": -8.23089899029128e-05,
+   "separation_mas_2024": -0.0005559961613332831,
+   "separation_mas_2025": 0.00022485389068460648,
+   "separation_mas_2026": -0.00019992055626527616
+  },
+  "worst": "diameter_mas",
+  "worst_over_band": 0.46347350432211315,
+  "inside": true
+ },
+ {
+  "label": "DEF",
+  "route": "refraction at the middle of each observation only",
+  "values": {
+   "separation_mas_2024": 146.20917471406636,
+   "position_angle_deg_2024": 214.86974753768195,
+   "separation_mas_2025": 144.5203495763745,
+   "position_angle_deg_2025": 217.3102400294119,
+   "separation_mas_2026": 142.8297973954123,
+   "position_angle_deg_2026": 219.63997557852596,
+   "diameter_mas": 1.0436956941566058,
+   "flux_ratio_percent": 4.227582645885211
+  },
+  "errors": {
+   "diameter_mas": -0.0004125556572032174,
+   "flux_ratio_percent": -0.05714785141346379,
+   "position_angle_deg_2024": -0.0002524623180590879,
+   "position_angle_deg_2025": 0.0002400294118842794,
+   "position_angle_deg_2026": -2.4421474023483825e-05,
+   "separation_mas_2024": -0.0005644524544434759,
+   "separation_mas_2025": 0.00024188788714241127,
+   "separation_mas_2026": -0.00014185016292689312
+  },
+  "worst": "flux_ratio_percent",
+  "worst_over_band": 0.09524641902243966,
+  "inside": true
+ },
+ {
+  "label": "DEF",
+  "route": "refraction of dry air at the site pressure and temperature",
+  "values": {
+   "separation_mas_2024": 146.20913935109215,
+   "position_angle_deg_2024": 214.86968804008805,
+   "separation_mas_2025": 144.5203052555814,
+   "position_angle_deg_2025": 217.3101764710632,
+   "separation_mas_2026": 142.82974865277728,
+   "position_angle_deg_2026": 219.6399147684485,
+   "diameter_mas": 1.0436954209544578,
+   "flux_ratio_percent": 4.227240062338764
+  },
+  "errors": {
+   "diameter_mas": -0.00043873196725607855,
+   "flux_ratio_percent": -0.06524675322072682,
+   "position_angle_deg_2024": -0.00031195991195431816,
+   "position_angle_deg_2025": 0.00017647106318463557,
+   "position_angle_deg_2026": -8.523155148054684e-05,
+   "separation_mas_2024": -0.0005886388809606125,
+   "separation_mas_2025": 0.00021122030264830727,
+   "separation_mas_2026": -0.00017597649144551752
+  },
+  "worst": "flux_ratio_percent",
+  "worst_over_band": 0.10874458870121137,
+  "inside": true
+ },
+ {
+  "label": "DEF",
+  "route": "refractivity from the Birch and Downs update of Edlen's formula instead of Ciddor's",
+  "values": {
+   "separation_mas_2024": 146.2091393932169,
+   "position_angle_deg_2024": 214.86968805592957,
+   "separation_mas_2025": 144.520304728666,
+   "position_angle_deg_2025": 217.3101765788937,
+   "separation_mas_2026": 142.82974797661285,
+   "position_angle_deg_2026": 219.63991501701585,
+   "diameter_mas": 1.0436952964924906,
+   "flux_ratio_percent": 4.226942173195343
+  },
+  "errors": {
+   "diameter_mas": -0.00045065703837554594,
+   "flux_ratio_percent": -0.07228904975550288,
+   "position_angle_deg_2024": -0.0003119440704324461,
+   "position_angle_deg_2025": 0.00017657889370070734,
+   "position_angle_deg_2026": -8.498298413428529e-05,
+   "separation_mas_2024": -0.0005886100698404562,
+   "separation_mas_2025": 0.00021085570576229173,
+   "separation_mas_2026": -0.0001764498964940131
+  },
+  "worst": "flux_ratio_percent",
+  "worst_over_band": 0.1204817495925048,
+  "inside": true
+ },
+ {
+  "label": "DEF",
+  "route": "refraction of a plane-parallel atmosphere (Snell's law) instead of Stone's formula",
+  "values": {
+   "separation_mas_2024": 146.2091386550809,
+   "position_angle_deg_2024": 214.86968760942773,
+   "separation_mas_2025": 144.52030522130397,
+   "position_angle_deg_2025": 217.31017641578518,
+   "separation_mas_2026": 142.8297498492716,
+   "position_angle_deg_2026": 219.63991443344688,
+   "diameter_mas": 1.043695582556303,
+   "flux_ratio_percent": 4.227695704752409
+  },
+  "errors": {
+   "diameter_mas": -0.00042324841401653046,
+   "flux_ratio_percent": -0.05447506495487309,
+   "position_angle_deg_2024": -0.0003123905722759446,
+   "position_angle_deg_2025": 0.00017641578517668677,
+   "position_angle_deg_2026": -8.556655311053873e-05,
+   "separation_mas_2024": -0.0005891149162939868,
+   "separation_mas_2025": 0.00021119658453194745,
+   "separation_mas_2026": -0.00017513878626251866
+  },
+  "worst": "flux_ratio_percent",
+  "worst_over_band": 0.09079177492478849,
+  "inside": true
+ },
+ {
+  "label": "ALT",
+  "route": "refraction left out (both stars where the fibre axis puts them at 2.2 um, at every wavelength)",
+  "values": {
+   "separation_mas_2024": 146.20935174386636,
+   "position_angle_deg_2024": 214.86973563290383,
+   "separation_mas_2025": 144.5200829877964,
+   "position_angle_deg_2025": 217.31019616256393,
+   "separation_mas_2026": 142.82932428956332,
+   "position_angle_deg_2026": 219.64005194107696,
+   "diameter_mas": 1.0436273387712118,
+   "flux_ratio_percent": 4.109374761106641
+  },
+  "errors": {
+   "diameter_mas": -0.006961888357592816,
+   "flux_ratio_percent": -2.8516604939328505,
+   "position_angle_deg_2024": -0.00026436709617883025,
+   "position_angle_deg_2025": 0.0001961625639239628,
+   "position_angle_deg_2026": 5.194107697548134e-05,
+   "separation_mas_2024": -0.00044337332169019916,
+   "separation_mas_2025": 5.742305313471974e-05,
+   "separation_mas_2026": -0.0004730871922542512
+  },
+  "worst": "flux_ratio_percent",
+  "worst_over_band": 4.752767489888084,
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "refraction with the fibre axis on the giant's image at 1.65 um instead of 2.2 um",
+  "values": {
+   "separation_mas_2024": 146.20941251638226,
+   "position_angle_deg_2024": 214.86974916867283,
+   "separation_mas_2025": 144.52022458677192,
+   "position_angle_deg_2025": 217.3101596908121,
+   "separation_mas_2026": 142.82945518927633,
+   "position_angle_deg_2026": 219.640002238825,
+   "diameter_mas": 1.0436636648431612,
+   "flux_ratio_percent": 3.9490462644168614
+  },
+  "errors": {
+   "diameter_mas": -0.0034813794039356694,
+   "flux_ratio_percent": -6.641932283289343,
+   "position_angle_deg_2024": -0.0002508313271789575,
+   "position_angle_deg_2025": 0.00015969081209732394,
+   "position_angle_deg_2026": 2.2388250044969027e-06,
+   "separation_mas_2024": -0.00040180809640633086,
+   "separation_mas_2025": 0.0001554018626448439,
+   "separation_mas_2026": -0.0003814399801682633
+  },
+  "worst": "flux_ratio_percent",
+  "worst_over_band": 11.069887138815572,
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "refraction of a standard sea-level atmosphere (1013.25 hPa, 15 C, dry) instead of the site's weather",
+  "values": {
+   "separation_mas_2024": 146.2091154509715,
+   "position_angle_deg_2024": 214.86966794390102,
+   "separation_mas_2025": 144.52036583334123,
+   "position_angle_deg_2025": 217.31016346231223,
+   "separation_mas_2026": 142.8298563667547,
+   "position_angle_deg_2026": 219.63987453138884,
+   "diameter_mas": 1.0437204678609666,
+   "flux_ratio_percent": 4.28268807685818
+  },
+  "errors": {
+   "diameter_mas": 0.0019610866117236725,
+   "flux_ratio_percent": 1.245581013195718,
+   "position_angle_deg_2024": -0.00033205609898345756,
+   "position_angle_deg_2025": 0.0001634623122299672,
+   "position_angle_deg_2026": -0.00012546861114515195,
+   "separation_mas_2024": -0.0006049853146228301,
+   "separation_mas_2025": 0.0002531368261893263,
+   "separation_mas_2026": -0.00010056237855771144
+  },
+  "worst": "flux_ratio_percent",
+  "worst_over_band": 2.0759683553261965,
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "refraction with the images moved away from the zenith (sign of the displacement reversed)",
+  "values": {
+   "separation_mas_2024": 146.20955109578904,
+   "position_angle_deg_2024": 214.86967758415108,
+   "separation_mas_2025": 144.51986125933456,
+   "position_angle_deg_2025": 217.3101502822411,
+   "separation_mas_2026": 142.82887794855688,
+   "position_angle_deg_2026": 219.64015284113276,
+   "diameter_mas": 1.04360743987469,
+   "flux_ratio_percent": 3.6837651822958932
+  },
+  "errors": {
+   "diameter_mas": -0.008868460794297928,
+   "flux_ratio_percent": -12.91335266439969,
+   "position_angle_deg_2024": -0.0003224158489274487,
+   "position_angle_deg_2025": 0.00015028224109414623,
+   "position_angle_deg_2026": 0.00015284113277402867,
+   "separation_mas_2024": -0.00030702702343843313,
+   "separation_mas_2025": -9.60010140160783e-05,
+   "separation_mas_2026": -0.0007855852713900546
+  },
+  "worst": "flux_ratio_percent",
+  "worst_over_band": 21.522254440666153,
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "refraction with the parallactic angle of the wrong sign (east and west exchanged)",
+  "values": {
+   "separation_mas_2024": 146.2103066011606,
+   "position_angle_deg_2024": 214.86975222149462,
+   "separation_mas_2025": 144.52019151894888,
+   "position_angle_deg_2025": 217.30997466256676,
+   "separation_mas_2026": 142.82807886207698,
+   "position_angle_deg_2026": 219.64013411210132,
+   "diameter_mas": 1.0438824960675281,
+   "flux_ratio_percent": 3.5452919258121596
+  },
+  "errors": {
+   "diameter_mas": 0.01748549080464734,
+   "flux_ratio_percent": -16.186952108459597,
+   "position_angle_deg_2024": -0.00024777850538271196,
+   "position_angle_deg_2025": -2.5337433243066698e-05,
+   "position_angle_deg_2026": 0.00013411210133540408,
+   "separation_mas_2024": 0.00020969917282620543,
+   "separation_mas_2025": 0.00013252072299518858,
+   "separation_mas_2026": -0.0013450521060276444
+  },
+  "worst": "flux_ratio_percent",
+  "worst_over_band": 26.97825351409933,
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "refraction moving the companion only (giant kept on the fibre axis at every wavelength)",
+  "values": {
+   "separation_mas_2024": 146.20895399669516,
+   "position_angle_deg_2024": 214.86970461064607,
+   "separation_mas_2025": 144.52024544957203,
+   "position_angle_deg_2025": 217.31022480328946,
+   "separation_mas_2026": 142.82988839561446,
+   "position_angle_deg_2026": 219.63991024989497,
+   "diameter_mas": 1.043738273421768,
+   "flux_ratio_percent": 4.2872835643827365
+  },
+  "errors": {
+   "diameter_mas": 0.003667090329395606,
+   "flux_ratio_percent": 1.3542213802065328,
+   "position_angle_deg_2024": -0.0002953893539370256,
+   "position_angle_deg_2025": 0.00022480328945562178,
+   "position_angle_deg_2026": -8.975010501899305e-05,
+   "separation_mas_2024": -0.0007154116030694269,
+   "separation_mas_2025": 0.00016983778856616283,
+   "separation_mas_2026": -7.81379160930129e-05
+  },
+  "worst": "flux_ratio_percent",
+  "worst_over_band": 2.257035633677555,
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "fibres centred on the giant's K-band image (centroid of the K-band blend ignored)",
+  "values": {
+   "separation_mas_2024": 146.20920368358722,
+   "position_angle_deg_2024": 214.86969025937466,
+   "separation_mas_2025": 144.52037022011743,
+   "position_angle_deg_2025": 217.31016311574595,
+   "separation_mas_2026": 142.8298226445697,
+   "position_angle_deg_2026": 219.639884783895,
+   "diameter_mas": 1.0437115740428276,
+   "flux_ratio_percent": 4.396927883347831
+  },
+  "errors": {
+   "diameter_mas": 0.001108943453820288,
+   "flux_ratio_percent": 3.946285658341142,
+   "position_angle_deg_2024": -0.00030974062534028235,
+   "position_angle_deg_2025": 0.00016311574594851663,
+   "position_angle_deg_2026": -0.00011521610497311485,
+   "separation_mas_2024": -0.0005446388159469073,
+   "separation_mas_2025": 0.0002561722373561892,
+   "separation_mas_2026": -0.00012417239396711466
+  },
+  "worst": "flux_ratio_percent",
+  "worst_over_band": 6.577142763901904,
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "K-band centroid computed with the H-band flux ratio instead of the K-band one",
+  "values": {
+   "separation_mas_2024": 146.2091543516476,
+   "position_angle_deg_2024": 214.86968843934147,
+   "separation_mas_2025": 144.52032071999372,
+   "position_angle_deg_2025": 217.31017325989038,
+   "separation_mas_2026": 142.82976657995903,
+   "position_angle_deg_2026": 219.639907465716,
+   "diameter_mas": 1.0436993088376458,
+   "flux_ratio_percent": 4.267682192439904
+  },
+  "errors": {
+   "diameter_mas": -6.622232003872242e-05,
+   "flux_ratio_percent": 0.8908319725745573,
+   "position_angle_deg_2024": -0.00031156065853110704,
+   "position_angle_deg_2025": 0.000173259890374311,
+   "position_angle_deg_2026": -9.253428399347285e-05,
+   "separation_mas_2024": -0.0005783792848657043,
+   "separation_mas_2025": 0.00022192083706240595,
+   "separation_mas_2026": -0.00016342507945799056
+  },
+  "worst": "flux_ratio_percent",
+  "worst_over_band": 1.4847199542909288,
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "refraction left out, one flux ratio per observation, their weighted mean reported",
+  "values": {
+   "separation_mas_2024": 146.20935174386636,
+   "position_angle_deg_2024": 214.86973563290383,
+   "separation_mas_2025": 144.5200829877964,
+   "position_angle_deg_2025": 217.31019616256393,
+   "separation_mas_2026": 142.82932428956332,
+   "position_angle_deg_2026": 219.64005194107696,
+   "diameter_mas": 1.0436273387712118,
+   "flux_ratio_percent": 4.108924499841957
+  },
+  "errors": {
+   "diameter_mas": -0.006961888357592816,
+   "flux_ratio_percent": -2.8623049682752533,
+   "position_angle_deg_2024": -0.00026436709617883025,
+   "position_angle_deg_2025": 0.0001961625639239628,
+   "position_angle_deg_2026": 5.194107697548134e-05,
+   "separation_mas_2024": -0.00044337332169019916,
+   "separation_mas_2025": 5.742305313471974e-05,
+   "separation_mas_2026": -0.0004730871922542512
+  },
+  "worst": "flux_ratio_percent",
+  "worst_over_band": 4.770508280458755,
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "refraction left out, flux ratio with a straight-line slope in wavelength, value at 1.65 um reported",
+  "values": {
+   "separation_mas_2024": 146.20958878889007,
+   "position_angle_deg_2024": 214.86976522524492,
+   "separation_mas_2025": 144.5203745881563,
+   "position_angle_deg_2025": 217.31014975074712,
+   "separation_mas_2026": 142.82959024857402,
+   "position_angle_deg_2026": 219.6399450615204,
+   "diameter_mas": 1.0436853079184758,
+   "flux_ratio_percent": 4.089320957400105
+  },
+  "errors": {
+   "diameter_mas": -0.0014076920115235758,
+   "flux_ratio_percent": -3.3257456879407954,
+   "position_angle_deg_2024": -0.00023477475508570933,
+   "position_angle_deg_2025": 0.00014975074711287562,
+   "position_angle_deg_2026": -5.493847959314735e-05,
+   "separation_mas_2024": -0.000281246911926214,
+   "separation_mas_2025": 0.0002591946832941616,
+   "separation_mas_2026": -0.0002868805054845325
+  },
+  "worst": "flux_ratio_percent",
+  "worst_over_band": 5.542909479901326,
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "calibrators as uniform discs of their listed (limb-darkened) diameters",
+  "values": {
+   "separation_mas_2024": 146.20882960681837,
+   "position_angle_deg_2024": 214.86971987400045,
+   "separation_mas_2025": 144.52019462140274,
+   "position_angle_deg_2025": 217.31019691557407,
+   "separation_mas_2026": 142.8299530796029,
+   "position_angle_deg_2026": 219.63989429763512,
+   "diameter_mas": 1.0522548041183502,
+   "flux_ratio_percent": 4.249705912138907
+  },
+  "errors": {
+   "diameter_mas": 0.8196612166666783,
+   "flux_ratio_percent": 0.4658608070663428,
+   "position_angle_deg_2024": -0.0002801259995521832,
+   "position_angle_deg_2025": 0.000196915574065315,
+   "position_angle_deg_2026": -0.00010570236486273643,
+   "separation_mas_2024": -0.0008004877789735687,
+   "separation_mas_2025": 0.00013466745276691228,
+   "separation_mas_2026": -3.28505195823503e-05
+  },
+  "worst": "diameter_mas",
+  "worst_over_band": 2.7322040555555946,
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "calibrators taken as unresolved (squared visibility 1)",
+  "values": {
+   "separation_mas_2024": 144.41724980839334,
+   "position_angle_deg_2024": 212.47112307321282,
+   "separation_mas_2025": 144.52245423042544,
+   "position_angle_deg_2025": 217.30970990032966,
+   "separation_mas_2026": 140.63108947918084,
+   "position_angle_deg_2026": 217.22265446894153,
+   "diameter_mas": 0.9202691203214629,
+   "flux_ratio_percent": 1.3968006415955532
+  },
+  "errors": {
+   "diameter_mas": -11.826279551455121,
+   "flux_ratio_percent": -66.97870823651175,
+   "position_angle_deg_2024": -2.3988769267871817,
+   "position_angle_deg_2025": -0.00029009967033744033,
+   "position_angle_deg_2026": -2.4173455310584586,
+   "separation_mas_2024": -1.2261474533935224,
+   "separation_mas_2025": 0.0016981943159688484,
+   "separation_mas_2026": -1.5395298752497122
+  },
+  "worst": "flux_ratio_percent",
+  "worst_over_band": 111.63118039418626,
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "position angle left on the equinox of the date (no precession to J2000)",
+  "values": {
+   "separation_mas_2024": 146.20913910491103,
+   "position_angle_deg_2024": 214.69560780364,
+   "separation_mas_2025": 144.5203053491682,
+   "position_angle_deg_2025": 217.12897414767716,
+   "separation_mas_2026": 142.8297491419076,
+   "position_angle_deg_2026": 219.45160963138008,
+   "diameter_mas": 1.043695557916374,
+   "flux_ratio_percent": 4.227572989641055
+  },
+  "errors": {
+   "diameter_mas": -0.00042560923886325597,
+   "flux_ratio_percent": -0.05737613141715281,
+   "position_angle_deg_2024": -0.17439219636000303,
+   "position_angle_deg_2025": -0.18102585232284696,
+   "position_angle_deg_2026": -0.1883903686199062,
+   "separation_mas_2024": -0.0005888072559856461,
+   "separation_mas_2025": 0.00021128505964806976,
+   "separation_mas_2026": -0.00017563403515996612
+  },
+  "worst": "position_angle_deg_2026",
+  "worst_over_band": 3.139839476998437,
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "calibrators as uniform discs of the listed diameters and no precession",
+  "values": {
+   "separation_mas_2024": 146.2088296223002,
+   "position_angle_deg_2024": 214.6956398385654,
+   "separation_mas_2025": 144.5201946014558,
+   "position_angle_deg_2025": 217.12899461348312,
+   "separation_mas_2026": 142.82995308809924,
+   "position_angle_deg_2026": 219.4515893456157,
+   "diameter_mas": 1.0522548041183502,
+   "flux_ratio_percent": 4.249705912138907
+  },
+  "errors": {
+   "diameter_mas": 0.8196612166666783,
+   "flux_ratio_percent": 0.4658608070663428,
+   "position_angle_deg_2024": -0.1743601614346062,
+   "position_angle_deg_2025": -0.1810053865168868,
+   "position_angle_deg_2026": -0.18841065438428473,
+   "separation_mas_2024": -0.0008004771902214713,
+   "separation_mas_2025": 0.00013465365056308798,
+   "separation_mas_2026": -3.284457100738436e-05
+  },
+  "worst": "position_angle_deg_2026",
+  "worst_over_band": 3.140177573071412,
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "both calibrators used, interpolated between the two of each target observation (B carries over-resolved flux)",
+  "values": {
+   "separation_mas_2024": 146.2093388926805,
+   "position_angle_deg_2024": 214.86947193840325,
+   "separation_mas_2025": 144.52186195901263,
+   "position_angle_deg_2025": 217.31054821497474,
+   "separation_mas_2026": 142.82879870667276,
+   "position_angle_deg_2026": 219.64005826977885,
+   "diameter_mas": 1.038981579408528,
+   "flux_ratio_percent": 3.722648154459342
+  },
+  "errors": {
+   "diameter_mas": -0.45208590509457913,
+   "flux_ratio_percent": -11.994133464318157,
+   "position_angle_deg_2024": -0.0005280615967535596,
+   "position_angle_deg_2025": 0.0005482149747422227,
+   "position_angle_deg_2026": 5.826977886158602e-05,
+   "separation_mas_2024": -0.000452162861297456,
+   "separation_mas_2025": 0.0012883746281611153,
+   "separation_mas_2026": -0.0008410651314516571
+  },
+  "worst": "flux_ratio_percent",
+  "worst_over_band": 19.990222440530264,
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "nominal channel wavelengths (wavecal.csv not used)",
+  "values": {
+   "separation_mas_2024": 145.74234787136643,
+   "position_angle_deg_2024": 214.8696894153642,
+   "separation_mas_2025": 144.83876073731878,
+   "position_angle_deg_2025": 217.3101753062799,
+   "separation_mas_2026": 142.92405690065715,
+   "position_angle_deg_2026": 219.63431737120519,
+   "diameter_mas": 1.0438258672595095,
+   "flux_ratio_percent": 4.115548387387226
+  },
+  "errors": {
+   "diameter_mas": 0.012059716346590754,
+   "flux_ratio_percent": -2.7057118820986936,
+   "position_angle_deg_2024": -0.00031058463579825,
+   "position_angle_deg_2025": 0.00017530627988548986,
+   "position_angle_deg_2026": -0.005682628794801303,
+   "separation_mas_2024": -0.3198496194744327,
+   "separation_mas_2025": 0.220565137917772,
+   "separation_mas_2026": 0.06585234240505944
+  },
+  "worst": "separation_mas_2024",
+  "worst_over_band": 6.396992389488654,
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "the first wavelength scan for the whole night (the prism re-set after observation 4 missed)",
+  "values": {
+   "separation_mas_2024": 146.20913908342544,
+   "position_angle_deg_2024": 214.86968784246935,
+   "separation_mas_2025": 144.52030537874498,
+   "position_angle_deg_2025": 217.3101764452665,
+   "separation_mas_2026": 143.56696228014312,
+   "position_angle_deg_2026": 219.63430409852174,
+   "diameter_mas": 1.045031907854064,
+   "flux_ratio_percent": 4.111053802851264
+  },
+  "errors": {
+   "diameter_mas": 0.12761405136187953,
+   "flux_ratio_percent": -2.8119668356675342,
+   "position_angle_deg_2024": -0.0003121575306579416,
+   "position_angle_deg_2025": 0.00017644526650428816,
+   "position_angle_deg_2026": -0.0056959014782478334,
+   "separation_mas_2024": -0.0005888219510086223,
+   "separation_mas_2025": 0.0002113055251662388,
+   "separation_mas_2026": 0.5159716307099993
+  },
+  "worst": "separation_mas_2026",
+  "worst_over_band": 10.319432614199986,
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "the mean of the two wavelength scans for the whole night",
+  "values": {
+   "separation_mas_2024": 146.20913908342544,
+   "position_angle_deg_2024": 214.86968784246935,
+   "separation_mas_2025": 144.52030537874498,
+   "position_angle_deg_2025": 217.3101764452665,
+   "separation_mas_2026": 143.1740632036166,
+   "position_angle_deg_2026": 219.63431199710794,
+   "diameter_mas": 1.0443859749689126,
+   "flux_ratio_percent": 4.113429250710319
+  },
+  "errors": {
+   "diameter_mas": 0.06572530122761489,
+   "flux_ratio_percent": -2.755809675878984,
+   "position_angle_deg_2024": -0.0003121575306579416,
+   "position_angle_deg_2025": 0.00017644526650428816,
+   "position_angle_deg_2026": -0.005688002892043187,
+   "separation_mas_2024": -0.0005888219510086223,
+   "separation_mas_2025": 0.0002113055251662388,
+   "separation_mas_2026": 0.24089001163383195
+  },
+  "worst": "separation_mas_2026",
+  "worst_over_band": 4.817800232676639,
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "calibrator A alone on every night (whichever calibrator is the faulty one)",
+  "values": {
+   "separation_mas_2024": 146.20913908342544,
+   "position_angle_deg_2024": 214.86968784246935,
+   "separation_mas_2025": 146.76860830863998,
+   "position_angle_deg_2025": 219.6617252744566,
+   "separation_mas_2026": 142.82974914377866,
+   "position_angle_deg_2026": 219.63991458141624,
+   "diameter_mas": 1.0417163435658983,
+   "flux_ratio_percent": 2.95586312708861
+  },
+  "errors": {
+   "diameter_mas": -0.19006002051372706,
+   "flux_ratio_percent": -30.121439075919387,
+   "position_angle_deg_2024": -0.0003121575306579416,
+   "position_angle_deg_2025": 2.3517252744565837,
+   "position_angle_deg_2026": -8.541858375110678e-05,
+   "separation_mas_2024": -0.0005888219510086223,
+   "separation_mas_2025": 1.5559149658455285,
+   "separation_mas_2026": -0.00017563272516341044
+  },
+  "worst": "flux_ratio_percent",
+  "worst_over_band": 50.20239845986565,
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "nominal channel wavelengths and both calibrators interpolated",
+  "values": {
+   "separation_mas_2024": 145.7425568880077,
+   "position_angle_deg_2024": 214.8694738965793,
+   "separation_mas_2025": 144.84032734802918,
+   "position_angle_deg_2025": 217.31055026206963,
+   "separation_mas_2026": 142.92570624556527,
+   "position_angle_deg_2026": 219.63496925397214,
+   "diameter_mas": 1.0390259880840225,
+   "flux_ratio_percent": 3.61209455945686
+  },
+  "errors": {
+   "diameter_mas": -0.4478309778650602,
+   "flux_ratio_percent": -14.607693629861473,
+   "position_angle_deg_2024": -0.0005261034206966997,
+   "position_angle_deg_2025": 0.0005502620696233862,
+   "position_angle_deg_2026": -0.005030746027841815,
+   "separation_mas_2024": -0.3197066630136858,
+   "separation_mas_2025": 0.22164914754301268,
+   "separation_mas_2026": 0.0670071032452979
+  },
+  "worst": "flux_ratio_percent",
+  "worst_over_band": 24.34615604976912,
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "both calibrators used, straight lines in time through A and B",
+  "values": {
+   "separation_mas_2024": 146.2095309801135,
+   "position_angle_deg_2024": 214.86967849143278,
+   "separation_mas_2025": 144.51623486030286,
+   "position_angle_deg_2025": 217.30969601655138,
+   "separation_mas_2026": 142.8287698599753,
+   "position_angle_deg_2026": 219.63999308987016,
+   "diameter_mas": 1.0383413286267753,
+   "flux_ratio_percent": 3.712414182751674
+  },
+  "errors": {
+   "diameter_mas": -0.5134302360088827,
+   "flux_ratio_percent": -12.236071329747666,
+   "position_angle_deg_2024": -0.00032150856722523713,
+   "position_angle_deg_2025": -0.00030398344861737314,
+   "position_angle_deg_2026": -6.910129826565026e-06,
+   "separation_mas_2024": -0.00032078509438759895,
+   "separation_mas_2025": -0.002605272417066651,
+   "separation_mas_2026": -0.0008612616570147225
+  },
+  "worst": "flux_ratio_percent",
+  "worst_over_band": 20.39345221624611,
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "fibre coupling at 1.65 um for every channel",
+  "values": {
+   "separation_mas_2024": 146.20864505577944,
+   "position_angle_deg_2024": 214.86963041014292,
+   "separation_mas_2025": 144.51977894012515,
+   "position_angle_deg_2025": 217.31026674478403,
+   "separation_mas_2026": 142.8291473856538,
+   "position_angle_deg_2026": 219.64012826791136,
+   "diameter_mas": 1.043589134244363,
+   "flux_ratio_percent": 4.244524856422809
+  },
+  "errors": {
+   "diameter_mas": -0.010622377659963433,
+   "flux_ratio_percent": 0.3433772203973673,
+   "position_angle_deg_2024": -0.0003695898570867939,
+   "position_angle_deg_2025": 0.00026674478402810564,
+   "position_angle_deg_2026": 0.00012826791137854343,
+   "separation_mas_2024": -0.0009267110461452788,
+   "separation_mas_2025": -0.00015296144122434185,
+   "separation_mas_2026": -0.0005969434615948899
+  },
+  "worst": "flux_ratio_percent",
+  "worst_over_band": 0.5722953673289455,
+  "inside": true
+ },
+ {
+  "label": "ALT",
+  "route": "baseline at rest during an observation (no average over time)",
+  "values": {
+   "separation_mas_2024": 146.21069706752195,
+   "position_angle_deg_2024": 214.86848199909423,
+   "separation_mas_2025": 144.52280875850272,
+   "position_angle_deg_2025": 217.31112307554756,
+   "separation_mas_2026": 142.83044657038405,
+   "position_angle_deg_2026": 219.63992642052634,
+   "diameter_mas": 1.0482616481730744,
+   "flux_ratio_percent": 2.91411343658082
+  },
+  "errors": {
+   "diameter_mas": 0.4370650735914916,
+   "flux_ratio_percent": -31.10842939525249,
+   "position_angle_deg_2024": -0.001518000905775807,
+   "position_angle_deg_2025": 0.0011230755475537535,
+   "position_angle_deg_2026": -7.357947364994288e-05,
+   "separation_mas_2024": 0.00047675776071454123,
+   "separation_mas_2025": 0.0019435085128138851,
+   "separation_mas_2026": 0.00031265867397323177
+  },
+  "worst": "flux_ratio_percent",
+  "worst_over_band": 51.84738232542082,
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "baseline at rest and refraction left out",
+  "values": {
+   "separation_mas_2024": 146.21086472357047,
+   "position_angle_deg_2024": 214.8683869906121,
+   "separation_mas_2025": 144.52267467986337,
+   "position_angle_deg_2025": 217.31118055598594,
+   "separation_mas_2026": 142.82965240501306,
+   "position_angle_deg_2026": 219.63991966325995,
+   "diameter_mas": 1.0482722052350146,
+   "flux_ratio_percent": 2.816475281031827
+  },
+  "errors": {
+   "diameter_mas": 0.43807657708292425,
+   "flux_ratio_percent": -33.41666002288826,
+   "position_angle_deg_2024": -0.0016130093879098695,
+   "position_angle_deg_2025": 0.0011805559859396908,
+   "position_angle_deg_2026": -8.033674004082059e-05,
+   "separation_mas_2024": 0.0005914257372729992,
+   "separation_mas_2025": 0.0018507333679584903,
+   "separation_mas_2026": -0.00024336272977931728
+  },
+  "worst": "flux_ratio_percent",
+  "worst_over_band": 55.694433371480436,
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "one wavenumber per channel (no sum over the channel)",
+  "values": {
+   "separation_mas_2024": 144.33138560479654,
+   "position_angle_deg_2024": 212.50573328536473,
+   "separation_mas_2025": 147.2988008395467,
+   "position_angle_deg_2025": 219.46693944155186,
+   "separation_mas_2026": 140.5410766838777,
+   "position_angle_deg_2026": 217.29012217205377,
+   "diameter_mas": 1.0572245145301773,
+   "flux_ratio_percent": 0.47136849013160687
+  },
+  "errors": {
+   "diameter_mas": 1.2958239465533428,
+   "flux_ratio_percent": -88.85653687632136,
+   "position_angle_deg_2024": -2.364266714635278,
+   "position_angle_deg_2025": 2.156939441551856,
+   "position_angle_deg_2026": -2.349877827946216,
+   "separation_mas_2024": -1.2848740819393134,
+   "separation_mas_2025": 1.9227794350585858,
+   "separation_mas_2026": -1.6025508059387517
+  },
+  "worst": "flux_ratio_percent",
+  "worst_over_band": 148.09422812720226,
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "fibre coupling left out (flux ratio of the light in the fibres)",
+  "values": {
+   "separation_mas_2024": 146.20887841537566,
+   "position_angle_deg_2024": 214.8696815694487,
+   "separation_mas_2025": 144.51958720756497,
+   "position_angle_deg_2025": 217.31028055822497,
+   "separation_mas_2026": 142.82875107863137,
+   "position_angle_deg_2026": 219.6402497090949,
+   "diameter_mas": 1.0435605019469911,
+   "flux_ratio_percent": 2.867920169560018
+  },
+  "errors": {
+   "diameter_mas": -0.013365723197178436,
+   "flux_ratio_percent": -32.20046880472772,
+   "position_angle_deg_2024": -0.0003184305513173058,
+   "position_angle_deg_2025": 0.0002805582249720828,
+   "position_angle_deg_2026": 0.00024970909490207305,
+   "separation_mas_2024": -0.0007671052762114883,
+   "separation_mas_2025": -0.0002856299716635924,
+   "separation_mas_2026": -0.0008744110961522722
+  },
+  "worst": "flux_ratio_percent",
+  "worst_over_band": 53.667448007879536,
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "fibre coupling as a Gaussian of FWHM lambda / D",
+  "values": {
+   "separation_mas_2024": 146.2092590548043,
+   "position_angle_deg_2024": 214.86969064902948,
+   "separation_mas_2025": 144.5205315953926,
+   "position_angle_deg_2025": 217.31014249673902,
+   "separation_mas_2026": 142.8300267235242,
+   "position_angle_deg_2026": 219.6397957617701,
+   "diameter_mas": 1.043775232512801,
+   "flux_ratio_percent": 4.868366263658364
+  },
+  "errors": {
+   "diameter_mas": 0.007208250723467202,
+   "flux_ratio_percent": 15.091401032112595,
+   "position_angle_deg_2024": -0.0003093509705252018,
+   "position_angle_deg_2025": 0.0001424967390164511,
+   "position_angle_deg_2026": -0.00020423822988391294,
+   "separation_mas_2024": -0.0005067677968040307,
+   "separation_mas_2025": 0.0003678351734093255,
+   "separation_mas_2026": 1.871002184294923e-05
+  },
+  "worst": "flux_ratio_percent",
+  "worst_over_band": 25.152335053520993,
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "fibre coupling as the Airy pattern of the aperture",
+  "values": {
+   "separation_mas_2024": 146.2092162196344,
+   "position_angle_deg_2024": 214.86969114839818,
+   "separation_mas_2025": 144.5205008444794,
+   "position_angle_deg_2025": 217.31014929621668,
+   "separation_mas_2026": 142.83001663807846,
+   "position_angle_deg_2026": 219.63981018067062,
+   "diameter_mas": 1.0437737252948114,
+   "flux_ratio_percent": 4.699598767242144
+  },
+  "errors": {
+   "diameter_mas": 0.007063839686827222,
+   "flux_ratio_percent": 11.101625703123963,
+   "position_angle_deg_2024": -0.000308851601829474,
+   "position_angle_deg_2025": 0.00014929621667647552,
+   "position_angle_deg_2026": -0.00018981932936412704,
+   "separation_mas_2024": -0.0005360648147156866,
+   "separation_mas_2025": 0.00034655720964060777,
+   "separation_mas_2026": 1.1648868203373297e-05
+  },
+  "worst": "flux_ratio_percent",
+  "worst_over_band": 18.502709505206607,
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "fibre coupling as the far field of the mode, aperture edge ignored",
+  "values": {
+   "separation_mas_2024": 146.20945167732756,
+   "position_angle_deg_2024": 214.86969760614443,
+   "separation_mas_2025": 144.5208775258639,
+   "position_angle_deg_2025": 217.3100945723562,
+   "separation_mas_2026": 142.83045952294813,
+   "position_angle_deg_2026": 219.63960276589899,
+   "diameter_mas": 1.0439463703937768,
+   "flux_ratio_percent": 6.0235832080188105
+  },
+  "errors": {
+   "diameter_mas": 0.023605479905786098,
+   "flux_ratio_percent": 42.401494279404496,
+   "position_angle_deg_2024": -0.00030239385557706555,
+   "position_angle_deg_2025": 9.457235620402571e-05,
+   "position_angle_deg_2026": -0.00039723410100123147,
+   "separation_mas_2024": -0.000375024056109563,
+   "separation_mas_2025": 0.0006072002933121823,
+   "separation_mas_2026": 0.00032172719184320187
+  },
+  "worst": "flux_ratio_percent",
+  "worst_over_band": 70.66915713234083,
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "fibre coupling of the amplitude taken for that of the light (square root)",
+  "values": {
+   "separation_mas_2024": 146.2090027595503,
+   "position_angle_deg_2024": 214.8696839940776,
+   "separation_mas_2025": 144.51995884409163,
+   "position_angle_deg_2025": 217.31022674424628,
+   "separation_mas_2026": 142.82927914762388,
+   "position_angle_deg_2026": 219.6400855348674,
+   "diameter_mas": 1.0436054488683986,
+   "flux_ratio_percent": 3.4889409011757837
+  },
+  "errors": {
+   "diameter_mas": -0.009059225026497586,
+   "flux_ratio_percent": -17.519127631778176,
+   "position_angle_deg_2024": -0.00031600592240010883,
+   "position_angle_deg_2025": 0.00022674424627666667,
+   "position_angle_deg_2026": 8.553486742357563e-05,
+   "separation_mas_2024": -0.0006820603581925155,
+   "separation_mas_2025": -2.8477655944492142e-05,
+   "separation_mas_2026": -0.0005046925548812808
+  },
+  "worst": "flux_ratio_percent",
+  "worst_over_band": 29.19854605296363,
+  "inside": false
+ },
+ {
+  "label": "ALT",
+  "route": "companion left where it was in 2012 (J2000 angle), with its 2012 brightness; diameter from a disc alone",
+  "values": {
+   "separation_mas_2024": 150.0,
+   "position_angle_deg_2024": 210.99999999999997,
+   "separation_mas_2025": 150.0,
+   "position_angle_deg_2025": 210.99999999999997,
+   "separation_mas_2026": 150.0,
+   "position_angle_deg_2026": 210.99999999999997,
+   "diameter_mas": 1.059072674238119,
+   "flux_ratio_percent": 3.6307805477010118
+  },
+  "errors": {
+   "diameter_mas": 1.4729016228915315,
+   "flux_ratio_percent": -14.165944498794058,
+   "position_angle_deg_2024": -3.870000000000033,
+   "position_angle_deg_2025": -6.310000000000031,
+   "position_angle_deg_2026": -8.640000000000015,
+   "separation_mas_2024": 2.5921619588263445,
+   "separation_mas_2025": 3.7918627179629016,
+   "separation_mas_2026": 5.019953791220333
+  },
+  "worst": "position_angle_deg_2026",
+  "worst_over_band": 144.00000000000026,
+  "inside": false
+ }
+]

@@ -1,0 +1,89 @@
+{
+  "works": "Helwan transformer works",
+  "serial": "T-22-4471",
+  "rated_power_MVA": 40,
+  "rated_voltage_kV": {
+    "HV": 132,
+    "LV": 11.5
+  },
+  "rated_current_HV_A": 174.95,
+  "cooling": "ONAN",
+  "cooler_fans": null,
+  "windings": {
+    "HV": {
+      "conductor": "copper"
+    },
+    "LV": {
+      "conductor": "copper"
+    }
+  },
+  "guaranteed_losses_kW": {
+    "no_load": 27.9,
+    "load_at_75C": 184.7,
+    "total": 212.6
+  },
+  "sensors": [
+    {
+      "id": "TOT-1",
+      "measures": "top oil",
+      "where": "oil-filled pocket in the tank cover, phase U side",
+      "grade": "test",
+      "certificate_correction_K": -0.05
+    },
+    {
+      "id": "TOT-2",
+      "measures": "top oil",
+      "where": "oil-filled pocket in the tank cover, phase W side",
+      "grade": "test",
+      "certificate_correction_K": 0.03
+    },
+    {
+      "id": "BOT",
+      "measures": "bottom oil",
+      "where": "pocket in the cooler return header at the tank inlet",
+      "grade": "test",
+      "certificate_correction_K": -0.06
+    },
+    {
+      "id": "TCI",
+      "measures": "cooler inlet oil",
+      "where": "contact thermocouple under insulation on the cooler inlet header pipe",
+      "grade": "check"
+    },
+    {
+      "id": "OTI",
+      "measures": "top oil",
+      "where": "transformer's own oil temperature indicator, dial",
+      "grade": "station",
+      "accuracy_K": 2.0
+    },
+    {
+      "id": "AMB-1",
+      "measures": "ambient air",
+      "where": "oil cup, north side, 1.5 m from the tank, half height of the radiators",
+      "grade": "test",
+      "certificate_correction_K": 0.01
+    },
+    {
+      "id": "AMB-2",
+      "measures": "ambient air",
+      "where": "oil cup, west side, 2 m from the radiators, half height",
+      "grade": "test",
+      "certificate_correction_K": -0.06
+    },
+    {
+      "id": "AMB-3",
+      "measures": "ambient air",
+      "where": "oil cup, south side, 1.5 m from the tank, half height",
+      "grade": "test",
+      "certificate_correction_K": -0.07
+    },
+    {
+      "id": "WX",
+      "measures": "ambient air",
+      "where": "test bay weather station, 10 m from the transformer, screened",
+      "grade": "station",
+      "accuracy_K": 0.5
+    }
+  ]
+}

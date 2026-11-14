@@ -1,0 +1,11 @@
+Temperature-rise test, short-circuit method - T-24-0388, Helwan transformer works
+
+Cold resistance at 05:40, transformer de-energized since the previous afternoon:
+  top oil (TOT-1) reads 26.36 C, bottom oil (BOT) reads 25.64 C
+  HV (line-to-line, H1-H2) 912.550 mOhm, LV (line-to-line, X1-X2) 61.2840 mOhm
+
+06:55  supply on; total losses injected (start with about 1.3 times the losses to shorten heating).
+17:25  end of total-loss period; current reduced to the test current for the winding gradient.
+18:25:50  supply off; resistance meter connected to HV H1-H2 and LV X1-X2.
+
+Test current in the last hour: 0.990 of rated HV current.

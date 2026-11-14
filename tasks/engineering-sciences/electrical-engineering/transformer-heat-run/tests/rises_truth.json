@@ -1,0 +1,30 @@
+{
+ "source": "inputs of authoring/thermal/write_tests.py (rated-condition rises, K)",
+ "tests": {
+  "h1": {
+   "top_oil_rise_K": 47.52,
+   "hv_winding_rise_K": 58.46,
+   "lv_winding_rise_K": 55.53
+  },
+  "h2": {
+   "top_oil_rise_K": 52.46,
+   "hv_winding_rise_K": 58.55,
+   "lv_winding_rise_K": 56.43
+  },
+  "h3": {
+   "top_oil_rise_K": 49.43,
+   "hv_winding_rise_K": 63.475,
+   "lv_winding_rise_K": 60.545
+  },
+  "h4": {
+   "top_oil_rise_K": 50.54,
+   "hv_winding_rise_K": 62.465,
+   "lv_winding_rise_K": 59.575
+  },
+  "h5": {
+   "top_oil_rise_K": 41.48,
+   "hv_winding_rise_K": 60.535,
+   "lv_winding_rise_K": 57.365
+  }
+ }
+}

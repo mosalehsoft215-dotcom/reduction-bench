@@ -1,0 +1,7 @@
+{
+ "coupon": "C-51",
+ "film": "Co40Fe40B20 15 nm / Ta 5 nm / SiO2",
+ "mount_normal": "goniometer set to 0.0 deg (field along the film normal)",
+ "mount_in_plane": "field in the film plane, along the waveguide",
+ "session_minutes": 95.3
+}

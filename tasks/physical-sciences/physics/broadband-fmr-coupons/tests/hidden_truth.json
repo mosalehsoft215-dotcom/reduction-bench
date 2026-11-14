@@ -1,0 +1,27 @@
+{
+ "C-51": {
+  "damping_alpha": 0.00468,
+  "spectroscopic_g": 2.0823,
+  "mu0_meff_T": 1.4612
+ },
+ "C-52": {
+  "damping_alpha": 0.00831,
+  "spectroscopic_g": 2.0981,
+  "mu0_meff_T": 0.9318
+ },
+ "C-53": {
+  "damping_alpha": 0.00066,
+  "spectroscopic_g": 2.0062,
+  "mu0_meff_T": 0.1764
+ },
+ "C-54": {
+  "damping_alpha": 0.01083,
+  "spectroscopic_g": 2.0897,
+  "mu0_meff_T": 1.2087
+ },
+ "C-55": {
+  "damping_alpha": 0.00334,
+  "spectroscopic_g": 2.0514,
+  "mu0_meff_T": 1.0436
+ }
+}

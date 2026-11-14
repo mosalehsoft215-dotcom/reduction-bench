@@ -1,0 +1,12 @@
+{
+ "C-07": {
+  "damping_alpha": 0.00742,
+  "spectroscopic_g": 2.1052,
+  "mu0_meff_T": 0.9853
+ },
+ "C-12": {
+  "damping_alpha": 0.00518,
+  "spectroscopic_g": 2.0768,
+  "mu0_meff_T": 1.1235
+ }
+}

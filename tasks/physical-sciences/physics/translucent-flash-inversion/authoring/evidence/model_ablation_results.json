@@ -1,0 +1,159 @@
+{
+  "calibration_tau": {
+    "alpha_mm2_s": 0.6599036722905209,
+    "loss_s_inv": 0.10618981256646905,
+    "detector_tau_s": 0.019508626248136086,
+    "normalized_rms": 4.534103424331066,
+    "description": "rear tau taken from the 1e5 V/A step record",
+    "failed_gates": [
+      "alpha_mm2_s",
+      "loss_s_inv",
+      "detector_tau_s"
+    ]
+  },
+  "no_back_reflected_flash_beam": {
+    "alpha_mm2_s": 0.7428304632108612,
+    "loss_s_inv": 0.10487753073738997,
+    "detector_tau_s": 0.029645537661978142,
+    "normalized_rms": 1.1369416962951557,
+    "description": "flash beam reflected at the rear face left out of the heat source",
+    "failed_gates": [
+      "alpha_mm2_s",
+      "detector_tau_s"
+    ]
+  },
+  "lumped_face_terms": {
+    "alpha_mm2_s": 0.6877006824008706,
+    "loss_s_inv": 0.10413791369182605,
+    "detector_tau_s": 0.03148809926563376,
+    "normalized_rms": 1.2322622299332218,
+    "description": "coating heat capacity and face exchange treated as volumetric terms",
+    "failed_gates": [
+      "alpha_mm2_s",
+      "loss_s_inv"
+    ]
+  },
+  "mask_mean_instead_of_integral": {
+    "alpha_mm2_s": 0.5293992292744107,
+    "loss_s_inv": 0.1205393569251568,
+    "detector_tau_s": 0.029268915827167383,
+    "normalized_rms": 57.24720472457433,
+    "description": "detectors modelled as the mask mean instead of the aperture integral",
+    "failed_gates": [
+      "alpha_mm2_s",
+      "loss_s_inv",
+      "detector_tau_s"
+    ]
+  },
+  "self_heating_also_in_plane": {
+    "alpha_mm2_s": 0.8579019823119494,
+    "loss_s_inv": 0.10230346966699563,
+    "detector_tau_s": 0.03140717399892108,
+    "normalized_rms": 1.4254833363242136,
+    "description": "self-heating applied to the in-plane diffusivity too",
+    "failed_gates": [
+      "alpha_mm2_s",
+      "loss_s_inv"
+    ]
+  },
+  "v2_cosine_series_model": {
+    "alpha_mm2_s": 0.6877764046697628,
+    "loss_s_inv": 0.10298559215767042,
+    "detector_tau_s": 0.03147015678140533,
+    "normalized_rms": 1.6719045230290233,
+    "description": "v2 forward model: 11 cosine modes in z, unit-normalised source and detection, face terms in the volume",
+    "failed_gates": [
+      "alpha_mm2_s",
+      "loss_s_inv"
+    ]
+  },
+  "unit_normalised_source_and_detection": {
+    "alpha_mm2_s": 0.7083926337190797,
+    "loss_s_inv": 0.10388563276718853,
+    "detector_tau_s": 0.030995691244578384,
+    "normalized_rms": 1.3850664478974934,
+    "description": "source and detection profiles normalised to unit integral",
+    "failed_gates": [
+      "loss_s_inv"
+    ]
+  },
+  "self_heating_from_one_minus_T": {
+    "alpha_mm2_s": 0.6926005931411574,
+    "loss_s_inv": 0.10848366152198594,
+    "detector_tau_s": 0.03116007872063714,
+    "normalized_rms": 1.1654745049427673,
+    "description": "self-heating driven by drive_level x (1 - transmission)",
+    "failed_gates": [
+      "alpha_mm2_s",
+      "loss_s_inv"
+    ]
+  },
+  "omit_optical_pickup": {
+    "alpha_mm2_s": 0.7002448888199443,
+    "loss_s_inv": 0.10453670330343706,
+    "detector_tau_s": 0.029484054349312686,
+    "normalized_rms": 4.714977467602113,
+    "description": "no prompt optical pickup",
+    "failed_gates": [
+      "detector_tau_s"
+    ]
+  },
+  "omit_coating_heat_capacity": {
+    "alpha_mm2_s": 0.7071704129188301,
+    "loss_s_inv": 0.1093492670514181,
+    "detector_tau_s": 0.04799102819167136,
+    "normalized_rms": 17.619118903339366,
+    "description": "no coating heat capacity",
+    "failed_gates": [
+      "loss_s_inv",
+      "detector_tau_s"
+    ]
+  },
+  "omit_surface_heat_transfer": {
+    "alpha_mm2_s": 0.43764592128946594,
+    "loss_s_inv": 0.15265927603739962,
+    "detector_tau_s": 0.029508681014312862,
+    "normalized_rms": 7.04934608143777,
+    "description": "no face heat exchange",
+    "failed_gates": [
+      "alpha_mm2_s",
+      "loss_s_inv",
+      "detector_tau_s"
+    ]
+  },
+  "ignore_drive_dependence": {
+    "alpha_mm2_s": 0.8793391407676017,
+    "loss_s_inv": 0.14473203700945106,
+    "detector_tau_s": 0.03164333951989088,
+    "normalized_rms": 8.996904243471196,
+    "description": "no drive dependence",
+    "failed_gates": [
+      "alpha_mm2_s",
+      "loss_s_inv"
+    ]
+  },
+  "force_common_session_angle": {
+    "alpha_mm2_s": 0.6475782444526398,
+    "loss_s_inv": 0.11184126512358439,
+    "detector_tau_s": 0.04276546884319613,
+    "normalized_rms": 85.92794069959017,
+    "description": "one common angular registration",
+    "failed_gates": [
+      "alpha_mm2_s",
+      "loss_s_inv",
+      "detector_tau_s"
+    ]
+  },
+  "assume_A_mapping_all_sessions": {
+    "alpha_mm2_s": 0.3000000000006175,
+    "loss_s_inv": 0.12679028093600048,
+    "detector_tau_s": 0.06441599962606641,
+    "normalized_rms": 232.96730821692847,
+    "description": "session-A cable mapping in all sessions",
+    "failed_gates": [
+      "alpha_mm2_s",
+      "loss_s_inv",
+      "detector_tau_s"
+    ]
+  }
+}

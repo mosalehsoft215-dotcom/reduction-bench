@@ -1,0 +1,8 @@
+{
+  "axial_closed_form_vs_finite_volume_max_relative_difference": 3.9864215082203213e-07,
+  "in_plane_max_deviation_in_sigma_vs_M32_P32": {
+    "generator_M24_P24": 0.0005441277712893765,
+    "reference_M16_P16": 0.11243707692914216,
+    "coarse_M8_P8": 15.388793336883579
+  }
+}

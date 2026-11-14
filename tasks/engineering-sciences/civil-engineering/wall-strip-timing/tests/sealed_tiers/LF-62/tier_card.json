@@ -1,0 +1,9 @@
+{
+ "tier": "LF-62",
+ "element": "core wall lift",
+ "mix": "C-13",
+ "cast_at": "2026-10-23 13:15",
+ "release_at": "2026-10-24 11:15",
+ "fresh_concrete_C": 38.9,
+ "logger_interval_min": 15
+}

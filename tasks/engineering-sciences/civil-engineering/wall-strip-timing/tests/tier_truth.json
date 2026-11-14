@@ -1,0 +1,22 @@
+{
+ "LF-61": {
+  "hours_to_ten_mpa": 34.42,
+  "strip_strength_mpa": 16.11
+ },
+ "LF-62": {
+  "hours_to_ten_mpa": 16.46,
+  "strip_strength_mpa": 12.71
+ },
+ "LF-63": {
+  "hours_to_ten_mpa": 51.93,
+  "strip_strength_mpa": 10.83
+ },
+ "LF-64": {
+  "hours_to_ten_mpa": 7.88,
+  "strip_strength_mpa": 23.84
+ },
+ "LF-65": {
+  "hours_to_ten_mpa": 11.48,
+  "strip_strength_mpa": 20.05
+ }
+}
